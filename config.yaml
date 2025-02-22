@@ -24,7 +24,7 @@ md_readme_path: 'README.md'
 keywords:
     "Planning & Control":
         filters: ["Motion Planning", "Path Planning", "Trajectory Planning",
-                 "Decision Making", "Vehicle Control"]
+                 "Vehicle Control"]
     "End-to-end Driving":
         filters: ["End-to-end Autonomous Driving"]
     "Prediction":
