@@ -1,4 +1,4 @@
-## Updated on 2025.02.22
+## Updated on 2025.02.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -31,15 +31,29 @@
 |**2025-02-20**|**Beyond Self-Talk: A Communication-Centric Survey of LLM-Based Multi-Agent Systems**|Bingyu Yan et.al.|[2502.14321](http://arxiv.org/abs/2502.14321)|null|
 |**2025-02-20**|**The Impact and Feasibility of Self-Confidence Shaping for AI-Assisted Decision-Making**|Takehiro Takayanagi et.al.|[2502.14311](http://arxiv.org/abs/2502.14311)|null|
 |**2025-02-20**|**MedHallu: A Comprehensive Benchmark for Detecting Medical Hallucinations in Large Language Models**|Shrey Pandit et.al.|[2502.14302](http://arxiv.org/abs/2502.14302)|null|
+|**2025-02-19**|**An Online Optimization-Based Trajectory Planning Approach for Cooperative Landing Tasks**|Jingshan Chen et.al.|[2502.13823](http://arxiv.org/abs/2502.13823)|null|
+|**2025-02-18**|**BoundPlanner: A convex-set-based approach to bounded manipulator trajectory planning**|Thies Oelerich et.al.|[2502.13286](http://arxiv.org/abs/2502.13286)|**[link](https://github.com/thieso/boundplanner)**|
+|**2025-02-18**|**Towards Robust and Secure Embodied AI: A Survey on Vulnerabilities and Attacks**|Wenpeng Xing et.al.|[2502.13175](http://arxiv.org/abs/2502.13175)|null|
+|**2025-02-14**|**Compositionally Grading Alloy Stacking Fault Energy using Autonomous Path Planning and Additive Manufacturing with Elemental Powders**|James Hanagan et.al.|[2502.13156](http://arxiv.org/abs/2502.13156)|null|
+|**2025-02-18**|**NTP-INT: Network Traffic Prediction-Driven In-band Network Telemetry for High-load Switches**|Penghui Zhang et.al.|[2502.12834](http://arxiv.org/abs/2502.12834)|null|
+|**2025-02-18**|**Introducing ROADS: A Systematic Comparison of Remote Control Interaction Concepts for Automated Vehicles at Road Works**|Mark Colley et.al.|[2502.12680](http://arxiv.org/abs/2502.12680)|**[link](https://github.com/M-Colley/roads-chi25-data)**|
+|**2025-02-17**|**A Framework for Learning Scoring Rules in Autonomous Driving Planning Systems**|Zikang Xiong et.al.|[2502.11352](http://arxiv.org/abs/2502.11352)|null|
+|**2025-02-18**|**Motion planning for highly-dynamic unconditioned reflexes based on chained Signed Distance Functions**|Ken Lin et.al.|[2502.10734](http://arxiv.org/abs/2502.10734)|null|
+|**2025-02-14**|**Structuring the Environment Nudges Participants Toward Hierarchical Over Shortest Path Planning**|Valeria Simonelli et.al.|[2502.10098](http://arxiv.org/abs/2502.10098)|null|
+|**2025-02-14**|**Manual2Skill: Learning to Read Manuals and Acquire Robotic Skills for Furniture Assembly Using Vision-Language Models**|Chenrui Tie et.al.|[2502.10090](http://arxiv.org/abs/2502.10090)|null|
+|**2025-02-14**|**Dream to Drive: Model-Based Vehicle Control Using Analytic World Models**|Asen Nachkov et.al.|[2502.10012](http://arxiv.org/abs/2502.10012)|null|
+|**2025-02-13**|**IMM-MOT: A Novel 3D Multi-object Tracking Framework with Interacting Multiple Model Filter**|Xiaohong Liu et.al.|[2502.09672](http://arxiv.org/abs/2502.09672)|null|
+|**2025-02-13**|**Real-Time Fast Marching Tree for Mobile Robot Motion Planning in Dynamic Environments**|Jefferson Silveira et.al.|[2502.09556](http://arxiv.org/abs/2502.09556)|null|
+|**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393](http://arxiv.org/abs/2502.09393)|null|
 
-<p align=right>(<a href=#updated-on-20250222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250223>back to top</a>)</p>
 
 ## Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-02-20**|**BP-SGCN: Behavioral Pseudo-Label Informed Sparse Graph Convolution Network for Pedestrian and Heterogeneous Trajectory Prediction**|Ruochen Li et.al.|[2502.14676](http://arxiv.org/abs/2502.14676)|null|
-|**2025-02-18**|**K-Paths: Reasoning over Graph Paths for Drug Repurposing and Drug Interaction Prediction**|Tassallah Abdullahi et.al.|[2502.13344](http://arxiv.org/abs/2502.13344)|null|
+|**2025-02-18**|**K-Paths: Reasoning over Graph Paths for Drug Repurposing and Drug Interaction Prediction**|Tassallah Abdullahi et.al.|[2502.13344](http://arxiv.org/abs/2502.13344)|**[link](https://github.com/rsinghlab/K-Paths)**|
 |**2025-02-16**|**DEEPER Insight into Your User: Directed Persona Refinement for Dynamic Persona Modeling**|Aili Chen et.al.|[2502.11078](http://arxiv.org/abs/2502.11078)|**[link](https://github.com/sheep333c/deeper)**|
 |**2025-02-14**|**Prediction uncertainty-aware planning using deep ensembles and trajectory optimisation**|Anshul Nayak et.al.|[2502.10585](http://arxiv.org/abs/2502.10585)|null|
 |**2025-02-13**|**Knowledge Integration Strategies in Autonomous Vehicle Prediction and Planning: A Comprehensive Survey**|Kumar Manas et.al.|[2502.10477](http://arxiv.org/abs/2502.10477)|null|
@@ -54,7 +68,7 @@
 |**2025-02-07**|**The $α$ -Alternator: Dynamic Adaptation To Varying Noise Levels In Sequences Using The Vendi Score For Improved Robustness and Performance**|Mohammad Reza Rezaei et.al.|[2502.04593](http://arxiv.org/abs/2502.04593)|null|
 |**2025-02-05**|**Predicting 3D Motion from 2D Video for Behavior-Based VR Biometrics**|Mingjun Li et.al.|[2502.04361](http://arxiv.org/abs/2502.04361)|null|
 
-<p align=right>(<a href=#updated-on-20250222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250223>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -76,7 +90,7 @@
 |**2025-02-19**|**MEX: Memory-efficient Approach to Referring Multi-Object Tracking**|Huu-Thien Tran et.al.|[2502.13875](http://arxiv.org/abs/2502.13875)|null|
 |**2025-02-19**|**The NavINST Dataset for Multi-Sensor Autonomous Navigation**|Paulo Ricardo Marques de Araujo et.al.|[2502.13863](http://arxiv.org/abs/2502.13863)|null|
 
-<p align=right>(<a href=#updated-on-20250222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250223>back to top</a>)</p>
 
 ## Simulation
 
@@ -98,7 +112,7 @@
 |**2025-01-27**|**LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models**|Yuewen Mei et.al.|[2501.15850](http://arxiv.org/abs/2501.15850)|null|
 |**2025-01-24**|**A Data-driven Dynamic Temporal Correlation Modeling Framework for Renewable Energy Scenario Generation**|Xiaochong Dong et.al.|[2501.14233](http://arxiv.org/abs/2501.14233)|null|
 
-<p align=right>(<a href=#updated-on-20250222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250223>back to top</a>)</p>
 
 ## Perception
 
@@ -120,7 +134,7 @@
 |**2024-12-03**|**Redundant Queries in DETR-Based 3D Detection Methods: Unnecessary and Prunable**|Lizhen Xu et.al.|[2412.02054](http://arxiv.org/abs/2412.02054)|null|
 |**2024-12-07**|**BEV-SUSHI: Multi-Target Multi-Camera 3D Detection and Tracking in Bird's-Eye View**|Yizhou Wang et.al.|[2412.00692](http://arxiv.org/abs/2412.00692)|null|
 
-<p align=right>(<a href=#updated-on-20250222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250223>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
