@@ -1,4 +1,4 @@
-## Updated on 2025.02.25
+## Updated on 2025.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**V-HOP: Visuo-Haptic 6D Object Pose Tracking**|Hongyu Li et.al.|[2502.17434](http://arxiv.org/abs/2502.17434)|null|
+|**2025-02-23**|**Path Planning using Instruction-Guided Probabilistic Roadmaps**|Jiaqi Bao et.al.|[2502.16515](http://arxiv.org/abs/2502.16515)|null|
+|**2025-02-21**|**Towards Autonomous Navigation of Neuroendovascular Tools for Timely Stroke Treatment via Contact-aware Path Planning**|Aabha Tamhankar et.al.|[2502.15971](http://arxiv.org/abs/2502.15971)|null|
+|**2025-02-21**|**IA-TIGRIS: An Incremental and Adaptive Sampling-Based Planner for Online Informative Path Planning**|Brady Moon et.al.|[2502.15961](http://arxiv.org/abs/2502.15961)|null|
+|**2025-02-20**|**Getting SMARTER for Motion Planning in Autonomous Driving Systems**|Montgomery Alban et.al.|[2502.15824](http://arxiv.org/abs/2502.15824)|**[link](https://github.com/huawei-noah/SMARTS)**|
 |**2025-02-21**|**Enhanced Probabilistic Collision Detection for Motion Planning Under Sensing Uncertainty**|Xiaoli Wang et.al.|[2502.15525](http://arxiv.org/abs/2502.15525)|null|
 |**2025-02-21**|**Towards a Reward-Free Reinforcement Learning Framework for Vehicle Control**|Jielong Yang et.al.|[2502.15262](http://arxiv.org/abs/2502.15262)|null|
 |**2025-02-20**|**DDAT: Diffusion Policies Enforcing Dynamically Admissible Robot Trajectories**|Jean-Baptiste Bouvier et.al.|[2502.15043](http://arxiv.org/abs/2502.15043)|null|
@@ -51,12 +56,16 @@
 |**2025-02-13**|**Real-Time Fast Marching Tree for Mobile Robot Motion Planning in Dynamic Environments**|Jefferson Silveira et.al.|[2502.09556](http://arxiv.org/abs/2502.09556)|null|
 |**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393](http://arxiv.org/abs/2502.09393)|null|
 
-<p align=right>(<a href=#updated-on-20250225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250226>back to top</a>)</p>
 
 ## Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**Characterizing Structured versus Unstructured Environments based on Pedestrians' and Vehicles' Motion Trajectories**|Mahsa Golchoubian et.al.|[2502.16847](http://arxiv.org/abs/2502.16847)|null|
+|**2025-02-23**|**Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving**|Xinyu Zhang et.al.|[2502.16589](http://arxiv.org/abs/2502.16589)|**[link](https://github.com/xiaomiaozhang/Co-MTP)**|
+|**2025-02-23**|**An Expert Ensemble for Detecting Anomalous Scenes, Interactions, and Behaviors in Autonomous Driving**|Tianchen Ji et.al.|[2502.16389](http://arxiv.org/abs/2502.16389)|null|
+|**2025-02-19**|**An explainable transformer circuit for compositional generalization**|Cheng Tang et.al.|[2502.15801](http://arxiv.org/abs/2502.15801)|null|
 |**2025-02-21**|**Drug-Target Interaction/Affinity Prediction: Deep Learning Models and Advances Review**|Ali Vefghi et.al.|[2502.15346](http://arxiv.org/abs/2502.15346)|null|
 |**2025-02-21**|**A Stacked Analysis of GeV Gamma-Ray Emission from SPT-SZ Galaxy Clusters with 16 Years of Fermi-LAT Data**|Siddhant Manna et.al.|[2502.15235](http://arxiv.org/abs/2502.15235)|null|
 |**2025-02-21**|**BP-SGCN: Behavioral Pseudo-Label Informed Sparse Graph Convolution Network for Pedestrian and Heterogeneous Trajectory Prediction**|Ruochen Li et.al.|[2502.14676](http://arxiv.org/abs/2502.14676)|**[link](https://github.com/carrotsniper/bp-sgcn)**|
@@ -75,14 +84,27 @@
 |**2025-02-07**|**The $α$ -Alternator: Dynamic Adaptation To Varying Noise Levels In Sequences Using The Vendi Score For Improved Robustness and Performance**|Mohammad Reza Rezaei et.al.|[2502.04593](http://arxiv.org/abs/2502.04593)|null|
 |**2025-02-05**|**Predicting 3D Motion from 2D Video for Behavior-Based VR Biometrics**|Mingjun Li et.al.|[2502.04361](http://arxiv.org/abs/2502.04361)|null|
 
-<p align=right>(<a href=#updated-on-20250225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250226>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**GaussianFlowOcc: Sparse and Weakly Supervised Occupancy Estimation using Gaussian Splatting and Temporal Flow**|Simon Boeder et.al.|[2502.17288](http://arxiv.org/abs/2502.17288)|null|
+|**2025-02-24**|**MambaFlow: A Novel and Flow-guided State Space Model for Scene Flow Estimation**|Jiehao Luo et.al.|[2502.16907](http://arxiv.org/abs/2502.16907)|**[link](https://github.com/scnu-rislab/mambaflow)**|
+|**2025-02-24**|**Leveraging Large Language Models for Effective and Explainable Multi-Agent Credit Assignment**|Kartik Nagpal et.al.|[2502.16863](http://arxiv.org/abs/2502.16863)|null|
+|**2025-02-24**|**Characterizing Structured versus Unstructured Environments based on Pedestrians' and Vehicles' Motion Trajectories**|Mahsa Golchoubian et.al.|[2502.16847](http://arxiv.org/abs/2502.16847)|null|
+|**2025-02-24**|**Multi-Agent Autonomous Driving Systems with Large Language Models: A Survey of Recent Advances**|Yaozu Wu et.al.|[2502.16804](http://arxiv.org/abs/2502.16804)|null|
+|**2025-02-25**|**AUKT: Adaptive Uncertainty-Guided Knowledge Transfer with Conformal Prediction**|Rui Liu et.al.|[2502.16736](http://arxiv.org/abs/2502.16736)|null|
+|**2025-02-23**|**Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving**|Xinyu Zhang et.al.|[2502.16589](http://arxiv.org/abs/2502.16589)|**[link](https://github.com/xiaomiaozhang/Co-MTP)**|
+|**2025-02-23**|**An Expert Ensemble for Detecting Anomalous Scenes, Interactions, and Behaviors in Autonomous Driving**|Tianchen Ji et.al.|[2502.16389](http://arxiv.org/abs/2502.16389)|null|
+|**2025-02-22**|**A Survey of Model Extraction Attacks and Defenses in Distributed Computing Environments**|Kaixiang Zhao et.al.|[2502.16065](http://arxiv.org/abs/2502.16065)|null|
+|**2025-02-22**|**A Multi-Scale Isolation Forest Approach for Real-Time Detection and Filtering of FGSM Adversarial Attacks in Video Streams of Autonomous Vehicles**|Richard Abhulimhen et.al.|[2502.16044](http://arxiv.org/abs/2502.16044)|null|
+|**2025-02-22**|**A Brain-Inspired Perception-Decision Driving Model Based on Neural Pathway Anatomical Alignment**|Haidong Wang et.al.|[2502.16027](http://arxiv.org/abs/2502.16027)|null|
+|**2025-02-22**|**Cross-Model Transferability of Adversarial Patches in Real-time Segmentation for Autonomous Driving**|Prashant Shekhar et.al.|[2502.16012](http://arxiv.org/abs/2502.16012)|**[link](https://github.com/p-shekhar/adversarial-patch-transferability)**|
+|**2025-02-21**|**Computation Offloading Strategies in Integrated Terrestrial and Non-Terrestrial Networks**|Muhammad Ahmed Mohsin et.al.|[2502.15903](http://arxiv.org/abs/2502.15903)|null|
 |**2025-02-21**|**VaViM and VaVAM: Autonomous Driving through Video Generative Modeling**|Florent Bartoccioni et.al.|[2502.15672](http://arxiv.org/abs/2502.15672)|**[link](https://github.com/valeoai/VideoActionModel)**|
-|**2025-02-21**|**Para-Lane: Multi-Lane Dataset Registering Parallel Scans for Benchmarking Novel View Synthesis**|Ziqian Ni et.al.|[2502.15635](http://arxiv.org/abs/2502.15635)|null|
+|**2025-02-24**|**Para-Lane: Multi-Lane Dataset Registering Parallel Scans for Benchmarking Novel View Synthesis**|Ziqian Ni et.al.|[2502.15635](http://arxiv.org/abs/2502.15635)|null|
 |**2025-02-21**|**Depth-aware Fusion Method based on Image and 4D Radar Spectrum for 3D Object Detection**|Yue Sun et.al.|[2502.15516](http://arxiv.org/abs/2502.15516)|null|
 |**2025-02-21**|**Q-PETR: Quant-aware Position Embedding Transformation for Multi-View 3D Object Detection**|Jiangyong Yu et.al.|[2502.15488](http://arxiv.org/abs/2502.15488)|null|
 |**2025-02-21**|**A modular risk concept for complex systems**|Dag McGeorge et.al.|[2502.15482](http://arxiv.org/abs/2502.15482)|null|
@@ -109,12 +131,13 @@
 |**2025-02-19**|**MEX: Memory-efficient Approach to Referring Multi-Object Tracking**|Huu-Thien Tran et.al.|[2502.13875](http://arxiv.org/abs/2502.13875)|null|
 |**2025-02-19**|**The NavINST Dataset for Multi-Sensor Autonomous Navigation**|Paulo Ricardo Marques de Araujo et.al.|[2502.13863](http://arxiv.org/abs/2502.13863)|null|
 
-<p align=right>(<a href=#updated-on-20250225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250226>back to top</a>)</p>
 
 ## Simulation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**Multi-Objective Reinforcement Learning for Critical Scenario Generation of Autonomous Vehicles**|Jiahui Wu et.al.|[2502.15792](http://arxiv.org/abs/2502.15792)|null|
 |**2025-02-20**|**Real-world Troublemaker: A Novel Track Testing Framework for Automated Driving Systems in Safety-critical Interaction Scenarios**|Xinrui Zhang et.al.|[2502.14574](http://arxiv.org/abs/2502.14574)|null|
 |**2025-02-20**|**OG-Gaussian: Occupancy Based Street Gaussians for Autonomous Driving**|Yedong Shen et.al.|[2502.14235](http://arxiv.org/abs/2502.14235)|null|
 |**2025-02-19**|**Poster: SpiderSim: Multi-Agent Driven Theoretical Cybersecurity Simulation for Industrial Digitalization**|Jiaqi Li et.al.|[2502.13778](http://arxiv.org/abs/2502.13778)|**[link](https://github.com/nrt2024/spidersim)**|
@@ -131,7 +154,7 @@
 |**2025-01-27**|**LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models**|Yuewen Mei et.al.|[2501.15850](http://arxiv.org/abs/2501.15850)|null|
 |**2025-01-24**|**A Data-driven Dynamic Temporal Correlation Modeling Framework for Renewable Energy Scenario Generation**|Xiaochong Dong et.al.|[2501.14233](http://arxiv.org/abs/2501.14233)|null|
 
-<p align=right>(<a href=#updated-on-20250225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250226>back to top</a>)</p>
 
 ## Perception
 
@@ -153,7 +176,7 @@
 |**2024-12-03**|**Redundant Queries in DETR-Based 3D Detection Methods: Unnecessary and Prunable**|Lizhen Xu et.al.|[2412.02054](http://arxiv.org/abs/2412.02054)|null|
 |**2024-12-07**|**BEV-SUSHI: Multi-Target Multi-Camera 3D Detection and Tracking in Bird's-Eye View**|Yizhou Wang et.al.|[2412.00692](http://arxiv.org/abs/2412.00692)|null|
 
-<p align=right>(<a href=#updated-on-20250225>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250226>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
