@@ -1,4 +1,4 @@
-## Updated on 2025.03.04
+## Updated on 2025.03.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -77,7 +77,7 @@
 |**2025-02-13**|**Real-Time Fast Marching Tree for Mobile Robot Motion Planning in Dynamic Environments**|Jefferson Silveira et.al.|[2502.09556](http://arxiv.org/abs/2502.09556)|null|
 |**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393](http://arxiv.org/abs/2502.09393)|null|
 
-<p align=right>(<a href=#updated-on-20250304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250305>back to top</a>)</p>
 
 ## Prediction
 
@@ -109,7 +109,7 @@
 |**2025-02-07**|**The $α$ -Alternator: Dynamic Adaptation To Varying Noise Levels In Sequences Using The Vendi Score For Improved Robustness and Performance**|Mohammad Reza Rezaei et.al.|[2502.04593](http://arxiv.org/abs/2502.04593)|null|
 |**2025-02-05**|**Predicting 3D Motion from 2D Video for Behavior-Based VR Biometrics**|Mingjun Li et.al.|[2502.04361](http://arxiv.org/abs/2502.04361)|null|
 
-<p align=right>(<a href=#updated-on-20250304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250305>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -127,7 +127,7 @@
 |**2025-02-27**|**Constrained Generative Modeling with Manually Bridged Diffusion Models**|Saeid Naderiparizi et.al.|[2502.20371](http://arxiv.org/abs/2502.20371)|null|
 |**2025-02-27**|**Trajectory-to-Action Pipeline (TAP): Automated Scenario Description Extraction for Autonomous Vehicle Behavior Comparison**|Aron Harder et.al.|[2502.20353](http://arxiv.org/abs/2502.20353)|null|
 |**2025-02-27**|**On Adversarial Attacks In Acoustic Drone Localization**|Tamir Shor et.al.|[2502.20325](http://arxiv.org/abs/2502.20325)|null|
-|**2025-02-27**|**VDT-Auto: End-to-end Autonomous Driving with VLM-Guided Diffusion Transformers**|Ziang Guo et.al.|[2502.20108](http://arxiv.org/abs/2502.20108)|null|
+|**2025-03-01**|**VDT-Auto: End-to-end Autonomous Driving with VLM-Guided Diffusion Transformers**|Ziang Guo et.al.|[2502.20108](http://arxiv.org/abs/2502.20108)|null|
 |**2025-02-27**|**Minds on the Move: Decoding Trajectory Prediction in Autonomous Driving with Cognitive Insights**|Haicheng Liao et.al.|[2502.20084](http://arxiv.org/abs/2502.20084)|null|
 |**2025-02-27**|**BEV-DWPVO: BEV-based Differentiable Weighted Procrustes for Low Scale-drift Monocular Visual Odometry on Ground**|Yufei Wei et.al.|[2502.20078](http://arxiv.org/abs/2502.20078)|null|
 |**2025-02-27**|**SegLocNet: Multimodal Localization Network for Autonomous Driving via Bird's-Eye-View Segmentation**|Zijie Zhou et.al.|[2502.20077](http://arxiv.org/abs/2502.20077)|**[link](https://github.com/ZhouZijie77/SegLocNet)**|
@@ -197,7 +197,7 @@
 |**2025-02-19**|**MEX: Memory-efficient Approach to Referring Multi-Object Tracking**|Huu-Thien Tran et.al.|[2502.13875](http://arxiv.org/abs/2502.13875)|null|
 |**2025-02-19**|**The NavINST Dataset for Multi-Sensor Autonomous Navigation**|Paulo Ricardo Marques de Araujo et.al.|[2502.13863](http://arxiv.org/abs/2502.13863)|null|
 
-<p align=right>(<a href=#updated-on-20250304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250305>back to top</a>)</p>
 
 ## Simulation
 
@@ -225,7 +225,7 @@
 |**2025-01-27**|**LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models**|Yuewen Mei et.al.|[2501.15850](http://arxiv.org/abs/2501.15850)|null|
 |**2025-01-24**|**A Data-driven Dynamic Temporal Correlation Modeling Framework for Renewable Energy Scenario Generation**|Xiaochong Dong et.al.|[2501.14233](http://arxiv.org/abs/2501.14233)|null|
 
-<p align=right>(<a href=#updated-on-20250304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250305>back to top</a>)</p>
 
 ## Perception
 
@@ -236,7 +236,7 @@
 |**2025-02-18**|**Task-Oriented Semantic Communication for Stereo-Vision 3D Object Detection**|Zijian Cao et.al.|[2502.12735](http://arxiv.org/abs/2502.12735)|null|
 |**2025-02-10**|**PDM-SSD: Single-Stage Three-Dimensional Object Detector With Point Dilation**|Ao Liang et.al.|[2502.07822](http://arxiv.org/abs/2502.07822)|null|
 |**2025-02-04**|**SimBEV: A Synthetic Multi-Task Multi-Sensor Driving Data Generation Tool and Dataset**|Goodarz Mehr et.al.|[2502.01894](http://arxiv.org/abs/2502.01894)|**[link](https://github.com/goodarzmehr/simbev)**|
-|**2025-01-26**|**Doracamom: Joint 3D Detection and Occupancy Prediction with Multi-view 4D Radars and Cameras for Omnidirectional Perception**|Lianqing Zheng et.al.|[2501.15394](http://arxiv.org/abs/2501.15394)|null|
+|**2025-03-03**|**Doracamom: Joint 3D Detection and Occupancy Prediction with Multi-view 4D Radars and Cameras for Omnidirectional Perception**|Lianqing Zheng et.al.|[2501.15394](http://arxiv.org/abs/2501.15394)|null|
 |**2025-01-12**|**Application of Vision-Language Model to Pedestrians Behavior and Scene Understanding in Autonomous Driving**|Haoxiang Gao et.al.|[2501.06680](http://arxiv.org/abs/2501.06680)|null|
 |**2024-12-31**|**DecoratingFusion: A LiDAR-Camera Fusion Network with the Combination of Point-level and Feature-level Fusion**|Zixuan Yin et.al.|[2501.00220](http://arxiv.org/abs/2501.00220)|null|
 |**2025-02-04**|**A Black-Box Evaluation Framework for Semantic Robustness in Bird's Eye View Detection**|Fu Wang et.al.|[2412.13913](http://arxiv.org/abs/2412.13913)|null|
@@ -249,7 +249,7 @@
 |**2024-12-03**|**Redundant Queries in DETR-Based 3D Detection Methods: Unnecessary and Prunable**|Lizhen Xu et.al.|[2412.02054](http://arxiv.org/abs/2412.02054)|null|
 |**2024-12-07**|**BEV-SUSHI: Multi-Target Multi-Camera 3D Detection and Tracking in Bird's-Eye View**|Yizhou Wang et.al.|[2412.00692](http://arxiv.org/abs/2412.00692)|null|
 
-<p align=right>(<a href=#updated-on-20250304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250305>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
