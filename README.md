@@ -85,7 +85,7 @@
 |**2025-02-20**|**Human Misperception of Generative-AI Alignment: A Laboratory Experiment**|Kevin He et.al.|[2502.14708](http://arxiv.org/abs/2502.14708)|null|
 |**2025-02-20**|**I-MCTS: Enhancing Agentic AutoML via Introspective Monte Carlo Tree Search**|Zujie Liang et.al.|[2502.14693](http://arxiv.org/abs/2502.14693)|null|
 |**2025-02-20**|**BP-SGCN: Behavioral Pseudo-Label Informed Sparse Graph Convolution Network for Pedestrian and Heterogeneous Trajectory Prediction**|Ruochen Li et.al.|[2502.14676](http://arxiv.org/abs/2502.14676)|**[link](https://github.com/carrotsniper/bp-sgcn)**|
-|**2025-02-20**|**AlphaMaze: Enhancing Large Language Models' Spatial Intelligence via GRPO**|Alan Dao et.al.|[2502.14669](http://arxiv.org/abs/2502.14669)|null|
+|**2025-02-20**|**AlphaMaze: Enhancing Large Language Models' Spatial Intelligence via GRPO**|Alan Dao et.al.|[2502.14669](http://arxiv.org/abs/2502.14669)|**[link](https://github.com/janhq/visual-thinker)**|
 |**2025-02-20**|**How Far are LLMs from Being Our Digital Twins? A Benchmark for Persona-Based Behavior Chain Simulation**|Rui Li et.al.|[2502.14642](http://arxiv.org/abs/2502.14642)|**[link](https://github.com/o-l1ru1/behaviorchain)**|
 |**2025-02-20**|**Learning Temporal 3D Semantic Scene Completion via Optical Flow Guidance**|Meng Wang et.al.|[2502.14520](http://arxiv.org/abs/2502.14520)|null|
 |**2025-02-20**|**madupite: A High-Performance Distributed Solver for Large-Scale Markov Decision Processes**|Matilde Gargiani et.al.|[2502.14474](http://arxiv.org/abs/2502.14474)|null|
@@ -191,7 +191,7 @@
 |**2025-02-28**|**Characteristics Analysis of Autonomous Vehicle Pre-crash Scenarios**|Yixuan Li et.al.|[2502.20789](http://arxiv.org/abs/2502.20789)|null|
 |**2025-02-28**|**A2DO: Adaptive Anti-Degradation Odometry with Deep Multi-Sensor Fusion for Autonomous Navigation**|Hui Lai et.al.|[2502.20767](http://arxiv.org/abs/2502.20767)|null|
 |**2025-02-28**|**WorldModelBench: Judging Video Generation Models As World Models**|Dacheng Li et.al.|[2502.20694](http://arxiv.org/abs/2502.20694)|null|
-|**2025-02-28**|**LV-DOT: LiDAR-visual dynamic obstacle detection and tracking for autonomous robot navigation**|Zhefan Xu et.al.|[2502.20607](http://arxiv.org/abs/2502.20607)|null|
+|**2025-02-28**|**LV-DOT: LiDAR-visual dynamic obstacle detection and tracking for autonomous robot navigation**|Zhefan Xu et.al.|[2502.20607](http://arxiv.org/abs/2502.20607)|**[link](https://github.com/zhefan-xu/lv-dot)**|
 |**2025-02-27**|**APIKS: A Modular ROS2 Framework for Rapid Prototyping and Validation of Automated Driving Systems**|João-Vitor Zacchi et.al.|[2502.20507](http://arxiv.org/abs/2502.20507)|null|
 |**2025-02-27**|**Constrained Generative Modeling with Manually Bridged Diffusion Models**|Saeid Naderiparizi et.al.|[2502.20371](http://arxiv.org/abs/2502.20371)|null|
 |**2025-02-27**|**Trajectory-to-Action Pipeline (TAP): Automated Scenario Description Extraction for Autonomous Vehicle Behavior Comparison**|Aron Harder et.al.|[2502.20353](http://arxiv.org/abs/2502.20353)|null|
@@ -200,7 +200,7 @@
 |**2025-02-27**|**Minds on the Move: Decoding Trajectory Prediction in Autonomous Driving with Cognitive Insights**|Haicheng Liao et.al.|[2502.20084](http://arxiv.org/abs/2502.20084)|null|
 |**2025-02-27**|**BEV-DWPVO: BEV-based Differentiable Weighted Procrustes for Low Scale-drift Monocular Visual Odometry on Ground**|Yufei Wei et.al.|[2502.20078](http://arxiv.org/abs/2502.20078)|null|
 |**2025-02-27**|**SegLocNet: Multimodal Localization Network for Autonomous Driving via Bird's-Eye-View Segmentation**|Zijie Zhou et.al.|[2502.20077](http://arxiv.org/abs/2502.20077)|**[link](https://github.com/ZhouZijie77/SegLocNet)**|
-|**2025-02-27**|**RouteRL: Multi-agent reinforcement learning framework for urban route choice with autonomous vehicles**|Ahmet Onur Akman et.al.|[2502.20065](http://arxiv.org/abs/2502.20065)|null|
+|**2025-02-27**|**RouteRL: Multi-agent reinforcement learning framework for urban route choice with autonomous vehicles**|Ahmet Onur Akman et.al.|[2502.20065](http://arxiv.org/abs/2502.20065)|**[link](https://github.com/coexistence-project/routerl)**|
 |**2025-02-27**|**CarPlanner: Consistent Auto-regressive Trajectory Planning for Large-scale Reinforcement Learning in Autonomous Driving**|Dongkun Zhang et.al.|[2502.19908](http://arxiv.org/abs/2502.19908)|null|
 |**2025-02-27**|**Shared Autonomy for Proximal Teaching**|Megha Srivastava et.al.|[2502.19899](http://arxiv.org/abs/2502.19899)|null|
 |**2025-02-28**|**You Only Click Once: Single Point Weakly Supervised 3D Instance Segmentation for Autonomous Driving**|Guangfeng Jiang et.al.|[2502.19698](http://arxiv.org/abs/2502.19698)|null|
@@ -208,7 +208,7 @@
 |**2025-02-27**|**Unveiling Security Weaknesses in Autonomous Driving Systems: An In-Depth Empirical Study**|Wenyuan Cheng et.al.|[2502.19687](http://arxiv.org/abs/2502.19687)|null|
 |**2025-02-26**|**Ev-3DOD: Pushing the Temporal Boundaries of 3D Object Detection with Event Cameras**|Hoonhee Cho et.al.|[2502.19630](http://arxiv.org/abs/2502.19630)|null|
 |**2025-02-26**|**CoopDETR: A Unified Cooperative Perception Framework for 3D Detection via Object Query**|Zhe Wang et.al.|[2502.19313](http://arxiv.org/abs/2502.19313)|null|
-|**2025-02-26**|**EMT: A Visual Multi-Task Benchmark Dataset for Autonomous Driving in the Arab Gulf Region**|Nadya Abdel Madjid et.al.|[2502.19260](http://arxiv.org/abs/2502.19260)|null|
+|**2025-02-26**|**EMT: A Visual Multi-Task Benchmark Dataset for Autonomous Driving in the Arab Gulf Region**|Nadya Abdel Madjid et.al.|[2502.19260](http://arxiv.org/abs/2502.19260)|**[link](https://github.com/av-lab/emt-dataset)**|
 |**2025-02-26**|**Knowledge Distillation for Semantic Segmentation: A Label Space Unification Approach**|Anton Backhaus et.al.|[2502.19177](http://arxiv.org/abs/2502.19177)|null|
 |**2025-02-26**|**Application of quasi-Monte Carlo in Mine Countermeasure Simulations with a Stochastic Optimal Control Framework**|Philippe Blondeel et.al.|[2502.18997](http://arxiv.org/abs/2502.18997)|null|
 |**2025-02-26**|**Learning Autonomy: Off-Road Navigation Enhanced by Human Input**|Akhil Nagariya et.al.|[2502.18760](http://arxiv.org/abs/2502.18760)|null|
@@ -252,7 +252,7 @@
 |**2025-02-20**|**P2W: From Power Traces to Weights Matrix -- An Unconventional Transfer Learning Approach**|Roozbeh Siyadatzadeh et.al.|[2502.14968](http://arxiv.org/abs/2502.14968)|null|
 |**2025-02-21**|**AVD2: Accident Video Diffusion for Accident Video Description**|Cheng Li et.al.|[2502.14801](http://arxiv.org/abs/2502.14801)|null|
 |**2025-02-20**|**RendBEV: Semantic Novel View Synthesis for Self-Supervised Bird's Eye View Segmentation**|Henrique Piñeiro Monteagudo et.al.|[2502.14792](http://arxiv.org/abs/2502.14792)|null|
-|**2025-02-20**|**Building reliable sim driving agents by scaling self-play**|Daphne Cornelisse et.al.|[2502.14706](http://arxiv.org/abs/2502.14706)|null|
+|**2025-02-20**|**Building reliable sim driving agents by scaling self-play**|Daphne Cornelisse et.al.|[2502.14706](http://arxiv.org/abs/2502.14706)|**[link](https://github.com/emerge-lab/gpudrive)**|
 |**2025-02-20**|**BP-SGCN: Behavioral Pseudo-Label Informed Sparse Graph Convolution Network for Pedestrian and Heterogeneous Trajectory Prediction**|Ruochen Li et.al.|[2502.14676](http://arxiv.org/abs/2502.14676)|**[link](https://github.com/carrotsniper/bp-sgcn)**|
 |**2025-02-20**|**Real-world Troublemaker: A Novel Track Testing Framework for Automated Driving Systems in Safety-critical Interaction Scenarios**|Xinrui Zhang et.al.|[2502.14574](http://arxiv.org/abs/2502.14574)|null|
 |**2025-02-20**|**Learning Temporal 3D Semantic Scene Completion via Optical Flow Guidance**|Meng Wang et.al.|[2502.14520](http://arxiv.org/abs/2502.14520)|null|
