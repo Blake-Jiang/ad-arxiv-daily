@@ -40,7 +40,7 @@
 |**2025-03-31**|**Less is More: Contextual Sampling for Nonlinear Data-Enabled Predictive Control**|Julius Beerwerth et.al.|[2503.23890](http://arxiv.org/abs/2503.23890)|null|
 |**2025-03-31**|**Trajectory Planning for Automated Driving using Target Funnels**|Benjamin Bogenberger et.al.|[2503.23795](http://arxiv.org/abs/2503.23795)|null|
 |**2025-03-31**|**A Survey of Reinforcement Learning-Based Motion Planning for Autonomous Driving: Lessons Learned from a Driving Task Perspective**|Zhuoren Li et.al.|[2503.23650](http://arxiv.org/abs/2503.23650)|null|
-|**2025-03-30**|**OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model**|Xingcheng Zhou et.al.|[2503.23463](http://arxiv.org/abs/2503.23463)|null|
+|**2025-03-30**|**OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model**|Xingcheng Zhou et.al.|[2503.23463](http://arxiv.org/abs/2503.23463)|**[link](https://github.com/DriveVLA/OpenDriveVLA)**|
 |**2025-03-29**|**Energy-Aware Lane Planning for Connected Electric Vehicles in Urban Traffic: Design and Vehicle-in-the-Loop Validation**|Hansung Kim et.al.|[2503.23228](http://arxiv.org/abs/2503.23228)|null|
 |**2025-03-29**|**Evaluation of Remote Driver Performance in Urban Environment Operational Design Domains**|Ole Hans et.al.|[2503.22992](http://arxiv.org/abs/2503.22992)|null|
 |**2025-03-29**|**Distortion Bounds of Subdivision Models for SO(3)**|Zhaoqi Zhang et.al.|[2503.22961](http://arxiv.org/abs/2503.22961)|null|
@@ -162,7 +162,7 @@
 |**2025-03-04**|**Scalable Multi-Robot Task Allocation and Coordination under Signal Temporal Logic Specifications**|Wenliang Liu et.al.|[2503.02719](http://arxiv.org/abs/2503.02719)|null|
 |**2025-03-04**|**Multi-Strategy Enhanced COA for Path Planning in Autonomous Navigation**|Yifei Wang et.al.|[2503.02700](http://arxiv.org/abs/2503.02700)|null|
 |**2025-03-05**|**SEB-Naver: A SE(2)-based Local Navigation Framework for Car-like Robots on Uneven Terrain**|Xiaoying Li et.al.|[2503.02412](http://arxiv.org/abs/2503.02412)|**[link](https://github.com/zju-fast-lab/seb_naver)**|
-|**2025-03-04**|**Controllable Motion Generation via Diffusion Modal Coupling**|Luobin Wang et.al.|[2503.02353](http://arxiv.org/abs/2503.02353)|null|
+|**2025-03-04**|**Controllable Motion Generation via Diffusion Modal Coupling**|Luobin Wang et.al.|[2503.02353](http://arxiv.org/abs/2503.02353)|**[link](https://github.com/robinwangsd/diffusion-with-multi-modal-priors)**|
 |**2025-03-03**|**NavG: Risk-Aware Navigation in Crowded Environments Based on Reinforcement Learning with Guidance Points**|Qianyi Zhang et.al.|[2503.02111](http://arxiv.org/abs/2503.02111)|null|
 |**2025-03-03**|**Road Boundary Detection Using 4D mmWave Radar for Autonomous Driving**|Yuyan Wu et.al.|[2503.01930](http://arxiv.org/abs/2503.01930)|null|
 |**2025-03-03**|**Code-as-Symbolic-Planner: Foundation Model-Based Robot Planning via Symbolic Code Generation**|Yongchao Chen et.al.|[2503.01700](http://arxiv.org/abs/2503.01700)|null|
@@ -261,7 +261,7 @@
 |**2025-03-24**|**Predicting the Road Ahead: A Knowledge Graph based Foundation Model for Scene Understanding in Autonomous Driving**|Hongkuan Zhou et.al.|[2503.18730](http://arxiv.org/abs/2503.18730)|null|
 |**2025-03-25**|**A Universal Model Combining Differential Equations and Neural Networks for Ball Trajectory Prediction**|Zhiwei Shi et.al.|[2503.18584](http://arxiv.org/abs/2503.18584)|null|
 |**2025-03-22**|**Multi-Modality Representation Learning for Antibody-Antigen Interactions Prediction**|Peijin Guo et.al.|[2503.17666](http://arxiv.org/abs/2503.17666)|**[link](https://github.com/trashtian/mulaaip)**|
-|**2025-03-21**|**Physical Plausibility-aware Trajectory Prediction via Locomotion Embodiment**|Hiromu Taketsugu et.al.|[2503.17267](http://arxiv.org/abs/2503.17267)|null|
+|**2025-03-21**|**Physical Plausibility-aware Trajectory Prediction via Locomotion Embodiment**|Hiromu Taketsugu et.al.|[2503.17267](http://arxiv.org/abs/2503.17267)|**[link](https://github.com/iminthemiddle/emloco)**|
 |**2025-03-20**|**Blend the Separated: Mixture of Synergistic Experts for Data-Scarcity Drug-Target Interaction Prediction**|Xinlong Zhai et.al.|[2503.15796](http://arxiv.org/abs/2503.15796)|**[link](https://github.com/bupt-gamma/mosedti)**|
 |**2025-03-19**|**GASP: Unifying Geometric and Semantic Self-Supervised Pre-training for Autonomous Driving**|William Ljungbergh et.al.|[2503.15672](http://arxiv.org/abs/2503.15672)|null|
 |**2025-03-18**|**Stochastic Trajectory Prediction under Unstructured Constraints**|Hao Ma et.al.|[2503.14203](http://arxiv.org/abs/2503.14203)|null|
@@ -360,25 +360,25 @@
 |**2025-03-31**|**STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?**|Yun Li et.al.|[2503.23765](http://arxiv.org/abs/2503.23765)|null|
 |**2025-03-31**|**Towards Benchmarking and Assessing the Safety and Robustness of Autonomous Driving on Safety-critical Scenarios**|Jingzheng Li et.al.|[2503.23708](http://arxiv.org/abs/2503.23708)|null|
 |**2025-03-31**|**A Survey of Reinforcement Learning-Based Motion Planning for Autonomous Driving: Lessons Learned from a Driving Task Perspective**|Zhuoren Li et.al.|[2503.23650](http://arxiv.org/abs/2503.23650)|null|
-|**2025-03-30**|**OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model**|Xingcheng Zhou et.al.|[2503.23463](http://arxiv.org/abs/2503.23463)|null|
+|**2025-03-30**|**OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model**|Xingcheng Zhou et.al.|[2503.23463](http://arxiv.org/abs/2503.23463)|**[link](https://github.com/DriveVLA/OpenDriveVLA)**|
 |**2025-03-30**|**A Visual-Inertial Motion Prior SLAM for Dynamic Environments**|Weilong Sun et.al.|[2503.23429](http://arxiv.org/abs/2503.23429)|null|
 |**2025-03-28**|**SafeCast: Risk-Responsive Motion Forecasting for Autonomous Vehicles**|Haicheng Liao et.al.|[2503.22541](http://arxiv.org/abs/2503.22541)|null|
 |**2025-03-28**|**Scenario Dreamer: Vectorized Latent Diffusion for Generating Driving Simulation Environments**|Luke Rowe et.al.|[2503.22496](http://arxiv.org/abs/2503.22496)|null|
 |**2025-03-28**|**NuGrounding: A Multi-View 3D Visual Grounding Framework in Autonomous Driving**|Fuhao Li et.al.|[2503.22436](http://arxiv.org/abs/2503.22436)|null|
-|**2025-03-28**|**VoteFlow: Enforcing Local Rigidity in Self-Supervised Scene Flow**|Yancong Lin et.al.|[2503.22328](http://arxiv.org/abs/2503.22328)|null|
+|**2025-03-28**|**VoteFlow: Enforcing Local Rigidity in Self-Supervised Scene Flow**|Yancong Lin et.al.|[2503.22328](http://arxiv.org/abs/2503.22328)|**[link](https://github.com/tudelft-iv/voteflow)**|
 |**2025-03-28**|**A Dataset for Semantic Segmentation in the Presence of Unknowns**|Zakaria Laskar et.al.|[2503.22309](http://arxiv.org/abs/2503.22309)|null|
 |**2025-03-28**|**CRLLK: Constrained Reinforcement Learning for Lane Keeping in Autonomous Driving**|Xinwei Gao et.al.|[2503.22248](http://arxiv.org/abs/2503.22248)|null|
 |**2025-03-28**|**CoGen: 3D Consistent Video Generation via Adaptive Conditioning for Autonomous Driving**|Yishen Ji et.al.|[2503.22231](http://arxiv.org/abs/2503.22231)|null|
-|**2025-03-28**|**Multi-modal Knowledge Distillation-based Human Trajectory Forecasting**|Jaewoo Jeong et.al.|[2503.22201](http://arxiv.org/abs/2503.22201)|null|
-|**2025-03-28**|**Mitigating Trade-off: Stream and Query-guided Aggregation for Efficient and Effective 3D Occupancy Prediction**|Seokha Moon et.al.|[2503.22087](http://arxiv.org/abs/2503.22087)|null|
+|**2025-03-28**|**Multi-modal Knowledge Distillation-based Human Trajectory Forecasting**|Jaewoo Jeong et.al.|[2503.22201](http://arxiv.org/abs/2503.22201)|**[link](https://github.com/jaewoo97/kdtf)**|
+|**2025-03-28**|**Mitigating Trade-off: Stream and Query-guided Aggregation for Efficient and Effective 3D Occupancy Prediction**|Seokha Moon et.al.|[2503.22087](http://arxiv.org/abs/2503.22087)|**[link](https://github.com/moonseokha/streamocc)**|
 |**2025-03-28**|**A Deep Learning Framework for Boundary-Aware Semantic Segmentation**|Tai An et.al.|[2503.22050](http://arxiv.org/abs/2503.22050)|null|
 |**2025-03-27**|**Bayesian Inferential Motion Planning Using Heavy-Tailed Distributions**|Ali Vaziri et.al.|[2503.22030](http://arxiv.org/abs/2503.22030)|null|
 |**2025-03-27**|**InteractionMap: Improving Online Vectorized HDMap Construction with Interaction**|Kuang Wu et.al.|[2503.21659](http://arxiv.org/abs/2503.21659)|null|
-|**2025-03-27**|**Fine-Grained Evaluation of Large Vision-Language Models in Autonomous Driving**|Yue Li et.al.|[2503.21505](http://arxiv.org/abs/2503.21505)|null|
+|**2025-03-27**|**Fine-Grained Evaluation of Large Vision-Language Models in Autonomous Driving**|Yue Li et.al.|[2503.21505](http://arxiv.org/abs/2503.21505)|**[link](https://github.com/Depth2World/VLADBench)**|
 |**2025-03-27**|**Fine-Grained Behavior and Lane Constraints Guided Trajectory Prediction Method**|Wenyi Xiong et.al.|[2503.21477](http://arxiv.org/abs/2503.21477)|null|
 |**2025-03-27**|**Towards Generating Realistic 3D Semantic Training Data for Autonomous Driving**|Lucas Nunes et.al.|[2503.21449](http://arxiv.org/abs/2503.21449)|**[link](https://github.com/prbonn/3diss)**|
-|**2025-03-27**|**Exploring the Roles of Large Language Models in Reshaping Transportation Systems: A Survey, Framework, and Roadmap**|Tong Nie et.al.|[2503.21411](http://arxiv.org/abs/2503.21411)|null|
-|**2025-03-28**|**LandMarkSystem Technical Report**|Zhenxiang Ma et.al.|[2503.21364](http://arxiv.org/abs/2503.21364)|null|
+|**2025-03-27**|**Exploring the Roles of Large Language Models in Reshaping Transportation Systems: A Survey, Framework, and Roadmap**|Tong Nie et.al.|[2503.21411](http://arxiv.org/abs/2503.21411)|**[link](https://github.com/tongnie/awesome-llm4tr)**|
+|**2025-03-28**|**LandMarkSystem Technical Report**|Zhenxiang Ma et.al.|[2503.21364](http://arxiv.org/abs/2503.21364)|**[link](https://github.com/internlandmark/landmarksystem)**|
 |**2025-03-27**|**Large Language Models for Traffic and Transportation Research: Methodologies, State of the Art, and Future Opportunities**|Yimo Yan et.al.|[2503.21330](http://arxiv.org/abs/2503.21330)|null|
 |**2025-03-27**|**Knowledge Graphs as World Models for Semantic Material-Aware Obstacle Handling in Autonomous Vehicles**|Ayush Bheemaiah et.al.|[2503.21232](http://arxiv.org/abs/2503.21232)|null|
 |**2025-03-27**|**Extending Silicon Lifetime: A Review of Design Techniques for Reliable Integrated Circuits**|Shaik Jani Babu et.al.|[2503.21165](http://arxiv.org/abs/2503.21165)|null|
@@ -607,7 +607,7 @@
 |**2025-02-28**|**You Only Click Once: Single Point Weakly Supervised 3D Instance Segmentation for Autonomous Driving**|Guangfeng Jiang et.al.|[2502.19698](http://arxiv.org/abs/2502.19698)|null|
 |**2025-02-27**|**BEVDiffuser: Plug-and-Play Diffusion Model for BEV Denoising with Ground-Truth Guidance**|Xin Ye et.al.|[2502.19694](http://arxiv.org/abs/2502.19694)|null|
 |**2025-02-27**|**Unveiling Security Weaknesses in Autonomous Driving Systems: An In-Depth Empirical Study**|Wenyuan Cheng et.al.|[2502.19687](http://arxiv.org/abs/2502.19687)|null|
-|**2025-02-26**|**Ev-3DOD: Pushing the Temporal Boundaries of 3D Object Detection with Event Cameras**|Hoonhee Cho et.al.|[2502.19630](http://arxiv.org/abs/2502.19630)|null|
+|**2025-02-26**|**Ev-3DOD: Pushing the Temporal Boundaries of 3D Object Detection with Event Cameras**|Hoonhee Cho et.al.|[2502.19630](http://arxiv.org/abs/2502.19630)|**[link](https://github.com/mickeykang16/ev3dod)**|
 |**2025-02-26**|**CoopDETR: A Unified Cooperative Perception Framework for 3D Detection via Object Query**|Zhe Wang et.al.|[2502.19313](http://arxiv.org/abs/2502.19313)|null|
 |**2025-02-26**|**EMT: A Visual Multi-Task Benchmark Dataset for Autonomous Driving in the Arab Gulf Region**|Nadya Abdel Madjid et.al.|[2502.19260](http://arxiv.org/abs/2502.19260)|**[link](https://github.com/av-lab/emt-dataset)**|
 |**2025-02-26**|**Knowledge Distillation for Semantic Segmentation: A Label Space Unification Approach**|Anton Backhaus et.al.|[2502.19177](http://arxiv.org/abs/2502.19177)|null|
