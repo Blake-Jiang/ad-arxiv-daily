@@ -37,13 +37,13 @@
 |**2025-04-05**|**A Self-Supervised Learning Approach with Differentiable Optimization for UAV Trajectory Planning**|Yufei Jiang et.al.|[2504.04289](http://arxiv.org/abs/2504.04289)|null|
 |**2025-04-05**|**An Optimized Density-Based Lane Keeping System for A Cost-Efficient Autonomous Vehicle Platform: AurigaBot V1**|Farbod Younesi et.al.|[2504.04217](http://arxiv.org/abs/2504.04217)|null|
 |**2025-04-04**|**Energy Efficient Planning for Repetitive Heterogeneous Tasks in Precision Agriculture**|Shuangyu Xie et.al.|[2504.03938](http://arxiv.org/abs/2504.03938)|null|
-|**2025-04-04**|**Dynamic Objective MPC for Motion Planning of Seamless Docking Maneuvers**|Oliver Schumann et.al.|[2504.03280](http://arxiv.org/abs/2504.03280)|null|
+|**2025-04-04**|**Dynamic Objective MPC for Motion Planning of Seamless Docking Maneuvers**|Oliver Schumann et.al.|[2504.03280](http://arxiv.org/abs/2504.03280)|**[link](https://github.com/uulm-mrm/dynamic_objective_mpc)**|
 |**2025-04-04**|**Energy Aware and Safe Path Planning for Unmanned Aircraft Systems**|Sebastian Gasche et.al.|[2504.03271](http://arxiv.org/abs/2504.03271)|null|
 |**2025-04-04**|**Gradient Field-Based Dynamic Window Approach for Collision Avoidance in Complex Environments**|Ze Zhang et.al.|[2504.03260](http://arxiv.org/abs/2504.03260)|null|
 |**2025-04-04**|**A Modular Energy Aware Framework for Multicopter Modeling in Control and Planning Applications**|Sebastian Gasche et.al.|[2504.03256](http://arxiv.org/abs/2504.03256)|null|
 |**2025-04-03**|**Handover and SINR-Aware Path Optimization in 5G-UAV mmWave Communication using DRL**|Achilles Kiwanuka Machumilane et.al.|[2504.02688](http://arxiv.org/abs/2504.02688)|null|
 |**2025-04-03**|**Industrial Internet Robot Collaboration System and Edge Computing Optimization**|Qian Zuo et.al.|[2504.02492](http://arxiv.org/abs/2504.02492)|null|
-|**2025-04-03**|**Adaptive path planning for efficient object search by UAVs in agricultural fields**|Rick van Essen et.al.|[2504.02473](http://arxiv.org/abs/2504.02473)|null|
+|**2025-04-03**|**Adaptive path planning for efficient object search by UAVs in agricultural fields**|Rick van Essen et.al.|[2504.02473](http://arxiv.org/abs/2504.02473)|**[link](https://github.com/wur-abe/uav_adaptive_planner)**|
 |**2025-04-03**|**A Comparative Study of MINLP and MPVC Formulations for Solving Complex Nonlinear Decision-Making Problems in Aerospace Applications**|Andrea Ghezzi et.al.|[2504.02375](http://arxiv.org/abs/2504.02375)|null|
 |**2025-04-03**|**Model Predictive Control with Visibility Graphs for Humanoid Path Planning and Tracking Against Adversarial Opponents**|Ruochen Hou et.al.|[2504.02184](http://arxiv.org/abs/2504.02184)|null|
 |**2025-04-02**|**Preference-Driven Active 3D Scene Representation for Robotic Inspection in Nuclear Decommissioning**|Zhen Meng et.al.|[2504.02161](http://arxiv.org/abs/2504.02161)|null|
@@ -52,7 +52,7 @@
 |**2025-04-02**|**Virtual Target Trajectory Prediction for Stochastic Targets**|Marc Schneider et.al.|[2504.01851](http://arxiv.org/abs/2504.01851)|null|
 |**2025-04-02**|**Pedestrian-Aware Motion Planning for Autonomous Driving in Complex Urban Scenarios**|Korbinian Moller et.al.|[2504.01409](http://arxiv.org/abs/2504.01409)|**[link](https://github.com/tum-avs/pedestrianawaremotionplanning)**|
 |**2025-04-02**|**From Shadows to Safety: Occlusion Tracking and Risk Mitigation for Urban Autonomous Driving**|Korbinian Moller et.al.|[2504.01408](http://arxiv.org/abs/2504.01408)|**[link](https://github.com/tum-avs/occlusionawaremotionplanning)**|
-|**2025-04-01**|**A New Approach to Motion Planning in 3D for a Dubins Vehicle: Special Case on a Sphere**|Deepak Prakash Kumar et.al.|[2504.01215](http://arxiv.org/abs/2504.01215)|null|
+|**2025-04-01**|**A New Approach to Motion Planning in 3D for a Dubins Vehicle: Special Case on a Sphere**|Deepak Prakash Kumar et.al.|[2504.01215](http://arxiv.org/abs/2504.01215)|**[link](https://github.com/deepakprakashkumar/motion-planning-on-sphere)**|
 |**2025-04-01**|**Time-optimal Convexified Reeds-Shepp Paths on a Sphere**|Sixu Li et.al.|[2504.00966](http://arxiv.org/abs/2504.00966)|**[link](https://github.com/sixuli97/optimal-spherical-convexified-reeds-shepp-paths)**|
 |**2025-04-01**|**Combined Aerial Cooperative Tethered Carrying and Path Planning for Quadrotors in Confined Environments**|Marios-Nektarios Stamatopoulos et.al.|[2504.00926](http://arxiv.org/abs/2504.00926)|null|
 |**2025-04-01**|**Predictive Spray Switching for an Efficient Path Planning Pattern for Area Coverage**|Mogens Plessen et.al.|[2504.00732](http://arxiv.org/abs/2504.00732)|null|
@@ -402,7 +402,7 @@
 |**2025-04-02**|**On Simulation-Guided LLM-based Code Generation for Safe Autonomous Driving Software**|Ali Nouri et.al.|[2504.02141](http://arxiv.org/abs/2504.02141)|null|
 |**2025-04-02**|**A Chefs KISS -- Utilizing semantic information in both ICP and SLAM framework**|Sven Ochs et.al.|[2504.02086](http://arxiv.org/abs/2504.02086)|null|
 |**2025-04-03**|**Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting**|Shu-Wei Lu et.al.|[2504.01957](http://arxiv.org/abs/2504.01957)|null|
-|**2025-04-02**|**End-to-End Driving with Online Trajectory Evaluation via BEV World Model**|Yingyan Li et.al.|[2504.01941](http://arxiv.org/abs/2504.01941)|null|
+|**2025-04-02**|**End-to-End Driving with Online Trajectory Evaluation via BEV World Model**|Yingyan Li et.al.|[2504.01941](http://arxiv.org/abs/2504.01941)|**[link](https://github.com/liyingyanucas/wote)**|
 |**2025-04-02**|**Virtual Target Trajectory Prediction for Stochastic Targets**|Marc Schneider et.al.|[2504.01851](http://arxiv.org/abs/2504.01851)|null|
 |**2025-04-02**|**Overlap-Aware Feature Learning for Robust Unsupervised Domain Adaptation for 3D Semantic Segmentation**|Junjie Chen et.al.|[2504.01668](http://arxiv.org/abs/2504.01668)|null|
 |**2025-04-02**|**LLM-mediated Dynamic Plan Generation with a Multi-Agent Approach**|Reo Abe et.al.|[2504.01637](http://arxiv.org/abs/2504.01637)|null|
