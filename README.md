@@ -1,4 +1,4 @@
-## Updated on 2025.04.15
+## Updated on 2025.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,12 +16,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**Layered Multirate Control of Constrained Linear Systems**|Charis Stamouli et.al.|[2504.10461](http://arxiv.org/abs/2504.10461)|null|
+|**2025-04-14**|**A Quasi-Steady-State Black Box Simulation Approach for the Generation of g-g-g-v Diagrams**|Frederik Werner et.al.|[2504.10225](http://arxiv.org/abs/2504.10225)|null|
+|**2025-04-13**|**Unification of Consensus-Based Multi-Objective Optimization and Multi-Robot Path Planning**|Michael P. Wozniak et.al.|[2504.09577](http://arxiv.org/abs/2504.09577)|null|
+|**2025-04-12**|**Explorer: Robust Collection of Interactable GUI Elements**|Iason Chaimalas et.al.|[2504.09352](http://arxiv.org/abs/2504.09352)|**[link](https://github.com/varnelis/Explorer)**|
+|**2025-04-12**|**Concurrent-Allocation Task Execution for Multi-Robot Path-Crossing-Minimal Navigation in Obstacle Environments**|Bin-Bin Hu et.al.|[2504.09230](http://arxiv.org/abs/2504.09230)|null|
 |**2025-04-11**|**Safe Flow Matching: Robot Motion Planning with Control Barrier Functions**|Xiaobing Dai et.al.|[2504.08661](http://arxiv.org/abs/2504.08661)|null|
 |**2025-04-11**|**Tactile sensing enables vertical obstacle negotiation for elongate many-legged robots**|Juntao He et.al.|[2504.08615](http://arxiv.org/abs/2504.08615)|null|
 |**2025-04-11**|**Road Grip Uncertainty Estimation Through Surface State Segmentation**|Jyri Maanpää et.al.|[2504.08452](http://arxiv.org/abs/2504.08452)|null|
 |**2025-04-11**|**Diffusion Models for Robotic Manipulation: A Survey**|Rosa Wolf et.al.|[2504.08438](http://arxiv.org/abs/2504.08438)|null|
 |**2025-04-11**|**Approximation Algorithms for the UAV Path Planning with Object Coverage Constraints**|Jiawei Wang et.al.|[2504.08405](http://arxiv.org/abs/2504.08405)|null|
-|**2025-04-11**|**RINGO: Real-time Navigation with a Guiding Trajectory for Aerial Manipulators in Unknown Environments**|Zhang Zhaopeng et.al.|[2504.08338](http://arxiv.org/abs/2504.08338)|null|
+|**2025-04-14**|**RINGO: Real-time Navigation with a Guiding Trajectory for Aerial Manipulators in Unknown Environments**|Zhaopeng Zhang et.al.|[2504.08338](http://arxiv.org/abs/2504.08338)|null|
 |**2025-04-11**|**Interior Point Differential Dynamic Programming, Redux**|Ming Xu et.al.|[2504.08278](http://arxiv.org/abs/2504.08278)|null|
 |**2025-04-11**|**CATCH-FORM-ACTer: Compliance-Aware Tactile Control and Hybrid Deformation Regulation-Based Action Transformer for Viscoelastic Object Manipulation**|Hongjun Ma et.al.|[2504.08232](http://arxiv.org/abs/2504.08232)|null|
 |**2025-04-11**|**Graph Based Deep Reinforcement Learning Aided by Transformers for Multi-Agent Cooperation**|Michael Elrod et.al.|[2504.08195](http://arxiv.org/abs/2504.08195)|null|
@@ -269,12 +274,14 @@
 |**2025-02-13**|**Real-Time Fast Marching Tree for Mobile Robot Motion Planning in Dynamic Environments**|Jefferson Silveira et.al.|[2502.09556](http://arxiv.org/abs/2502.09556)|null|
 |**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393](http://arxiv.org/abs/2502.09393)|null|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 ## Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**LMFormer: Lane based Motion Prediction Transformer**|Harsh Yadav et.al.|[2504.10275](http://arxiv.org/abs/2504.10275)|null|
+|**2025-04-12**|**IMPACT: Behavioral Intention-aware Multimodal Trajectory Prediction with Adaptive Context Trimming**|Jiawei Sun et.al.|[2504.09103](http://arxiv.org/abs/2504.09103)|null|
 |**2025-04-14**|**Psychological Health Knowledge-Enhanced LLM-based Social Network Crisis Intervention Text Transfer Recognition Method**|Shurui Wu et.al.|[2504.07983](http://arxiv.org/abs/2504.07983)|null|
 |**2025-04-10**|**Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction**|Junyi Ma et.al.|[2504.07375](http://arxiv.org/abs/2504.07375)|**[link](https://github.com/irmvlab/mmtwin)**|
 |**2025-04-10**|**Empirical Determination of the Kaon Distribution Amplitude**|Lei Chang et.al.|[2504.07372](http://arxiv.org/abs/2504.07372)|null|
@@ -361,14 +368,25 @@
 |**2025-02-07**|**The $α$ -Alternator: Dynamic Adaptation To Varying Noise Levels In Sequences Using The Vendi Score For Improved Robustness and Performance**|Mohammad Reza Rezaei et.al.|[2502.04593](http://arxiv.org/abs/2502.04593)|null|
 |**2025-02-05**|**Predicting 3D Motion from 2D Video for Behavior-Based VR Biometrics**|Mingjun Li et.al.|[2502.04361](http://arxiv.org/abs/2502.04361)|null|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**Decoupled Diffusion Sparks Adaptive Scene Generation**|Yunsong Zhou et.al.|[2504.10485](http://arxiv.org/abs/2504.10485)|null|
+|**2025-04-14**|**Siamese Network with Dual Attention for EEG-Driven Social Learning: Bridging the Human-Robot Gap in Long-Tail Autonomous Driving**|Xiaoshan Zhou et.al.|[2504.10296](http://arxiv.org/abs/2504.10296)|null|
+|**2025-04-14**|**LMFormer: Lane based Motion Prediction Transformer**|Harsh Yadav et.al.|[2504.10275](http://arxiv.org/abs/2504.10275)|null|
+|**2025-04-14**|**Vision based driving agent for race car simulation environments**|Gergely Bári et.al.|[2504.10266](http://arxiv.org/abs/2504.10266)|null|
+|**2025-04-14**|**M2S-RoAD: Multi-Modal Semantic Segmentation for Road Damage Using Camera and LiDAR Data**|Tzu-Yun Tseng et.al.|[2504.10123](http://arxiv.org/abs/2504.10123)|null|
+|**2025-04-14**|**Balancing Two Classifiers via A Simplex ETF Structure for Model Calibration**|Jiani Ni et.al.|[2504.10007](http://arxiv.org/abs/2504.10007)|null|
+|**2025-04-14**|**Towards Resilient Tracking in Autonomous Vehicles: A Distributionally Robust Input and State Estimation Approach**|Kasra Azizi et.al.|[2504.09974](http://arxiv.org/abs/2504.09974)|null|
+|**2025-04-13**|**FastRSR: Efficient and Accurate Road Surface Reconstruction from Bird's Eye View**|Yuting Zhao et.al.|[2504.09535](http://arxiv.org/abs/2504.09535)|null|
+|**2025-04-13**|**ADDT -- A Digital Twin Framework for Proactive Safety Validation in Autonomous Driving Systems**|Bo Yu et.al.|[2504.09461](http://arxiv.org/abs/2504.09461)|null|
+|**2025-04-12**|**Minority Reports: Balancing Cost and Quality in Ground Truth Data Annotation**|Hsuan Wei Liao et.al.|[2504.09341](http://arxiv.org/abs/2504.09341)|null|
+|**2025-04-12**|**ReferGPT: Towards Zero-Shot Referring Multi-Object Tracking**|Tzoulio Chamiti et.al.|[2504.09195](http://arxiv.org/abs/2504.09195)|null|
 |**2025-04-11**|**Offline Reinforcement Learning using Human-Aligned Reward Labeling for Autonomous Emergency Braking in Occluded Pedestrian Crossing**|Vinal Asodia et.al.|[2504.08704](http://arxiv.org/abs/2504.08704)|null|
-|**2025-04-11**|**TinyCenterSpeed: Efficient Center-Based Object Detection for Autonomous Racing**|Neil Reichlin et.al.|[2504.08655](http://arxiv.org/abs/2504.08655)|null|
+|**2025-04-11**|**TinyCenterSpeed: Efficient Center-Based Object Detection for Autonomous Racing**|Neil Reichlin et.al.|[2504.08655](http://arxiv.org/abs/2504.08655)|**[link](https://github.com/forzaeth/tinycenterspeed)**|
 |**2025-04-11**|**Shadow Erosion and Nighttime Adaptability for Camera-Based Automated Driving Applications**|Mohamed Sabry et.al.|[2504.08551](http://arxiv.org/abs/2504.08551)|null|
 |**2025-04-11**|**Datasets for Lane Detection in Autonomous Driving: A Comprehensive Review**|Jörg Gamerdinger et.al.|[2504.08540](http://arxiv.org/abs/2504.08540)|null|
 |**2025-04-11**|**Road Grip Uncertainty Estimation Through Surface State Segmentation**|Jyri Maanpää et.al.|[2504.08452](http://arxiv.org/abs/2504.08452)|null|
@@ -762,12 +780,15 @@
 |**2025-02-19**|**MEX: Memory-efficient Approach to Referring Multi-Object Tracking**|Huu-Thien Tran et.al.|[2502.13875](http://arxiv.org/abs/2502.13875)|null|
 |**2025-02-19**|**The NavINST Dataset for Multi-Sensor Autonomous Navigation**|Paulo Ricardo Marques de Araujo et.al.|[2502.13863](http://arxiv.org/abs/2502.13863)|null|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 ## Simulation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**Decoupled Diffusion Sparks Adaptive Scene Generation**|Yunsong Zhou et.al.|[2504.10485](http://arxiv.org/abs/2504.10485)|null|
+|**2025-04-14**|**Towards Resilient Tracking in Autonomous Vehicles: A Distributionally Robust Input and State Estimation Approach**|Kasra Azizi et.al.|[2504.09974](http://arxiv.org/abs/2504.09974)|null|
+|**2025-04-09**|**Analogical Learning for Cross-Scenario Generalization: Framework and Application to Intelligent Localization**|Zirui Chen et.al.|[2504.08811](http://arxiv.org/abs/2504.08811)|null|
 |**2025-04-09**|**Acceptance Test Generation with Large Language Models: An Industrial Case Study**|Margarida Ferreira et.al.|[2504.07244](http://arxiv.org/abs/2504.07244)|null|
 |**2025-04-07**|**Texture2LoD3: Enabling LoD3 Building Reconstruction With Panoramic Images**|Wenzhao Tang et.al.|[2504.05249](http://arxiv.org/abs/2504.05249)|null|
 |**2025-04-07**|**Resource-Efficient Beam Prediction in mmWave Communications with Multimodal Realistic Simulation Framework**|Yu Min Park et.al.|[2504.05187](http://arxiv.org/abs/2504.05187)|null|
@@ -825,7 +846,7 @@
 |**2025-01-27**|**LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models**|Yuewen Mei et.al.|[2501.15850](http://arxiv.org/abs/2501.15850)|null|
 |**2025-01-24**|**A Data-driven Dynamic Temporal Correlation Modeling Framework for Renewable Energy Scenario Generation**|Xiaochong Dong et.al.|[2501.14233](http://arxiv.org/abs/2501.14233)|null|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 ## Perception
 
@@ -866,7 +887,7 @@
 |**2024-12-03**|**Redundant Queries in DETR-Based 3D Detection Methods: Unnecessary and Prunable**|Lizhen Xu et.al.|[2412.02054](http://arxiv.org/abs/2412.02054)|null|
 |**2024-12-07**|**BEV-SUSHI: Multi-Target Multi-Camera 3D Detection and Tracking in Bird's-Eye View**|Yizhou Wang et.al.|[2412.00692](http://arxiv.org/abs/2412.00692)|null|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
