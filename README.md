@@ -1,4 +1,4 @@
-## Updated on 2025.04.19
+## Updated on 2025.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,12 +25,12 @@
 |**2025-04-17**|**UniPhys: Unified Planner and Controller with Diffusion for Flexible Physics-Based Character Control**|Yan Wu et.al.|[2504.12540](http://arxiv.org/abs/2504.12540)|null|
 |**2025-04-16**|**GripMap: An Efficient, Spatially Resolved Constraint Framework for Offline and Online Trajectory Planning in Autonomous Racing**|Frederik Werner et.al.|[2504.12115](http://arxiv.org/abs/2504.12115)|null|
 |**2025-04-16**|**Self-Supervised Traversability Learning with Online Prototype Adaptation for Off-Road Autonomous Driving**|Yafeng Bu et.al.|[2504.12109](http://arxiv.org/abs/2504.12109)|null|
-|**2025-04-16**|**Generation of Paths for Motion Planning for a Dubins Vehicle on Sphere**|Deepak Prakash Kumar et.al.|[2504.11832](http://arxiv.org/abs/2504.11832)|null|
-|**2025-04-16**|**Multi-goal Rapidly Exploring Random Tree with Safety and Dynamic Constraints for UAV Cooperative Path Planning**|Thu Hang Khuat et.al.|[2504.11823](http://arxiv.org/abs/2504.11823)|null|
-|**2025-04-15**|**FreeDOM: Online Dynamic Object Removal Framework for Static Map Construction Based on Conservative Free Space Estimation**|Chen Li et.al.|[2504.11073](http://arxiv.org/abs/2504.11073)|null|
+|**2025-04-16**|**Generation of Paths for Motion Planning for a Dubins Vehicle on Sphere**|Deepak Prakash Kumar et.al.|[2504.11832](http://arxiv.org/abs/2504.11832)|**[link](https://github.com/deepakprakashkumar/motion-planning-on-sphere)**|
+|**2025-04-16**|**Multi-goal Rapidly Exploring Random Tree with Safety and Dynamic Constraints for UAV Cooperative Path Planning**|Thu Hang Khuat et.al.|[2504.11823](http://arxiv.org/abs/2504.11823)|**[link](https://github.com/duynamrcv/multi-target_rrt)**|
+|**2025-04-15**|**FreeDOM: Online Dynamic Object Removal Framework for Static Map Construction Based on Conservative Free Space Estimation**|Chen Li et.al.|[2504.11073](http://arxiv.org/abs/2504.11073)|**[link](https://github.com/lc-robotics/freedom)**|
 |**2025-04-15**|**A Sublinear Algorithm for Path Feasibility Among Rectangular Obstacles**|Alex Fan et.al.|[2504.10859](http://arxiv.org/abs/2504.10859)|null|
 |**2025-04-15**|**ATLASv2: LLM-Guided Adaptive Landmark Acquisition and Navigation on the Edge**|Mikolaj Walczak et.al.|[2504.10784](http://arxiv.org/abs/2504.10784)|null|
-|**2025-04-15**|**Superfast Configuration-Space Convex Set Computation on GPUs for Online Motion Planning**|Peter Werner et.al.|[2504.10783](http://arxiv.org/abs/2504.10783)|null|
+|**2025-04-15**|**Superfast Configuration-Space Convex Set Computation on GPUs for Online Motion Planning**|Peter Werner et.al.|[2504.10783](http://arxiv.org/abs/2504.10783)|**[link](https://github.com/wernerpe/csdecomp)**|
 |**2025-04-14**|**HyRRT-Connect: Bidirectional Motion Planning for Hybrid Dynamical Systems**|Nan Wang et.al.|[2504.10699](http://arxiv.org/abs/2504.10699)|null|
 |**2025-04-14**|**Layered Multirate Control of Constrained Linear Systems**|Charis Stamouli et.al.|[2504.10461](http://arxiv.org/abs/2504.10461)|null|
 |**2025-04-14**|**A Quasi-Steady-State Black Box Simulation Approach for the Generation of g-g-g-v Diagrams**|Frederik Werner et.al.|[2504.10225](http://arxiv.org/abs/2504.10225)|null|
@@ -290,7 +290,7 @@
 |**2025-02-13**|**Real-Time Fast Marching Tree for Mobile Robot Motion Planning in Dynamic Environments**|Jefferson Silveira et.al.|[2502.09556](http://arxiv.org/abs/2502.09556)|null|
 |**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393](http://arxiv.org/abs/2502.09393)|null|
 
-<p align=right>(<a href=#updated-on-20250419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250420>back to top</a>)</p>
 
 ## Prediction
 
@@ -389,7 +389,7 @@
 |**2025-02-07**|**The $α$ -Alternator: Dynamic Adaptation To Varying Noise Levels In Sequences Using The Vendi Score For Improved Robustness and Performance**|Mohammad Reza Rezaei et.al.|[2502.04593](http://arxiv.org/abs/2502.04593)|null|
 |**2025-02-05**|**Predicting 3D Motion from 2D Video for Behavior-Based VR Biometrics**|Mingjun Li et.al.|[2502.04361](http://arxiv.org/abs/2502.04361)|null|
 
-<p align=right>(<a href=#updated-on-20250419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250420>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -824,7 +824,7 @@
 |**2025-02-19**|**MEX: Memory-efficient Approach to Referring Multi-Object Tracking**|Huu-Thien Tran et.al.|[2502.13875](http://arxiv.org/abs/2502.13875)|null|
 |**2025-02-19**|**The NavINST Dataset for Multi-Sensor Autonomous Navigation**|Paulo Ricardo Marques de Araujo et.al.|[2502.13863](http://arxiv.org/abs/2502.13863)|null|
 
-<p align=right>(<a href=#updated-on-20250419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250420>back to top</a>)</p>
 
 ## Simulation
 
@@ -834,7 +834,7 @@
 |**2025-04-15**|**Steering Feedback in Dynamic Driving Simulators: Road-Induced and Non-Road-Induced Harshness**|Maximilian Böhle et.al.|[2504.11097](http://arxiv.org/abs/2504.11097)|null|
 |**2025-04-14**|**Decoupled Diffusion Sparks Adaptive Scene Generation**|Yunsong Zhou et.al.|[2504.10485](http://arxiv.org/abs/2504.10485)|null|
 |**2025-04-14**|**Towards Resilient Tracking in Autonomous Vehicles: A Distributionally Robust Input and State Estimation Approach**|Kasra Azizi et.al.|[2504.09974](http://arxiv.org/abs/2504.09974)|null|
-|**2025-04-09**|**Analogical Learning for Cross-Scenario Generalization: Framework and Application to Intelligent Localization**|Zirui Chen et.al.|[2504.08811](http://arxiv.org/abs/2504.08811)|null|
+|**2025-04-09**|**Analogical Learning for Cross-Scenario Generalization: Framework and Application to Intelligent Localization**|Zirui Chen et.al.|[2504.08811](http://arxiv.org/abs/2504.08811)|**[link](https://github.com/ziruichen-research/alloc)**|
 |**2025-04-09**|**Acceptance Test Generation with Large Language Models: An Industrial Case Study**|Margarida Ferreira et.al.|[2504.07244](http://arxiv.org/abs/2504.07244)|null|
 |**2025-04-07**|**Texture2LoD3: Enabling LoD3 Building Reconstruction With Panoramic Images**|Wenzhao Tang et.al.|[2504.05249](http://arxiv.org/abs/2504.05249)|null|
 |**2025-04-07**|**Resource-Efficient Beam Prediction in mmWave Communications with Multimodal Realistic Simulation Framework**|Yu Min Park et.al.|[2504.05187](http://arxiv.org/abs/2504.05187)|null|
@@ -892,7 +892,7 @@
 |**2025-01-27**|**LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models**|Yuewen Mei et.al.|[2501.15850](http://arxiv.org/abs/2501.15850)|null|
 |**2025-01-24**|**A Data-driven Dynamic Temporal Correlation Modeling Framework for Renewable Energy Scenario Generation**|Xiaochong Dong et.al.|[2501.14233](http://arxiv.org/abs/2501.14233)|null|
 
-<p align=right>(<a href=#updated-on-20250419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250420>back to top</a>)</p>
 
 ## Perception
 
@@ -935,7 +935,7 @@
 |**2024-12-03**|**Redundant Queries in DETR-Based 3D Detection Methods: Unnecessary and Prunable**|Lizhen Xu et.al.|[2412.02054](http://arxiv.org/abs/2412.02054)|null|
 |**2024-12-07**|**BEV-SUSHI: Multi-Target Multi-Camera 3D Detection and Tracking in Bird's-Eye View**|Yizhou Wang et.al.|[2412.00692](http://arxiv.org/abs/2412.00692)|null|
 
-<p align=right>(<a href=#updated-on-20250419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250420>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
