@@ -1,4 +1,4 @@
-## Updated on 2025.04.23
+## Updated on 2025.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**Monocular inspection of spacecraft under illumination constraints and avoidance regions**|Tochukwu Elijah Ogri et.al.|[2504.15954](http://arxiv.org/abs/2504.15954)|null|
+|**2025-04-23**|**Bidirectional Task-Motion Planning Based on Hierarchical Reinforcement Learning for Strategic Confrontation**|Qizhen Wu et.al.|[2504.15876](http://arxiv.org/abs/2504.15876)|null|
+|**2025-04-22**|**An ACO-MPC Framework for Energy-Efficient and Collision-Free Path Planning in Autonomous Maritime Navigation**|Yaoze Liu et.al.|[2504.15611](http://arxiv.org/abs/2504.15611)|null|
+|**2025-04-23**|**SLAM-Based Navigation and Fault Resilience in a Surveillance Quadcopter with Embedded Vision Systems**|Abhishek Tyagi et.al.|[2504.15305](http://arxiv.org/abs/2504.15305)|null|
 |**2025-04-21**|**Neural ATTF: A Scalable Solution to Lifelong Multi-Agent Path Planning**|Kushal Shah et.al.|[2504.15130](http://arxiv.org/abs/2504.15130)|null|
 |**2025-04-21**|**Robust Planning and Control of Omnidirectional MRAVs for Aerial Communications in Wireless Networks**|Giuseppe Silano et.al.|[2504.15089](http://arxiv.org/abs/2504.15089)|null|
 |**2025-04-21**|**Never too Cocky to Cooperate: An FIM and RL-based USV-AUV Collaborative System for Underwater Tasks in Extreme Sea Conditions**|Jingzehua Xu et.al.|[2504.14894](http://arxiv.org/abs/2504.14894)|null|
@@ -298,12 +302,16 @@
 |**2025-02-13**|**Real-Time Fast Marching Tree for Mobile Robot Motion Planning in Dynamic Environments**|Jefferson Silveira et.al.|[2502.09556](http://arxiv.org/abs/2502.09556)|null|
 |**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393](http://arxiv.org/abs/2502.09393)|null|
 
-<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
 
 ## Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**Bidirectional Task-Motion Planning Based on Hierarchical Reinforcement Learning for Strategic Confrontation**|Qizhen Wu et.al.|[2504.15876](http://arxiv.org/abs/2504.15876)|null|
+|**2025-04-22**|**Dynamic Intent Queries for Motion Transformer-based Trajectory Prediction**|Tobias Demmler et.al.|[2504.15766](http://arxiv.org/abs/2504.15766)|null|
+|**2025-04-22**|**SocialMOIF: Multi-Order Intention Fusion for Pedestrian Trajectory Prediction**|Kai Chen et.al.|[2504.15616](http://arxiv.org/abs/2504.15616)|null|
+|**2025-04-22**|**RiskNet: Interaction-Aware Risk Forecasting for Autonomous Driving in Long-Tail Scenarios**|Qichao Liu et.al.|[2504.15541](http://arxiv.org/abs/2504.15541)|null|
 |**2025-04-21**|**A novel hybrid neural network of fluid-structure interaction prediction for two cylinders in tandem arrangement**|Yanfang Lyua et.al.|[2504.14971](http://arxiv.org/abs/2504.14971)|null|
 |**2025-04-18**|**Learning Through Retrospection: Improving Trajectory Prediction for Automated Driving with Error Feedback**|Steffen Hagedorn et.al.|[2504.13785](http://arxiv.org/abs/2504.13785)|null|
 |**2025-04-22**|**Equi-Euler GraphNet: An Equivariant, Temporal-Dynamics Informed Graph Neural Network for Dual Force and Trajectory Prediction in Multi-Body Systems**|Vinay Sharma et.al.|[2504.13768](http://arxiv.org/abs/2504.13768)|null|
@@ -401,12 +409,18 @@
 |**2025-02-07**|**The $α$ -Alternator: Dynamic Adaptation To Varying Noise Levels In Sequences Using The Vendi Score For Improved Robustness and Performance**|Mohammad Reza Rezaei et.al.|[2502.04593](http://arxiv.org/abs/2502.04593)|null|
 |**2025-02-05**|**Predicting 3D Motion from 2D Video for Behavior-Based VR Biometrics**|Mingjun Li et.al.|[2502.04361](http://arxiv.org/abs/2502.04361)|null|
 
-<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**MS-Occ: Multi-Stage LiDAR-Camera Fusion for 3D Semantic Occupancy Prediction**|Zhiqiang Wei et.al.|[2504.15888](http://arxiv.org/abs/2504.15888)|null|
+|**2025-04-22**|**Pose Optimization for Autonomous Driving Datasets using Neural Rendering Models**|Quentin Herau et.al.|[2504.15776](http://arxiv.org/abs/2504.15776)|null|
+|**2025-04-22**|**Dynamic Intent Queries for Motion Transformer-based Trajectory Prediction**|Tobias Demmler et.al.|[2504.15766](http://arxiv.org/abs/2504.15766)|null|
+|**2025-04-22**|**SAGA: Semantic-Aware Gray color Augmentation for Visible-to-Thermal Domain Adaptation across Multi-View Drone and Ground-Based Vision Systems**|Manjunath D et.al.|[2504.15728](http://arxiv.org/abs/2504.15728)|null|
+|**2025-04-22**|**RiskNet: Interaction-Aware Risk Forecasting for Autonomous Driving in Long-Tail Scenarios**|Qichao Liu et.al.|[2504.15541](http://arxiv.org/abs/2504.15541)|null|
+|**2025-04-21**|**Improving Human-AI Coordination through Adversarial Training and Generative Models**|Paresh Chaudhary et.al.|[2504.15457](http://arxiv.org/abs/2504.15457)|null|
 |**2025-04-20**|**Adaptive Field Effect Planner for Safe Interactive Autonomous Driving on Curved Roads**|Qinghao Li et.al.|[2504.14747](http://arxiv.org/abs/2504.14747)|null|
 |**2025-04-20**|**SMTT: Novel Structured Multi-task Tracking with Graph-Regularized Sparse Representation for Robust Thermal Infrared Target Tracking**|Shang Zhang et.al.|[2504.14566](http://arxiv.org/abs/2504.14566)|null|
 |**2025-04-20**|**Should Benevolent Deception be Allowed in EHMI? A Mechanism Explanation Based on Game Theory**|Linkun Liu et.al.|[2504.14539](http://arxiv.org/abs/2504.14539)|null|
@@ -851,7 +865,7 @@
 |**2025-02-19**|**MEX: Memory-efficient Approach to Referring Multi-Object Tracking**|Huu-Thien Tran et.al.|[2502.13875](http://arxiv.org/abs/2502.13875)|null|
 |**2025-02-19**|**The NavINST Dataset for Multi-Sensor Autonomous Navigation**|Paulo Ricardo Marques de Araujo et.al.|[2502.13863](http://arxiv.org/abs/2502.13863)|null|
 
-<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
 
 ## Simulation
 
@@ -921,7 +935,7 @@
 |**2025-01-27**|**LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models**|Yuewen Mei et.al.|[2501.15850](http://arxiv.org/abs/2501.15850)|null|
 |**2025-01-24**|**A Data-driven Dynamic Temporal Correlation Modeling Framework for Renewable Energy Scenario Generation**|Xiaochong Dong et.al.|[2501.14233](http://arxiv.org/abs/2501.14233)|null|
 
-<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
 
 ## Perception
 
@@ -965,7 +979,7 @@
 |**2024-12-03**|**Redundant Queries in DETR-Based 3D Detection Methods: Unnecessary and Prunable**|Lizhen Xu et.al.|[2412.02054](http://arxiv.org/abs/2412.02054)|null|
 |**2024-12-07**|**BEV-SUSHI: Multi-Target Multi-Camera 3D Detection and Tracking in Bird's-Eye View**|Yizhou Wang et.al.|[2412.00692](http://arxiv.org/abs/2412.00692)|null|
 
-<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
