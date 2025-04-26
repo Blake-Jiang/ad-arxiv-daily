@@ -1,4 +1,4 @@
-## Updated on 2025.04.25
+## Updated on 2025.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**Learning Isometric Embeddings of Road Networks using Multidimensional Scaling**|Juan Carlos Climent Pardo et.al.|[2504.17534](http://arxiv.org/abs/2504.17534)|null|
+|**2025-04-24**|**AGCo-MATA: Air-Ground Collaborative Multi-Agent Task Allocation in Mobile Crowdsensing**|Tianhao Shao et.al.|[2504.17409](http://arxiv.org/abs/2504.17409)|null|
+|**2025-04-24**|**Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset**|Oussema Dhaouadi et.al.|[2504.17371](http://arxiv.org/abs/2504.17371)|null|
 |**2025-04-23**|**Zero-shot Sim-to-Real Transfer for Reinforcement Learning-based Visual Servoing of Soft Continuum Arms**|Hsin-Jung Yang et.al.|[2504.16916](http://arxiv.org/abs/2504.16916)|null|
 |**2025-04-23**|**MOSAIC: A Skill-Centric Algorithmic Framework for Long-Horizon Manipulation Planning**|Itamar Mishani et.al.|[2504.16738](http://arxiv.org/abs/2504.16738)|null|
 |**2025-04-22**|**Monocular inspection of spacecraft under illumination constraints and avoidance regions**|Tochukwu Elijah Ogri et.al.|[2504.15954](http://arxiv.org/abs/2504.15954)|null|
@@ -304,7 +307,7 @@
 |**2025-02-13**|**Real-Time Fast Marching Tree for Mobile Robot Motion Planning in Dynamic Environments**|Jefferson Silveira et.al.|[2502.09556](http://arxiv.org/abs/2502.09556)|null|
 |**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393](http://arxiv.org/abs/2502.09393)|null|
 
-<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250426>back to top</a>)</p>
 
 ## Prediction
 
@@ -414,12 +417,19 @@
 |**2025-02-07**|**The $α$ -Alternator: Dynamic Adaptation To Varying Noise Levels In Sequences Using The Vendi Score For Improved Robustness and Performance**|Mohammad Reza Rezaei et.al.|[2502.04593](http://arxiv.org/abs/2502.04593)|null|
 |**2025-02-05**|**Predicting 3D Motion from 2D Video for Behavior-Based VR Biometrics**|Mingjun Li et.al.|[2502.04361](http://arxiv.org/abs/2502.04361)|null|
 
-<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250426>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**UNILoc: Unified Localization Combining Model-Based Geometry and Unsupervised Learning**|Yuhao Zhang et.al.|[2504.17676](http://arxiv.org/abs/2504.17676)|null|
+|**2025-04-24**|**Learning Isometric Embeddings of Road Networks using Multidimensional Scaling**|Juan Carlos Climent Pardo et.al.|[2504.17534](http://arxiv.org/abs/2504.17534)|null|
+|**2025-04-24**|**Longitudinal Control for Autonomous Racing with Combustion Engine Vehicles**|Phillip Pitschi et.al.|[2504.17418](http://arxiv.org/abs/2504.17418)|null|
+|**2025-04-24**|**S2S-Net: Addressing the Domain Gap of Heterogeneous Sensor Systems in LiDAR-Based Collective Perception**|Sven Teufel et.al.|[2504.17399](http://arxiv.org/abs/2504.17399)|null|
+|**2025-04-24**|**Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset**|Oussema Dhaouadi et.al.|[2504.17371](http://arxiv.org/abs/2504.17371)|null|
+|**2025-04-24**|**AUTHENTICATION: Identifying Rare Failure Modes in Autonomous Vehicle Perception Systems using Adversarially Guided Diffusion Models**|Mohammad Zarei et.al.|[2504.17179](http://arxiv.org/abs/2504.17179)|null|
+|**2025-04-24**|**Improving Human-Autonomous Vehicle Interaction in Complex Systems**|Robert Kaufman et.al.|[2504.17170](http://arxiv.org/abs/2504.17170)|null|
 |**2025-04-23**|**Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving**|Jacob Levy et.al.|[2504.16923](http://arxiv.org/abs/2504.16923)|null|
 |**2025-04-23**|**Gaussian Splatting is an Effective Data Generator for 3D Object Detection**|Farhad G. Zanjani et.al.|[2504.16740](http://arxiv.org/abs/2504.16740)|null|
 |**2025-04-23**|**Exploring human-SAV interaction using large language models: The impact of psychological ownership and anthropomorphism on user experience**|Lirui Guo et.al.|[2504.16548](http://arxiv.org/abs/2504.16548)|null|
@@ -878,7 +888,7 @@
 |**2025-02-19**|**MEX: Memory-efficient Approach to Referring Multi-Object Tracking**|Huu-Thien Tran et.al.|[2502.13875](http://arxiv.org/abs/2502.13875)|null|
 |**2025-02-19**|**The NavINST Dataset for Multi-Sensor Autonomous Navigation**|Paulo Ricardo Marques de Araujo et.al.|[2502.13863](http://arxiv.org/abs/2502.13863)|null|
 
-<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250426>back to top</a>)</p>
 
 ## Simulation
 
@@ -949,7 +959,7 @@
 |**2025-01-27**|**LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models**|Yuewen Mei et.al.|[2501.15850](http://arxiv.org/abs/2501.15850)|null|
 |**2025-01-24**|**A Data-driven Dynamic Temporal Correlation Modeling Framework for Renewable Energy Scenario Generation**|Xiaochong Dong et.al.|[2501.14233](http://arxiv.org/abs/2501.14233)|null|
 
-<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250426>back to top</a>)</p>
 
 ## Perception
 
@@ -995,7 +1005,7 @@
 |**2024-12-03**|**Redundant Queries in DETR-Based 3D Detection Methods: Unnecessary and Prunable**|Lizhen Xu et.al.|[2412.02054](http://arxiv.org/abs/2412.02054)|null|
 |**2024-12-07**|**BEV-SUSHI: Multi-Target Multi-Camera 3D Detection and Tracking in Bird's-Eye View**|Yizhou Wang et.al.|[2412.00692](http://arxiv.org/abs/2412.00692)|null|
 
-<p align=right>(<a href=#updated-on-20250425>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250426>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
