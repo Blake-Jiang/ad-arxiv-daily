@@ -547,7 +547,7 @@
 |**2025-04-07**|**NuScenes-SpatialQA: A Spatial Understanding and Reasoning Benchmark for Vision-Language Models in Autonomous Driving**|Kexin Tian et.al.|[2504.03164](http://arxiv.org/abs/2504.03164)|null|
 |**2025-04-03**|**SLACK: Attacking LiDAR-based SLAM with Adversarial Point Injections**|Prashant Kumar et.al.|[2504.03089](http://arxiv.org/abs/2504.03089)|null|
 |**2025-04-03**|**Morpheus: Benchmarking Physical Reasoning of Video Generative Models with Real Physical Experiments**|Chenyu Zhang et.al.|[2504.02918](http://arxiv.org/abs/2504.02918)|null|
-|**2025-04-03**|**CHARMS: Cognitive Hierarchical Agent with Reasoning and Motion Styles**|Jingyi Wang et.al.|[2504.02450](http://arxiv.org/abs/2504.02450)|null|
+|**2025-04-03**|**CHARMS: Cognitive Hierarchical Agent with Reasoning and Motion Styles**|Jingyi Wang et.al.|[2504.02450](http://arxiv.org/abs/2504.02450)|**[link](https://github.com/wutad-wjy/charms)**|
 |**2025-04-03**|**On learning racing policies with reinforcement learning**|Grzegorz Czechmanowski et.al.|[2504.02420](http://arxiv.org/abs/2504.02420)|null|
 |**2025-04-03**|**MinkOcc: Towards real-time label-efficient semantic occupancy prediction**|Samuel Sze et.al.|[2504.02270](http://arxiv.org/abs/2504.02270)|null|
 |**2025-04-02**|**On Simulation-Guided LLM-based Code Generation for Safe Autonomous Driving Software**|Ali Nouri et.al.|[2504.02141](http://arxiv.org/abs/2504.02141)|null|
