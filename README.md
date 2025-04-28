@@ -1,4 +1,4 @@
-## Updated on 2025.04.27
+## Updated on 2025.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 |**2025-04-24**|**Learning Isometric Embeddings of Road Networks using Multidimensional Scaling**|Juan Carlos Climent Pardo et.al.|[2504.17534](http://arxiv.org/abs/2504.17534)|null|
 |**2025-04-24**|**AGCo-MATA: Air-Ground Collaborative Multi-Agent Task Allocation in Mobile Crowdsensing**|Tianhao Shao et.al.|[2504.17409](http://arxiv.org/abs/2504.17409)|null|
-|**2025-04-24**|**Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset**|Oussema Dhaouadi et.al.|[2504.17371](http://arxiv.org/abs/2504.17371)|null|
+|**2025-04-25**|**Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset**|Oussema Dhaouadi et.al.|[2504.17371](http://arxiv.org/abs/2504.17371)|null|
 |**2025-04-23**|**Zero-shot Sim-to-Real Transfer for Reinforcement Learning-based Visual Servoing of Soft Continuum Arms**|Hsin-Jung Yang et.al.|[2504.16916](http://arxiv.org/abs/2504.16916)|null|
 |**2025-04-23**|**MOSAIC: A Skill-Centric Algorithmic Framework for Long-Horizon Manipulation Planning**|Itamar Mishani et.al.|[2504.16738](http://arxiv.org/abs/2504.16738)|null|
 |**2025-04-22**|**Monocular inspection of spacecraft under illumination constraints and avoidance regions**|Tochukwu Elijah Ogri et.al.|[2504.15954](http://arxiv.org/abs/2504.15954)|null|
@@ -307,7 +307,7 @@
 |**2025-02-13**|**Real-Time Fast Marching Tree for Mobile Robot Motion Planning in Dynamic Environments**|Jefferson Silveira et.al.|[2502.09556](http://arxiv.org/abs/2502.09556)|null|
 |**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393](http://arxiv.org/abs/2502.09393)|null|
 
-<p align=right>(<a href=#updated-on-20250427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
 
 ## Prediction
 
@@ -322,7 +322,7 @@
 |**2025-04-22**|**RiskNet: Interaction-Aware Risk Forecasting for Autonomous Driving in Long-Tail Scenarios**|Qichao Liu et.al.|[2504.15541](http://arxiv.org/abs/2504.15541)|null|
 |**2025-04-24**|**A novel hybrid neural network of fluid-structure interaction prediction for two cylinders in tandem arrangement**|Yanfang Lyu et.al.|[2504.14971](http://arxiv.org/abs/2504.14971)|null|
 |**2025-04-18**|**Learning Through Retrospection: Improving Trajectory Prediction for Automated Driving with Error Feedback**|Steffen Hagedorn et.al.|[2504.13785](http://arxiv.org/abs/2504.13785)|null|
-|**2025-04-22**|**Equi-Euler GraphNet: An Equivariant, Temporal-Dynamics Informed Graph Neural Network for Dual Force and Trajectory Prediction in Multi-Body Systems**|Vinay Sharma et.al.|[2504.13768](http://arxiv.org/abs/2504.13768)|null|
+|**2025-04-25**|**Equi-Euler GraphNet: An Equivariant, Temporal-Dynamics Informed Graph Neural Network for Dual Force and Trajectory Prediction in Multi-Body Systems**|Vinay Sharma et.al.|[2504.13768](http://arxiv.org/abs/2504.13768)|null|
 |**2025-04-18**|**Lightweight LiDAR-Camera 3D Dynamic Object Detection and Multi-Class Trajectory Prediction**|Yushen He et.al.|[2504.13647](http://arxiv.org/abs/2504.13647)|**[link](https://github.com/tosshero/ros_packages)**|
 |**2025-04-17**|**Uncertainty-Aware Trajectory Prediction via Rule-Regularized Heteroscedastic Deep Classification**|Kumar Manas et.al.|[2504.13111](http://arxiv.org/abs/2504.13111)|null|
 |**2025-04-17**|**Explainable Scene Understanding with Qualitative Representations and Graph Neural Networks**|Nassim Belmecheri et.al.|[2504.12817](http://arxiv.org/abs/2504.12817)|null|
@@ -417,7 +417,7 @@
 |**2025-02-07**|**The $α$ -Alternator: Dynamic Adaptation To Varying Noise Levels In Sequences Using The Vendi Score For Improved Robustness and Performance**|Mohammad Reza Rezaei et.al.|[2502.04593](http://arxiv.org/abs/2502.04593)|null|
 |**2025-02-05**|**Predicting 3D Motion from 2D Video for Behavior-Based VR Biometrics**|Mingjun Li et.al.|[2502.04361](http://arxiv.org/abs/2502.04361)|null|
 
-<p align=right>(<a href=#updated-on-20250427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -427,13 +427,13 @@
 |**2025-04-24**|**Learning Isometric Embeddings of Road Networks using Multidimensional Scaling**|Juan Carlos Climent Pardo et.al.|[2504.17534](http://arxiv.org/abs/2504.17534)|null|
 |**2025-04-24**|**Longitudinal Control for Autonomous Racing with Combustion Engine Vehicles**|Phillip Pitschi et.al.|[2504.17418](http://arxiv.org/abs/2504.17418)|null|
 |**2025-04-24**|**S2S-Net: Addressing the Domain Gap of Heterogeneous Sensor Systems in LiDAR-Based Collective Perception**|Sven Teufel et.al.|[2504.17399](http://arxiv.org/abs/2504.17399)|null|
-|**2025-04-24**|**Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset**|Oussema Dhaouadi et.al.|[2504.17371](http://arxiv.org/abs/2504.17371)|null|
+|**2025-04-25**|**Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset**|Oussema Dhaouadi et.al.|[2504.17371](http://arxiv.org/abs/2504.17371)|null|
 |**2025-04-24**|**AUTHENTICATION: Identifying Rare Failure Modes in Autonomous Vehicle Perception Systems using Adversarially Guided Diffusion Models**|Mohammad Zarei et.al.|[2504.17179](http://arxiv.org/abs/2504.17179)|null|
 |**2025-04-24**|**Improving Human-Autonomous Vehicle Interaction in Complex Systems**|Robert Kaufman et.al.|[2504.17170](http://arxiv.org/abs/2504.17170)|null|
 |**2025-04-23**|**Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving**|Jacob Levy et.al.|[2504.16923](http://arxiv.org/abs/2504.16923)|null|
 |**2025-04-23**|**Gaussian Splatting is an Effective Data Generator for 3D Object Detection**|Farhad G. Zanjani et.al.|[2504.16740](http://arxiv.org/abs/2504.16740)|null|
 |**2025-04-23**|**Exploring human-SAV interaction using large language models: The impact of psychological ownership and anthropomorphism on user experience**|Lirui Guo et.al.|[2504.16548](http://arxiv.org/abs/2504.16548)|null|
-|**2025-04-23**|**Using Causal Inference to Test Systems with Hidden and Interacting Variables: An Evaluative Case Study**|Michael Foster et.al.|[2504.16526](http://arxiv.org/abs/2504.16526)|null|
+|**2025-04-25**|**Using Causal Inference to Test Systems with Hidden and Interacting Variables: An Evaluative Case Study**|Michael Foster et.al.|[2504.16526](http://arxiv.org/abs/2504.16526)|null|
 |**2025-04-23**|**Circinus: Efficient Query Planner for Compound ML Serving**|Banruo Liu et.al.|[2504.16397](http://arxiv.org/abs/2504.16397)|null|
 |**2025-04-23**|**SILM: A Subjective Intent Based Low-Latency Framework for Multiple Traffic Participants Joint Trajectory Prediction**|Qu Weiming et.al.|[2504.16377](http://arxiv.org/abs/2504.16377)|null|
 |**2025-04-23**|**DPGP: A Hybrid 2D-3D Dual Path Potential Ghost Probe Zone Prediction Framework for Safe Autonomous Driving**|Weiming Qu et.al.|[2504.16374](http://arxiv.org/abs/2504.16374)|null|
@@ -888,13 +888,13 @@
 |**2025-02-19**|**MEX: Memory-efficient Approach to Referring Multi-Object Tracking**|Huu-Thien Tran et.al.|[2502.13875](http://arxiv.org/abs/2502.13875)|null|
 |**2025-02-19**|**The NavINST Dataset for Multi-Sensor Autonomous Navigation**|Paulo Ricardo Marques de Araujo et.al.|[2502.13863](http://arxiv.org/abs/2502.13863)|null|
 
-<p align=right>(<a href=#updated-on-20250427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
 
 ## Simulation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-23**|**Using Causal Inference to Test Systems with Hidden and Interacting Variables: An Evaluative Case Study**|Michael Foster et.al.|[2504.16526](http://arxiv.org/abs/2504.16526)|null|
+|**2025-04-25**|**Using Causal Inference to Test Systems with Hidden and Interacting Variables: An Evaluative Case Study**|Michael Foster et.al.|[2504.16526](http://arxiv.org/abs/2504.16526)|null|
 |**2025-04-24**|**Should Benevolent Deception be Allowed in EHMI? A Mechanism Explanation Based on Game Theory**|Linkun Liu et.al.|[2504.14539](http://arxiv.org/abs/2504.14539)|null|
 |**2025-04-19**|**DLW-CI: A Dynamic Likelihood-Weighted Cooperative Infotaxis Approach for Multi-Source Search in Urban Environments Using Consumer Drone Networks**|Xiaoran Zhang et.al.|[2504.14330](http://arxiv.org/abs/2504.14330)|null|
 |**2025-04-15**|**Uncertainty modeling method for wind and solar power output in building integrated energy systems under continuous anomalous weather**|Deyi Shao et.al.|[2504.11100](http://arxiv.org/abs/2504.11100)|null|
@@ -959,7 +959,7 @@
 |**2025-01-27**|**LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models**|Yuewen Mei et.al.|[2501.15850](http://arxiv.org/abs/2501.15850)|null|
 |**2025-01-24**|**A Data-driven Dynamic Temporal Correlation Modeling Framework for Renewable Energy Scenario Generation**|Xiaochong Dong et.al.|[2501.14233](http://arxiv.org/abs/2501.14233)|null|
 
-<p align=right>(<a href=#updated-on-20250427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
 
 ## Perception
 
@@ -1005,7 +1005,7 @@
 |**2024-12-03**|**Redundant Queries in DETR-Based 3D Detection Methods: Unnecessary and Prunable**|Lizhen Xu et.al.|[2412.02054](http://arxiv.org/abs/2412.02054)|null|
 |**2024-12-07**|**BEV-SUSHI: Multi-Target Multi-Camera 3D Detection and Tracking in Bird's-Eye View**|Yizhou Wang et.al.|[2412.00692](http://arxiv.org/abs/2412.00692)|null|
 
-<p align=right>(<a href=#updated-on-20250427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
