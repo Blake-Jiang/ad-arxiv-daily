@@ -1,4 +1,4 @@
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,8 +16,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Traversability-aware path planning in dynamic environments**|Yaroslav Marchukov et.al.|[2505.14580](http://arxiv.org/abs/2505.14580)|null|
+|**2025-05-20**|**Semantically-driven Deep Reinforcement Learning for Inspection Path Planning**|Grzegorz Malczyk et.al.|[2505.14443](http://arxiv.org/abs/2505.14443)|**[link](https://github.com/ntnu-arl/semantic-rl-inspection)**|
+|**2025-05-20**|**Local Minima Prediction using Dynamic Bayesian Filtering for UGV Navigation in Unstructured Environments**|Seung Hun Lee et.al.|[2505.14337](http://arxiv.org/abs/2505.14337)|null|
+|**2025-05-20**|**MultiDrive: A Co-Simulation Framework Bridging 2D and 3D Driving Simulation for AV Software Validation**|Marc Kaufeld et.al.|[2505.13959](http://arxiv.org/abs/2505.13959)|**[link](https://github.com/tum-avs/multidrive)**|
+|**2025-05-20**|**Certifiably Safe Manipulation of Deformable Linear Objects via Joint Shape and Tension Prediction**|Yiting Zhang et.al.|[2505.13889](http://arxiv.org/abs/2505.13889)|null|
+|**2025-05-20**|**C*: A Coverage Path Planning Algorithm for Unknown Environments using Rapidly Covering Graphs**|Zongyuan Shen et.al.|[2505.13782](http://arxiv.org/abs/2505.13782)|null|
+|**2025-05-19**|**From Structural Design to Dynamics Modeling: Control-Oriented Development of a 3-RRR Parallel Ankle Rehabilitation Robot**|Siyuan Zhang et.al.|[2505.13762](http://arxiv.org/abs/2505.13762)|null|
 |**2025-05-19**|**Hybrid Voting-Based Task Assignment in Modular Construction Scenarios**|Daniel Weiner et.al.|[2505.13278](http://arxiv.org/abs/2505.13278)|null|
-|**2025-05-19**|**Neurosymbolic Diffusion Models**|Emile van Krieken et.al.|[2505.13138](http://arxiv.org/abs/2505.13138)|null|
+|**2025-05-19**|**Neurosymbolic Diffusion Models**|Emile van Krieken et.al.|[2505.13138](http://arxiv.org/abs/2505.13138)|**[link](https://github.com/HEmile/neurosymbolic-diffusion)**|
 |**2025-05-19**|**SafeMove-RL: A Certifiable Reinforcement Learning Framework for Dynamic Motion Constraints in Trajectory Planning**|Tengfei Liu et.al.|[2505.12648](http://arxiv.org/abs/2505.12648)|null|
 |**2025-05-18**|**Optimal Task and Motion Planning for Autonomous Systems Using Petri Nets**|Zhou He et.al.|[2505.12503](http://arxiv.org/abs/2505.12503)|null|
 |**2025-05-18**|**Scene-Adaptive Motion Planning with Explicit Mixture of Experts and Interaction-Oriented Optimization**|Hongbiao Zhu et.al.|[2505.12311](http://arxiv.org/abs/2505.12311)|null|
@@ -405,12 +412,13 @@
 |**2025-02-13**|**Real-Time Fast Marching Tree for Mobile Robot Motion Planning in Dynamic Environments**|Jefferson Silveira et.al.|[2502.09556](http://arxiv.org/abs/2502.09556)|null|
 |**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393](http://arxiv.org/abs/2502.09393)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**CATS: Clustering-Aggregated and Time Series for Business Customer Purchase Intention Prediction**|Yingjie Kuang et.al.|[2505.13558](http://arxiv.org/abs/2505.13558)|null|
 |**2025-05-16**|**EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video**|Ryan Hoque et.al.|[2505.11709](http://arxiv.org/abs/2505.11709)|null|
 |**2025-05-14**|**Bridging Human Oversight and Black-box Driver Assistance: Vision-Language Models for Predictive Alerting in Lane Keeping Assist Systems**|Yuhang Wang et.al.|[2505.11535](http://arxiv.org/abs/2505.11535)|null|
 |**2025-05-15**|**Predicting Human Behavior in Autonomous Systems: A Collaborative Machine Teaching Approach for Reducing Transfer of Control Events**|Julian Wolter et.al.|[2505.10695](http://arxiv.org/abs/2505.10695)|null|
@@ -542,14 +550,23 @@
 |**2025-02-07**|**The $α$ -Alternator: Dynamic Adaptation To Varying Noise Levels In Sequences Using The Vendi Score For Improved Robustness and Performance**|Mohammad Reza Rezaei et.al.|[2502.04593](http://arxiv.org/abs/2502.04593)|null|
 |**2025-02-05**|**Predicting 3D Motion from 2D Video for Behavior-Based VR Biometrics**|Mingjun Li et.al.|[2502.04361](http://arxiv.org/abs/2502.04361)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Local Minima Prediction using Dynamic Bayesian Filtering for UGV Navigation in Unstructured Environments**|Seung Hun Lee et.al.|[2505.14337](http://arxiv.org/abs/2505.14337)|null|
+|**2025-05-20**|**MultiDrive: A Co-Simulation Framework Bridging 2D and 3D Driving Simulation for AV Software Validation**|Marc Kaufeld et.al.|[2505.13959](http://arxiv.org/abs/2505.13959)|**[link](https://github.com/tum-avs/multidrive)**|
+|**2025-05-20**|**D4+: Emergent Adversarial Driving Maneuvers with Approximate Functional Optimization**|Diego Ortiz Barbosa et.al.|[2505.13942](http://arxiv.org/abs/2505.13942)|null|
+|**2025-05-20**|**4D-ROLLS: 4D Radar Occupancy Learning via LiDAR Supervision**|Ruihan Liu et.al.|[2505.13905](http://arxiv.org/abs/2505.13905)|null|
+|**2025-05-20**|**Safety2Drive: Safety-Critical Scenario Benchmark for the Evaluation of Autonomous Driving**|Jingzheng Li et.al.|[2505.13872](http://arxiv.org/abs/2505.13872)|null|
+|**2025-05-20**|**SuperMapNet for Long-Range and High-Accuracy Vectorized HD Map Construction**|Ruqin Zhou et.al.|[2505.13856](http://arxiv.org/abs/2505.13856)|null|
+|**2025-05-20**|**InstanceBEV: Unifying Instance and BEV Representation for Global Modeling**|Feng Li et.al.|[2505.13817](http://arxiv.org/abs/2505.13817)|null|
+|**2025-05-19**|**Origin-Destination Pattern Effects on Large-Scale Mixed Traffic Control via Multi-Agent Reinforcement Learning**|Muyang Fan et.al.|[2505.13543](http://arxiv.org/abs/2505.13543)|null|
+|**2025-05-18**|**Distributional Soft Actor-Critic with Harmonic Gradient for Safe and Efficient Autonomous Driving in Multi-lane Scenarios**|Feihong Zhang et.al.|[2505.13532](http://arxiv.org/abs/2505.13532)|null|
 |**2025-05-19**|**DB3D-L: Depth-aware BEV Feature Transformation for Accurate 3D Lane Detection**|Yehao Liu et.al.|[2505.13266](http://arxiv.org/abs/2505.13266)|null|
-|**2025-05-19**|**Neurosymbolic Diffusion Models**|Emile van Krieken et.al.|[2505.13138](http://arxiv.org/abs/2505.13138)|null|
+|**2025-05-19**|**Neurosymbolic Diffusion Models**|Emile van Krieken et.al.|[2505.13138](http://arxiv.org/abs/2505.13138)|**[link](https://github.com/HEmile/neurosymbolic-diffusion)**|
 |**2025-05-19**|**VLC Fusion: Vision-Language Conditioned Sensor Fusion for Robust Object Detection**|Aditya Taparia et.al.|[2505.12715](http://arxiv.org/abs/2505.12715)|null|
 |**2025-05-19**|**TS-VLM: Text-Guided SoftSort Pooling for Vision-Language Models in Multi-View Driving Reasoning**|Lihong Chen et.al.|[2505.12670](http://arxiv.org/abs/2505.12670)|null|
 |**2025-05-19**|**Digital Twins in the Cloud: A Modular, Scalable and Interoperable Framework for Accelerating Verification and Validation of Autonomous Driving Solutions**|Tanmay Vilas Samak et.al.|[2505.12661](http://arxiv.org/abs/2505.12661)|null|
@@ -1170,12 +1187,16 @@
 |**2025-02-19**|**MEX: Memory-efficient Approach to Referring Multi-Object Tracking**|Huu-Thien Tran et.al.|[2502.13875](http://arxiv.org/abs/2502.13875)|null|
 |**2025-02-19**|**The NavINST Dataset for Multi-Sensor Autonomous Navigation**|Paulo Ricardo Marques de Araujo et.al.|[2502.13863](http://arxiv.org/abs/2502.13863)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Simulation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**On-Demand Scenario Generation for Testing Automated Driving Systems**|Songyang Yan et.al.|[2505.14053](http://arxiv.org/abs/2505.14053)|null|
+|**2025-05-20**|**MultiDrive: A Co-Simulation Framework Bridging 2D and 3D Driving Simulation for AV Software Validation**|Marc Kaufeld et.al.|[2505.13959](http://arxiv.org/abs/2505.13959)|**[link](https://github.com/tum-avs/multidrive)**|
+|**2025-05-20**|**Safety2Drive: Safety-Critical Scenario Benchmark for the Evaluation of Autonomous Driving**|Jingzheng Li et.al.|[2505.13872](http://arxiv.org/abs/2505.13872)|null|
+|**2025-05-16**|**Time-R1: Towards Comprehensive Temporal Reasoning in LLMs**|Zijia Liu et.al.|[2505.13508](http://arxiv.org/abs/2505.13508)|null|
 |**2025-05-16**|**MedGUIDE: Benchmarking Clinical Decision-Making in Large Language Models**|Xiaomin Li et.al.|[2505.11613](http://arxiv.org/abs/2505.11613)|null|
 |**2025-05-16**|**LD-Scene: LLM-Guided Diffusion for Controllable Generation of Adversarial Safety-Critical Driving Scenarios**|Mingxing Peng et.al.|[2505.11247](http://arxiv.org/abs/2505.11247)|null|
 |**2025-05-05**|**Maximal Compatibility Matching for Preference-Aware Ride-Hailing Systems**|Avalpreet Singh Brar et.al.|[2505.02599](http://arxiv.org/abs/2505.02599)|null|
@@ -1250,7 +1271,7 @@
 |**2025-01-27**|**LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models**|Yuewen Mei et.al.|[2501.15850](http://arxiv.org/abs/2501.15850)|null|
 |**2025-01-24**|**A Data-driven Dynamic Temporal Correlation Modeling Framework for Renewable Energy Scenario Generation**|Xiaochong Dong et.al.|[2501.14233](http://arxiv.org/abs/2501.14233)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Perception
 
@@ -1299,7 +1320,7 @@
 |**2024-12-03**|**Redundant Queries in DETR-Based 3D Detection Methods: Unnecessary and Prunable**|Lizhen Xu et.al.|[2412.02054](http://arxiv.org/abs/2412.02054)|null|
 |**2024-12-07**|**BEV-SUSHI: Multi-Target Multi-Camera 3D Detection and Tracking in Bird's-Eye View**|Yizhou Wang et.al.|[2412.00692](http://arxiv.org/abs/2412.00692)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
