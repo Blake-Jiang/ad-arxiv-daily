@@ -1,4 +1,4 @@
-## Updated on 2025.05.30
+## Updated on 2025.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**Long Duration Inspection of GNSS-Denied Environments with a Tethered UAV-UGV Marsupial System**|Simón Martínez-Rozas et.al.|[2505.23457](http://arxiv.org/abs/2505.23457)|null|
+|**2025-05-29**|**VLM-RRT: Vision Language Model Guided RRT Search for Autonomous UAV Navigation**|Jianlin Ye et.al.|[2505.23267](http://arxiv.org/abs/2505.23267)|null|
+|**2025-05-29**|**UPP: Unified Path Planner with Adaptive Safety and Optimality**|Jatin Kumar Arora et.al.|[2505.23197](http://arxiv.org/abs/2505.23197)|null|
+|**2025-05-29**|**TrackVLA: Embodied Visual Tracking in the Wild**|Shaoan Wang et.al.|[2505.23189](http://arxiv.org/abs/2505.23189)|null|
+|**2025-05-29**|**Redundancy Parameterization of the ABB YuMi Robot Arm**|Alexander J. Elias et.al.|[2505.23111](http://arxiv.org/abs/2505.23111)|null|
 |**2025-05-28**|**Articulatory modeling of the S-shaped F2 trajectories observed in Öhman's spectrographic analysis of VCV syllables**|Frédéric Berthommier et.al.|[2505.22455](http://arxiv.org/abs/2505.22455)|null|
 |**2025-05-28**|**Attention-Enhanced Prompt Decision Transformers for UAV-Assisted Communications with AoI**|Chi Lu et.al.|[2505.22170](http://arxiv.org/abs/2505.22170)|null|
 |**2025-05-29**|**DORAEMON: Decentralized Ontology-aware Reliable Agent with Enhanced Memory Oriented Navigation**|Tianjun Gu et.al.|[2505.21969](http://arxiv.org/abs/2505.21969)|null|
@@ -448,12 +453,14 @@
 |**2025-02-13**|**Real-Time Fast Marching Tree for Mobile Robot Motion Planning in Dynamic Environments**|Jefferson Silveira et.al.|[2502.09556](http://arxiv.org/abs/2502.09556)|null|
 |**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393](http://arxiv.org/abs/2502.09393)|null|
 
-<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250531>back to top</a>)</p>
 
 ## Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models**|Haohan Chi et.al.|[2505.23757](http://arxiv.org/abs/2505.23757)|null|
+|**2025-05-29**|**Autoregressive Meta-Actions for Unified Controllable Trajectory Generation**|Jianbo Zhao et.al.|[2505.23612](http://arxiv.org/abs/2505.23612)|null|
 |**2025-05-27**|**Towards Human-Like Trajectory Prediction for Autonomous Driving: A Behavior-Centric Approach**|Haicheng Liao et.al.|[2505.21565](http://arxiv.org/abs/2505.21565)|null|
 |**2025-05-27**|**Dynamical ON-OFF Control with Trajectory Prediction for Multi-RIS Wireless Networks**|Kaining Wang et.al.|[2505.20887](http://arxiv.org/abs/2505.20887)|null|
 |**2025-05-26**|**RetroMotion: Retrocausal Motion Forecasting Models are Instructable**|Royden Wagner et.al.|[2505.20414](http://arxiv.org/abs/2505.20414)|**[link](https://github.com/kit-mrt/future-motion)**|
@@ -599,12 +606,20 @@
 |**2025-02-07**|**The $α$ -Alternator: Dynamic Adaptation To Varying Noise Levels In Sequences Using The Vendi Score For Improved Robustness and Performance**|Mohammad Reza Rezaei et.al.|[2502.04593](http://arxiv.org/abs/2502.04593)|null|
 |**2025-02-05**|**Predicting 3D Motion from 2D Video for Behavior-Based VR Biometrics**|Mingjun Li et.al.|[2502.04361](http://arxiv.org/abs/2502.04361)|null|
 
-<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250531>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models**|Haohan Chi et.al.|[2505.23757](http://arxiv.org/abs/2505.23757)|null|
+|**2025-05-29**|**Distributed Federated Learning for Vehicular Network Security: Anomaly Detection Benefits and Multi-Domain Attack Threats**|Utku Demir et.al.|[2505.23706](http://arxiv.org/abs/2505.23706)|null|
+|**2025-05-29**|**Autoregressive Meta-Actions for Unified Controllable Trajectory Generation**|Jianbo Zhao et.al.|[2505.23612](http://arxiv.org/abs/2505.23612)|null|
+|**2025-05-29**|**CF-DETR: Coarse-to-Fine Transformer for Real-Time Object Detection**|Woojin Shin et.al.|[2505.23317](http://arxiv.org/abs/2505.23317)|null|
+|**2025-05-29**|**Wireless Agentic AI with Retrieval-Augmented Multimodal Semantic Perception**|Guangyuan Liu et.al.|[2505.23275](http://arxiv.org/abs/2505.23275)|null|
+|**2025-05-29**|**Context-Aware Semantic Communication for the Wireless Networks**|Guangyuan Liu et.al.|[2505.23249](http://arxiv.org/abs/2505.23249)|null|
+|**2025-05-29**|**HMAD: Advancing E2E Driving with Anchored Offset Proposals and Simulation-Supervised Multi-target Scoring**|Bin Wang et.al.|[2505.23129](http://arxiv.org/abs/2505.23129)|null|
+|**2025-05-29**|**Diffusion-Based Generative Models for 3D Occupancy Prediction in Autonomous Driving**|Yunshen Wang et.al.|[2505.23115](http://arxiv.org/abs/2505.23115)|null|
 |**2025-05-28**|**PS4PRO: Pixel-to-pixel Supervision for Photorealistic Rendering and Optimization**|Yezhi Shen et.al.|[2505.22616](http://arxiv.org/abs/2505.22616)|null|
 |**2025-05-28**|**A Human-Centric Approach to Explainable AI for Personalized Education**|Vinitra Swamy et.al.|[2505.22541](http://arxiv.org/abs/2505.22541)|null|
 |**2025-05-29**|**The Meeseeks Mesh: Spatially Consistent 3D Adversarial Objects for BEV Detector**|Aixuan Li et.al.|[2505.22499](http://arxiv.org/abs/2505.22499)|null|
@@ -1294,7 +1309,7 @@
 |**2025-02-19**|**MEX: Memory-efficient Approach to Referring Multi-Object Tracking**|Huu-Thien Tran et.al.|[2502.13875](http://arxiv.org/abs/2502.13875)|null|
 |**2025-02-19**|**The NavINST Dataset for Multi-Sensor Autonomous Navigation**|Paulo Ricardo Marques de Araujo et.al.|[2502.13863](http://arxiv.org/abs/2502.13863)|null|
 
-<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250531>back to top</a>)</p>
 
 ## Simulation
 
@@ -1388,7 +1403,7 @@
 |**2025-01-27**|**LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models**|Yuewen Mei et.al.|[2501.15850](http://arxiv.org/abs/2501.15850)|null|
 |**2025-01-24**|**A Data-driven Dynamic Temporal Correlation Modeling Framework for Renewable Energy Scenario Generation**|Xiaochong Dong et.al.|[2501.14233](http://arxiv.org/abs/2501.14233)|null|
 
-<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250531>back to top</a>)</p>
 
 ## Perception
 
@@ -1441,7 +1456,7 @@
 |**2024-12-03**|**Redundant Queries in DETR-Based 3D Detection Methods: Unnecessary and Prunable**|Lizhen Xu et.al.|[2412.02054](http://arxiv.org/abs/2412.02054)|null|
 |**2024-12-07**|**BEV-SUSHI: Multi-Target Multi-Camera 3D Detection and Tracking in Bird's-Eye View**|Yizhou Wang et.al.|[2412.00692](http://arxiv.org/abs/2412.00692)|null|
 
-<p align=right>(<a href=#updated-on-20250530>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250531>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
