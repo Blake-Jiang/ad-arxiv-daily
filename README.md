@@ -1,4 +1,4 @@
-## Updated on 2025.07.10
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-09**|**Robust signal decompositions on the circle**|Aral Kose et.al.|[2507.07007](http://arxiv.org/abs/2507.07007)|null|
+|**2025-07-09**|**Bounomodes: the grazing ox algorithm for exploration of clustered anomalies**|Samuel Matloob et.al.|[2507.06960](http://arxiv.org/abs/2507.06960)|null|
+|**2025-07-09**|**A nonlinear dead-time compensation method for path tracking control**|Karin Festl et.al.|[2507.06935](http://arxiv.org/abs/2507.06935)|null|
+|**2025-07-09**|**Mathematical Modelling of Oscillatory Dynamics in Circular Traffic Systems**|Craig S Wright et.al.|[2507.06702](http://arxiv.org/abs/2507.06702)|null|
+|**2025-07-08**|**VisioPath: Vision-Language Enhanced Model Predictive Control for Safe Autonomous Navigation in Mixed Traffic**|Shanting Wang et.al.|[2507.06441](http://arxiv.org/abs/2507.06441)|null|
+|**2025-07-08**|**Solving the Constrained Random Disambiguation Path Problem via Lagrangian Relaxation and Graph Reduction**|Li Zhou et.al.|[2507.06346](http://arxiv.org/abs/2507.06346)|null|
 |**2025-07-08**|**AURA-CVC: Autonomous Ultrasound-guided Robotic Assistance for Central Venous Catheterization**|Deepak Raina et.al.|[2507.05979](http://arxiv.org/abs/2507.05979)|null|
 |**2025-07-08**|**Comparison of Path Planning Algorithms for Autonomous Vehicle Navigation Using Satellite and Airborne LiDAR Data**|Chang Liu et.al.|[2507.05884](http://arxiv.org/abs/2507.05884)|null|
 |**2025-07-08**|**Hierarchical Task Offloading for UAV-Assisted Vehicular Edge Computing via Deep Reinforcement Learning**|Hongbao Li et.al.|[2507.05722](http://arxiv.org/abs/2507.05722)|null|
@@ -586,12 +592,13 @@
 |**2025-02-13**|**Real-Time Fast Marching Tree for Mobile Robot Motion Planning in Dynamic Environments**|Jefferson Silveira et.al.|[2502.09556](http://arxiv.org/abs/2502.09556)|null|
 |**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393](http://arxiv.org/abs/2502.09393)|null|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-09**|**ILNet: Trajectory Prediction with Inverse Learning Attention for Enhancing Intention Capture**|Mingjin Zeng et.al.|[2507.06531](http://arxiv.org/abs/2507.06531)|null|
 |**2025-06-30**|**User Behavior Prediction as a Generic, Robust, Scalable, and Low-Cost Evaluation Strategy for Estimating Generalization in LLMs**|Sougata Saha et.al.|[2507.05266](http://arxiv.org/abs/2507.05266)|null|
 |**2025-07-07**|**From Marginal to Joint Predictions: Evaluating Scene-Consistent Trajectory Prediction Approaches for Automated Driving**|Fabian Konstantinidis et.al.|[2507.05254](http://arxiv.org/abs/2507.05254)|null|
 |**2025-07-07**|**PRING: Rethinking Protein-Protein Interaction Prediction from Pairs to Graphs**|Xinzhe Zheng et.al.|[2507.05101](http://arxiv.org/abs/2507.05101)|null|
@@ -602,6 +609,7 @@
 |**2025-07-03**|**Grounding Intelligence in Movement**|Melanie Segado et.al.|[2507.02771](http://arxiv.org/abs/2507.02771)|null|
 |**2025-07-03**|**Hierarchical Multi-Label Contrastive Learning for Protein-Protein Interaction Prediction Across Organisms**|Shiyi Liu et.al.|[2507.02724](http://arxiv.org/abs/2507.02724)|null|
 |**2025-07-03**|**Improving Consistency in Vehicle Trajectory Prediction Through Preference Optimization**|Caio Azevedo et.al.|[2507.02406](http://arxiv.org/abs/2507.02406)|null|
+|**2025-07-09**|**Test-Time Scaling with Reflective Generative Model**|Zixiao Wang et.al.|[2507.01951](http://arxiv.org/abs/2507.01951)|null|
 |**2025-07-06**|**AMD: Adaptive Momentum and Decoupled Contrastive Learning Framework for Robust Long-Tail Trajectory Prediction**|Bin Rao et.al.|[2507.01801](http://arxiv.org/abs/2507.01801)|null|
 |**2025-07-02**|**LANet: A Lane Boundaries-Aware Approach For Robust Trajectory Prediction**|Muhammad Atta ur Rahman et.al.|[2507.01308](http://arxiv.org/abs/2507.01308)|null|
 |**2025-06-29**|**Mode Collapse Happens: Evaluating Critical Interactions in Joint Trajectory Prediction Models**|Maarten Hugenholtz et.al.|[2506.23164](http://arxiv.org/abs/2506.23164)|null|
@@ -786,12 +794,20 @@
 |**2025-02-07**|**The $α$ -Alternator: Dynamic Adaptation To Varying Noise Levels In Sequences Using The Vendi Score For Improved Robustness and Performance**|Mohammad Reza Rezaei et.al.|[2502.04593](http://arxiv.org/abs/2502.04593)|null|
 |**2025-02-05**|**Predicting 3D Motion from 2D Video for Behavior-Based VR Biometrics**|Mingjun Li et.al.|[2502.04361](http://arxiv.org/abs/2502.04361)|null|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-09**|**Anti-Interference Diffractive Deep Neural Networks for Multi-Object Recognition**|Zhiqi Huang et.al.|[2507.06978](http://arxiv.org/abs/2507.06978)|null|
+|**2025-07-10**|**Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting**|Fei Teng et.al.|[2507.06971](http://arxiv.org/abs/2507.06971)|null|
+|**2025-07-09**|**A nonlinear dead-time compensation method for path tracking control**|Karin Festl et.al.|[2507.06935](http://arxiv.org/abs/2507.06935)|null|
+|**2025-07-09**|**Robust and Safe Traffic Sign Recognition using N-version with Weighted Voting**|Linyun Gao et.al.|[2507.06907](http://arxiv.org/abs/2507.06907)|null|
+|**2025-07-09**|**SemRaFiner: Panoptic Segmentation in Sparse and Noisy Radar Point Clouds**|Matthias Zeller et.al.|[2507.06906](http://arxiv.org/abs/2507.06906)|null|
+|**2025-07-09**|**Mathematical Modelling of Oscillatory Dynamics in Circular Traffic Systems**|Craig S Wright et.al.|[2507.06702](http://arxiv.org/abs/2507.06702)|null|
+|**2025-07-09**|**EA: An Event Autoencoder for High-Speed Vision Sensing**|Riadul Islam et.al.|[2507.06459](http://arxiv.org/abs/2507.06459)|null|
+|**2025-07-08**|**VisioPath: Vision-Language Enhanced Model Predictive Control for Safe Autonomous Navigation in Mixed Traffic**|Shanting Wang et.al.|[2507.06441](http://arxiv.org/abs/2507.06441)|null|
 |**2025-07-08**|**Fast and Accurate Collision Probability Estimation for Autonomous Vehicles using Adaptive Sigma-Point Sampling**|Charles Champagne Cossette et.al.|[2507.06149](http://arxiv.org/abs/2507.06149)|null|
 |**2025-07-08**|**MCAM: Multimodal Causal Analysis Model for Ego-Vehicle-Level Driving Video Understanding**|Tongtong Cheng et.al.|[2507.06072](http://arxiv.org/abs/2507.06072)|null|
 |**2025-07-08**|**RTGPU: Real-Time Computing with Graphics Processing Units**|Atiyeh Gheibi-Fetrat et.al.|[2507.06069](http://arxiv.org/abs/2507.06069)|null|
@@ -1736,12 +1752,13 @@
 |**2025-02-19**|**MEX: Memory-efficient Approach to Referring Multi-Object Tracking**|Huu-Thien Tran et.al.|[2502.13875](http://arxiv.org/abs/2502.13875)|null|
 |**2025-02-19**|**The NavINST Dataset for Multi-Sensor Autonomous Navigation**|Paulo Ricardo Marques de Araujo et.al.|[2502.13863](http://arxiv.org/abs/2502.13863)|null|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## Simulation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-09**|**Toward a Full-Stack Co-Simulation Platform for Testing of Automated Driving Systems**|Dong Bi et.al.|[2507.06884](http://arxiv.org/abs/2507.06884)|null|
 |**2025-07-05**|**Driver-Net: Multi-Camera Fusion for Assessing Driver Take-Over Readiness in Automated Vehicles**|Mahdi Rezaei et.al.|[2507.04139](http://arxiv.org/abs/2507.04139)|null|
 |**2025-07-05**|**ArmGS: Composite Gaussian Appearance Refinement for Modeling Dynamic Urban Environments**|Guile Wu et.al.|[2507.03886](http://arxiv.org/abs/2507.03886)|null|
 |**2025-07-02**|**Machine Learning Based Stress Testing Framework for Indian Financial Market Portfolios**|Vidya Sagar G et.al.|[2507.02011](http://arxiv.org/abs/2507.02011)|null|
@@ -1865,7 +1882,7 @@
 |**2025-01-27**|**LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models**|Yuewen Mei et.al.|[2501.15850](http://arxiv.org/abs/2501.15850)|null|
 |**2025-01-24**|**A Data-driven Dynamic Temporal Correlation Modeling Framework for Renewable Energy Scenario Generation**|Xiaochong Dong et.al.|[2501.14233](http://arxiv.org/abs/2501.14233)|null|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 ## Perception
 
@@ -1925,7 +1942,7 @@
 |**2024-12-03**|**Redundant Queries in DETR-Based 3D Detection Methods: Unnecessary and Prunable**|Lizhen Xu et.al.|[2412.02054](http://arxiv.org/abs/2412.02054)|null|
 |**2024-12-07**|**BEV-SUSHI: Multi-Target Multi-Camera 3D Detection and Tracking in Bird's-Eye View**|Yizhou Wang et.al.|[2412.00692](http://arxiv.org/abs/2412.00692)|null|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
