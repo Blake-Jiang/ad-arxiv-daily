@@ -1,4 +1,4 @@
-## Updated on 2025.07.20
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**Context-Aware Behavior Learning with Heuristic Motion Memory for Underwater Manipulation**|Markus Buchholz et.al.|[2507.14099](http://arxiv.org/abs/2507.14099)|null|
+|**2025-07-18**|**A multi-strategy improved snake optimizer for three-dimensional UAV path planning and engineering problems**|Genliang Li et.al.|[2507.14043](http://arxiv.org/abs/2507.14043)|null|
+|**2025-07-18**|**NeHMO: Neural Hamilton-Jacobi Reachability Learning for Decentralized Safe Multi-Agent Motion Planning**|Qingyi Chen et.al.|[2507.13940](http://arxiv.org/abs/2507.13940)|null|
+|**2025-07-18**|**Scalable Submodular Policy Optimization via Pruned Submodularity Graph**|Aditi Anand et.al.|[2507.13834](http://arxiv.org/abs/2507.13834)|null|
+|**2025-07-18**|**Improved particle swarm optimization algorithm: multi-target trajectory optimization for swarm drones**|Minze Li et.al.|[2507.13647](http://arxiv.org/abs/2507.13647)|null|
+|**2025-07-18**|**Conformal Contraction for Robust Nonlinear Control with Distribution-Free Uncertainty Quantification**|Sihang Wei et.al.|[2507.13613](http://arxiv.org/abs/2507.13613)|null|
 |**2025-07-17**|**Signal Temporal Logic Compliant Co-design of Planning and Control**|Manas Sashank Juvvi et.al.|[2507.13225](http://arxiv.org/abs/2507.13225)|null|
 |**2025-07-17**|**Rethinking the Embodied Gap in Vision-and-Language Navigation: A Holistic Study of Physical and Visual Disparities**|Liuyi Wang et.al.|[2507.13019](http://arxiv.org/abs/2507.13019)|null|
 |**2025-07-17**|**Non-differentiable Reward Optimization for Diffusion-based Autonomous Motion Planning**|Giwon Lee et.al.|[2507.12977](http://arxiv.org/abs/2507.12977)|null|
@@ -630,12 +636,13 @@
 |**2025-02-13**|**Real-Time Fast Marching Tree for Mobile Robot Motion Planning in Dynamic Environments**|Jefferson Silveira et.al.|[2502.09556](http://arxiv.org/abs/2502.09556)|null|
 |**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393](http://arxiv.org/abs/2502.09393)|null|
 
-<p align=right>(<a href=#updated-on-20250720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**InSyn: Modeling Complex Interactions for Pedestrian Trajectory Prediction**|Kaiyuan Zhai et.al.|[2507.13397](http://arxiv.org/abs/2507.13397)|null|
 |**2025-07-17**|**A Conceptual Framework for Requirements Engineering of Pretrained-Model-Enabled Systems**|Dongming Jin et.al.|[2507.13095](http://arxiv.org/abs/2507.13095)|null|
 |**2025-07-16**|**Counting $D_4$ -field extensions by multi-invariants**|Willem Hansen et.al.|[2507.12342](http://arxiv.org/abs/2507.12342)|null|
 |**2025-07-16**|**Foresight in Motion: Reinforcing Trajectory Prediction with Reward Heuristics**|Muleilan Pei et.al.|[2507.12083](http://arxiv.org/abs/2507.12083)|null|
@@ -842,12 +849,20 @@
 |**2025-02-07**|**The $α$ -Alternator: Dynamic Adaptation To Varying Noise Levels In Sequences Using The Vendi Score For Improved Robustness and Performance**|Mohammad Reza Rezaei et.al.|[2502.04593](http://arxiv.org/abs/2502.04593)|null|
 |**2025-02-05**|**Predicting 3D Motion from 2D Video for Behavior-Based VR Biometrics**|Mingjun Li et.al.|[2502.04361](http://arxiv.org/abs/2502.04361)|null|
 
-<p align=right>(<a href=#updated-on-20250720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**Preference-based Multi-Objective Reinforcement Learning**|Ni Mu et.al.|[2507.14066](http://arxiv.org/abs/2507.14066)|null|
+|**2025-07-18**|**Architecting Human-AI Cocreation for Technical Services -- Interaction Modes and Contingency Factors**|Jochen Wulf et.al.|[2507.14034](http://arxiv.org/abs/2507.14034)|null|
+|**2025-07-18**|**Enhancing LiDAR Point Features with Foundation Model Priors for 3D Object Detection**|Yujian Mo et.al.|[2507.13899](http://arxiv.org/abs/2507.13899)|null|
+|**2025-07-18**|**Depth3DLane: Fusing Monocular 3D Lane Detection with Self-Supervised Monocular Depth Estimation**|Max van den Hoven et.al.|[2507.13857](http://arxiv.org/abs/2507.13857)|null|
+|**2025-07-18**|**One Step Closer: Creating the Future to Boost Monocular Semantic Scene Completion**|Haoang Lu et.al.|[2507.13801](http://arxiv.org/abs/2507.13801)|null|
+|**2025-07-18**|**AGENTS-LLM: Augmentative GENeration of Challenging Traffic Scenarios with an Agentic LLM Framework**|Yu Yao et.al.|[2507.13729](http://arxiv.org/abs/2507.13729)|null|
+|**2025-07-18**|**Testing Autonomous Driving Systems -- What Really Matters and What Doesn't**|Changwen Li et.al.|[2507.13661](http://arxiv.org/abs/2507.13661)|null|
+|**2025-07-17**|**CaSTFormer: Causal Spatio-Temporal Transformer for Driving Intention Prediction**|Sirui Wang et.al.|[2507.13425](http://arxiv.org/abs/2507.13425)|null|
 |**2025-07-17**|**Orbis: Overcoming Challenges of Long-Horizon Prediction in Driving World Models**|Arian Mousakhan et.al.|[2507.13162](http://arxiv.org/abs/2507.13162)|null|
 |**2025-07-17**|**Channel-wise Motion Features for Efficient Motion Segmentation**|Riku Inoue et.al.|[2507.13082](http://arxiv.org/abs/2507.13082)|null|
 |**2025-07-17**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh et.al.|[2507.12911](http://arxiv.org/abs/2507.12911)|null|
@@ -1850,7 +1865,7 @@
 |**2025-02-19**|**MEX: Memory-efficient Approach to Referring Multi-Object Tracking**|Huu-Thien Tran et.al.|[2502.13875](http://arxiv.org/abs/2502.13875)|null|
 |**2025-02-19**|**The NavINST Dataset for Multi-Sensor Autonomous Navigation**|Paulo Ricardo Marques de Araujo et.al.|[2502.13863](http://arxiv.org/abs/2502.13863)|null|
 
-<p align=right>(<a href=#updated-on-20250720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Simulation
 
@@ -1985,12 +2000,13 @@
 |**2025-01-27**|**LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models**|Yuewen Mei et.al.|[2501.15850](http://arxiv.org/abs/2501.15850)|null|
 |**2025-01-24**|**A Data-driven Dynamic Temporal Correlation Modeling Framework for Renewable Energy Scenario Generation**|Xiaochong Dong et.al.|[2501.14233](http://arxiv.org/abs/2501.14233)|null|
 
-<p align=right>(<a href=#updated-on-20250720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Perception
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-06**|**Just Add Geometry: Gradient-Free Open-Vocabulary 3D Detection Without Human-in-the-Loop**|Atharv Goel et.al.|[2507.13363](http://arxiv.org/abs/2507.13363)|null|
 |**2025-07-12**|**Stereo-based 3D Anomaly Object Detection for Autonomous Driving: A New Dataset and Baseline**|Shiyi Mu et.al.|[2507.09214](http://arxiv.org/abs/2507.09214)|null|
 |**2025-06-18**|**BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion**|Yuqing Lan et.al.|[2506.15610](http://arxiv.org/abs/2506.15610)|null|
 |**2025-06-14**|**MonoVQD: Monocular 3D Object Detection with Variational Query Denoising and Self-Distillation**|Kiet Dang Vu et.al.|[2506.14835](http://arxiv.org/abs/2506.14835)|null|
@@ -2046,7 +2062,7 @@
 |**2024-12-03**|**Redundant Queries in DETR-Based 3D Detection Methods: Unnecessary and Prunable**|Lizhen Xu et.al.|[2412.02054](http://arxiv.org/abs/2412.02054)|null|
 |**2024-12-07**|**BEV-SUSHI: Multi-Target Multi-Camera 3D Detection and Tracking in Bird's-Eye View**|Yizhou Wang et.al.|[2412.00692](http://arxiv.org/abs/2412.00692)|null|
 
-<p align=right>(<a href=#updated-on-20250720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
