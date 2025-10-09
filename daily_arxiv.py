@@ -123,23 +123,32 @@ def get_daily_papers(topic,query="slam", max_results=2):
             paper_key = paper_id[0:ver_pos]
         paper_url = arxiv_url + 'abs/' + paper_key
 
+        # source code link
+        repo_url = None
         try:
-            # source code link
-            r = requests.get(code_url).json()
-            repo_url = None
-            if "official" in r and r["official"]:
-                repo_url = r["official"]["url"]
-            # TODO: not found, two more chances
-            # else:
-            #    repo_url = get_code_link(paper_title)
-            #    if repo_url is None:
-            #        repo_url = get_code_link(paper_key)
+            # Layer 1: Query Papers with Code API for the official implementation
+            r = requests.get(code_url, timeout=10)
+            if r.status_code == 200:
+                r_json = r.json()
+                if "official" in r_json and r_json["official"]:
+                    repo_url = r_json["official"]["url"]
+        except Exception as e:
+            logging.warning(f"Papers with Code API failed for {paper_key}: {e}")
+        
+        # Layer 2 & 3: Fallback to GitHub search (currently disabled to avoid rate limits)
+        # Uncomment the following lines if you want to enable GitHub search fallback
+        # if repo_url is None:
+        #     repo_url = get_code_link(paper_title)
+        #     if repo_url is None:
+        #         repo_url = get_code_link(paper_key)
+        
+        # Add paper to content regardless of whether we found a code link
+        try:
             if repo_url is not None:
                 content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
                        update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
                 content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
                        update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
-
             else:
                 content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
                        update_time,paper_title,paper_first_author,paper_key,paper_url)
