@@ -31,6 +31,191 @@
 |**2025-10-05**|**HEHA: Hierarchical Planning for Heterogeneous Multi-Robot Exploration of Unknown Environments**|Longrui Yang et.al.|[2510.04161](http://arxiv.org/abs/2510.04161)|null|
 |**2025-10-04**|**A Real-Time Framework for Intermediate Map Construction and Kinematically Feasible Off-Road Planning Without OSM**|Otobong Jerome et.al.|[2510.03948](http://arxiv.org/abs/2510.03948)|null|
 |**2025-10-04**|**NoTVLA: Narrowing of Dense Action Trajectories for Generalizable Robot Manipulation**|Zheng Huang et.al.|[2510.03895](http://arxiv.org/abs/2510.03895)|null|
+|**2025-10-04**|**COVER:COverage-VErified Roadmaps for Fixed-time Motion Planning in Continuous Semi-Static Environments**|Niranjan Kumar Ilampooranan et.al.|[2510.03875](http://arxiv.org/abs/2510.03875)|null|
+|**2025-10-04**|**Neural Low-Discrepancy Sequences**|Michael Etienne Van Huffel et.al.|[2510.03745](http://arxiv.org/abs/2510.03745)|null|
+|**2025-10-04**|**Robust Visual Embodiment: How Robots Discover Their Bodies in Real Environments**|Salim Rezvani et.al.|[2510.03677](http://arxiv.org/abs/2510.03677)|null|
+|**2025-10-04**|**Safety-Oriented Dynamic Path Planning for Automated Vehicles**|Mostafa Emam et.al.|[2510.03640](http://arxiv.org/abs/2510.03640)|null|
+|**2025-10-03**|**Shape-Space Graphs: Fast and Collision-Free Path Planning for Soft Robots**|Carina Veil et.al.|[2510.03547](http://arxiv.org/abs/2510.03547)|null|
+|**2025-10-03**|**Distributed Connectivity Maintenance and Recovery for Quadrotor Motion Planning**|Yutong Wang et.al.|[2510.03504](http://arxiv.org/abs/2510.03504)|null|
+|**2025-10-03**|**Destination-to-Chutes Task Mapping Optimization for Multi-Robot Coordination in Robotic Sorting Systems**|Yulun Zhang et.al.|[2510.03472](http://arxiv.org/abs/2510.03472)|null|
+|**2025-10-03**|**Warm-Starting Optimization-Based Motion Planning for Robotic Manipulators via Point Cloud-Conditioned Flow Matching**|Sibo Tian et.al.|[2510.03460](http://arxiv.org/abs/2510.03460)|null|
+|**2025-10-03**|**Optimal Smooth Coverage Trajectory Planning for Quadrotors in Cluttered Environment**|Duanjiao Li et.al.|[2510.03169](http://arxiv.org/abs/2510.03169)|null|
+|**2025-10-03**|**Long-Term Human Motion Prediction Using Spatio-Temporal Maps of Dynamics**|Yufei Zhu et.al.|[2510.03031](http://arxiv.org/abs/2510.03031)|null|
+|**2025-10-03**|**3D-CovDiffusion: 3D-Aware Diffusion Policy for Coverage Path Planning**|Chenyuan Chen et.al.|[2510.03011](http://arxiv.org/abs/2510.03011)|null|
+|**2025-10-03**|**Point Cloud-Based Control Barrier Functions for Model Predictive Control in Safety-Critical Navigation of Autonomous Mobile Robots**|Faduo Liang et.al.|[2510.02885](http://arxiv.org/abs/2510.02885)|null|
+|**2025-10-03**|**Work Zones challenge VLM Trajectory Planning: Toward Mitigation and Robust Autonomous Driving**|Yifan Liao et.al.|[2510.02803](http://arxiv.org/abs/2510.02803)|null|
+|**2025-10-03**|**A $1000\times$ Faster LLM-enhanced Algorithm For Path Planning in Large-scale Grid Maps**|Junlin Zeng et.al.|[2510.02716](http://arxiv.org/abs/2510.02716)|null|
+|**2025-10-03**|**A Trajectory Generator for High-Density Traffic and Diverse Agent-Interaction Scenarios**|Ruining Yang et.al.|[2510.02627](http://arxiv.org/abs/2510.02627)|null|
+|**2025-10-02**|**Efficient Optimal Path Planning in Dynamic Environments Using Koopman MPC**|Mohammad Abtahi et.al.|[2510.02584](http://arxiv.org/abs/2510.02584)|null|
+|**2025-10-02**|**ERUPT: An Open Toolkit for Interfacing with Robot Motion Planners in Extended Reality**|Isaac Ngui et.al.|[2510.02464](http://arxiv.org/abs/2510.02464)|null|
+|**2025-10-02**|**Like Playing a Video Game: Spatial-Temporal Optimization of Foot Trajectories for Controlled Football Kicking in Bipedal Robots**|Wanyue Li et.al.|[2510.01843](http://arxiv.org/abs/2510.01843)|null|
+|**2025-10-02**|**Latency-aware Multimodal Federated Learning over UAV Networks**|Shaba Shaon et.al.|[2510.01717](http://arxiv.org/abs/2510.01717)|null|
+|**2025-10-02**|**Symskill: Symbol and Skill Co-Invention for Data-Efficient and Real-Time Long-Horizon Manipulation**|Yifei Simon Shao et.al.|[2510.01661](http://arxiv.org/abs/2510.01661)|null|
+|**2025-10-01**|**VENTURA: Adapting Image Diffusion Models for Unified Task Conditioned Navigation**|Arthur Zhang et.al.|[2510.01388](http://arxiv.org/abs/2510.01388)|null|
+|**2025-10-01**|**Safe Motion Planning and Control Using Predictive and Adaptive Barrier Methods for Autonomous Surface Vessels**|Alejandro Gonzalez-Garcia et.al.|[2510.01357](http://arxiv.org/abs/2510.01357)|null|
+|**2025-10-01**|**ROSplane 2.0: A Fixed-Wing Autopilot for Research**|Ian Reid et.al.|[2510.01041](http://arxiv.org/abs/2510.01041)|null|
+|**2025-10-01**|**Collaborative-Distilled Diffusion Models (CDDM) for Accelerated and Lightweight Trajectory Prediction**|Bingzhang Wang et.al.|[2510.00627](http://arxiv.org/abs/2510.00627)|null|
+|**2025-10-01**|**What Did I Learn? Operational Competence Assessment for AI-Based Trajectory Planners**|Michiel Braat et.al.|[2510.00619](http://arxiv.org/abs/2510.00619)|null|
+|**2025-10-01**|**From Human Hands to Robot Arms: Manipulation Skills Transfer via Trajectory Alignment**|Han Zhou et.al.|[2510.00491](http://arxiv.org/abs/2510.00491)|null|
+|**2025-10-01**|**Conflict-Based Search as a Protocol: A Multi-Agent Motion Planning Protocol for Heterogeneous Agents, Solvers, and Independent Tasks**|Rishi Veerapaneni et.al.|[2510.00425](http://arxiv.org/abs/2510.00425)|null|
+|**2025-09-30**|**A Systematic Study of Large Language Models for Task and Motion Planning With PDDLStream**|Jorge Mendez-Mendez et.al.|[2510.00182](http://arxiv.org/abs/2510.00182)|null|
+|**2025-10-03**|**Less is More: Lean yet Powerful Vision-Language Model for Autonomous Driving**|Sheng Yang et.al.|[2510.00060](http://arxiv.org/abs/2510.00060)|null|
+|**2025-09-30**|**The Trajectory Bundle Method: Unifying Sequential-Convex Programming and Sampling-Based Trajectory Optimization**|Kevin Tracy et.al.|[2509.26575](http://arxiv.org/abs/2509.26575)|null|
+|**2025-09-30**|**Global Optimization Algorithm for Mixed-Integer Nonlinear Programs with Trigonometric Functions**|Christopher Montez et.al.|[2509.26516](http://arxiv.org/abs/2509.26516)|null|
+|**2025-09-30**|**Learning from Hallucinating Critical Points for Navigation in Dynamic Environments**|Saad Abdul Ghani et.al.|[2509.26513](http://arxiv.org/abs/2509.26513)|null|
+|**2025-09-30**|**Contrastive Diffusion Guidance for Spatial Inverse Problems**|Sattwik Basu et.al.|[2509.26489](http://arxiv.org/abs/2509.26489)|null|
+|**2025-09-30**|**Real-time Velocity Profile Optimization for Time-Optimal Maneuvering with Generic Acceleration Constraints**|Mattia Piazza et.al.|[2509.26428](http://arxiv.org/abs/2509.26428)|null|
+|**2025-09-30**|**Kinodynamic Motion Planning for Mobile Robot Navigation across Inconsistent World Models**|Eric R. Damm et.al.|[2509.26339](http://arxiv.org/abs/2509.26339)|null|
+|**2025-09-30**|**Enhancing Connectivity for Emergency Vehicles Through UAV Trajectory and Resource Allocation Optimization**|S. Fatemeh Bozorgi et.al.|[2509.26067](http://arxiv.org/abs/2509.26067)|null|
+|**2025-09-30**|**Conflict-Based Search and Prioritized Planning for Multi-Agent Path Finding Among Movable Obstacles**|Shaoli Hu et.al.|[2509.26050](http://arxiv.org/abs/2509.26050)|null|
+|**2025-09-30**|**Hierarchical Diffusion Motion Planning with Task-Conditioned Uncertainty-Aware Priors**|Amelie Minji Kim et.al.|[2509.25685](http://arxiv.org/abs/2509.25685)|null|
+|**2025-09-29**|**Parallel Heuristic Search as Inference for Actor-Critic Reinforcement Learning Models**|Hanlan Yang et.al.|[2509.25402](http://arxiv.org/abs/2509.25402)|null|
+|**2025-09-29**|**SRMP: Search-Based Robot Motion Planning Library**|Itamar Mishani et.al.|[2509.25352](http://arxiv.org/abs/2509.25352)|null|
+|**2025-09-28**|**Heterogeneous Multi-agent Collaboration in UAV-assisted Mobile Crowdsensing Networks**|Xianyang Deng et.al.|[2509.25261](http://arxiv.org/abs/2509.25261)|null|
+|**2025-09-27**|**BEV-VLM: Trajectory Planning via Unified BEV Abstraction**|Guancheng Chen et.al.|[2509.25249](http://arxiv.org/abs/2509.25249)|null|
+|**2025-09-29**|**CineWild: Balancing Art and Robotics for Ethical Wildlife Documentary Filmmaking**|Pablo Pueyo et.al.|[2509.24921](http://arxiv.org/abs/2509.24921)|null|
+|**2025-09-29**|**PCICF: A Pedestrian Crossing Identification and Classification Framework**|Junyi Gu et.al.|[2509.24386](http://arxiv.org/abs/2509.24386)|null|
+|**2025-09-29**|**Learning to Sample: Reinforcement Learning-Guided Sampling for Autonomous Vehicle Motion Planning**|Korbinian Moller et.al.|[2509.24313](http://arxiv.org/abs/2509.24313)|null|
+|**2025-09-29**|**Towards Tighter Convex Relaxation of Mixed-integer Programs: Leveraging Logic Network Flow for Task and Motion Planning**|Xuan Lin et.al.|[2509.24235](http://arxiv.org/abs/2509.24235)|null|
+|**2025-09-29**|**ViReSkill: Vision-Grounded Replanning with Skill Memory for LLM-Based Planning in Lifelong Robot Learning**|Tomoyuki Kagaya et.al.|[2509.24219](http://arxiv.org/abs/2509.24219)|null|
+|**2025-09-29**|**A Novel Model for 3D Motion Planning for a Generalized Dubins Vehicle with Pitch and Yaw Rate Constraints**|Deepak Prakash Kumar et.al.|[2509.24143](http://arxiv.org/abs/2509.24143)|null|
+|**2025-09-28**|**WireBend-kit: A Computational Design and Fabrication Toolkit for Wirebending Custom 3D Wireframe Structures**|Faraz Faruqi et.al.|[2509.24083](http://arxiv.org/abs/2509.24083)|null|
+|**2025-09-28**|**DA-MMP: Learning Coordinated and Accurate Throwing with Dynamics-Aware Motion Manifold Primitives**|Chi Chu et.al.|[2509.23721](http://arxiv.org/abs/2509.23721)|null|
+|**2025-09-28**|**MDCPP: Multi-robot Dynamic Coverage Path Planning for Workload Adaptation**|Jun Chen et.al.|[2509.23705](http://arxiv.org/abs/2509.23705)|null|
+|**2025-09-28**|**BridgeDrive: Diffusion Bridge Policy for Closed-Loop Trajectory Planning in Autonomous Driving**|Shu Liu et.al.|[2509.23589](http://arxiv.org/abs/2509.23589)|null|
+|**2025-09-27**|**Distributed Multi-Robot Multi-Target Simultaneous Search and Tracking in an Unknown Non-convex Environment**|Jun Chen et.al.|[2509.23308](http://arxiv.org/abs/2509.23308)|null|
+|**2025-09-27**|**A Novel Narrow Region Detector for Sampling-Based Planners' Efficiency: Match Based Passage Identifier**|Yafes Enes Şahiner et.al.|[2509.23288](http://arxiv.org/abs/2509.23288)|null|
+|**2025-09-27**|**Understanding and Enhancing the Planning Capability of Language Models via Multi-Token Prediction**|Qimin Zhong et.al.|[2509.23186](http://arxiv.org/abs/2509.23186)|null|
+|**2025-09-26**|**Empart: Interactive Convex Decomposition for Converting Meshes to Parts**|Brandon Vu et.al.|[2509.22847](http://arxiv.org/abs/2509.22847)|null|
+|**2025-09-26**|**Towards Developing Standards and Guidelines for Robot Grasping and Manipulation Pipelines in the COMPARE Ecosystem**|Huajing Zhao et.al.|[2509.22801](http://arxiv.org/abs/2509.22801)|null|
+|**2025-09-26**|**Self-driving cars: Are we there yet?**|Merve Atasever et.al.|[2509.22754](http://arxiv.org/abs/2509.22754)|null|
+|**2025-09-20**|**Nonlinear Model Predictive Control with Single-Shooting Method for Autonomous Personal Mobility Vehicle**|Rakha Rahmadani Pratama et.al.|[2509.22694](http://arxiv.org/abs/2509.22694)|null|
+|**2025-10-03**|**An Intention-driven Lane Change Framework Considering Heterogeneous Dynamic Cooperation in Mixed-traffic Environment**|Xiaoyun Qiu et.al.|[2509.22550](http://arxiv.org/abs/2509.22550)|null|
+|**2025-09-26**|**Aerial Path Planning for Urban Geometry and Texture Co-Capture**|Weidan Xiong et.al.|[2509.22227](http://arxiv.org/abs/2509.22227)|null|
+|**2025-09-26**|**Generalizing Multi-Objective Search via Objective-Aggregation Functions**|Hadar Peer et.al.|[2509.22085](http://arxiv.org/abs/2509.22085)|null|
+|**2025-09-26**|**FlowDrive: moderated flow matching with data balancing for trajectory planning**|Lingguang Wang et.al.|[2509.21961](http://arxiv.org/abs/2509.21961)|null|
+|**2025-09-26**|**Learnable Conformal Prediction with Context-Aware Nonconformity Functions for Robotic Planning and Perception**|Divake Kumar et.al.|[2509.21955](http://arxiv.org/abs/2509.21955)|null|
+|**2025-09-25**|**\LARGE GMP $^{3}$ : Learning-Driven, Bellman-Guided Trajectory Planning for UAVs in Real-Time on SE(3)**|Babak Salamat et.al.|[2509.21264](http://arxiv.org/abs/2509.21264)|null|
+|**2025-09-25**|**Multi-Robot Vision-Based Task and Motion Planning for EV Battery Disassembly and Sorting**|Abdelaziz Shaarawy et.al.|[2509.21020](http://arxiv.org/abs/2509.21020)|null|
+|**2025-09-25**|**Digital Twin-Guided Robot Path Planning: A Beta-Bernoulli Fusion with Large Language Model as a Sensor**|Mani Amani et.al.|[2509.20709](http://arxiv.org/abs/2509.20709)|null|
+|**2025-09-25**|**Efficient Construction of Implicit Surface Models From a Single Image for Motion Generation**|Wei-Teng Chu et.al.|[2509.20681](http://arxiv.org/abs/2509.20681)|null|
+|**2025-09-24**|**Uncertainty-Aware Active Source Tracking of Marine Pollution using Unmanned Surface Vehicles**|Song Ma et.al.|[2509.20593](http://arxiv.org/abs/2509.20593)|null|
+|**2025-09-24**|**Boosting Zero-Shot VLN via Abstract Obstacle Map-Based Waypoint Prediction with TopoGraph-and-VisitInfo-Aware Prompting**|Boqi Li et.al.|[2509.20499](http://arxiv.org/abs/2509.20499)|null|
+|**2025-09-24**|**BBoE: Leveraging Bundle of Edges for Kinodynamic Bidirectional Motion Planning**|Srikrishna Bangalore Raghu et.al.|[2509.20333](http://arxiv.org/abs/2509.20333)|null|
+|**2025-09-24**|**Certified Learning-Enabled Noise-Aware Motion Planning for Urban Air Mobility**|Jaejeong Park et.al.|[2509.20306](http://arxiv.org/abs/2509.20306)|null|
+|**2025-09-24**|**Parse-Augment-Distill: Learning Generalizable Bimanual Visuomotor Policies from Single Human Video**|Georgios Tziafas et.al.|[2509.20286](http://arxiv.org/abs/2509.20286)|null|
+|**2025-09-24**|**Trajectory Planning Using Safe Ellipsoidal Corridors as Projections of Orthogonal Trust Regions**|Akshay Jaitly et.al.|[2509.19734](http://arxiv.org/abs/2509.19734)|null|
+|**2025-09-23**|**Look as You Leap: Planning Simultaneous Motion and Perception for High-DOF Robots**|Qingxi Meng et.al.|[2509.19610](http://arxiv.org/abs/2509.19610)|null|
+|**2025-09-23**|**Agentic Scene Policies: Unifying Space, Semantics, and Affordances for Robot Action**|Sacha Morin et.al.|[2509.19571](http://arxiv.org/abs/2509.19571)|null|
+|**2025-09-23**|**Stochastic Path Planning in Correlated Obstacle Fields**|Li Zhou et.al.|[2509.19559](http://arxiv.org/abs/2509.19559)|null|
+|**2025-09-23**|**Supercomputing for High-speed Avoidance and Reactive Planning in Robots**|Kieran S. Lachmansingh et.al.|[2509.19486](http://arxiv.org/abs/2509.19486)|null|
+|**2025-09-23**|**Learning Obstacle Avoidance using Double DQN for Quadcopter Navigation**|Nishant Doshi et.al.|[2509.18734](http://arxiv.org/abs/2509.18734)|null|
+|**2025-09-23**|**Distributionally Robust Safe Motion Planning with Contextual Information**|Kaizer Rahaman et.al.|[2509.18666](http://arxiv.org/abs/2509.18666)|null|
+|**2025-09-23**|**Number Adaptive Formation Flight Planning via Affine Deformable Guidance in Narrow Environments**|Yuan Zhou et.al.|[2509.18636](http://arxiv.org/abs/2509.18636)|null|
+|**2025-09-23**|**PIE: Perception and Interaction Enhanced End-to-End Motion Planning for Autonomous Driving**|Chengran Yuan et.al.|[2509.18609](http://arxiv.org/abs/2509.18609)|null|
+|**2025-09-22**|**Haptic Communication in Human-Human and Human-Robot Co-Manipulation**|Katherine H. Allen et.al.|[2509.18327](http://arxiv.org/abs/2509.18327)|null|
+|**2025-09-22**|**GPS Denied IBVS-Based Navigation and Collision Avoidance of UAV Using a Low-Cost RGB Camera**|Xiaoyu Wang et.al.|[2509.17435](http://arxiv.org/abs/2509.17435)|null|
+|**2025-09-22**|**Fast Trajectory Planner with a Reinforcement Learning-based Controller for Robotic Manipulators**|Yongliang Wang et.al.|[2509.17381](http://arxiv.org/abs/2509.17381)|null|
+|**2025-09-21**|**CoPlanner: An Interactive Motion Planner with Contingency-Aware Diffusion for Autonomous Driving**|Ruiguo Zhong et.al.|[2509.17080](http://arxiv.org/abs/2509.17080)|null|
+|**2025-09-20**|**Robustly Constrained Dynamic Games for Uncertain Nonlinear Dynamics**|Shuyu Zhan et.al.|[2509.16826](http://arxiv.org/abs/2509.16826)|null|
+|**2025-09-19**|**Dynamic Objects Relocalization in Changing Environments with Flow Matching**|Francesco Argenziano et.al.|[2509.16398](http://arxiv.org/abs/2509.16398)|null|
+|**2025-09-19**|**SMART: Scalable Multi-Agent Reasoning and Trajectory Planning in Dense Environments**|Heye Huang et.al.|[2509.15737](http://arxiv.org/abs/2509.15737)|null|
+|**2025-09-19**|**ORB: Operating Room Bot, Automating Operating Room Logistics through Mobile Manipulation**|Jinkai Qiu et.al.|[2509.15600](http://arxiv.org/abs/2509.15600)|null|
+|**2025-09-18**|**Energy-Constrained Navigation for Planetary Rovers under Hybrid RTG-Solar Power**|Tianxin Hu et.al.|[2509.15062](http://arxiv.org/abs/2509.15062)|null|
+|**2025-09-26**|**Multi-CAP: A Multi-Robot Connectivity-Aware Hierarchical Coverage Path Planning Algorithm for Unknown Environments**|Zongyuan Shen et.al.|[2509.14941](http://arxiv.org/abs/2509.14941)|null|
+|**2025-09-18**|**STEP: Structured Training and Evaluation Platform for benchmarking trajectory prediction models**|Julian F. Schumann et.al.|[2509.14801](http://arxiv.org/abs/2509.14801)|null|
+|**2025-09-18**|**Realizing Metric Spaces with Convex Obstacles**|Sándor Kisfaludi-Bak et.al.|[2509.14709](http://arxiv.org/abs/2509.14709)|null|
+|**2025-09-18**|**Dual-Arm Hierarchical Planning for Laboratory Automation: Vibratory Sieve Shaker Operations**|Haoran Xiao et.al.|[2509.14531](http://arxiv.org/abs/2509.14531)|null|
+|**2025-09-17**|**FlowDrive: Energy Flow Field for End-to-End Autonomous Driving**|Hao Jiang et.al.|[2509.14303](http://arxiv.org/abs/2509.14303)|null|
+|**2025-09-17**|**A Task Equalization Allocation Algorithm Incorporating Blocking Estimation and Resource Similarity Analysis for Vehicle Control Real-Time Systems**|Qianlong Duan et.al.|[2509.14086](http://arxiv.org/abs/2509.14086)|null|
+|**2025-09-19**|**FlightDiffusion: Revolutionising Autonomous Drone Training with Diffusion Models Generating FPV Video**|Valerii Serpiva et.al.|[2509.14082](http://arxiv.org/abs/2509.14082)|null|
+|**2025-09-17**|**Language Conditioning Improves Accuracy of Aircraft Goal Prediction in Untowered Airspace**|Sundhar Vinodh Sangeetha et.al.|[2509.14063](http://arxiv.org/abs/2509.14063)|null|
+|**2025-09-19**|**Large Language Model-Empowered Decision Transformer for UAV-Enabled Data Collection**|Zhixion Chen et.al.|[2509.13934](http://arxiv.org/abs/2509.13934)|null|
+|**2025-09-17**|**MAP: End-to-End Autonomous Driving with Map-Assisted Planning**|Huilin Yin et.al.|[2509.13926](http://arxiv.org/abs/2509.13926)|null|
+|**2025-09-17**|**Repulsive Trajectory Modification and Conflict Resolution for Efficient Multi-Manipulator Motion Planning**|Junhwa Hong et.al.|[2509.13882](http://arxiv.org/abs/2509.13882)|null|
+|**2025-09-17**|**Shell-Type Soft Jig for Holding Objects during Disassembly**|Takuya Kiyokawa et.al.|[2509.13802](http://arxiv.org/abs/2509.13802)|null|
+|**2025-09-17**|**CDFlow: Generative Gradient Flows for Configuration Space Distance Fields via Neural ODEs**|Mengzhu Li et.al.|[2509.13771](http://arxiv.org/abs/2509.13771)|null|
+|**2025-09-16**|**Trajectory Tracking with Reachability-Guided Quadratic Programming and Freeze-Resume**|Hossein Gholampour et.al.|[2509.13501](http://arxiv.org/abs/2509.13501)|null|
+|**2025-09-11**|**Maximizing UAV Cellular Connectivity with Reinforcement Learning for BVLoS Path Planning**|Mehran Behjati et.al.|[2509.13336](http://arxiv.org/abs/2509.13336)|null|
+|**2025-09-16**|**Quasi-static shape control of soft, morphing structures**|Eszter Fehér et.al.|[2509.12916](http://arxiv.org/abs/2509.12916)|null|
+|**2025-09-16**|**Bridging Perception and Planning: Towards End-to-End Planning for Signal Temporal Logic Tasks**|Bowen Ye et.al.|[2509.12813](http://arxiv.org/abs/2509.12813)|null|
+|**2025-09-15**|**VH-Diffuser: Variable Horizon Diffusion Planner for Time-Aware Goal-Conditioned Trajectory Planning**|Ruijia Liu et.al.|[2509.11930](http://arxiv.org/abs/2509.11930)|null|
+|**2025-09-15**|**UniPilot: Enabling GPS-Denied Autonomy Across Embodiments**|Mihir Kulkarni et.al.|[2509.11793](http://arxiv.org/abs/2509.11793)|null|
+|**2025-09-15**|**PaiP: An Operational Aware Interactive Planner for Unknown Cabinet Environments**|Chengjin Wang et.al.|[2509.11516](http://arxiv.org/abs/2509.11516)|null|
+|**2025-09-14**|**Embodied Intelligence in Disassembly: Multimodal Perception Cross-validation and Continual Learning in Neuro-Symbolic TAMP**|Ziwen He et.al.|[2509.11270](http://arxiv.org/abs/2509.11270)|null|
+|**2025-09-14**|**CORB-Planner: Corridor as Observations for RL Planning in High-Speed Flight**|Yechen Zhang et.al.|[2509.11240](http://arxiv.org/abs/2509.11240)|null|
+|**2025-09-14**|**SAMP: Spatial Anchor-based Motion Policy for Collision-Aware Robotic Manipulators**|Kai Chen et.al.|[2509.11185](http://arxiv.org/abs/2509.11185)|null|
+|**2025-09-28**|**Follow-Bench: A Unified Motion Planning Benchmark for Socially-Aware Robot Person Following**|Hanjing Ye et.al.|[2509.10796](http://arxiv.org/abs/2509.10796)|null|
+|**2025-09-12**|**A Survey on LiDAR-based Autonomous Aerial Vehicles**|Yunfan Ren et.al.|[2509.10730](http://arxiv.org/abs/2509.10730)|null|
+|**2025-09-12**|**STL-Based Motion Planning and Uncertainty-Aware Risk Analysis for Human-Robot Collaboration with a Multi-Rotor Aerial Vehicle**|Giuseppe Silano et.al.|[2509.10692](http://arxiv.org/abs/2509.10692)|null|
+|**2025-09-12**|**Optimal Path Planning for Wheel Loader Automation Enabled by Efficient Soil-Tool Interaction Modeling**|Armin Abdolmohammadi et.al.|[2509.10642](http://arxiv.org/abs/2509.10642)|null|
+|**2025-09-12**|**Coordinated Motion Planning of a Wearable Multi-Limb System for Enhanced Human-Robot Interaction**|Chaerim Moon et.al.|[2509.10444](http://arxiv.org/abs/2509.10444)|null|
+|**2025-09-12**|**Physics-informed sensor coverage through structure preserving machine learning**|Benjamin David Shaffer et.al.|[2509.10363](http://arxiv.org/abs/2509.10363)|null|
+|**2025-09-12**|**GundamQ: Multi-Scale Spatio-Temporal Representation Learning for Robust Robot Path Planning**|Yutong Shen et.al.|[2509.10305](http://arxiv.org/abs/2509.10305)|null|
+|**2025-09-11**|**ObjectReact: Learning Object-Relative Control for Visual Navigation**|Sourav Garg et.al.|[2509.09594](http://arxiv.org/abs/2509.09594)|null|
+|**2025-09-11**|**BagIt! An Adaptive Dual-Arm Manipulation of Fabric Bags for Object Bagging**|Peng Zhou et.al.|[2509.09484](http://arxiv.org/abs/2509.09484)|null|
+|**2025-09-11**|**Swept Volume Computation with Enhanced Geometric Detail Preservation**|Pengfei Wang et.al.|[2509.09325](http://arxiv.org/abs/2509.09325)|null|
+|**2025-09-16**|**Occupancy-aware Trajectory Planning for Autonomous Valet Parking in Uncertain Dynamic Environments**|Farhad Nawaz et.al.|[2509.09206](http://arxiv.org/abs/2509.09206)|null|
+|**2025-09-11**|**KoopMotion: Learning Almost Divergence Free Koopman Flow Fields for Motion Planning**|Alice Kate Li et.al.|[2509.09074](http://arxiv.org/abs/2509.09074)|null|
+|**2025-09-11**|**Joint Model-based Model-free Diffusion for Planning with Constraints**|Wonsuhk Jung et.al.|[2509.08775](http://arxiv.org/abs/2509.08775)|null|
+|**2025-09-10**|**TANGO: Traversability-Aware Navigation with Local Metric Control for Topological Goals**|Stefan Podgorski et.al.|[2509.08699](http://arxiv.org/abs/2509.08699)|null|
+|**2025-09-10**|**FMT $^{x}$ : An Efficient and Asymptotically Optimal Extension of the Fast Marching Tree for Dynamic Replanning**|Soheil Espahbodini Nia et.al.|[2509.08521](http://arxiv.org/abs/2509.08521)|null|
+|**2025-09-10**|**CLAP: Clustering to Localize Across n Possibilities, A Simple, Robust Geometric Approach in the Presence of Symmetries**|Gabriel I. Fernandez et.al.|[2509.08495](http://arxiv.org/abs/2509.08495)|null|
+|**2025-09-10**|**Dual-Stage Safe Herding Framework for Adversarial Attacker in Dynamic Environment**|Wenqing Wang et.al.|[2509.08460](http://arxiv.org/abs/2509.08460)|null|
+|**2025-09-10**|**PegasusFlow: Parallel Rolling-Denoising Score Sampling for Robot Diffusion Planner Flow Matching**|Lei Ye et.al.|[2509.08435](http://arxiv.org/abs/2509.08435)|null|
+|**2025-09-09**|**Diffusion-Guided Multi-Arm Motion Planning**|Viraj Parimi et.al.|[2509.08160](http://arxiv.org/abs/2509.08160)|null|
+|**2025-09-09**|**Risk-Bounded Multi-Agent Visual Navigation via Dynamic Budget Allocation**|Viraj Parimi et.al.|[2509.08157](http://arxiv.org/abs/2509.08157)|null|
+|**2025-09-09**|**Mean Field Game-Based Interactive Trajectory Planning Using Physics-Inspired Unified Potential Fields**|Zhen Tian et.al.|[2509.08147](http://arxiv.org/abs/2509.08147)|null|
+|**2025-09-09**|**Collaborative Exploration with a Marsupial Ground-Aerial Robot Team through Task-Driven Map Compression**|Angelos Zacharia et.al.|[2509.07655](http://arxiv.org/abs/2509.07655)|null|
+|**2025-09-09**|**Decoding RobKiNet: Insights into Efficient Training of Robotic Kinematics Informed Neural Network**|Yanlong Peng et.al.|[2509.07646](http://arxiv.org/abs/2509.07646)|null|
+|**2025-09-09**|**TransMPC: Transformer-based Explicit MPC with Variable Prediction Horizon**|Sichao Wu et.al.|[2509.07381](http://arxiv.org/abs/2509.07381)|null|
+|**2025-09-09**|**Performance Characterization of a Point-Cloud-Based Path Planner in Off-Road Terrain**|Casey D. Majhor et.al.|[2509.07321](http://arxiv.org/abs/2509.07321)|null|
+|**2025-09-08**|**First Plan Then Evaluate: Use a Vectorized Motion Planner for Grasping**|Martin Matak et.al.|[2509.07162](http://arxiv.org/abs/2509.07162)|null|
+|**2025-09-08**|**Deep Reactive Policy: Learning Reactive Manipulator Motion Planning for Dynamic Environments**|Jiahui Yang et.al.|[2509.06953](http://arxiv.org/abs/2509.06953)|null|
+|**2025-09-08**|**Safe Robust Predictive Control-based Motion Planning of Automated Surface Vessels in Inland Waterways**|Sajad Ahmadi et.al.|[2509.06687](http://arxiv.org/abs/2509.06687)|null|
+|**2025-09-08**|**An Adaptive Coverage Control Approach for Multiple Autonomous Off-road Vehicles in Dynamic Agricultural Fields**|Sajad Ahmadi et.al.|[2509.06682](http://arxiv.org/abs/2509.06682)|null|
+|**2025-09-08**|**Online Clustering of Seafloor Imagery for Interpretation during Long-Term AUV Operations**|Cailei Liang et.al.|[2509.06678](http://arxiv.org/abs/2509.06678)|null|
+|**2025-09-07**|**Hybrid A* Path Planning with Multi-Modal Motion Extension for Four-Wheel Steering Mobile Robots**|Runjiao Bao et.al.|[2509.06115](http://arxiv.org/abs/2509.06115)|null|
+|**2025-09-07**|**Energy-Efficient Path Planning with Multi-Location Object Pickup for Mobile Robots on Uneven Terrain**|Faiza Babakano et.al.|[2509.06061](http://arxiv.org/abs/2509.06061)|null|
+|**2025-09-06**|**A*-PRM: A Dynamic Weight-Based Probabilistic Roadmap Algorithm**|Siyuan Wang et.al.|[2509.05701](http://arxiv.org/abs/2509.05701)|null|
+|**2025-09-06**|**OccVLA: Vision-Language-Action Model with Implicit 3D Occupancy Supervision**|Ruixun Liu et.al.|[2509.05578](http://arxiv.org/abs/2509.05578)|null|
+|**2025-09-05**|**Microrobot Vascular Parkour: Analytic Geometry-based Path Planning with Real-time Dynamic Obstacle Avoidance**|Yanda Yang et.al.|[2509.05500](http://arxiv.org/abs/2509.05500)|null|
+|**2025-09-05**|**RoboBallet: Planning for Multi-Robot Reaching with Graph Neural Networks and Reinforcement Learning**|Matthew Lai et.al.|[2509.05397](http://arxiv.org/abs/2509.05397)|null|
+|**2025-09-02**|**INF-3DP: Implicit Neural Fields for Collision-Free Multi-Axis 3D Printing**|Jiasheng Qu et.al.|[2509.05345](http://arxiv.org/abs/2509.05345)|null|
+|**2025-09-05**|**Ground-Aware Octree-A* Hybrid Path Planning for Memory-Efficient 3D Navigation of Ground Vehicles**|Byeong-Il Ham et.al.|[2509.04950](http://arxiv.org/abs/2509.04950)|null|
+|**2025-09-04**|**Bootstrapping Reinforcement Learning with Sub-optimal Policies for Autonomous Driving**|Zhihao Zhang et.al.|[2509.04712](http://arxiv.org/abs/2509.04712)|null|
+|**2025-09-04**|**SAFE--MA--RRT: Multi-Agent Motion Planning with Data-Driven Safety Certificates**|Babak Esmaeili et.al.|[2509.04413](http://arxiv.org/abs/2509.04413)|null|
+|**2025-09-04**|**Lightweight Kinematic and Static Modeling of Cable-Driven Continuum Robots via Actuation-Space Energy Formulation**|Ke Wu et.al.|[2509.04119](http://arxiv.org/abs/2509.04119)|null|
+|**2025-09-04**|**Hybrid Reinforcement Learning and Search for Flight Trajectory Planning**|Alberto Luise et.al.|[2509.04100](http://arxiv.org/abs/2509.04100)|null|
+|**2025-09-04**|**Object-Reconstruction-Aware Whole-body Control of Mobile Manipulators**|Fatih Dursun et.al.|[2509.04094](http://arxiv.org/abs/2509.04094)|null|
+|**2025-09-16**|**Keypoint-based Diffusion for Robotic Motion Planning on the NICOL Robot**|Lennart Clasmeier et.al.|[2509.04076](http://arxiv.org/abs/2509.04076)|null|
+|**2025-09-04**|**Human Motion Video Generation: A Survey**|Haiwei Xue et.al.|[2509.03883](http://arxiv.org/abs/2509.03883)|null|
+|**2025-09-03**|**Parameter Tuning Under Uncertain Road Perception in Driver Assistance Systems**|Leon Greiser et.al.|[2509.03694](http://arxiv.org/abs/2509.03694)|null|
+|**2025-09-06**|**Efficient Virtuoso: A Latent Diffusion Transformer Model for Goal-Conditioned Trajectory Planning**|Antonio Guillen-Perez et.al.|[2509.03658](http://arxiv.org/abs/2509.03658)|null|
+|**2025-09-03**|**Real-Time Instrument Planning and Perception for Novel Measurements of Dynamic Phenomena**|Itai Zilberstein et.al.|[2509.03500](http://arxiv.org/abs/2509.03500)|null|
+|**2025-09-02**|**Generalizable Skill Learning for Construction Robots with Crowdsourced Natural Language Instructions, Composable Skills Standardization, and Large Language Model**|Hongrui Yu et.al.|[2509.02876](http://arxiv.org/abs/2509.02876)|null|
+|**2025-09-02**|**Energy-Efficient Split Learning for Resource-Constrained Environments: A Smart Farming Solution**|Keiwan Soltani et.al.|[2509.02549](http://arxiv.org/abs/2509.02549)|null|
+|**2025-09-02**|**Cooperative Multi-Agent Path Planning for Heterogeneous UAVs in Contested Environments**|Grant Stagg et.al.|[2509.02483](http://arxiv.org/abs/2509.02483)|null|
+|**2025-09-03**|**Task and Motion Planning of Dynamic Systems using Hyperproperties for Signal Temporal Logics**|Jianing Zhao et.al.|[2509.02184](http://arxiv.org/abs/2509.02184)|null|
+|**2025-09-02**|**Systematic Evaluation of Trade-Offs in Motion Planning Algorithms for Optimal Industrial Robotic Work Cell Design**|G. de Mathelin et.al.|[2509.02146](http://arxiv.org/abs/2509.02146)|null|
+|**2025-09-02**|**Learning Social Heuristics for Human-Aware Path Planning**|Andrea Eirale et.al.|[2509.02134](http://arxiv.org/abs/2509.02134)|null|
+|**2025-09-02**|**AutoDrive-R $^2$ : Incentivizing Reasoning and Self-Reflection Capacity for VLA Model in Autonomous Driving**|Zhenlong Yuan et.al.|[2509.01944](http://arxiv.org/abs/2509.01944)|null|
+|**2025-09-01**|**Nonlinear Model Predictive Control-Based Reverse Path-Planning and Path-Tracking Control of a Vehicle with Trailer System**|Xincheng Cao et.al.|[2509.01820](http://arxiv.org/abs/2509.01820)|null|
+|**2025-09-01**|**Articulated Object Estimation in the Wild**|Abdelrhman Werby et.al.|[2509.01708](http://arxiv.org/abs/2509.01708)|null|
+|**2025-09-01**|**MoTo: A Zero-shot Plug-in Interaction-aware Navigation for General Mobile Manipulation**|Zhenyu Wu et.al.|[2509.01658](http://arxiv.org/abs/2509.01658)|null|
+|**2025-09-01**|**A Hybrid Input based Deep Reinforcement Learning for Lane Change Decision-Making of Autonomous Vehicle**|Ziteng Gao et.al.|[2509.01611](http://arxiv.org/abs/2509.01611)|null|
+|**2025-09-01**|**FantasyHSI: Video-Generation-Centric 4D Human Synthesis In Any Scene through A Graph-based Multi-Agent Framework**|Lingzhou Mu et.al.|[2509.01232](http://arxiv.org/abs/2509.01232)|null|
+|**2025-09-17**|**Hierarchical Reactive Grasping via Task-Space Velocity Fields and Joint-Space Quadratic Programming**|Yonghyeon Lee et.al.|[2509.01044](http://arxiv.org/abs/2509.01044)|null|
+|**2025-09-17**|**One-Step Model Predictive Path Integral for Manipulator Motion Planning Using Configuration Space Distance Fields**|Yulin Li et.al.|[2509.00836](http://arxiv.org/abs/2509.00836)|null|
+|**2025-09-06**|**An Effective Trajectory Planning and an Optimized Path Planning for a 6-Degree-of-Freedom Robot Manipulator**|Takumu Okazaki et.al.|[2509.00828](http://arxiv.org/abs/2509.00828)|null|
+|**2025-08-31**|**A Risk-aware Spatial-temporal Trajectory Planning Framework for Autonomous Vehicles Using QP-MPC and Dynamic Hazard Fields**|Zhen Tian et.al.|[2509.00643](http://arxiv.org/abs/2509.00643)|null|
+|**2025-08-30**|**Safe and Efficient Lane-Changing for Autonomous Vehicles: An Improved Double Quintic Polynomial Approach with Time-to-Collision Evaluation**|Rui Bai et.al.|[2509.00582](http://arxiv.org/abs/2509.00582)|null|
+|**2025-08-30**|**NeuralSVCD for Efficient Swept Volume Collision Detection**|Dongwon Son et.al.|[2509.00499](http://arxiv.org/abs/2509.00499)|null|
+|**2025-08-30**|**A Framework for Task and Motion Planning based on Expanding AND/OR Graphs**|Fulvio Mastrogiovanni et.al.|[2509.00317](http://arxiv.org/abs/2509.00317)|null|
+|**2025-08-29**|**Robust Convex Model Predictive Control with collision avoidance guarantees for robot manipulators**|Bernhard Wullt et.al.|[2508.21677](http://arxiv.org/abs/2508.21677)|null|
+|**2025-08-29**|**A-MHA*: Anytime Multi-Heuristic A***|Ramkumar Natarajan et.al.|[2508.21637](http://arxiv.org/abs/2508.21637)|null|
+|**2025-08-29**|**Scalable Solution Methods for Dec-POMDPs with Deterministic Dynamics**|Yang You et.al.|[2508.21595](http://arxiv.org/abs/2508.21595)|null|
+|**2025-08-29**|**Estimated Informed Anytime Search for Sampling-Based Planning via Adaptive Sampler**|Liding Zhang et.al.|[2508.21549](http://arxiv.org/abs/2508.21549)|null|
 |**2025-07-22**|**Trajectory Planning of a Curtain Wall Installation Robot Based on Biomimetic Mechanisms**|Xiao Liu et.al.|[2507.16305](http://arxiv.org/abs/2507.16305)|null|
 |**2025-07-22**|**Physics-aware Truck and Drone Delivery Planning Using Optimization & Machine Learning**|Yineng Sun et.al.|[2507.16259](http://arxiv.org/abs/2507.16259)|null|
 |**2025-07-22**|**GFM-Planner: Perception-Aware Trajectory Planning with Geometric Feature Metric**|Yue Lin et.al.|[2507.16233](http://arxiv.org/abs/2507.16233)|null|
@@ -686,6 +871,91 @@
 |**2025-10-03**|**Less is More: Lean yet Powerful Vision-Language Model for Autonomous Driving**|Sheng Yang et.al.|[2510.00060](http://arxiv.org/abs/2510.00060)|null|
 |**2025-09-30**|**Leveraging Scene Context with Dual Networks for Sequential User Behavior Modeling**|Xu Chen et.al.|[2509.26172](http://arxiv.org/abs/2509.26172)|null|
 |**2025-09-29**|**Trajectory Prediction via Bayesian Intention Inference under Unknown Goals and Kinematics**|Shunan Yin et.al.|[2509.24928](http://arxiv.org/abs/2509.24928)|null|
+|**2025-09-28**|**Hazy Pedestrian Trajectory Prediction via Physical Priors and Graph-Mamba**|Jian Chen et.al.|[2509.24020](http://arxiv.org/abs/2509.24020)|null|
+|**2025-09-27**|**A Neural ODE Approach to Aircraft Flight Dynamics Modelling**|Gabriel Jarry et.al.|[2509.23307](http://arxiv.org/abs/2509.23307)|null|
+|**2025-09-26**|**Physically Plausible Multi-System Trajectory Generation and Symmetry Discovery**|Jiayin Liu et.al.|[2509.23003](http://arxiv.org/abs/2509.23003)|null|
+|**2025-09-26**|**GRAM-TDI: adaptive multimodal representation learning for drug target interaction prediction**|Feng Jiang et.al.|[2509.21971](http://arxiv.org/abs/2509.21971)|null|
+|**2025-09-26**|**Text2Move: Text-to-moving sound generation via trajectory prediction and temporal alignment**|Yunyi Liu et.al.|[2509.21919](http://arxiv.org/abs/2509.21919)|null|
+|**2025-09-25**|**DroneFL: Federated Learning for Multi-UAV Visual Target Tracking**|Xiaofan Yu et.al.|[2509.21523](http://arxiv.org/abs/2509.21523)|null|
+|**2025-09-25**|**MAIFormer: Multi-Agent Inverted Transformer for Flight Trajectory Prediction**|Seokbin Yoon et.al.|[2509.21004](http://arxiv.org/abs/2509.21004)|null|
+|**2025-09-23**|**Interaction-aware Lane-Changing Early Warning System in Congested Traffic**|Yue Zhang et.al.|[2509.18624](http://arxiv.org/abs/2509.18624)|null|
+|**2025-09-23**|**Dynamical Modeling of Behaviorally Relevant Spatiotemporal Patterns in Neural Imaging Data**|Mohammad Hosseini et.al.|[2509.18507](http://arxiv.org/abs/2509.18507)|null|
+|**2025-09-22**|**BlurBall: Joint Ball and Motion Blur Estimation for Table Tennis Ball Tracking**|Thomas Gossard et.al.|[2509.18387](http://arxiv.org/abs/2509.18387)|null|
+|**2025-09-28**|**StefaLand: An Efficient Geoscience Foundation Model That Improves Dynamic Land-Surface Predictions**|Nicholas Kraabel et.al.|[2509.17942](http://arxiv.org/abs/2509.17942)|null|
+|**2025-09-22**|**SocialTraj: Two-Stage Socially-Aware Trajectory Prediction for Autonomous Driving via Conditional Diffusion Model**|Xiao Zhou et.al.|[2509.17850](http://arxiv.org/abs/2509.17850)|null|
+|**2025-09-21**|**CoPlanner: An Interactive Motion Planner with Contingency-Aware Diffusion for Autonomous Driving**|Ruiguo Zhong et.al.|[2509.17080](http://arxiv.org/abs/2509.17080)|null|
+|**2025-09-19**|**AdaSports-Traj: Role- and Domain-Aware Adaptation for Multi-Agent Trajectory Modeling in Sports**|Yi Xu et.al.|[2509.16095](http://arxiv.org/abs/2509.16095)|null|
+|**2025-09-19**|**CoPAD : Multi-source Trajectory Fusion and Cooperative Trajectory Prediction with Anchor-oriented Decoder in V2X Scenarios**|Kangyu Wu et.al.|[2509.15984](http://arxiv.org/abs/2509.15984)|null|
+|**2025-09-18**|**A Multi-Scale Graph Neural Process with Cross-Drug Co-Attention for Drug-Drug Interactions Prediction**|Zimo Yan et.al.|[2509.15256](http://arxiv.org/abs/2509.15256)|null|
+|**2025-09-18**|**Out-of-Sight Trajectories: Tracking, Fusion, and Prediction**|Haichao Zhang et.al.|[2509.15219](http://arxiv.org/abs/2509.15219)|null|
+|**2025-09-18**|**STEP: Structured Training and Evaluation Platform for benchmarking trajectory prediction models**|Julian F. Schumann et.al.|[2509.14801](http://arxiv.org/abs/2509.14801)|null|
+|**2025-09-17**|**Ensemble of Pre-Trained Models for Long-Tailed Trajectory Prediction**|Divya Thuremella et.al.|[2509.13914](http://arxiv.org/abs/2509.13914)|null|
+|**2025-09-16**|**Dynamic Aware: Adaptive Multi-Mode Out-of-Distribution Detection for Trajectory Prediction in Autonomous Vehicles**|Tongfei Guo et.al.|[2509.13577](http://arxiv.org/abs/2509.13577)|null|
+|**2025-09-15**|**Knowledge Graph Tokenization for Behavior-Aware Generative Next POI Recommendation**|Ke Sun et.al.|[2509.12350](http://arxiv.org/abs/2509.12350)|null|
+|**2025-09-15**|**HeLoFusion: An Efficient and Scalable Encoder for Modeling Heterogeneous and Multi-Scale Interactions in Trajectory Prediction**|Bingqing Wei et.al.|[2509.11719](http://arxiv.org/abs/2509.11719)|null|
+|**2025-09-11**|**Large Foundation Models for Trajectory Prediction in Autonomous Driving: A Comprehensive Survey**|Wei Dai et.al.|[2509.10570](http://arxiv.org/abs/2509.10570)|null|
+|**2025-09-17**|**DECAMP: Towards Scene-Consistent Multi-Agent Motion Prediction with Disentangled Context-Aware Pre-Training**|Jianxin Shi et.al.|[2509.10426](http://arxiv.org/abs/2509.10426)|null|
+|**2025-09-12**|**Revealing Higher-Order Interactions in Complex Networks: A U.S. Diplomacy Case Study**|Arthur Rondeau et.al.|[2509.10333](http://arxiv.org/abs/2509.10333)|null|
+|**2025-09-12**|**BEVTraj: Map-Free End-to-End Trajectory Prediction in Bird's-Eye View with Deformable Attention and Sparse Goal Proposals**|Minsang Kong et.al.|[2509.10080](http://arxiv.org/abs/2509.10080)|null|
+|**2025-08-27**|**DCHO: A Decomposition-Composition Framework for Predicting Higher-Order Brain Connectivity to Enhance Diverse Downstream Applications**|Weibin Li et.al.|[2509.09696](http://arxiv.org/abs/2509.09696)|null|
+|**2025-09-11**|**MGTraj: Multi-Granularity Goal-Guided Human Trajectory Prediction with Recursive Refinement Network**|Ge Sun et.al.|[2509.09200](http://arxiv.org/abs/2509.09200)|null|
+|**2025-09-09**|**A Survey of Graph Neural Networks for Drug Discovery: Recent Developments and Challenges**|Katherine Berry et.al.|[2509.07887](http://arxiv.org/abs/2509.07887)|null|
+|**2025-09-09**|**Safe and Non-Conservative Contingency Planning for Autonomous Vehicles via Online Learning-Based Reachable Set Barriers**|Rui Yang et.al.|[2509.07464](http://arxiv.org/abs/2509.07464)|null|
+|**2025-09-11**|**Musculoskeletal simulation of limb movement biomechanics in Drosophila melanogaster**|Pembe Gizem Özdil et.al.|[2509.06426](http://arxiv.org/abs/2509.06426)|null|
+|**2025-09-06**|**Finetuning LLMs for Human Behavior Prediction in Social Science Experiments**|Akaash Kolluri et.al.|[2509.05830](http://arxiv.org/abs/2509.05830)|null|
+|**2025-09-05**|**An Emotion Recognition Framework via Cross-modal Alignment of EEG and Eye Movement Data**|Jianlu Wang et.al.|[2509.04938](http://arxiv.org/abs/2509.04938)|null|
+|**2025-09-05**|**Multimodal Foundation Model-Driven User Interest Modeling and Behavior Analysis on Short Video Platforms**|Yushang Zhao et.al.|[2509.04751](http://arxiv.org/abs/2509.04751)|null|
+|**2025-08-19**|**BiND: A Neural Discriminator-Decoder for Accurate Bimanual Trajectory Prediction in Brain-Computer Interfaces**|Timothee Robert et.al.|[2509.03521](http://arxiv.org/abs/2509.03521)|null|
+|**2025-09-03**|**sam-llm: interpretable lane change trajectoryprediction via parametric finetuning**|Zhuo Cao et.al.|[2509.03462](http://arxiv.org/abs/2509.03462)|null|
+|**2025-09-03**|**LINKER: Learning Interactions Between Functional Groups and Residues With Chemical Knowledge-Enhanced Reasoning and Explainability**|Phuc Pham et.al.|[2509.03425](http://arxiv.org/abs/2509.03425)|null|
+|**2025-09-03**|**KEPT: Knowledge-Enhanced Prediction of Trajectories from Consecutive Driving Frames with Vision-Language Models**|Yujin Wang et.al.|[2509.02966](http://arxiv.org/abs/2509.02966)|null|
+|**2025-09-01**|**Multi-vessel Interaction-Aware Trajectory Prediction and Collision Risk Assessment**|Md Mahbub Alam et.al.|[2509.01836](http://arxiv.org/abs/2509.01836)|null|
+|**2025-09-01**|**Entropy-Driven Curriculum for Multi-Task Training in Human Mobility Prediction**|Tianye Fang et.al.|[2509.01613](http://arxiv.org/abs/2509.01613)|null|
+|**2025-09-01**|**A Hybrid Input based Deep Reinforcement Learning for Lane Change Decision-Making of Autonomous Vehicle**|Ziteng Gao et.al.|[2509.01611](http://arxiv.org/abs/2509.01611)|null|
+|**2025-09-01**|**Metamorphic Testing of Multimodal Human Trajectory Prediction**|Helge Spieker et.al.|[2509.01294](http://arxiv.org/abs/2509.01294)|null|
+|**2025-08-30**|**Vehicle-in-Virtual-Environment (VVE) Method for Developing and Evaluating VRU Safety of Connected and Autonomous Driving with Focus on Bicyclist Safety**|Haochong Chen et.al.|[2509.00624](http://arxiv.org/abs/2509.00624)|null|
+|**2025-08-30**|**Theory Foundation of Physics-Enhanced Residual Learning**|Shixiao Liang et.al.|[2509.00348](http://arxiv.org/abs/2509.00348)|null|
+|**2025-08-29**|**Limitations of Physics-Informed Neural Networks: a Study on Smart Grid Surrogation**|Julen Cestero et.al.|[2508.21559](http://arxiv.org/abs/2508.21559)|null|
+|**2025-09-04**|**HITTER: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning**|Zhi Su et.al.|[2508.21043](http://arxiv.org/abs/2508.21043)|null|
+|**2025-08-28**|**MegaCacheX: Towards Cost-Effective Hierarchical Collaborative Content Caching in Emerging Mega-Constellations**|Haoyang Shi et.al.|[2508.20433](http://arxiv.org/abs/2508.20433)|null|
+|**2025-08-25**|**Adaptive Output Steps: FlexiSteps Network for Dynamic Trajectory Prediction**|Yunxiang Liu et.al.|[2508.17797](http://arxiv.org/abs/2508.17797)|null|
+|**2025-08-24**|**A Jetted Wandering Massive Black Hole Candidate in a Dwarf Galaxy**|Yuanqi Liu et.al.|[2508.17293](http://arxiv.org/abs/2508.17293)|null|
+|**2025-08-22**|**Uncertainty Propagation Networks for Neural Ordinary Differential Equations**|Hadi Jahanshahi et.al.|[2508.16815](http://arxiv.org/abs/2508.16815)|null|
+|**2025-08-21**|**Noise, Adaptation, and Strategy: Assessing LLM Fidelity in Decision-Making**|Yuanjun Feng et.al.|[2508.15926](http://arxiv.org/abs/2508.15926)|null|
+|**2025-08-20**|**Pulled fronts are not (just) pulled**|Montie Avery et.al.|[2508.14864](http://arxiv.org/abs/2508.14864)|null|
+|**2025-08-20**|**Great GATsBi: Hybrid, Multimodal, Trajectory Forecasting for Bicycles using Anticipation Mechanism**|Kevin Riehl et.al.|[2508.14523](http://arxiv.org/abs/2508.14523)|null|
+|**2025-08-19**|**Reliability comparison of vessel trajectory prediction models via Probability of Detection**|Zahra Rastin et.al.|[2508.14198](http://arxiv.org/abs/2508.14198)|null|
+|**2025-08-18**|**On the N-elliptic localized solutions to the derivative nonlinear Schrödinger equation and their asymptotic analysis**|Liming Ling et.al.|[2508.12882](http://arxiv.org/abs/2508.12882)|null|
+|**2025-08-31**|**SocialTrack: Multi-Object Tracking in Complex Urban Traffic Scenes Inspired by Social Behavior**|Wenguang Tao et.al.|[2508.12777](http://arxiv.org/abs/2508.12777)|null|
+|**2025-08-17**|**Autonomous Oil Spill Response Through Liquid Neural Trajectory Modeling and Coordinated Marine Robotics**|Hadas C. Kuzmenko et.al.|[2508.12456](http://arxiv.org/abs/2508.12456)|null|
+|**2025-08-15**|**Relative Position Matters: Trajectory Prediction and Planning with Polar Representation**|Bozhou Zhang et.al.|[2508.11492](http://arxiv.org/abs/2508.11492)|null|
+|**2025-08-15**|**ImagiDrive: A Unified Imagination-and-Planning Framework for Autonomous Driving**|Jingyu Li et.al.|[2508.11428](http://arxiv.org/abs/2508.11428)|null|
+|**2025-08-15**|**A CLIP-based Uncertainty Modal Modeling (UMM) Framework for Pedestrian Re-Identification in Autonomous Driving**|Jialin Li et.al.|[2508.11218](http://arxiv.org/abs/2508.11218)|null|
+|**2025-08-20**|**3D FlowMatch Actor: Unified 3D Policy for Single- and Dual-Arm Manipulation**|Nikolaos Gkanatsios et.al.|[2508.11002](http://arxiv.org/abs/2508.11002)|null|
+|**2025-08-14**|**SpaRC-AD: A Baseline for Radar-Camera Fusion in End-to-End Autonomous Driving**|Philipp Wolters et.al.|[2508.10567](http://arxiv.org/abs/2508.10567)|null|
+|**2025-08-12**|**GSMT: Graph Fusion and Spatiotemporal TaskCorrection for Multi-Bus Trajectory Prediction**|Fan Ding et.al.|[2508.09227](http://arxiv.org/abs/2508.09227)|null|
+|**2025-08-11**|**ImageDDI: Image-enhanced Molecular Motif Sequence Representation for Drug-Drug Interaction Prediction**|Yuqin He et.al.|[2508.08338](http://arxiv.org/abs/2508.08338)|null|
+|**2025-08-11**|**AIS-LLM: A Unified Framework for Maritime Trajectory Prediction, Anomaly Detection, and Collision Risk Assessment with Explainable Forecasting**|Hyobin Park et.al.|[2508.07668](http://arxiv.org/abs/2508.07668)|null|
+|**2025-08-10**|**Conical Intersections Shed Light on Hot Carrier Cooling in Quantum Dots**|Caitlin V. Hetherington et.al.|[2508.07322](http://arxiv.org/abs/2508.07322)|null|
+|**2025-08-12**|**Understanding Dynamic Scenes in Ego Centric 4D Point Clouds**|Junsheng Huang et.al.|[2508.07251](http://arxiv.org/abs/2508.07251)|null|
+|**2025-08-10**|**Intention-Aware Diffusion Model for Pedestrian Trajectory Prediction**|Yu Liu et.al.|[2508.07146](http://arxiv.org/abs/2508.07146)|null|
+|**2025-08-09**|**ForeSight: Multi-View Streaming Joint Object Detection and Trajectory Forecasting**|Sandro Papais et.al.|[2508.07089](http://arxiv.org/abs/2508.07089)|null|
+|**2025-08-09**|**Model Predictive Control for Crowd Navigation via Learning-Based Trajectory Prediction**|Mohamed Parvez Aslam et.al.|[2508.07079](http://arxiv.org/abs/2508.07079)|null|
+|**2025-08-05**|**Historical Prediction Attention Mechanism based Trajectory Forecasting for Proactive Work Zone Safety in a Digital Twin Environment**|Minhaj Uddin Ahmad et.al.|[2508.06544](http://arxiv.org/abs/2508.06544)|null|
+|**2025-08-19**|**MA-CBP: A Criminal Behavior Prediction Framework Based on Multi-Agent Asynchronous Collaboration**|Cheng Liu et.al.|[2508.06189](http://arxiv.org/abs/2508.06189)|null|
+|**2025-08-07**|**TrajEvo: Trajectory Prediction Heuristics Design via LLM-driven Evolution**|Zhikai Zhao et.al.|[2508.05616](http://arxiv.org/abs/2508.05616)|null|
+|**2025-08-06**|**BEVCon: Advancing Bird's Eye View Perception with Contrastive Learning**|Ziyang Leng et.al.|[2508.04702](http://arxiv.org/abs/2508.04702)|null|
+|**2025-08-06**|**Perceiving and Acting in First-Person: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions**|Liang Xu et.al.|[2508.04681](http://arxiv.org/abs/2508.04681)|null|
+|**2025-08-06**|**Intention Enhanced Diffusion Model for Multimodal Pedestrian Trajectory Prediction**|Yu Liu et.al.|[2508.04229](http://arxiv.org/abs/2508.04229)|null|
+|**2025-08-05**|**Vision-based Perception System for Automated Delivery Robot-Pedestrians Interactions**|Ergi Tushe et.al.|[2508.03541](http://arxiv.org/abs/2508.03541)|null|
+|**2025-08-05**|**Semantic-aware Graph-guided Behavior Sequences Generation with Large Language Models for Smart Homes**|Zhiyao Xu et.al.|[2508.03484](http://arxiv.org/abs/2508.03484)|null|
+|**2025-09-10**|**Placing the Near-Earth Object Impact Probability in Context**|C. R. Nugent et.al.|[2508.02418](http://arxiv.org/abs/2508.02418)|null|
+|**2025-08-04**|**User Trajectory Prediction Unifying Global and Local Temporal Information**|Wei Hao et.al.|[2508.02161](http://arxiv.org/abs/2508.02161)|null|
+|**2025-08-04**|**AID4AD: Aerial Image Data for Automated Driving Perception**|Daniel Lengerer et.al.|[2508.02140](http://arxiv.org/abs/2508.02140)|null|
+|**2025-08-03**|**DiffSemanticFusion: Semantic Raster BEV Fusion for Autonomous Driving via Online HD Map Diffusion**|Zhigang Sun et.al.|[2508.01778](http://arxiv.org/abs/2508.01778)|null|
+|**2025-08-03**|**Lessons Learned from the Real-World Deployment of Multi-Sensor Fusion for Proactive Work Zone Safety Application**|Minhaj Uddin Ahmad et.al.|[2508.01599](http://arxiv.org/abs/2508.01599)|null|
+|**2025-08-09**|**H2C: Hippocampal Circuit-inspired Continual Learning for Lifelong Trajectory Prediction in Autonomous Driving**|Yunlong Lin et.al.|[2508.01158](http://arxiv.org/abs/2508.01158)|null|
+|**2025-09-30**|**Learning Unified User Quantized Tokenizers for User Representation**|Chuan He et.al.|[2508.00956](http://arxiv.org/abs/2508.00956)|null|
 |**2025-07-21**|**Multi-Strategy Improved Snake Optimizer Accelerated CNN-LSTM-Attention-Adaboost for Trajectory Prediction**|Shiyang Li et.al.|[2507.15832](http://arxiv.org/abs/2507.15832)|null|
 |**2025-07-21**|**Hierarchical Graph Information Bottleneck for Multi-Behavior Recommendation**|Hengyu Zhang et.al.|[2507.15395](http://arxiv.org/abs/2507.15395)|null|
 |**2025-07-21**|**VLM-UDMC: VLM-Enhanced Unified Decision-Making and Motion Control for Urban Autonomous Driving**|Haichao Liu et.al.|[2507.15266](http://arxiv.org/abs/2507.15266)|null|
@@ -917,6 +1187,191 @@
 |**2025-10-07**|**Precise and Efficient Collision Prediction under Uncertainty in Autonomous Driving**|Marc Kaufeld et.al.|[2510.05729](http://arxiv.org/abs/2510.05729)|null|
 |**2025-10-06**|**Comparative Analysis of YOLOv5, Faster R-CNN, SSD, and RetinaNet for Motorbike Detection in Kigali Autonomous Driving Context**|Ngeyen Yinkfu et.al.|[2510.04912](http://arxiv.org/abs/2510.04912)|null|
 |**2025-10-08**|**Progressive Gaussian Transformer with Anisotropy-aware Sampling for Open Vocabulary Occupancy Prediction**|Chi Yan et.al.|[2510.04759](http://arxiv.org/abs/2510.04759)|null|
+|**2025-10-05**|**Diffusion^2: Dual Diffusion Model with Uncertainty-Aware Adaptive Noise for Momentary Trajectory Prediction**|Yuhao Luo et.al.|[2510.04365](http://arxiv.org/abs/2510.04365)|null|
+|**2025-10-05**|**Small Fleet, Big Impact: Enhancing Shared Micromobility Efficiency through Minimal Autonomous Vehicle Deployment**|Heng Tan et.al.|[2510.04271](http://arxiv.org/abs/2510.04271)|null|
+|**2025-10-05**|**Dynamic Adaptive Federated Learning for mmWave Sector Selection**|Lucas Pacheco et.al.|[2510.04183](http://arxiv.org/abs/2510.04183)|null|
+|**2025-10-04**|**From Filters to VLMs: Benchmarking Defogging Methods through Object Detection and Segmentation Performance**|Ardalan Aryashad et.al.|[2510.03906](http://arxiv.org/abs/2510.03906)|null|
+|**2025-10-04**|**Referring Expression Comprehension for Small Objects**|Kanoko Goto et.al.|[2510.03701](http://arxiv.org/abs/2510.03701)|null|
+|**2025-10-04**|**Safety-Oriented Dynamic Path Planning for Automated Vehicles**|Mostafa Emam et.al.|[2510.03640](http://arxiv.org/abs/2510.03640)|null|
+|**2025-09-30**|**Adaptive Cruise Control in Autonomous Vehicles: Challenges, Gaps, Comprehensive Review, and, Future Directions**|Shradha Bavalatti et.al.|[2510.03300](http://arxiv.org/abs/2510.03300)|null|
+|**2025-10-03**|**Training-Free Out-Of-Distribution Segmentation With Foundation Models**|Laith Nayal et.al.|[2510.02909](http://arxiv.org/abs/2510.02909)|null|
+|**2025-10-03**|**GS-Share: Enabling High-fidelity Map Sharing with Incremental Gaussian Splatting**|Xinran Zhang et.al.|[2510.02884](http://arxiv.org/abs/2510.02884)|null|
+|**2025-10-03**|**Action Deviation-Aware Inference for Low-Latency Wireless Robots**|Jeyoung Park et.al.|[2510.02851](http://arxiv.org/abs/2510.02851)|null|
+|**2025-10-03**|**Work Zones challenge VLM Trajectory Planning: Toward Mitigation and Robust Autonomous Driving**|Yifan Liao et.al.|[2510.02803](http://arxiv.org/abs/2510.02803)|null|
+|**2025-10-03**|**High Pixel Resolution Visible to Extended Shortwave Infrared Single Pixel Imaging with a black Phosphorus-Molybdenum disulfide (bP-MoS2) photodiode**|Seyed Saleh Mousavi Khaleghi et.al.|[2510.02673](http://arxiv.org/abs/2510.02673)|null|
+|**2025-10-03**|**Sequence-Preserving Dual-FoV Defense for Traffic Sign and Light Recognition in Autonomous Vehicles**|Abhishek Joshi et.al.|[2510.02642](http://arxiv.org/abs/2510.02642)|null|
+|**2025-10-03**|**A Trajectory Generator for High-Density Traffic and Diverse Agent-Interaction Scenarios**|Ruining Yang et.al.|[2510.02627](http://arxiv.org/abs/2510.02627)|null|
+|**2025-09-28**|**Precise HDV Positioning through Safety-Aware Integrated Sensing and Communication in a Value-of-Information-Driven 6G V2X System**|Mohammad Reza Abedi et.al.|[2510.02363](http://arxiv.org/abs/2510.02363)|null|
+|**2025-10-02**|**LiLa-Net: Lightweight Latent LiDAR Autoencoder for 3D Point Cloud Reconstruction**|Mario Resino et.al.|[2510.02028](http://arxiv.org/abs/2510.02028)|null|
+|**2025-10-02**|**Calibrating the Full Predictive Class Distribution of 3D Object Detectors for Autonomous Driving**|Cornelius Schröder et.al.|[2510.01829](http://arxiv.org/abs/2510.01829)|null|
+|**2025-10-02**|**Nav-EE: Navigation-Guided Early Exiting for Efficient Vision-Language Models in Autonomous Driving**|Haibo Hu et.al.|[2510.01795](http://arxiv.org/abs/2510.01795)|null|
+|**2025-10-02**|**Predictive Preference Learning from Human Interventions**|Haoyuan Cai et.al.|[2510.01545](http://arxiv.org/abs/2510.01545)|null|
+|**2025-10-01**|**Strategic Fusion of Vision Language Models: Shapley-Credited Context-Aware Dawid-Skene for Multi-Label Tasks in Autonomous Driving**|Yuxiang Feng et.al.|[2510.01126](http://arxiv.org/abs/2510.01126)|null|
+|**2025-10-01**|**Datasets for Valence and Arousal Inference: A Survey**|Helen Schneider et.al.|[2510.00738](http://arxiv.org/abs/2510.00738)|null|
+|**2025-10-01**|**FIN: Fast Inference Network for Map Segmentation**|Ruan Bispo et.al.|[2510.00651](http://arxiv.org/abs/2510.00651)|null|
+|**2025-10-01**|**Collaborative-Distilled Diffusion Models (CDDM) for Accelerated and Lightweight Trajectory Prediction**|Bingzhang Wang et.al.|[2510.00627](http://arxiv.org/abs/2510.00627)|null|
+|**2025-09-30**|**CHAI: Command Hijacking against embodied AI**|Luis Burbano et.al.|[2510.00181](http://arxiv.org/abs/2510.00181)|null|
+|**2025-09-30**|**The Formation of Trust in Autonomous Vehicles after Interacting with Robotaxis on Public Roads**|Xiang Chang et.al.|[2510.00120](http://arxiv.org/abs/2510.00120)|null|
+|**2025-09-30**|**Adaptive and Resource-efficient Agentic AI Systems for Mobile and Embedded Devices: A Survey**|Sicong Liu et.al.|[2510.00078](http://arxiv.org/abs/2510.00078)|null|
+|**2025-10-03**|**Less is More: Lean yet Powerful Vision-Language Model for Autonomous Driving**|Sheng Yang et.al.|[2510.00060](http://arxiv.org/abs/2510.00060)|null|
+|**2025-09-30**|**Multi-View Camera System for Variant-Aware Autonomous Vehicle Inspection and Defect Detection**|Yash Kulkarni et.al.|[2509.26454](http://arxiv.org/abs/2509.26454)|null|
+|**2025-09-30**|**PRISM: Progressive Rain removal with Integrated State-space Modeling**|Pengze Xue et.al.|[2509.26413](http://arxiv.org/abs/2509.26413)|null|
+|**2025-09-30**|**Beyond Overall Accuracy: Pose- and Occlusion-driven Fairness Analysis in Pedestrian Detection for Autonomous Driving**|Mohammad Khoshkdahan et.al.|[2509.26166](http://arxiv.org/abs/2509.26166)|null|
+|**2025-09-30**|**NuRisk: A Visual Question Answering Dataset for Agent-Level Risk Assessment in Autonomous Driving**|Yuan Gao et.al.|[2509.25944](http://arxiv.org/abs/2509.25944)|null|
+|**2025-09-30**|**Preemptive Spatiotemporal Trajectory Adjustment for Heterogeneous Vehicles in Highway Merging Zones**|Yuan Li et.al.|[2509.25929](http://arxiv.org/abs/2509.25929)|null|
+|**2025-09-30**|**MuSLR: Multimodal Symbolic Logical Reasoning**|Jundong Xu et.al.|[2509.25851](http://arxiv.org/abs/2509.25851)|null|
+|**2025-09-30**|**Cooperative Autonomous Driving in Diverse Behavioral Traffic: A Heterogeneous Graph Reinforcement Learning Approach**|Qi Liu et.al.|[2509.25751](http://arxiv.org/abs/2509.25751)|null|
+|**2025-09-29**|**Zero Trust-based Decentralized Identity Management System for Autonomous Vehicles**|Amal Yousseef et.al.|[2509.25566](http://arxiv.org/abs/2509.25566)|null|
+|**2025-09-29**|**Online Mapping for Autonomous Driving: Addressing Sensor Generalization and Dynamic Map Updates in Campus Environments**|Zihan Zhang et.al.|[2509.25542](http://arxiv.org/abs/2509.25542)|null|
+|**2025-09-27**|**BEV-VLM: Trajectory Planning via Unified BEV Abstraction**|Guancheng Chen et.al.|[2509.25249](http://arxiv.org/abs/2509.25249)|null|
+|**2025-09-29**|**When Autonomous Vehicle Meets V2X Cooperative Perception: How Far Are We?**|An Guo et.al.|[2509.24927](http://arxiv.org/abs/2509.24927)|null|
+|**2025-09-29**|**DRCP: Diffusion on Reinforced Cooperative Perception for Perceiving Beyond Limits**|Lantao Li et.al.|[2509.24903](http://arxiv.org/abs/2509.24903)|null|
+|**2025-09-29**|**StreamForest: Efficient Online Video Understanding with Persistent Event Memory**|Xiangyu Zeng et.al.|[2509.24871](http://arxiv.org/abs/2509.24871)|null|
+|**2025-09-29**|**TACO-Net: Topological Signatures Triumph in 3D Object Classification**|Anirban Ghosh et.al.|[2509.24802](http://arxiv.org/abs/2509.24802)|null|
+|**2025-09-29**|**FuncPoison: Poisoning Function Library to Hijack Multi-agent Autonomous Driving Systems**|Yuzhen Long et.al.|[2509.24408](http://arxiv.org/abs/2509.24408)|null|
+|**2025-09-29**|**Learning to Sample: Reinforcement Learning-Guided Sampling for Autonomous Vehicle Motion Planning**|Korbinian Moller et.al.|[2509.24313](http://arxiv.org/abs/2509.24313)|null|
+|**2025-09-29**|**Skeleton-based Robust Registration Framework for Corrupted 3D Point Clouds**|Yongqiang Wang et.al.|[2509.24273](http://arxiv.org/abs/2509.24273)|null|
+|**2025-09-28**|**Advancing Multi-agent Traffic Simulation via R1-Style Reinforcement Fine-Tuning**|Muleilan Pei et.al.|[2509.23993](http://arxiv.org/abs/2509.23993)|null|
+|**2025-10-05**|**AutoPrune: Each Complexity Deserves a Pruning Policy**|Hanshi Wang et.al.|[2509.23931](http://arxiv.org/abs/2509.23931)|null|
+|**2025-09-28**|**DriveE2E: Closed-Loop Benchmark for End-to-End Autonomous Driving through Real-to-Simulation**|Haibao Yu et.al.|[2509.23922](http://arxiv.org/abs/2509.23922)|null|
+|**2025-09-28**|**Preserving Cross-Modal Stability for Visual Unlearning in Multimodal Scenarios**|Jinghan Xu Yuyang Zhang Qixuan Cai Jiancheng Chen Keqiu Li et.al.|[2509.23895](http://arxiv.org/abs/2509.23895)|null|
+|**2025-09-28**|**From Static to Dynamic: a Survey of Topology-Aware Perception in Autonomous Driving**|Yixiao Chen et.al.|[2509.23641](http://arxiv.org/abs/2509.23641)|null|
+|**2025-09-28**|**Foundation Model-Based Adaptive Semantic Image Transmission for Dynamic Wireless Environments**|Fangyu Liu et.al.|[2509.23590](http://arxiv.org/abs/2509.23590)|null|
+|**2025-09-28**|**BridgeDrive: Diffusion Bridge Policy for Closed-Loop Trajectory Planning in Autonomous Driving**|Shu Liu et.al.|[2509.23589](http://arxiv.org/abs/2509.23589)|null|
+|**2025-09-27**|**WorldSplat: Gaussian-Centric Feed-Forward 4D Scene Generation for Autonomous Driving**|Ziyue Zhu et.al.|[2509.23402](http://arxiv.org/abs/2509.23402)|null|
+|**2025-09-27**|**On the Impact of LiDAR Point Cloud Compression on Remote Semantic Segmentation**|Tiago de S. Fernandes et.al.|[2509.23341](http://arxiv.org/abs/2509.23341)|null|
+|**2025-09-27**|**Preventing Robotic Jailbreaking via Multimodal Domain Adaptation**|Francesco Marchiori et.al.|[2509.23281](http://arxiv.org/abs/2509.23281)|null|
+|**2025-09-26**|**Persistent Autoregressive Mapping with Traffic Rules for Autonomous Driving**|Shiyi Liang et.al.|[2509.22756](http://arxiv.org/abs/2509.22756)|null|
+|**2025-09-26**|**Self-driving cars: Are we there yet?**|Merve Atasever et.al.|[2509.22754](http://arxiv.org/abs/2509.22754)|null|
+|**2025-09-20**|**Nonlinear Model Predictive Control with Single-Shooting Method for Autonomous Personal Mobility Vehicle**|Rakha Rahmadani Pratama et.al.|[2509.22694](http://arxiv.org/abs/2509.22694)|null|
+|**2025-10-07**|**Robust Object Detection for Autonomous Driving via Curriculum-Guided Group Relative Policy Optimization**|Xu Jia et.al.|[2509.22688](http://arxiv.org/abs/2509.22688)|null|
+|**2025-09-26**|**CCNeXt: An Effective Self-Supervised Stereo Depth Estimation Approach**|Alexandre Lopes et.al.|[2509.22627](http://arxiv.org/abs/2509.22627)|null|
+|**2025-10-03**|**An Intention-driven Lane Change Framework Considering Heterogeneous Dynamic Cooperation in Mixed-traffic Environment**|Xiaoyun Qiu et.al.|[2509.22550](http://arxiv.org/abs/2509.22550)|null|
+|**2025-09-26**|**EfficientDepth: A Fast and Detail-Preserving Monocular Depth Estimation Model**|Andrii Litvynchuk et.al.|[2509.22527](http://arxiv.org/abs/2509.22527)|null|
+|**2025-09-29**|**A Multi-Modality Evaluation of the Reality Gap in Autonomous Driving Systems**|Stefano Carlo Lambertenghi et.al.|[2509.22379](http://arxiv.org/abs/2509.22379)|null|
+|**2025-09-26**|**UniMapGen: A Generative Framework for Large-Scale Map Construction from Multi-modal Data**|Yujian Yuan et.al.|[2509.22262](http://arxiv.org/abs/2509.22262)|null|
+|**2025-09-26**|**Impact of Collective Behaviors of Autonomous Vehicles on Urban Traffic Dynamics: A Multi-Agent Reinforcement Learning Approach**|Ahmet Onur Akman et.al.|[2509.22216](http://arxiv.org/abs/2509.22216)|null|
+|**2025-09-26**|**An Adaptive ICP LiDAR Odometry Based on Reliable Initial Pose**|Qifeng Wang et.al.|[2509.22058](http://arxiv.org/abs/2509.22058)|null|
+|**2025-09-25**|**PL-VIWO2: A Lightweight, Fast and Robust Visual-Inertial-Wheel Odometry Using Points and Lines**|Zhixin Zhang et.al.|[2509.21563](http://arxiv.org/abs/2509.21563)|null|
+|**2025-09-25**|**Residual Vector Quantization For Communication-Efficient Multi-Agent Perception**|Dereje Shenkut et.al.|[2509.21464](http://arxiv.org/abs/2509.21464)|null|
+|**2025-09-25**|**Autoregressive End-to-End Planning with Time-Invariant Spatial Alignment and Multi-Objective Policy Refinement**|Jianbo Zhao et.al.|[2509.20938](http://arxiv.org/abs/2509.20938)|null|
+|**2025-09-25**|**MTRDrive: Memory-Tool Synergistic Reasoning for Robust Autonomous Driving in Corner Cases**|Ziang Luo et.al.|[2509.20843](http://arxiv.org/abs/2509.20843)|null|
+|**2025-09-25**|**DAC-LoRA: Dynamic Adversarial Curriculum for Efficient and Robust Few-Shot Adaptation**|Ved Umrajkar et.al.|[2509.20792](http://arxiv.org/abs/2509.20792)|null|
+|**2025-09-29**|**MASt3R-Fusion: Integrating Feed-Forward Visual Model with IMU, GNSS for High-Functionality SLAM**|Yuxuan Zhou et.al.|[2509.20757](http://arxiv.org/abs/2509.20757)|null|
+|**2025-09-30**|**Parasitic actuation delay limits the minimum employable time headway in connected and autonomous vehicles**|Guoqi Ma et.al.|[2509.20722](http://arxiv.org/abs/2509.20722)|null|
+|**2025-09-25**|**Equi-RO: A 4D mmWave Radar Odometry via Equivariant Networks**|Zeyu Han et.al.|[2509.20674](http://arxiv.org/abs/2509.20674)|null|
+|**2025-10-04**|**Cyber Racing Coach: A Haptic Shared Control Framework for Teaching Advanced Driving Skills**|Congkai Shen et.al.|[2509.20653](http://arxiv.org/abs/2509.20653)|null|
+|**2025-09-26**|**AnchDrive: Bootstrapping Diffusion Policies with Hybrid Trajectory Anchors for End-to-End Driving**|Jinhao Chai et.al.|[2509.20253](http://arxiv.org/abs/2509.20253)|null|
+|**2025-09-24**|**An Empirical Analysis of Secure Federated Learning for Autonomous Vehicle Applications**|Md Jueal Mia et.al.|[2509.20223](http://arxiv.org/abs/2509.20223)|null|
+|**2025-09-24**|**Universal Camouflage Attack on Vision-Language Models for Autonomous Driving**|Dehong Kong et.al.|[2509.20196](http://arxiv.org/abs/2509.20196)|null|
+|**2025-09-24**|**Characterizing the Performance of Accelerated Jetson Edge Devices for Training Deep Learning Models**|Prashanthi S. K. et.al.|[2509.20160](http://arxiv.org/abs/2509.20160)|null|
+|**2025-10-05**|**Smaller is Better: Enhancing Transparency in Vehicle AI Systems via Pruning**|Sanish Suwal et.al.|[2509.20148](http://arxiv.org/abs/2509.20148)|null|
+|**2025-09-24**|**Discrete Diffusion for Reflective Vision-Language-Action Models in Autonomous Driving**|Pengxiang Li et.al.|[2509.20109](http://arxiv.org/abs/2509.20109)|null|
+|**2025-09-25**|**Hyperspectral Adapter for Semantic Segmentation with Vision Foundation Models**|Juana Valeria Hurtado et.al.|[2509.20107](http://arxiv.org/abs/2509.20107)|null|
+|**2025-09-24**|**Steerable Adversarial Scenario Generation through Test-Time Preference Alignment**|Tong Nie et.al.|[2509.20102](http://arxiv.org/abs/2509.20102)|null|
+|**2025-09-25**|**OmniScene: Attention-Augmented Multimodal 4D Scene Understanding for Autonomous Driving**|Pei Liu et.al.|[2509.19973](http://arxiv.org/abs/2509.19973)|null|
+|**2025-09-24**|**BiTAA: A Bi-Task Adversarial Attack for Object Detection and Depth Estimation via 3D Gaussian Splatting**|Yixun Zhang et.al.|[2509.19793](http://arxiv.org/abs/2509.19793)|null|
+|**2025-09-24**|**RDAR: Reward-Driven Agent Relevance Estimation for Autonomous Driving**|Carlo Bosio et.al.|[2509.19789](http://arxiv.org/abs/2509.19789)|null|
+|**2025-09-24**|**EfficienT-HDR: An Efficient Transformer-Based Framework via Multi-Exposure Fusion for HDR Reconstruction**|Yu-Shen Huang et.al.|[2509.19779](http://arxiv.org/abs/2509.19779)|null|
+|**2025-09-23**|**The Impact of 2D Segmentation Backbones on Point Cloud Predictions Using 4D Radar**|William L. Muckelroy III et.al.|[2509.19644](http://arxiv.org/abs/2509.19644)|null|
+|**2025-09-23**|**High Clockrate Free-space Optical In-Memory Computing**|Yuanhao Liang et.al.|[2509.19642](http://arxiv.org/abs/2509.19642)|null|
+|**2025-09-23**|**Coordinated PSO-PID based longitudinal control with LPV-MPC based lateral control for autonomous vehicles**|Yassine Kebbati et.al.|[2509.19529](http://arxiv.org/abs/2509.19529)|null|
+|**2025-09-23**|**Autonomous driving using an optimized neural network based adaptive LPV-MPC controller**|Yassine Kebbati et.al.|[2509.19523](http://arxiv.org/abs/2509.19523)|null|
+|**2025-09-20**|**Vision-Based Perception for Autonomous Vehicles in Off-Road Environment Using Deep Learning**|Nelson Alves Ferreira Neto et.al.|[2509.19378](http://arxiv.org/abs/2509.19378)|null|
+|**2025-09-15**|**CSIYOLO: An Intelligent CSI-based Scatter Sensing Framework for Integrated Sensing and Communication Systems**|Xudong Zhang et.al.|[2509.19335](http://arxiv.org/abs/2509.19335)|null|
+|**2025-09-23**|**Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation**|Sherwin Bahmani et.al.|[2509.19296](http://arxiv.org/abs/2509.19296)|null|
+|**2025-09-24**|**An on-chip Pixel Processing Approach with 2.4μs latency for Asynchronous Read-out of SPAD-based dToF Flash LiDARs**|Yiyang Liu et.al.|[2509.19192](http://arxiv.org/abs/2509.19192)|null|
+|**2025-09-23**|**LiDAR Point Cloud Image-based Generation Using Denoising Diffusion Probabilistic Models**|Amirhesam Aghanouri et.al.|[2509.18917](http://arxiv.org/abs/2509.18917)|null|
+|**2025-09-23**|**TriFusion-AE: Language-Guided Depth and LiDAR Fusion for Robust Point Cloud Processing**|Susmit Neogi et.al.|[2509.18743](http://arxiv.org/abs/2509.18743)|null|
+|**2025-09-23**|**The Case for Negative Data: From Crash Reports to Counterfactuals for Reasonable Driving**|Jay Patrikar et.al.|[2509.18626](http://arxiv.org/abs/2509.18626)|null|
+|**2025-09-23**|**MLF-4DRCNet: Multi-Level Fusion with 4D Radar and Camera for 3D Object Detection in Autonomous Driving**|Yuzhi Wu et.al.|[2509.18613](http://arxiv.org/abs/2509.18613)|null|
+|**2025-09-23**|**PIE: Perception and Interaction Enhanced End-to-End Motion Planning for Autonomous Driving**|Chengran Yuan et.al.|[2509.18609](http://arxiv.org/abs/2509.18609)|null|
+|**2025-09-23**|**Spatial Envelope MPC: High Performance Driving without a Reference**|Siyuan Yu et.al.|[2509.18506](http://arxiv.org/abs/2509.18506)|null|
+|**2025-09-22**|**Assistive Decision-Making for Right of Way Navigation at Uncontrolled Intersections**|Navya Tiwari et.al.|[2509.18407](http://arxiv.org/abs/2509.18407)|null|
+|**2025-09-22**|**AD-VF: LLM-Automatic Differentiation Enables Fine-Tuning-Free Robot Planning from Formal Methods Feedback**|Yunhao Yang et.al.|[2509.18384](http://arxiv.org/abs/2509.18384)|null|
+|**2025-09-22**|**Perceptions of AI Across Sectors: A Comparative Review of Public Attitudes**|Filip Bialy et.al.|[2509.18233](http://arxiv.org/abs/2509.18233)|null|
+|**2025-09-19**|**MMCD: Multi-Modal Collaborative Decision-Making for Connected Autonomy with Knowledge Distillation**|Rui Liu et.al.|[2509.18198](http://arxiv.org/abs/2509.18198)|null|
+|**2025-09-25**|**V2V-GoT: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models and Graph-of-Thoughts**|Hsu-kuang Chiu et.al.|[2509.18053](http://arxiv.org/abs/2509.18053)|null|
+|**2025-09-22**|**DriveDPO: Policy Learning via Safety DPO For End-to-End Autonomous Driving**|Shuyao Shang et.al.|[2509.17940](http://arxiv.org/abs/2509.17940)|null|
+|**2025-09-22**|**Developing a Dynamic Mobility Model for Backcasting Applications: A Case Study with Shared Autonomous Vehicles**|Théotime Héraud et.al.|[2509.17928](http://arxiv.org/abs/2509.17928)|null|
+|**2025-09-22**|**SocialTraj: Two-Stage Socially-Aware Trajectory Prediction for Autonomous Driving via Conditional Diffusion Model**|Xiao Zhou et.al.|[2509.17850](http://arxiv.org/abs/2509.17850)|null|
+|**2025-09-22**|**RSU-Assisted Resource Allocation for Collaborative Perception**|Guowei Liu et.al.|[2509.17691](http://arxiv.org/abs/2509.17691)|null|
+|**2025-09-22**|**Predicting Depth Maps from Single RGB Images and Addressing Missing Information in Depth Estimation**|Mohamad Mofeed Chaar et.al.|[2509.17686](http://arxiv.org/abs/2509.17686)|null|
+|**2025-09-22**|**Tensor-Based Self-Calibration of Cameras via the TrifocalCalib Method**|Gregory Schroeder et.al.|[2509.17620](http://arxiv.org/abs/2509.17620)|null|
+|**2025-09-22**|**Vision-Based Driver Drowsiness Monitoring: Comparative Analysis of YOLOv5-v11 Models**|Dilshara Herath et.al.|[2509.17498](http://arxiv.org/abs/2509.17498)|null|
+|**2025-09-22**|**FGGS-LiDAR: Ultra-Fast, GPU-Accelerated Simulation from General 3DGS Models to LiDAR**|Junzhe Wu et.al.|[2509.17390](http://arxiv.org/abs/2509.17390)|null|
+|**2025-09-29**|**Multi-Scenario Highway Lane-Change Intention Prediction: A Physics-Informed AI Framework for Three-Class Classification**|Jiazhao Shi et.al.|[2509.17354](http://arxiv.org/abs/2509.17354)|null|
+|**2025-09-21**|**Socially Adaptive Autonomous Vehicles: Effects of Contingent Driving Behavior on Drivers' Experiences**|Chishang Yang et.al.|[2509.17264](http://arxiv.org/abs/2509.17264)|null|
+|**2025-09-23**|**Seeing is Deceiving: Mirror-Based LiDAR Spoofing for Autonomous Vehicle Deception**|Selma Yahia et.al.|[2509.17253](http://arxiv.org/abs/2509.17253)|null|
+|**2025-09-21**|**Optimized adaptive MPC for lateral control of autonomous vehicles**|Yassine Kebbati et.al.|[2509.17215](http://arxiv.org/abs/2509.17215)|null|
+|**2025-09-21**|**Optimized self-adaptive PID speed control for autonomous vehicles**|Yassine Kebbati et.al.|[2509.17214](http://arxiv.org/abs/2509.17214)|null|
+|**2025-09-21**|**Neural Network and ANFIS based auto-adaptive MPC for path tracking in autonomous vehicles**|Yassine Kebbati et.al.|[2509.17213](http://arxiv.org/abs/2509.17213)|null|
+|**2025-09-21**|**CoPlanner: An Interactive Motion Planner with Contingency-Aware Diffusion for Autonomous Driving**|Ruiguo Zhong et.al.|[2509.17080](http://arxiv.org/abs/2509.17080)|null|
+|**2025-09-21**|**Orchestrate, Generate, Reflect: A VLM-Based Multi-Agent Collaboration Framework for Automated Driving Policy Learning**|Zengqi Peng et.al.|[2509.17042](http://arxiv.org/abs/2509.17042)|null|
+|**2025-09-21**|**Temporal Logic-Based Multi-Vehicle Backdoor Attacks against Offline RL Agents in End-to-end Autonomous Driving**|Xuan Chen et.al.|[2509.16950](http://arxiv.org/abs/2509.16950)|null|
+|**2025-09-21**|**Security Vulnerabilities in Software Supply Chain for Autonomous Vehicles**|Md Wasiul Haque et.al.|[2509.16899](http://arxiv.org/abs/2509.16899)|null|
+|**2025-09-21**|**End2Race: Efficient End-to-End Imitation Learning for Real-Time F1Tenth Racing**|Zhijie Qiao et.al.|[2509.16894](http://arxiv.org/abs/2509.16894)|null|
+|**2025-09-20**|**Improve bounding box in Carla Simulator**|Mohamad Mofeed Chaar et.al.|[2509.16773](http://arxiv.org/abs/2509.16773)|null|
+|**2025-09-28**|**Are VLMs Ready for Lane Topology Awareness in Autonomous Driving?**|Xin Chen et.al.|[2509.16654](http://arxiv.org/abs/2509.16654)|null|
+|**2025-09-20**|**ADVEDM:Fine-grained Adversarial Attack against VLM-based Embodied Agents**|Yichen Wang et.al.|[2509.16645](http://arxiv.org/abs/2509.16645)|null|
+|**2025-09-20**|**SQS: Enhancing Sparse Perception Models via Query-based Splatting in Autonomous Driving**|Haiming Zhang et.al.|[2509.16588](http://arxiv.org/abs/2509.16588)|null|
+|**2025-09-20**|**ST-GS: Vision-Based 3D Semantic Occupancy Prediction with Spatial-Temporal Gaussian Splatting**|Xiaoyang Yan et.al.|[2509.16552](http://arxiv.org/abs/2509.16552)|null|
+|**2025-09-20**|**RLGF: Reinforcement Learning with Geometric Feedback for Autonomous Driving Video Generation**|Tianyi Yan et.al.|[2509.16500](http://arxiv.org/abs/2509.16500)|null|
+|**2025-09-20**|**Constrained Co-evolutionary Metamorphic Differential Testing for Autonomous Systems with an Interpretability Approach**|Hossein Yousefizadeh et.al.|[2509.16478](http://arxiv.org/abs/2509.16478)|null|
+|**2025-09-23**|**AHA -- Predicting What Matters Next: Online Highlight Detection Without Looking Ahead**|Aiden Chang et.al.|[2509.16421](http://arxiv.org/abs/2509.16421)|null|
+|**2025-09-19**|**Neural Atlas Graphs for Dynamic Scene Decomposition and Editing**|Jan Philipp Schneider et.al.|[2509.16336](http://arxiv.org/abs/2509.16336)|null|
+|**2025-09-18**|**Stabilizing Information Flow Entropy: Regularization for Safe and Interpretable Autonomous Driving Perception**|Haobo Yang et.al.|[2509.16277](http://arxiv.org/abs/2509.16277)|null|
+|**2025-09-18**|**RaFD: Flow-Guided Radar Detection for Robust Autonomous Driving**|Shuocheng Yang et.al.|[2509.16261](http://arxiv.org/abs/2509.16261)|null|
+|**2025-09-19**|**RadarGaussianDet3D: An Efficient and Effective Gaussian-based 3D Detector with 4D Automotive Radars**|Weiyi Xiong et.al.|[2509.16119](http://arxiv.org/abs/2509.16119)|null|
+|**2025-09-19**|**CoPAD : Multi-source Trajectory Fusion and Cooperative Trajectory Prediction with Anchor-oriented Decoder in V2X Scenarios**|Kangyu Wu et.al.|[2509.15984](http://arxiv.org/abs/2509.15984)|null|
+|**2025-09-19**|**CoReVLA: A Dual-Stage End-to-End Autonomous Driving Framework for Long-Tail Scenarios via Collect-and-Refine**|Shiyu Fang et.al.|[2509.15968](http://arxiv.org/abs/2509.15968)|null|
+|**2025-09-19**|**RangeSAM: Leveraging Visual Foundation Models for Range-View repesented LiDAR segmentation**|Paul Julius Kühn et.al.|[2509.15886](http://arxiv.org/abs/2509.15886)|null|
+|**2025-09-26**|**GPU Temperature Simulation-Based Testing for In-Vehicle Deep Learning Frameworks**|Yinglong Zou et.al.|[2509.15815](http://arxiv.org/abs/2509.15815)|null|
+|**2025-09-19**|**CBPNet: A Continual Backpropagation Prompt Network for Alleviating Plasticity Loss on Edge Devices**|Runjie Shao et.al.|[2509.15785](http://arxiv.org/abs/2509.15785)|null|
+|**2025-09-19**|**Enriched Feature Representation and Motion Prediction Module for MOSEv2 Track of 7th LSVOS Challenge: 3rd Place Solution**|Chang Soo Lim et.al.|[2509.15781](http://arxiv.org/abs/2509.15781)|null|
+|**2025-09-19**|**UNIV: Unified Foundation Model for Infrared and Visible Modalities**|Fangyuan Mao et.al.|[2509.15642](http://arxiv.org/abs/2509.15642)|null|
+|**2025-09-22**|**Online Slip Detection and Friction Coefficient Estimation for Autonomous Racing**|Christopher Oeltjen et.al.|[2509.15423](http://arxiv.org/abs/2509.15423)|null|
+|**2025-09-18**|**Trust-Aware Embodied Bayesian Persuasion for Mixed-Autonomy**|Shaoting Peng et.al.|[2509.15404](http://arxiv.org/abs/2509.15404)|null|
+|**2025-09-18**|**Out-of-Sight Trajectories: Tracking, Fusion, and Prediction**|Haichao Zhang et.al.|[2509.15219](http://arxiv.org/abs/2509.15219)|null|
+|**2025-09-18**|**Digital Twin-based Cooperative Autonomous Driving in Smart Intersections: A Multi-Agent Reinforcement Learning Approach**|Taoyuan Yu et.al.|[2509.15099](http://arxiv.org/abs/2509.15099)|null|
+|**2025-09-18**|**Feature-aligned Motion Transformation for Efficient Dynamic Point Cloud Compression**|Xuan Deng et.al.|[2509.14591](http://arxiv.org/abs/2509.14591)|null|
+|**2025-09-18**|**DiffVL: Diffusion-Based Visual Localization on 2D Maps via BEV-Conditioned GPS Denoising**|Li Gao et.al.|[2509.14565](http://arxiv.org/abs/2509.14565)|null|
+|**2025-09-17**|**FlowDrive: Energy Flow Field for End-to-End Autonomous Driving**|Hao Jiang et.al.|[2509.14303](http://arxiv.org/abs/2509.14303)|null|
+|**2025-10-03**|**MCGS-SLAM: A Multi-Camera SLAM Framework Using Gaussian Splatting for High-Fidelity Mapping**|Zhihao Cao et.al.|[2509.14191](http://arxiv.org/abs/2509.14191)|null|
+|**2025-09-17**|**BEVUDA++: Geometric-aware Unsupervised Domain Adaptation for Multi-View 3D Object Detection**|Rongyu Zhang et.al.|[2509.14151](http://arxiv.org/abs/2509.14151)|null|
+|**2025-09-17**|**SEG-Parking: Towards Safe, Efficient, and Generalizable Autonomous Parking via End-to-End Offline Reinforcement Learning**|Zewei Yang et.al.|[2509.13956](http://arxiv.org/abs/2509.13956)|null|
+|**2025-09-17**|**MAP: End-to-End Autonomous Driving with Map-Assisted Planning**|Huilin Yin et.al.|[2509.13926](http://arxiv.org/abs/2509.13926)|null|
+|**2025-09-17**|**Ensemble of Pre-Trained Models for Long-Tailed Trajectory Prediction**|Divya Thuremella et.al.|[2509.13914](http://arxiv.org/abs/2509.13914)|null|
+|**2025-09-29**|**InterKey: Cross-modal Intersection Keypoints for Global Localization on OpenStreetMap**|Nguyen Hoang Khoi Tran et.al.|[2509.13857](http://arxiv.org/abs/2509.13857)|null|
+|**2025-09-17**|**Data-Efficient Spectral Classification of Hyperspectral Data Using MiniROCKET and HDC-MiniROCKET**|Nick Theisen et.al.|[2509.13809](http://arxiv.org/abs/2509.13809)|null|
+|**2025-09-17**|**AdaThinkDrive: Adaptive Thinking via Reinforcement Learning for Autonomous Driving**|Yuechen Luo et.al.|[2509.13769](http://arxiv.org/abs/2509.13769)|null|
+|**2025-09-17**|**UM-Depth : Uncertainty Masked Self-Supervised Monocular Depth Estimation with Visual Odometry**|Tae-Wook Um et.al.|[2509.13713](http://arxiv.org/abs/2509.13713)|null|
+|**2025-09-17**|**FishBEV: Distortion-Resilient Bird's Eye View Segmentation with Surround-View Fisheye Cameras**|Hang Li et.al.|[2509.13681](http://arxiv.org/abs/2509.13681)|null|
+|**2025-09-17**|**Barometer-Aided Attitude Estimation**|Méloné Nyoba Tchonkeu et.al.|[2509.13649](http://arxiv.org/abs/2509.13649)|null|
+|**2025-10-06**|**TreeIRL: Safe Urban Driving with Tree Search and Inverse Reinforcement Learning**|Momchil S. Tomov et.al.|[2509.13579](http://arxiv.org/abs/2509.13579)|null|
+|**2025-09-16**|**Dynamic Aware: Adaptive Multi-Mode Out-of-Distribution Detection for Trajectory Prediction in Autonomous Vehicles**|Tongfei Guo et.al.|[2509.13577](http://arxiv.org/abs/2509.13577)|null|
+|**2025-09-16**|**A Game-Theoretic Predictive Control Framework with Statistical Collision Avoidance Constraints for Autonomous Vehicle Overtaking**|Sheng Yu et.al.|[2509.13545](http://arxiv.org/abs/2509.13545)|null|
+|**2025-09-16**|**Adversarial Appearance Learning in Augmented Cityscapes for Pedestrian Recognition in Autonomous Driving**|Artem Savkin et.al.|[2509.13507](http://arxiv.org/abs/2509.13507)|null|
+|**2025-09-16**|**Road Obstacle Video Segmentation**|Shyam Nandan Rai et.al.|[2509.13181](http://arxiv.org/abs/2509.13181)|null|
+|**2025-09-17**|**TeraSim-World: Worldwide Safety-Critical Data Synthesis for End-to-End Autonomous Driving**|Jiawei Wang et.al.|[2509.13164](http://arxiv.org/abs/2509.13164)|null|
+|**2025-09-16**|**An Uncertainty-Weighted Decision Transformer for Navigation in Dense, Complex Driving Scenarios**|Zhihao Zhang et.al.|[2509.13132](http://arxiv.org/abs/2509.13132)|null|
+|**2025-09-16**|**Weakly and Self-Supervised Class-Agnostic Motion Prediction for Autonomous Driving**|Ruibo Li et.al.|[2509.13116](http://arxiv.org/abs/2509.13116)|null|
+|**2025-09-16**|**4DRadar-GS: Self-Supervised Dynamic Driving Scene Reconstruction with 4D Radar**|Xiao Tang et.al.|[2509.12931](http://arxiv.org/abs/2509.12931)|null|
+|**2025-09-16**|**StereoCarla: A High-Fidelity Driving Dataset for Generalizable Stereo**|Xianda Guo et.al.|[2509.12683](http://arxiv.org/abs/2509.12683)|null|
+|**2025-09-16**|**Maps for Autonomous Driving: Full-process Survey and Frontiers**|Pengxin Chen et.al.|[2509.12632](http://arxiv.org/abs/2509.12632)|null|
+|**2025-09-16**|**DisorientLiDAR: Physical Attacks on LiDAR-based Localization**|Yizhen Lao et.al.|[2509.12595](http://arxiv.org/abs/2509.12595)|null|
+|**2025-09-15**|**Platoon-Centric Green Light Optimal Speed Advisory Using Safe Reinforcement Learning**|Ruining Yang et.al.|[2509.12378](http://arxiv.org/abs/2509.12378)|null|
+|**2025-09-15**|**Approaches to Analysis and Design of AI-Based Autonomous Vehicles**|Tao Yan et.al.|[2509.12169](http://arxiv.org/abs/2509.12169)|null|
+|**2025-09-15**|**Control Analysis and Design for Autonomous Vehicles Subject to Imperfect AI-Based Perception**|Tao Yan et.al.|[2509.12137](http://arxiv.org/abs/2509.12137)|null|
+|**2025-09-16**|**Embodied Navigation Foundation Model**|Jiazhao Zhang et.al.|[2509.12129](http://arxiv.org/abs/2509.12129)|null|
+|**2025-09-15**|**Probabilistic Robustness Analysis in High Dimensional Space: Application to Semantic Segmentation Network**|Navid Hashemi et.al.|[2509.11838](http://arxiv.org/abs/2509.11838)|null|
+|**2025-09-15**|**HeLoFusion: An Efficient and Scalable Encoder for Modeling Heterogeneous and Multi-Scale Interactions in Trajectory Prediction**|Bingqing Wei et.al.|[2509.11719](http://arxiv.org/abs/2509.11719)|null|
+|**2025-09-14**|**SPHERE: Semantic-PHysical Engaged REpresentation for 3D Semantic Scene Completion**|Zhiwen Yang et.al.|[2509.11171](http://arxiv.org/abs/2509.11171)|null|
+|**2025-09-14**|**Multispectral-NeRF:a multispectral modeling approach based on neural radiance fields**|Hong Zhang et.al.|[2509.11169](http://arxiv.org/abs/2509.11169)|null|
+|**2025-09-17**|**SoK: How Sensor Attacks Disrupt Autonomous Vehicles: An End-to-end Analysis, Challenges, and Missed Threats**|Qingzhao Zhang et.al.|[2509.11120](http://arxiv.org/abs/2509.11120)|null|
+|**2025-09-13**|**Point-Plane Projections for Accurate LiDAR Semantic Segmentation in Small Data Scenarios**|Simone Mosco et.al.|[2509.10841](http://arxiv.org/abs/2509.10841)|null|
+|**2025-09-12**|**Remotely Seeing Is Believing: How Trust in Cyber-Physical Systems Evolves Through Virtual Observation**|Zhi Hua Jin et.al.|[2509.10749](http://arxiv.org/abs/2509.10749)|null|
+|**2025-09-17**|**DECAMP: Towards Scene-Consistent Multi-Agent Motion Prediction with Disentangled Context-Aware Pre-Training**|Jianxin Shi et.al.|[2509.10426](http://arxiv.org/abs/2509.10426)|null|
 |**2025-07-22**|**Denoising-While-Completing Network (DWCNet): Robust Point Cloud Completion Under Corruption**|Keneni W. Tesema et.al.|[2507.16743](http://arxiv.org/abs/2507.16743)|null|
 |**2025-07-22**|**A Target-based Multi-LiDAR Multi-Camera Extrinsic Calibration System**|Lorenzo Gentilini et.al.|[2507.16621](http://arxiv.org/abs/2507.16621)|null|
 |**2025-07-22**|**VGGT-Long: Chunk it, Loop it, Align it -- Pushing VGGT's Limits on Kilometer-scale Long RGB Sequences**|Kai Deng et.al.|[2507.16443](http://arxiv.org/abs/2507.16443)|null|
@@ -1960,20 +2415,54 @@
 |**2025-09-27**|**Increasing the Diversity in RGB-to-Thermal Image Translation for Automotive Applications**|Kaili Wang et.al.|[2509.23243](http://arxiv.org/abs/2509.23243)|null|
 |**2025-09-26**|**Physics-informed GNN for medium-high voltage AC power flow with edge-aware attention and line search correction operator**|Changhun Kim et.al.|[2509.22458](http://arxiv.org/abs/2509.22458)|null|
 |**2025-09-24**|**Steerable Adversarial Scenario Generation through Test-Time Preference Alignment**|Tong Nie et.al.|[2509.20102](http://arxiv.org/abs/2509.20102)|null|
+|**2025-08-28**|**Stochastic Economic Dispatch with Battery Energy Storage considering Wind and Load Uncertainty**|Shishir Lamichhane et.al.|[2509.18100](http://arxiv.org/abs/2509.18100)|null|
 |**2025-09-27**|**Remote Sensing-Oriented World Model**|Yuxi Lu et.al.|[2509.17808](http://arxiv.org/abs/2509.17808)|null|
 |**2025-09-18**|**LLM4MG: Adapting Large Language Model for Multipath Generation via Synesthesia of Machines**|Ziwei Huang et.al.|[2509.14711](http://arxiv.org/abs/2509.14711)|null|
 |**2025-09-14**|**Traffic-MLLM: A Spatio-Temporal MLLM with Retrieval-Augmented Generation for Causal Inference in Traffic**|Waikit Xiu et.al.|[2509.11165](http://arxiv.org/abs/2509.11165)|null|
 |**2025-09-12**|**Robot guide with multi-agent control and automatic scenario generation with LLM**|Elizaveta D. Moskovskaya et.al.|[2509.10317](http://arxiv.org/abs/2509.10317)|null|
 |**2025-09-12**|**Maximising Energy Efficiency in Large-Scale Open RAN: Hybrid xApps and Digital Twin Integration**|Ahmed Al-Tahmeesschi et.al.|[2509.10097](http://arxiv.org/abs/2509.10097)|null|
+|**2025-09-11**|**Towards an AI-based knowledge assistant for goat farmers based on Retrieval-Augmented Generation**|Nana Han et.al.|[2509.09848](http://arxiv.org/abs/2509.09848)|null|
+|**2025-09-11**|**Bridging the Gap Between Ideal and Real-world Evaluation: Benchmarking AI-Generated Image Detection in Challenging Scenarios**|Chunxiao Li et.al.|[2509.09172](http://arxiv.org/abs/2509.09172)|null|
+|**2025-09-10**|**Interpretable Physics Reasoning and Performance Taxonomy in Vision-Language Models**|Pranav Pawar et.al.|[2509.08270](http://arxiv.org/abs/2509.08270)|null|
+|**2025-09-08**|**Nested Optimal Transport Distances**|Ruben Bontorno et.al.|[2509.06702](http://arxiv.org/abs/2509.06702)|null|
+|**2025-09-06**|**Scenario-based Decision-making Using Game Theory for Interactive Autonomous Driving: A Survey**|Zhihao Lin et.al.|[2509.05777](http://arxiv.org/abs/2509.05777)|null|
+|**2025-09-01**|**Facial Emotion Recognition does not detect feeling unsafe in automated driving**|Abel van Elburg et.al.|[2509.04490](http://arxiv.org/abs/2509.04490)|null|
+|**2025-09-04**|**Learning Optimal Crew Dispatch for Grid Restoration Following an Earthquake**|Farshad Amani et.al.|[2509.04308](http://arxiv.org/abs/2509.04308)|null|
+|**2025-09-03**|**PercepTwin: Modeling High-Fidelity Digital Twins for Sim2Real LiDAR-based Perception for Intelligent Transportation Systems**|Muhammad Shahbaz et.al.|[2509.02903](http://arxiv.org/abs/2509.02903)|null|
+|**2025-09-02**|**Portable Targeted Sampling Framework Using LLVM**|Zhantong Qiu et.al.|[2509.02873](http://arxiv.org/abs/2509.02873)|null|
+|**2025-09-02**|**Txt2Sce: Scenario Generation for Autonomous Driving System Testing Based on Textual Reports**|Pin Ji et.al.|[2509.02150](http://arxiv.org/abs/2509.02150)|null|
+|**2025-09-01**|**LLM-empowered Agents Simulation Framework for Scenario Generation in Service Ecosystem Governance**|Deyu Zhou et.al.|[2509.01441](http://arxiv.org/abs/2509.01441)|null|
+|**2025-09-01**|**Robust Stochastic Outperformance under Kullback-Leibler Ambiguity**|Ozan Hür et.al.|[2509.01346](http://arxiv.org/abs/2509.01346)|null|
+|**2025-08-25**|**From Data to Decision: A Multi-Stage Framework for Class Imbalance Mitigation in Optical Network Failure Analysis**|Yousuf Moiz Ali et.al.|[2509.00057](http://arxiv.org/abs/2509.00057)|null|
+|**2025-08-29**|**CARJAN: Agent-Based Generation and Simulation of Traffic Scenarios with AJAN**|Leonard Frank Neis et.al.|[2508.21411](http://arxiv.org/abs/2508.21411)|null|
+|**2025-08-22**|**Extreme Lithium Depletion in Solar Twins: Challenging Non-Standard Mixing Models**|Isabelle Winnick et.al.|[2508.16513](http://arxiv.org/abs/2508.16513)|null|
+|**2025-08-22**|**Seeing Clearly, Forgetting Deeply: Revisiting Fine-Tuned Video Generators for Driving Simulation**|Chun-Peng Chang et.al.|[2508.16512](http://arxiv.org/abs/2508.16512)|null|
+|**2025-08-22**|**Adversarial Generation and Collaborative Evolution of Safety-Critical Scenarios for Autonomous Vehicles**|Jiangfan Liu et.al.|[2508.14527](http://arxiv.org/abs/2508.14527)|null|
+|**2025-08-15**|**DiCriTest: Testing Scenario Generation for Decision-Making Agents Considering Diversity and Criticality**|Qitong Chu et.al.|[2508.11514](http://arxiv.org/abs/2508.11514)|null|
+|**2025-08-14**|**DriveSimQuest: A VR Driving Simulator and Research Platform on Meta Quest with Unity**|Nishanth Chidambaram et.al.|[2508.11072](http://arxiv.org/abs/2508.11072)|null|
+|**2025-08-12**|**Toward Automated Hypervisor Scenario Generation Based on VM Workload Profiling for Resource-Constrained Environments**|Hyunwoo Kim et.al.|[2508.08952](http://arxiv.org/abs/2508.08952)|null|
+|**2025-08-11**|**ChatGPT on the Road: Leveraging Large Language Model-Powered In-vehicle Conversational Agents for Safer and More Enjoyable Driving Experience**|Yeana Lee Bond et.al.|[2508.08101](http://arxiv.org/abs/2508.08101)|null|
+|**2025-08-07**|**Towards Human-Centric Evaluation of Interaction-Aware Automated Vehicle Controllers: A Framework and Case Study**|Federico Scarì et.al.|[2508.05497](http://arxiv.org/abs/2508.05497)|null|
+|**2025-08-15**|**AirTrafficGen: Configurable Air Traffic Scenario Generation with Large Language Models**|Dewi Sid William Gould et.al.|[2508.02269](http://arxiv.org/abs/2508.02269)|null|
+|**2025-08-20**|**Bench2ADVLM: A Closed-Loop Benchmark for Vision-language Models in Autonomous Driving**|Tianyuan Zhang et.al.|[2508.02028](http://arxiv.org/abs/2508.02028)|null|
+|**2025-08-04**|**An Evolving Scenario Generation Method based on Dual-modal Driver Model Trained by Multi-Agent Reinforcement Learning**|Xinzheng Wu et.al.|[2508.02027](http://arxiv.org/abs/2508.02027)|null|
+|**2025-07-28**|**An analysis of AI Decision under Risk: Prospect theory emerges in Large Language Models**|Kenneth Payne et.al.|[2508.00902](http://arxiv.org/abs/2508.00902)|null|
+|**2025-08-01**|**Wind Power Scenario Generation based on the Generalized Dynamic Factor Model and Generative Adversarial Network**|Young-ho Cho et.al.|[2508.00692](http://arxiv.org/abs/2508.00692)|null|
+|**2025-07-31**|**LIDAR: Lightweight Adaptive Cue-Aware Fusion Vision Mamba for Multimodal Segmentation of Structural Cracks**|Hui Liu et.al.|[2507.22477](http://arxiv.org/abs/2507.22477)|null|
+|**2025-07-30**|**Comparing Normalizing Flows with Kernel Density Estimation in Estimating Risk of Automated Driving Systems**|Erwin de Gelder et.al.|[2507.22429](http://arxiv.org/abs/2507.22429)|null|
+|**2025-07-31**|**Multidimensional Assessment of Takeover Performance in Conditionally Automated Driving**|Kexin Liang et.al.|[2507.22252](http://arxiv.org/abs/2507.22252)|null|
+|**2025-07-26**|**Bridging Simulation and Usability: A User-Friendly Framework for Scenario Generation in CARLA**|Ahmed Abouelazm et.al.|[2507.19883](http://arxiv.org/abs/2507.19883)|null|
+|**2025-07-25**|**Diverse and Adaptive Behavior Curriculum for Autonomous Driving: A Student-Teacher Framework with Multi-Agent RL**|Ahmed Abouelazm et.al.|[2507.19146](http://arxiv.org/abs/2507.19146)|null|
+|**2025-07-24**|**GenAI for Automotive Software Development: From Requirements to Wheels**|Nenad Petrovic et.al.|[2507.18223](http://arxiv.org/abs/2507.18223)|null|
 |**2025-07-21**|**Red-Team Multi-Agent Reinforcement Learning for Emergency Braking Scenario**|Yinsong Chen et.al.|[2507.15587](http://arxiv.org/abs/2507.15587)|null|
 |**2025-07-01**|**Estimating Markers of Driving Stress through Multimodal Physiological Monitoring**|Kleanthis Avramidis et.al.|[2507.14146](http://arxiv.org/abs/2507.14146)|null|
 |**2025-07-16**|**EEG-fused Digital Twin Brain for Autonomous Driving in Virtual Scenarios**|Yubo Hou et.al.|[2507.12263](http://arxiv.org/abs/2507.12263)|null|
-|**2025-07-21**|**AD-GS: Object-Aware B-Spline Gaussian Splatting for Self-Supervised Autonomous Driving**|Jiawei Xu et.al.|[2507.12137](http://arxiv.org/abs/2507.12137)|null|
+|**2025-08-05**|**AD-GS: Object-Aware B-Spline Gaussian Splatting for Self-Supervised Autonomous Driving**|Jiawei Xu et.al.|[2507.12137](http://arxiv.org/abs/2507.12137)|null|
 |**2025-07-16**|**LidarPainter: One-Step Away From Any Lidar View To Novel Guidance**|Yuzhou Ji et.al.|[2507.12114](http://arxiv.org/abs/2507.12114)|null|
 |**2025-07-14**|**RCG: Safety-Critical Scenario Generation for Robust Autonomous Driving via Real-World Crash Grounding**|Benjamin Stoler et.al.|[2507.10749](http://arxiv.org/abs/2507.10749)|null|
-|**2025-07-21**|**Solving dynamic portfolio selection problems via score-based diffusion models**|Ahmad Aghapour et.al.|[2507.09916](http://arxiv.org/abs/2507.09916)|null|
+|**2025-08-30**|**Solving dynamic portfolio selection problems via score-based diffusion models**|Ahmad Aghapour et.al.|[2507.09916](http://arxiv.org/abs/2507.09916)|null|
 |**2025-07-09**|**Toward a Full-Stack Co-Simulation Platform for Testing of Automated Driving Systems**|Dong Bi et.al.|[2507.06884](http://arxiv.org/abs/2507.06884)|null|
-|**2025-07-05**|**Driver-Net: Multi-Camera Fusion for Assessing Driver Take-Over Readiness in Automated Vehicles**|Mahdi Rezaei et.al.|[2507.04139](http://arxiv.org/abs/2507.04139)|null|
+|**2025-09-08**|**Driver-Net: Multi-Camera Fusion for Assessing Driver Take-Over Readiness in Automated Vehicles**|Mahdi Rezaei et.al.|[2507.04139](http://arxiv.org/abs/2507.04139)|null|
 |**2025-07-05**|**ArmGS: Composite Gaussian Appearance Refinement for Modeling Dynamic Urban Environments**|Guile Wu et.al.|[2507.03886](http://arxiv.org/abs/2507.03886)|null|
 |**2025-07-02**|**Machine Learning Based Stress Testing Framework for Indian Financial Market Portfolios**|Vidya Sagar G et.al.|[2507.02011](http://arxiv.org/abs/2507.02011)|null|
 |**2025-07-02**|**LLM-based Realistic Safety-Critical Driving Video Generation**|Yongjie Fu et.al.|[2507.01264](http://arxiv.org/abs/2507.01264)|null|
@@ -1989,32 +2478,33 @@
 |**2025-06-22**|**Beyond utility: incorporating eye-tracking, skin conductance and heart rate data into cognitive and econometric travel behaviour models**|Thomas O. Hancock et.al.|[2506.18068](http://arxiv.org/abs/2506.18068)|null|
 |**2025-06-22**|**A deep-learning model for predicting daily PM2.5 concentration in response to emission reduction**|Shigan Liu et.al.|[2506.18018](http://arxiv.org/abs/2506.18018)|null|
 |**2025-06-21**|**Reimagining Parameter Space Exploration with Diffusion Models**|Lijun Zhang et.al.|[2506.17807](http://arxiv.org/abs/2506.17807)|null|
-|**2025-06-20**|**Long-term Traffic Simulation with Interleaved Autoregressive Motion and Scenario Generation**|Xiuyu Yang et.al.|[2506.17213](http://arxiv.org/abs/2506.17213)|**[link](https://github.com/orangesodahub/infgen)**|
+|**2025-08-05**|**Long-term Traffic Simulation with Interleaved Autoregressive Motion and Scenario Generation**|Xiuyu Yang et.al.|[2506.17213](http://arxiv.org/abs/2506.17213)|null|
 |**2025-06-16**|**How Real is CARLAs Dynamic Vision Sensor? A Study on the Sim-to-Real Gap in Traffic Object Detection**|Kaiyuan Tan et.al.|[2506.13722](http://arxiv.org/abs/2506.13722)|null|
-|**2025-06-13**|**Efficient Multi-Camera Tokenization with Triplanes for End-to-End Driving**|Boris Ivanovic et.al.|[2506.12251](http://arxiv.org/abs/2506.12251)|null|
-|**2025-06-13**|**Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis**|Yuan Gao et.al.|[2506.11526](http://arxiv.org/abs/2506.11526)|**[link](https://github.com/tum-avs/fm-for-scenario-generation-analysis)**|
+|**2025-07-21**|**Efficient Multi-Camera Tokenization with Triplanes for End-to-End Driving**|Boris Ivanovic et.al.|[2506.12251](http://arxiv.org/abs/2506.12251)|null|
+|**2025-06-13**|**Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis**|Yuan Gao et.al.|[2506.11526](http://arxiv.org/abs/2506.11526)|null|
 |**2025-06-19**|**A Robust Optimization Framework for Flexible Industrial Energy Scheduling: Application to a Cement Plant with Market Participation**|Sebastián Rojas-Innocenti et.al.|[2506.10824](http://arxiv.org/abs/2506.10824)|null|
 |**2025-06-11**|**Towards Responsible AI: Advances in Safety, Fairness, and Accountability of Autonomous Systems**|Filip Cano et.al.|[2506.10192](http://arxiv.org/abs/2506.10192)|null|
 |**2025-06-11**|**ReSim: Reliable World Simulation for Autonomous Driving**|Jiazhi Yang et.al.|[2506.09981](http://arxiv.org/abs/2506.09981)|null|
 |**2025-06-11**|**Adv-BMT: Bidirectional Motion Transformer for Safety-Critical Traffic Scenario Generation**|Yuxin Liu et.al.|[2506.09485](http://arxiv.org/abs/2506.09485)|null|
 |**2025-06-14**|**Causality-aware Safety Testing for Autonomous Driving Systems**|Wenbing Tang et.al.|[2506.08688](http://arxiv.org/abs/2506.08688)|null|
+|**2025-09-27**|**TGRPO :Fine-tuning Vision-Language-Action Model via Trajectory-wise Group Relative Policy Optimization**|Zengjue Chen et.al.|[2506.08440](http://arxiv.org/abs/2506.08440)|null|
 |**2025-06-09**|**R3D2: Realistic 3D Asset Insertion via Diffusion for Autonomous Driving Simulation**|William Ljungbergh et.al.|[2506.07826](http://arxiv.org/abs/2506.07826)|null|
 |**2025-06-09**|**Fractional Collisions: A Framework for Risk Estimation of Counterfactual Conflicts using Autonomous Driving Behavior Simulations**|Sreeja Roy-Singh et.al.|[2506.07540](http://arxiv.org/abs/2506.07540)|null|
-|**2025-06-07**|**Can In-Context Reinforcement Learning Recover From Reward Poisoning Attacks?**|Paulius Sasnauskas et.al.|[2506.06891](http://arxiv.org/abs/2506.06891)|null|
+|**2025-09-26**|**Can In-Context Reinforcement Learning Recover From Reward Poisoning Attacks?**|Paulius Sasnauskas et.al.|[2506.06891](http://arxiv.org/abs/2506.06891)|null|
 |**2025-06-06**|**PyGemini: Unified Software Development towards Maritime Autonomy Systems**|Kjetil Vasstein et.al.|[2506.06262](http://arxiv.org/abs/2506.06262)|null|
-|**2025-06-03**|**Generative AI for Predicting 2D and 3D Wildfire Spread: Beyond Physics-Based Models and Traditional Deep Learning**|Haowen Xu et.al.|[2506.02485](http://arxiv.org/abs/2506.02485)|null|
+|**2025-08-04**|**Generative AI as a Pillar for Predicting 2D and 3D Wildfire Spread: Beyond Physics-Based Models and Traditional Deep Learning**|Haowen Xu et.al.|[2506.02485](http://arxiv.org/abs/2506.02485)|null|
 |**2025-06-11**|**Active inference as a unified model of collision avoidance behavior in human drivers**|Julian F. Schumann et.al.|[2506.02215](http://arxiv.org/abs/2506.02215)|null|
-|**2025-06-07**|**CVC: A Large-Scale Chinese Value Rule Corpus for Value Alignment of Large Language Models**|Ping Wu et.al.|[2506.01495](http://arxiv.org/abs/2506.01495)|**[link](https://github.com/beijing-aisi/cvc)**|
+|**2025-06-26**|**CVC: A Large-Scale Chinese Value Rule Corpus for Value Alignment of Large Language Models**|Ping Wu et.al.|[2506.01495](http://arxiv.org/abs/2506.01495)|null|
 |**2025-06-04**|**Test Automation for Interactive Scenarios via Promptable Traffic Simulation**|Augusto Mondelli et.al.|[2506.01199](http://arxiv.org/abs/2506.01199)|null|
 |**2025-05-30**|**Ctrl-Crash: Controllable Diffusion for Realistic Car Crashes**|Anthony Gosselin et.al.|[2506.00227](http://arxiv.org/abs/2506.00227)|null|
-|**2025-05-27**|**Evaluation of "As-Intended" Vehicle Dynamics using the Active Inference Framework**|Kazuharu Kidera et.al.|[2506.00035](http://arxiv.org/abs/2506.00035)|null|
+|**2025-08-29**|**Evaluation of "As-Intended" Vehicle Dynamics using the Active Inference Framework**|Kazuharu Kidera et.al.|[2506.00035](http://arxiv.org/abs/2506.00035)|null|
 |**2025-05-28**|**A Multi-output Gaussian Process Regression with Negative Transfer Mitigation for Generating Boundary Test Scenarios of Multi-UAV Systems**|Hanxu Jiang et.al.|[2505.22331](http://arxiv.org/abs/2505.22331)|null|
 |**2025-05-28**|**From Failures to Fixes: LLM-Driven Scenario Repair for Self-Evolving Autonomous Driving**|Xinyu Xia et.al.|[2505.22067](http://arxiv.org/abs/2505.22067)|null|
-|**2025-05-26**|**WeatherEdit: Controllable Weather Editing with 4D Gaussian Field**|Chenghao Qian et.al.|[2505.20471](http://arxiv.org/abs/2505.20471)|**[link](https://github.com/Jumponthemoon/WeatherEdit)**|
-|**2025-05-24**|**AI-Driven Climate Policy Scenario Generation for Sub-Saharan Africa**|Rafiu Adekoya Badekale et.al.|[2505.18694](http://arxiv.org/abs/2505.18694)|**[link](https://github.com/adethebade/cpsg)**|
+|**2025-08-07**|**WeatherEdit: Controllable Weather Editing with 4D Gaussian Field**|Chenghao Qian et.al.|[2505.20471](http://arxiv.org/abs/2505.20471)|null|
+|**2025-05-24**|**AI-Driven Climate Policy Scenario Generation for Sub-Saharan Africa**|Rafiu Adekoya Badekale et.al.|[2505.18694](http://arxiv.org/abs/2505.18694)|null|
 |**2025-05-23**|**CrashAgent: Crash Scenario Generation via Multi-modal Reasoning**|Miao Li et.al.|[2505.18341](http://arxiv.org/abs/2505.18341)|null|
-|**2025-05-22**|**RealEngine: Simulating Autonomous Driving in Realistic Context**|Junzhe Jiang et.al.|[2505.16902](http://arxiv.org/abs/2505.16902)|**[link](https://github.com/fudan-zvg/realengine)**|
-|**2025-05-22**|**Chirp Delay-Doppler Domain Modulation: A New Paradigm of Integrated Sensing and Communication for Autonomous Vehicles**|Zhuoran Li et.al.|[2505.16807](http://arxiv.org/abs/2505.16807)|**[link](https://github.com/lizhuoran0/2025-ieee-network-chirpdelaydopplermodulationisac)**|
+|**2025-05-22**|**RealEngine: Simulating Autonomous Driving in Realistic Context**|Junzhe Jiang et.al.|[2505.16902](http://arxiv.org/abs/2505.16902)|null|
+|**2025-05-22**|**Chirp Delay-Doppler Domain Modulation: A New Paradigm of Integrated Sensing and Communication for Autonomous Vehicles**|Zhuoran Li et.al.|[2505.16807](http://arxiv.org/abs/2505.16807)|null|
 |**2025-05-21**|**Generative AI for Autonomous Driving: A Review**|Katharina Winter et.al.|[2505.15863](http://arxiv.org/abs/2505.15863)|null|
 |**2025-05-20**|**Multi-modal Traffic Scenario Generation for Autonomous Driving System Testing**|Zhi Tu et.al.|[2505.14881](http://arxiv.org/abs/2505.14881)|**[link](https://github.com/TrafficComposer/TrafficComposer)**|
 |**2025-05-20**|**Looking for an out: Affordances, uncertainty and collision avoidance behavior of human drivers**|Leif Johnson et.al.|[2505.14842](http://arxiv.org/abs/2505.14842)|null|
@@ -2117,11 +2607,20 @@
 |**2025-08-14**|**SpaRC-AD: A Baseline for Radar-Camera Fusion in End-to-End Autonomous Driving**|Philipp Wolters et.al.|[2508.10567](http://arxiv.org/abs/2508.10567)|null|
 |**2025-08-11**|**CBDES MoE: Hierarchically Decoupled Mixture-of-Experts for Functional Modules in Autonomous Driving**|Qi Xiang et.al.|[2508.07838](http://arxiv.org/abs/2508.07838)|null|
 |**2025-08-11**|**Progressive Bird's Eye View Perception for Safety-Critical Autonomous Driving: A Comprehensive Survey**|Yan Gong et.al.|[2508.07560](http://arxiv.org/abs/2508.07560)|null|
+|**2025-08-09**|**Communication-Efficient Multi-Agent 3D Detection via Hybrid Collaboration**|Yue Hu et.al.|[2508.07092](http://arxiv.org/abs/2508.07092)|null|
+|**2025-08-08**|**ME $^3$ -BEV: Mamba-Enhanced Deep Reinforcement Learning for End-to-End Autonomous Driving with BEV-Perception**|Siyi Lu et.al.|[2508.06074](http://arxiv.org/abs/2508.06074)|null|
+|**2025-08-06**|**BEVCon: Advancing Bird's Eye View Perception with Contrastive Learning**|Ziyang Leng et.al.|[2508.04702](http://arxiv.org/abs/2508.04702)|null|
+|**2025-08-05**|**3DRot: 3D Rotation Augmentation for RGB-Based 3D Tasks**|Shitian Yang et.al.|[2508.01423](http://arxiv.org/abs/2508.01423)|null|
+|**2025-07-25**|**Co-Win: Joint Object Detection and Instance Segmentation in LiDAR Point Clouds via Collaborative Window Processing**|Haichuan Li et.al.|[2507.19691](http://arxiv.org/abs/2507.19691)|null|
+|**2025-07-24**|**CRUISE: Cooperative Reconstruction and Editing in V2X Scenarios using Gaussian Splatting**|Haoran Xu et.al.|[2507.18473](http://arxiv.org/abs/2507.18473)|null|
+|**2025-07-23**|**Perspective-Invariant 3D Object Detection**|Ao Liang et.al.|[2507.17665](http://arxiv.org/abs/2507.17665)|null|
+|**2025-07-22**|**Few-Shot Learning in Video and 3D Object Detection: A Survey**|Md Meftahul Ferdaus et.al.|[2507.17079](http://arxiv.org/abs/2507.17079)|null|
+|**2025-08-07**|**Look Before You Fuse: 2D-Guided Cross-Modal Alignment for Robust 3D Detection**|Xiang Li et.al.|[2507.16861](http://arxiv.org/abs/2507.16861)|null|
 |**2025-07-22**|**Towards Railway Domain Adaptation for LiDAR-based 3D Detection: Road-to-Rail and Sim-to-Real via SynDRA-BBox**|Xavier Diaz et.al.|[2507.16413](http://arxiv.org/abs/2507.16413)|null|
-|**2025-07-20**|**TriCLIP-3D: A Unified Parameter-Efficient Framework for Tri-Modal 3D Visual Grounding based on CLIP**|Fan Li et.al.|[2507.14904](http://arxiv.org/abs/2507.14904)|null|
+|**2025-09-04**|**TriCLIP-3D: A Unified Parameter-Efficient Framework for Tri-Modal 3D Visual Grounding based on CLIP**|Fan Li et.al.|[2507.14904](http://arxiv.org/abs/2507.14904)|null|
 |**2025-07-06**|**Just Add Geometry: Gradient-Free Open-Vocabulary 3D Detection Without Human-in-the-Loop**|Atharv Goel et.al.|[2507.13363](http://arxiv.org/abs/2507.13363)|null|
-|**2025-07-12**|**Stereo-based 3D Anomaly Object Detection for Autonomous Driving: A New Dataset and Baseline**|Shiyi Mu et.al.|[2507.09214](http://arxiv.org/abs/2507.09214)|null|
-|**2025-07-23**|**BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion**|Yuqing Lan et.al.|[2506.15610](http://arxiv.org/abs/2506.15610)|null|
+|**2025-08-19**|**Stereo-based 3D Anomaly Object Detection for Autonomous Driving: A New Dataset and Baseline**|Shiyi Mu et.al.|[2507.09214](http://arxiv.org/abs/2507.09214)|null|
+|**2025-08-24**|**BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion**|Yuqing Lan et.al.|[2506.15610](http://arxiv.org/abs/2506.15610)|null|
 |**2025-06-14**|**MonoVQD: Monocular 3D Object Detection with Variational Query Denoising and Self-Distillation**|Kiet Dang Vu et.al.|[2506.14835](http://arxiv.org/abs/2506.14835)|null|
 |**2025-06-13**|**Vision-based Lifting of 2D Object Detections for Automated Driving**|Hendrik Königshof et.al.|[2506.11839](http://arxiv.org/abs/2506.11839)|null|
 |**2025-06-20**|**Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**|Xiangyu Guo et.al.|[2506.07497](http://arxiv.org/abs/2506.07497)|null|
@@ -2137,43 +2636,163 @@
 |**2025-04-25**|**LiDAR-Guided Monocular 3D Object Detection for Long-Range Railway Monitoring**|Raul David Dominguez Sanchez et.al.|[2504.18203](http://arxiv.org/abs/2504.18203)|null|
 |**2025-04-23**|**Revisiting Radar Camera Alignment by Contrastive Learning for 3D Object Detection**|Linhua Kong et.al.|[2504.16368](http://arxiv.org/abs/2504.16368)|null|
 |**2025-04-23**|**Road Similarity-Based BEV-Satellite Image Matching for UGV Localization**|Zhenping Sun et.al.|[2504.16346](http://arxiv.org/abs/2504.16346)|null|
-|**2025-04-17**|**Weak Cube R-CNN: Weakly Supervised 3D Detection using only 2D Bounding Boxes**|Andreas Lau Hansen et.al.|[2504.13297](http://arxiv.org/abs/2504.13297)|**[link](https://github.com/AndreasLH/Weak-Cube-R-CNN)**|
+|**2025-04-17**|**Weak Cube R-CNN: Weakly Supervised 3D Detection using only 2D Bounding Boxes**|Andreas Lau Hansen et.al.|[2504.13297](http://arxiv.org/abs/2504.13297)|null|
 |**2025-06-06**|**RoPETR: Improving Temporal Camera-Only 3D Detection by Integrating Enhanced Rotary Position Embedding**|Hang Ji et.al.|[2504.12643](http://arxiv.org/abs/2504.12643)|null|
 |**2025-04-30**|**GATE3D: Generalized Attention-based Task-synergized Estimation in 3D***|Eunsoo Im et.al.|[2504.11014](http://arxiv.org/abs/2504.11014)|null|
-|**2025-06-09**|**Detect Anything 3D in the Wild**|Hanxue Zhang et.al.|[2504.07958](http://arxiv.org/abs/2504.07958)|**[link](https://github.com/OpenDriveLab/DetAny3D)**|
+|**2025-06-09**|**Detect Anything 3D in the Wild**|Hanxue Zhang et.al.|[2504.07958](http://arxiv.org/abs/2504.07958)|null|
 |**2025-04-09**|**UAV Position Estimation using a LiDAR-based 3D Object Detection Method**|Uthman Olawoye et.al.|[2504.07028](http://arxiv.org/abs/2504.07028)|null|
 |**2025-04-04**|**PF3Det: A Prompted Foundation Feature Assisted Visual LiDAR 3D Detector**|Kaidong Li et.al.|[2504.03563](http://arxiv.org/abs/2504.03563)|null|
 |**2025-04-03**|**Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting**|Shu-Wei Lu et.al.|[2504.01957](http://arxiv.org/abs/2504.01957)|null|
-|**2025-03-23**|**M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving**|Xuesong Chen et.al.|[2503.18100](http://arxiv.org/abs/2503.18100)|**[link](https://github.com/Cedarch/M3Net)**|
-|**2025-03-20**|**Automating 3D Dataset Generation with Neural Radiance Fields**|P. Schulz et.al.|[2503.15997](http://arxiv.org/abs/2503.15997)|**[link](https://github.com/PaulSK98/Nerf2Dataset)**|
+|**2025-03-23**|**M3Net: Multimodal Multi-task Learning for 3D Detection, Segmentation, and Occupancy Prediction in Autonomous Driving**|Xuesong Chen et.al.|[2503.18100](http://arxiv.org/abs/2503.18100)|null|
+|**2025-03-20**|**Automating 3D Dataset Generation with Neural Radiance Fields**|P. Schulz et.al.|[2503.15997](http://arxiv.org/abs/2503.15997)|null|
 |**2025-03-19**|**V2X-DG: Domain Generalization for Vehicle-to-Everything Cooperative Perception**|Baolu Li et.al.|[2503.15435](http://arxiv.org/abs/2503.15435)|null|
 |**2025-03-19**|**GO-N3RDet: Geometry Optimized NeRF-enhanced 3D Object Detector**|Zechuan Li et.al.|[2503.15211](http://arxiv.org/abs/2503.15211)|null|
-|**2025-03-26**|**MamBEV: Enabling State Space Models to Learn Birds-Eye-View Representations**|Hongyu Ke et.al.|[2503.13858](http://arxiv.org/abs/2503.13858)|**[link](https://github.com/amai-gsu/mambev)**|
+|**2025-03-26**|**MamBEV: Enabling State Space Models to Learn Birds-Eye-View Representations**|Hongyu Ke et.al.|[2503.13858](http://arxiv.org/abs/2503.13858)|null|
 |**2025-03-17**|**MonoCT: Overcoming Monocular 3D Detection Domain Shift with Consistent Teacher Models**|Johannes Meier et.al.|[2503.13743](http://arxiv.org/abs/2503.13743)|null|
 |**2025-03-17**|**Efficient Multimodal 3D Object Detector via Instance-Level Contrastive Distillation**|Zhuoqun Su et.al.|[2503.12914](http://arxiv.org/abs/2503.12914)|null|
 |**2025-03-18**|**UniMamba: Unified Spatial-Channel Representation Learning with Group-Efficient Mamba for LiDAR-based 3D Object Detection**|Xin Jin et.al.|[2503.12009](http://arxiv.org/abs/2503.12009)|null|
-|**2025-03-14**|**DriveGEN: Generalized and Robust 3D Detection in Driving via Controllable Text-to-Image Diffusion Generation**|Hongbin Lin et.al.|[2503.11122](http://arxiv.org/abs/2503.11122)|**[link](https://github.com/hongbin98/drivegen)**|
+|**2025-03-14**|**DriveGEN: Generalized and Robust 3D Detection in Driving via Controllable Text-to-Image Diffusion Generation**|Hongbin Lin et.al.|[2503.11122](http://arxiv.org/abs/2503.11122)|null|
 |**2025-03-07**|**HexPlane Representation for 3D Semantic Scene Understanding**|Zeren Chen et.al.|[2503.05127](http://arxiv.org/abs/2503.05127)|null|
-|**2025-03-06**|**CA-W3D: Leveraging Context-Aware Knowledge for Weakly Supervised Monocular 3D Detection**|Chupeng Liu et.al.|[2503.04154](http://arxiv.org/abs/2503.04154)|null|
-|**2025-03-04**|**TS-CGNet: Temporal-Spatial Fusion Meets Centerline-Guided Diffusion for BEV Mapping**|Xinying Hong et.al.|[2503.02578](http://arxiv.org/abs/2503.02578)|**[link](https://github.com/krabs-h/ts-cgnet)**|
+|**2025-08-03**|**CA-W3D: Leveraging Context-Aware Knowledge for Weakly Supervised Monocular 3D Detection**|Chupeng Liu et.al.|[2503.04154](http://arxiv.org/abs/2503.04154)|null|
+|**2025-03-04**|**TS-CGNet: Temporal-Spatial Fusion Meets Centerline-Guided Diffusion for BEV Mapping**|Xinying Hong et.al.|[2503.02578](http://arxiv.org/abs/2503.02578)|null|
+|**2025-04-27**|**HiMo: High-Speed Objects Motion Compensation in Point Clouds**|Qingwen Zhang et.al.|[2503.00803](http://arxiv.org/abs/2503.00803)|null|
 |**2025-02-26**|**CoopDETR: A Unified Cooperative Perception Framework for 3D Detection via Object Query**|Zhe Wang et.al.|[2502.19313](http://arxiv.org/abs/2502.19313)|null|
 |**2025-02-26**|**Easy-Poly: A Easy Polyhedral Framework For 3D Multi-Object Tracking**|Peng Zhang et.al.|[2502.17822](http://arxiv.org/abs/2502.17822)|null|
 |**2025-03-11**|**Q-PETR: Quant-aware Position Embedding Transformation for Multi-View 3D Object Detection**|Jiangyong Yu et.al.|[2502.15488](http://arxiv.org/abs/2502.15488)|null|
 |**2025-02-18**|**Task-Oriented Semantic Communication for Stereo-Vision 3D Object Detection**|Zijian Cao et.al.|[2502.12735](http://arxiv.org/abs/2502.12735)|null|
 |**2025-02-10**|**PDM-SSD: Single-Stage Three-Dimensional Object Detector With Point Dilation**|Ao Liang et.al.|[2502.07822](http://arxiv.org/abs/2502.07822)|null|
-|**2025-02-04**|**SimBEV: A Synthetic Multi-Task Multi-Sensor Driving Data Generation Tool and Dataset**|Goodarz Mehr et.al.|[2502.01894](http://arxiv.org/abs/2502.01894)|**[link](https://github.com/goodarzmehr/simbev)**|
+|**2025-03-26**|**SimBEV: A Synthetic Multi-Task Multi-Sensor Driving Data Generation Tool and Dataset**|Goodarz Mehr et.al.|[2502.01894](http://arxiv.org/abs/2502.01894)|null|
 |**2025-03-03**|**Doracamom: Joint 3D Detection and Occupancy Prediction with Multi-view 4D Radars and Cameras for Omnidirectional Perception**|Lianqing Zheng et.al.|[2501.15394](http://arxiv.org/abs/2501.15394)|null|
 |**2025-01-12**|**Application of Vision-Language Model to Pedestrians Behavior and Scene Understanding in Autonomous Driving**|Haoxiang Gao et.al.|[2501.06680](http://arxiv.org/abs/2501.06680)|null|
 |**2024-12-31**|**DecoratingFusion: A LiDAR-Camera Fusion Network with the Combination of Point-level and Feature-level Fusion**|Zixuan Yin et.al.|[2501.00220](http://arxiv.org/abs/2501.00220)|null|
-|**2025-02-04**|**A Black-Box Evaluation Framework for Semantic Robustness in Bird's Eye View Detection**|Fu Wang et.al.|[2412.13913](http://arxiv.org/abs/2412.13913)|**[link](https://github.com/trustai/robustbev)**|
-|**2024-12-17**|**RCTrans: Radar-Camera Transformer via Radar Densifier and Sequential Decoder for 3D Object Detection**|Yiheng Li et.al.|[2412.12799](http://arxiv.org/abs/2412.12799)|**[link](https://github.com/liyih/rctrans)**|
+|**2025-02-04**|**A Black-Box Evaluation Framework for Semantic Robustness in Bird's Eye View Detection**|Fu Wang et.al.|[2412.13913](http://arxiv.org/abs/2412.13913)|null|
+|**2024-12-17**|**RCTrans: Radar-Camera Transformer via Radar Densifier and Sequential Decoder for 3D Object Detection**|Yiheng Li et.al.|[2412.12799](http://arxiv.org/abs/2412.12799)|null|
 |**2025-01-23**|**OmniHD-Scenes: A Next-Generation Multimodal Dataset for Autonomous Driving**|Lianqing Zheng et.al.|[2412.10734](http://arxiv.org/abs/2412.10734)|null|
-|**2024-12-13**|**GaussianAD: Gaussian-Centric End-to-End Autonomous Driving**|Wenzhao Zheng et.al.|[2412.10371](http://arxiv.org/abs/2412.10371)|**[link](https://github.com/wzzheng/gaussianad)**|
+|**2024-12-13**|**GaussianAD: Gaussian-Centric End-to-End Autonomous Driving**|Wenzhao Zheng et.al.|[2412.10371](http://arxiv.org/abs/2412.10371)|null|
 |**2024-12-11**|**Test-time Correction with Human Feedback: An Online 3D Detection System via Visual Prompting**|Zetong Yang et.al.|[2412.07768](http://arxiv.org/abs/2412.07768)|null|
 |**2024-12-10**|**Fast Occupancy Network**|Mingjie Lu et.al.|[2412.07163](http://arxiv.org/abs/2412.07163)|null|
-|**2024-12-07**|**Real-Time 3D Object Detection Using InnovizOne LiDAR and Low-Power Hailo-8 AI Accelerator**|Itay Krispin-Avraham et.al.|[2412.05594](http://arxiv.org/abs/2412.05594)|**[link](https://github.com/airotau/pointpillarshailoinnoviz)**|
+|**2024-12-07**|**Real-Time 3D Object Detection Using InnovizOne LiDAR and Low-Power Hailo-8 AI Accelerator**|Itay Krispin-Avraham et.al.|[2412.05594](http://arxiv.org/abs/2412.05594)|null|
 |**2024-12-03**|**Redundant Queries in DETR-Based 3D Detection Methods: Unnecessary and Prunable**|Lizhen Xu et.al.|[2412.02054](http://arxiv.org/abs/2412.02054)|null|
-|**2024-12-07**|**BEV-SUSHI: Multi-Target Multi-Camera 3D Detection and Tracking in Bird's-Eye View**|Yizhou Wang et.al.|[2412.00692](http://arxiv.org/abs/2412.00692)|null|
+|**2025-03-26**|**MCBLT: Multi-Camera Multi-Object 3D Tracking in Long Videos**|Yizhou Wang et.al.|[2412.00692](http://arxiv.org/abs/2412.00692)|null|
+|**2024-11-25**|**Open Vocabulary Monocular 3D Object Detection**|Jin Yao et.al.|[2411.16833](http://arxiv.org/abs/2411.16833)|null|
+|**2024-11-23**|**Training an Open-Vocabulary Monocular 3D Object Detection Model without 3D Data**|Rui Huang et.al.|[2411.15657](http://arxiv.org/abs/2411.15657)|null|
+|**2024-11-27**|**BIP3D: Bridging 2D Images and 3D Perception for Embodied Intelligence**|Xuewu Lin et.al.|[2411.14869](http://arxiv.org/abs/2411.14869)|null|
+|**2024-11-20**|**MambaDETR: Query-based Temporal Modeling using State Space Model for Multi-View 3D Object Detection**|Tong Ning et.al.|[2411.13628](http://arxiv.org/abs/2411.13628)|null|
+|**2025-03-10**|**MTA: Multimodal Task Alignment for BEV Perception and Captioning**|Yunsheng Ma et.al.|[2411.10639](http://arxiv.org/abs/2411.10639)|null|
+|**2025-04-04**|**AV-PedAware: Self-Supervised Audio-Visual Fusion for Dynamic Pedestrian Awareness**|Yizhuo Yang et.al.|[2411.06789](http://arxiv.org/abs/2411.06789)|null|
+|**2024-11-19**|**LSSInst: Improving Geometric Modeling in LSS-Based BEV Perception with Instance Representation**|Weijie Ma et.al.|[2411.06173](http://arxiv.org/abs/2411.06173)|null|
+|**2025-06-22**|**Efficient Feature Aggregation and Scale-Aware Regression for Monocular 3D Object Detection**|Yifan Wang et.al.|[2411.02747](http://arxiv.org/abs/2411.02747)|null|
+|**2024-11-03**|**One for All: Multi-Domain Joint Training for Point Cloud Based 3D Object Detection**|Zhenyu Wang et.al.|[2411.01584](http://arxiv.org/abs/2411.01584)|null|
+|**2024-10-31**|**SuctionPrompt: Visual-assisted Robotic Picking with a Suction Cup Using Vision-Language Models and Facile Hardware Design**|Tomohiro Motoda et.al.|[2410.23640](http://arxiv.org/abs/2410.23640)|null|
+|**2024-10-28**|**MVSDet: Multi-View Indoor 3D Object Detection via Efficient Plane Sweeps**|Yating Xu et.al.|[2410.21566](http://arxiv.org/abs/2410.21566)|null|
+|**2025-03-12**|**MonoDGP: Monocular 3D Object Detection with Decoupled-Query and Geometry-Error Priors**|Fanqi Pu et.al.|[2410.19590](http://arxiv.org/abs/2410.19590)|null|
+|**2024-10-21**|**Kaninfradet3D:A Road-side Camera-LiDAR Fusion 3D Perception Model based on Nonlinear Feature Extraction and Intrinsic Correlation**|Pei Liu et.al.|[2410.15814](http://arxiv.org/abs/2410.15814)|null|
+|**2025-03-28**|**MambaBEV: An efficient 3D detection model with Mamba2**|Zihan You et.al.|[2410.12673](http://arxiv.org/abs/2410.12673)|null|
+|**2025-04-29**|**Rethinking the Role of Infrastructure in Collaborative Perception**|Hyunchul Bae et.al.|[2410.11259](http://arxiv.org/abs/2410.11259)|null|
+|**2024-10-14**|**Optimizing Radio Access Technology Selection and Precoding in CV-Aided ISAC Systems**|Yulan Gao et.al.|[2410.11002](http://arxiv.org/abs/2410.11002)|null|
+|**2024-10-09**|**QuadBEV: An Efficient Quadruple-Task Perception Framework via Bird's-Eye-View Representation**|Yuxin Li et.al.|[2410.06516](http://arxiv.org/abs/2410.06516)|null|
+|**2024-10-02**|**Panopticus: Omnidirectional 3D Object Detection on Resource-constrained Edge Devices**|Jeho Lee et.al.|[2410.01270](http://arxiv.org/abs/2410.01270)|null|
+|**2024-09-30**|**Uni $^2$ Det: Unified and Universal Framework for Prompt-Guided Multi-dataset 3D Detection**|Yubin Wang et.al.|[2409.20558](http://arxiv.org/abs/2409.20558)|null|
+|**2024-09-26**|**Hierarchical End-to-End Autonomous Driving: Integrating BEV Perception with Deep Reinforcement Learning**|Siyi Lu et.al.|[2409.17659](http://arxiv.org/abs/2409.17659)|null|
+|**2024-09-20**|**OneBEV: Using One Panoramic Image for Bird's-Eye-View Semantic Mapping**|Jiale Wei et.al.|[2409.13912](http://arxiv.org/abs/2409.13912)|null|
+|**2025-03-19**|**Accurate Automatic 3D Annotation of Traffic Lights and Signs for Autonomous Driving**|Sándor Kunsági-Máté et.al.|[2409.12620](http://arxiv.org/abs/2409.12620)|null|
+|**2024-09-18**|**RopeBEV: A Multi-Camera Roadside Perception Network in Bird's-Eye-View**|Jinrang Jia et.al.|[2409.11706](http://arxiv.org/abs/2409.11706)|null|
+|**2024-09-20**|**CoMamba: Real-time Cooperative Perception Unlocked with State Space Models**|Jinlong Li et.al.|[2409.10699](http://arxiv.org/abs/2409.10699)|null|
+|**2024-09-16**|**Robust Bird's Eye View Segmentation by Adapting DINOv2**|Merve Rabia Barın et.al.|[2409.10228](http://arxiv.org/abs/2409.10228)|null|
+|**2024-09-11**|**FSMDet: Vision-guided feature diffusion for fully sparse 3D detector**|Tianran Liu et.al.|[2409.06945](http://arxiv.org/abs/2409.06945)|null|
+|**2024-09-09**|**Vision-Driven 2D Supervised Fine-Tuning Framework for Bird's Eye View Perception**|Lei He et.al.|[2409.05834](http://arxiv.org/abs/2409.05834)|null|
+|**2024-09-06**|**Future Does Matter: Boosting 3D Object Detection with Temporal Motion Estimation in Point Cloud Sequences**|Rui Yu et.al.|[2409.04390](http://arxiv.org/abs/2409.04390)|null|
+|**2024-09-04**|**Improved Single Camera BEV Perception Using Multi-Camera Training**|Daniel Busch et.al.|[2409.02676](http://arxiv.org/abs/2409.02676)|null|
+|**2024-09-02**|**Development of Occupancy Prediction Algorithm for Underground Parking Lots**|Shijie Wang et.al.|[2409.00923](http://arxiv.org/abs/2409.00923)|null|
+|**2024-09-01**|**Make Your ViT-based Multi-view 3D Detectors Faster via Token Compression**|Dingyuan Zhang et.al.|[2409.00633](http://arxiv.org/abs/2409.00633)|null|
+|**2024-08-22**|**CatFree3D: Category-agnostic 3D Object Detection with Diffusion**|Wenjing Bian et.al.|[2408.12747](http://arxiv.org/abs/2408.12747)|null|
+|**2024-10-21**|**CARLA Drone: Monocular 3D Object Detection from a Different Perspective**|Johannes Meier et.al.|[2408.11958](http://arxiv.org/abs/2408.11958)|null|
+|**2024-08-17**|**MaskBEV: Towards A Unified Framework for BEV Detection and Map Segmentation**|Xiao Zhao et.al.|[2408.09122](http://arxiv.org/abs/2408.09122)|null|
+|**2024-11-15**|**SC3D: Label-Efficient Outdoor 3D Object Detection via Single Click Annotation**|Qiming Xia et.al.|[2408.08092](http://arxiv.org/abs/2408.08092)|null|
+|**2025-07-03**|**MV2DFusion: Leveraging Modality-Specific Object Semantics for Multi-Modal 3D Detection**|Zitian Wang et.al.|[2408.05945](http://arxiv.org/abs/2408.05945)|null|
+|**2024-08-07**|**Vision-Language Guidance for LiDAR-based Unsupervised 3D Object Detection**|Christian Fruhwirth-Reisinger et.al.|[2408.03790](http://arxiv.org/abs/2408.03790)|null|
+|**2024-07-30**|**WARM-3D: A Weakly-Supervised Sim2Real Domain Adaptation Framework for Roadside Monocular 3D Object Detection**|Xingcheng Zhou et.al.|[2407.20818](http://arxiv.org/abs/2407.20818)|null|
+|**2024-11-27**|**ALPI: Auto-Labeller with Proxy Injection for 3D Object Detection using 2D Labels Only**|Saad Lahlali et.al.|[2407.17197](http://arxiv.org/abs/2407.17197)|null|
+|**2024-07-24**|**DVPE: Divided View Position Embedding for Multi-View 3D Object Detection**|Jiasen Wang et.al.|[2407.16955](http://arxiv.org/abs/2407.16955)|null|
+|**2024-07-25**|**What Matters in Range View 3D Object Detection**|Benjamin Wilson et.al.|[2407.16789](http://arxiv.org/abs/2407.16789)|null|
+|**2024-07-23**|**MonoWAD: Weather-Adaptive Diffusion Model for Robust Monocular 3D Object Detection**|Youngmin Oh et.al.|[2407.16448](http://arxiv.org/abs/2407.16448)|null|
+|**2024-07-21**|**Navigation Instruction Generation with BEV Perception and Large Language Models**|Sheng Fan et.al.|[2407.15087](http://arxiv.org/abs/2407.15087)|null|
+|**2024-07-25**|**Hierarchical and Decoupled BEV Perception Learning Framework for Autonomous Driving**|Yuqi Dai et.al.|[2407.12491](http://arxiv.org/abs/2407.12491)|null|
+|**2024-12-05**|**Map It Anywhere (MIA): Empowering Bird's Eye View Mapping using Large-scale Public Data**|Cherie Ho et.al.|[2407.08726](http://arxiv.org/abs/2407.08726)|null|
+|**2024-07-11**|**OmniNOCS: A unified NOCS dataset and model for 3D lifting of 2D objects**|Akshay Krishnan et.al.|[2407.08711](http://arxiv.org/abs/2407.08711)|null|
+|**2024-07-11**|**Approaching Outside: Scaling Unsupervised 3D Object Detection from 2D Scene**|Ruiyang Zhang et.al.|[2407.08569](http://arxiv.org/abs/2407.08569)|null|
+|**2024-07-17**|**Unlocking Textual and Visual Wisdom: Open-Vocabulary 3D Object Detection Enhanced by Comprehensive Guidance from Text and Image**|Pengkun Jiao et.al.|[2407.05256](http://arxiv.org/abs/2407.05256)|null|
+|**2024-07-03**|**Cyclic Refiner: Object-Aware Temporal Representation Learning for Multi-View 3D Detection and Tracking**|Mingzhe Guo et.al.|[2407.03240](http://arxiv.org/abs/2407.03240)|null|
+|**2024-07-02**|**DM3D: Distortion-Minimized Weight Pruning for Lossless 3D Object Detection**|Kaixin Xu et.al.|[2407.02098](http://arxiv.org/abs/2407.02098)|null|
+|**2024-06-27**|**STAL3D: Unsupervised Domain Adaptation for 3D Object Detection via Collaborating Self-Training and Adversarial Learning**|Yanan Zhang et.al.|[2406.19362](http://arxiv.org/abs/2406.19362)|null|
+|**2025-03-18**|**BiTrack: Bidirectional Offline 3D Multi-Object Tracking Using Camera-LiDAR Data**|Kemiao Huang et.al.|[2406.18414](http://arxiv.org/abs/2406.18414)|null|
+|**2024-09-30**|**CTS: Sim-to-Real Unsupervised Domain Adaptation on 3D Detection**|Meiying Zhang et.al.|[2406.18129](http://arxiv.org/abs/2406.18129)|null|
+|**2024-05-24**|**Automated Parking Planning with Vision-Based BEV Approach**|Yuxuan Zhao et.al.|[2406.15430](http://arxiv.org/abs/2406.15430)|null|
+|**2025-06-30**|**Information Entropy Guided Height-aware Histogram for Quantization-friendly Pillar Feature Encoder**|Sifan Zhou et.al.|[2405.18734](http://arxiv.org/abs/2405.18734)|null|
+|**2024-05-28**|**Is a 3D-Tokenized LLM the Key to Reliable Autonomous Driving?**|Yifan Bai et.al.|[2405.18361](http://arxiv.org/abs/2405.18361)|null|
+|**2024-05-24**|**SpotNet: An Image Centric, Lidar Anchored Approach To Long Range Perception**|Louis Foucard et.al.|[2405.15843](http://arxiv.org/abs/2405.15843)|null|
+|**2024-11-27**|**MonoDETRNext: Next-Generation Accurate and Efficient Monocular 3D Object Detector**|Pan Liao et.al.|[2405.15176](http://arxiv.org/abs/2405.15176)|null|
+|**2024-05-19**|**FADet: A Multi-sensor 3D Object Detection Network based on Local Featured Attention**|Ziang Guo et.al.|[2405.11682](http://arxiv.org/abs/2405.11682)|null|
+|**2024-10-15**|**MonoMAE: Enhancing Monocular 3D Detection through Depth-Aware Masked Autoencoders**|Xueying Jiang et.al.|[2405.07696](http://arxiv.org/abs/2405.07696)|null|
+|**2024-07-21**|**A Survey on Occupancy Perception for Autonomous Driving: The Information Fusion Perspective**|Huaiyuan Xu et.al.|[2405.05173](http://arxiv.org/abs/2405.05173)|null|
+|**2024-05-05**|**PVTransformer: Point-to-Voxel Transformer for Scalable 3D Object Detection**|Zhaoqi Leng et.al.|[2405.02811](http://arxiv.org/abs/2405.02811)|null|
+|**2024-09-01**|**DiffMap: Enhancing Map Segmentation with Map Prior Using Diffusion Model**|Peijin Jia et.al.|[2405.02008](http://arxiv.org/abs/2405.02008)|null|
+|**2024-04-30**|**Transcrib3D: 3D Referring Expression Resolution through Large Language Models**|Jiading Fang et.al.|[2404.19221](http://arxiv.org/abs/2404.19221)|null|
+|**2024-04-17**|**D-Aug: Enhancing Data Augmentation for Dynamic LiDAR Scenes**|Jiaxing Zhao et.al.|[2404.11127](http://arxiv.org/abs/2404.11127)|null|
+|**2024-04-17**|**Leveraging 3D LiDAR Sensors to Enable Enhanced Urban Safety and Public Health: Pedestrian Monitoring and Abnormal Activity Detection**|Nawfal Guefrachi et.al.|[2404.10978](http://arxiv.org/abs/2404.10978)|null|
+|**2024-04-10**|**Sparse Points to Dense Clouds: Enhancing 3D Detection with Limited LiDAR Data**|Aakash Kumar et.al.|[2404.06715](http://arxiv.org/abs/2404.06715)|null|
+|**2024-08-07**|**RoadBEV: Road Surface Reconstruction in Bird's Eye View**|Tong Zhao et.al.|[2404.06605](http://arxiv.org/abs/2404.06605)|null|
+|**2025-07-15**|**Roadside Monocular 3D Detection Prompted by 2D Detection**|Yechi Ma et.al.|[2404.01064](http://arxiv.org/abs/2404.01064)|null|
+|**2024-03-29**|**SeaBird: Segmentation in Bird's View with Dice Loss Improves Monocular 3D Detection of Large Objects**|Abhinav Kumar et.al.|[2403.20318](http://arxiv.org/abs/2403.20318)|null|
+|**2024-07-23**|**OV-Uni3DETR: Towards Unified Open-Vocabulary 3D Object Detection via Cycle-Modality Propagation**|Zhenyu Wang et.al.|[2403.19580](http://arxiv.org/abs/2403.19580)|null|
+|**2024-03-25**|**RCBEVDet: Radar-camera Fusion in Bird's Eye View for 3D Object Detection**|Zhiwei Lin et.al.|[2403.16440](http://arxiv.org/abs/2403.16440)|null|
+|**2024-03-25**|**Point-DETR3D: Leveraging Imagery Data with Spatial Point Prior for Weakly Semi-supervised 3D Object Detection**|Hongzhi Gao et.al.|[2403.15317](http://arxiv.org/abs/2403.15317)|null|
+|**2024-08-06**|**CR3DT: Camera-RADAR Fusion for 3D Detection and Tracking**|Nicolas Baumann et.al.|[2403.15313](http://arxiv.org/abs/2403.15313)|null|
+|**2024-07-17**|**SimPB: A Single Model for 2D and 3D Object Detection from Multiple Cameras**|Yingqi Tang et.al.|[2403.10353](http://arxiv.org/abs/2403.10353)|null|
+|**2024-03-14**|**Improving Distant 3D Object Detection Using 2D Box Supervision**|Zetong Yang et.al.|[2403.09230](http://arxiv.org/abs/2403.09230)|null|
+|**2024-04-11**|**DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation**|Guosheng Zhao et.al.|[2403.06845](http://arxiv.org/abs/2403.06845)|null|
+|**2024-09-13**|**DualBEV: Unifying Dual View Transformation with Probabilistic Correspondences**|Peidong Li et.al.|[2403.05402](http://arxiv.org/abs/2403.05402)|null|
+|**2024-03-15**|**HUNTER: Unsupervised Human-centric 3D Detection via Transferring Knowledge from Synthetic Instances to Real Scenes**|Yichen Yao et.al.|[2403.02769](http://arxiv.org/abs/2403.02769)|null|
+|**2024-03-04**|**Scalable Vision-Based 3D Object Detection and Monocular Depth Estimation for Autonomous Driving**|Yuxuan Liu et.al.|[2403.02037](http://arxiv.org/abs/2403.02037)|null|
+|**2024-03-04**|**DEMOS: Dynamic Environment Motion Synthesis in 3D Scenes via Local Spherical-BEV Perception**|Jingyu Gong et.al.|[2403.01740](http://arxiv.org/abs/2403.01740)|null|
+|**2024-03-01**|**Small, Versatile and Mighty: A Range-View Perception Framework**|Qiang Meng et.al.|[2403.00325](http://arxiv.org/abs/2403.00325)|null|
+|**2024-02-29**|**Weakly Supervised Monocular 3D Detection with a Single-View Image**|Xueying Jiang et.al.|[2402.19144](http://arxiv.org/abs/2402.19144)|null|
+|**2024-02-28**|**Sunshine to Rainstorm: Cross-Weather Knowledge Distillation for Robust 3D Object Detection**|Xun Huang et.al.|[2402.18493](http://arxiv.org/abs/2402.18493)|null|
+|**2024-02-28**|**OccTransformer: Improving BEVFormer for 3D camera-only occupancy prediction**|Jian Liu et.al.|[2402.18140](http://arxiv.org/abs/2402.18140)|null|
+|**2024-02-23**|**EMIFF: Enhanced Multi-scale Image Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection**|Zhe Wang et.al.|[2402.15272](http://arxiv.org/abs/2402.15272)|null|
+|**2024-02-22**|**NeRF-Det++: Incorporating Semantic Cues and Perspective-aware Depth Supervision for Indoor Multi-View 3D Detection**|Chenxi Huang et.al.|[2402.14464](http://arxiv.org/abs/2402.14464)|null|
+|**2024-04-25**|**Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles**|Rui Song et.al.|[2402.07635](http://arxiv.org/abs/2402.07635)|null|
+|**2025-03-16**|**CurveFormer++: 3D Lane Detection by Curve Propagation with Temporal Curve Queries and Attention**|Yifeng Bai et.al.|[2402.06423](http://arxiv.org/abs/2402.06423)|null|
+|**2024-02-20**|**AdvGPS: Adversarial GPS for Multi-Agent Perception Attack**|Jinlong Li et.al.|[2401.17499](http://arxiv.org/abs/2401.17499)|null|
+|**2024-01-29**|**LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection**|Sifan Zhou et.al.|[2401.15865](http://arxiv.org/abs/2401.15865)|null|
+|**2024-01-27**|**You Only Look Bottom-Up for Monocular 3D Object Detection**|Kaixin Xiong et.al.|[2401.15319](http://arxiv.org/abs/2401.15319)|null|
+|**2025-02-16**|**A Spatiotemporal Approach to Tri-Perspective Representation for 3D Semantic Occupancy Prediction**|Sathira Silva et.al.|[2401.13785](http://arxiv.org/abs/2401.13785)|null|
+|**2024-08-13**|**DA-BEV: Unsupervised Domain Adaptation for Bird's Eye View Perception**|Kai Jiang et.al.|[2401.08687](http://arxiv.org/abs/2401.08687)|null|
+|**2024-08-15**|**Robustness-Aware 3D Object Detection in Autonomous Driving: A Review and Outlook**|Ziying Song et.al.|[2401.06542](http://arxiv.org/abs/2401.06542)|null|
+|**2025-05-27**|**UOD: Unseen Object Detection in 3D Point Cloud**|Hyunjun Choi et.al.|[2401.03846](http://arxiv.org/abs/2401.03846)|null|
+|**2024-07-30**|**WidthFormer: Toward Efficient Transformer-based BEV View Transformation**|Chenhongyi Yang et.al.|[2401.03836](http://arxiv.org/abs/2401.03836)|null|
+|**2023-12-29**|**Visual Point Cloud Forecasting enables Scalable Autonomous Driving**|Zetong Yang et.al.|[2312.17655](http://arxiv.org/abs/2312.17655)|null|
+|**2024-05-22**|**MonoLSS: Learnable Sample Selection For Monocular 3D Detection**|Zhenjia Li et.al.|[2312.14474](http://arxiv.org/abs/2312.14474)|null|
+|**2023-12-22**|**FM-OV3D: Foundation Model-based Cross-modal Knowledge Blending for Open-Vocabulary 3D Detection**|Dongmei Zhang et.al.|[2312.14465](http://arxiv.org/abs/2312.14465)|null|
+|**2023-12-19**|**M-BEV: Masked BEV Perception for Robust Autonomous Driving**|Siran Chen et.al.|[2312.12144](http://arxiv.org/abs/2312.12144)|null|
+|**2023-12-19**|**RadOcc: Learning Cross-Modality Occupancy Knowledge through Rendering Assisted Distillation**|Haiming Zhang et.al.|[2312.11829](http://arxiv.org/abs/2312.11829)|null|
+|**2023-12-18**|**Diffusion-Based Particle-DETR for BEV Perception**|Asen Nachkov et.al.|[2312.11578](http://arxiv.org/abs/2312.11578)|null|
+|**2025-09-15**|**Long-Tailed 3D Detection via Multi-Modal Fusion**|Yechi Ma et.al.|[2312.10986](http://arxiv.org/abs/2312.10986)|null|
+|**2023-12-12**|**OpenSight: A Simple Open-Vocabulary Framework for LiDAR-Based Object Detection**|Hu Zhang et.al.|[2312.08876](http://arxiv.org/abs/2312.08876)|null|
+|**2023-12-13**|**Instance-aware Multi-Camera 3D Object Detection with Structural Priors Mining and Self-Boosting Learning**|Yang Jiao et.al.|[2312.08004](http://arxiv.org/abs/2312.08004)|null|
+|**2023-12-08**|**3D Copy-Paste: Physically Plausible Object Insertion for Monocular 3D Detection**|Yunhao Ge et.al.|[2312.05277](http://arxiv.org/abs/2312.05277)|null|
+|**2024-04-22**|**An Autonomous Driving Model Integrated with BEV-V2X Perception, Fusion Prediction of Motion and Occupancy, and Driving Planning, in Complex Traffic Intersections**|Fukang Li et.al.|[2312.05104](http://arxiv.org/abs/2312.05104)|null|
+|**2024-08-27**|**SiCP: Simultaneous Individual and Cooperative Perception for 3D Object Detection in Connected and Automated Vehicles**|Deyuan Qu et.al.|[2312.04822](http://arxiv.org/abs/2312.04822)|null|
+|**2024-10-08**|**Towards Efficient 3D Object Detection in Bird's-Eye-View Space for Autonomous Driving: A Convolutional-Only Approach**|Yuxin Li et.al.|[2312.00633](http://arxiv.org/abs/2312.00633)|null|
+|**2023-11-28**|**Panacea: Panoramic and Controllable Video Generation for Autonomous Driving**|Yuqing Wen et.al.|[2311.16813](http://arxiv.org/abs/2311.16813)|null|
+|**2023-11-20**|**Sparse4D v3: Advancing End-to-End 3D Detection and Tracking**|Xuewu Lin et.al.|[2311.11722](http://arxiv.org/abs/2311.11722)|null|
+|**2023-11-07**|**3DiffTection: 3D Object Detection with Geometry-Aware Diffusion Features**|Chenfeng Xu et.al.|[2311.04391](http://arxiv.org/abs/2311.04391)|null|
+|**2023-11-07**|**mmFUSION: Multimodal Fusion for 3D Objects Detection**|Javed Ahmad et.al.|[2311.04058](http://arxiv.org/abs/2311.04058)|null|
+|**2024-09-05**|**Automatic Robot Hand-Eye Calibration Enabled by Learning-Based 3D Vision**|Leihui Li et.al.|[2311.01335](http://arxiv.org/abs/2311.01335)|null|
+|**2023-11-07**|**ODM3D: Alleviating Foreground Sparsity for Semi-Supervised Monocular 3D Object Detection**|Weijia Zhang et.al.|[2310.18620](http://arxiv.org/abs/2310.18620)|null|
+|**2023-11-14**|**What You See Is What You Detect: Towards better Object Densification in 3D detection**|Tianran Liu et.al.|[2310.17842](http://arxiv.org/abs/2310.17842)|null|
+|**2025-01-07**|**GUPNet++: Geometry Uncertainty Propagation Network for Monocular 3D Object Detection**|Yan Lu et.al.|[2310.15624](http://arxiv.org/abs/2310.15624)|null|
+|**2023-12-25**|**Towards Generalizable Multi-Camera 3D Object Detection via Perspective Debiasing**|Hao Lu et.al.|[2310.11346](http://arxiv.org/abs/2310.11346)|null|
 
 <p align=right>(<a href=#updated-on-20251009>back to top</a>)</p>
 
