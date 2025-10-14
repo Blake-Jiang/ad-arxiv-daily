@@ -1,4 +1,4 @@
-## Updated on 2025.10.13
+## Updated on 2025.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-10**|**Scalable Multi-Agent Path Finding using Collision-Aware Dynamic Alert Mask and a Hybrid Execution Strategy**|Bharath Muppasani et.al.|[2510.09469](http://arxiv.org/abs/2510.09469)|null|
+|**2025-10-10**|**Parametrized Topological Complexity for a Multi-Robot System with Variable Tasks**|Gopal Chandra Dutta et.al.|[2510.09323](http://arxiv.org/abs/2510.09323)|null|
+|**2025-10-10**|**Obstacle Avoidance using Dynamic Movement Primitives and Reinforcement Learning**|Dominik Urbaniak et.al.|[2510.09254](http://arxiv.org/abs/2510.09254)|null|
+|**2025-10-10**|**Sensing, Detection and Localization for Low Altitude UAV: A RF-Based Framework via Multiple BSs Collaboration**|Tianhao Liang et.al.|[2510.09055](http://arxiv.org/abs/2510.09055)|null|
+|**2025-10-09**|**Adaptive Motion Planning via Contact-Based Intent Inference for Human-Robot Collaboration**|Jiurun Song et.al.|[2510.08811](http://arxiv.org/abs/2510.08811)|null|
 |**2025-10-09**|**Satellite Navigation and Control using Physics-Informed Artificial Potential Field and Sliding Mode Controller**|Rakesh Kumar Sahoo et.al.|[2510.08184](http://arxiv.org/abs/2510.08184)|null|
 |**2025-10-08**|**Inspection Planning Primitives with Implicit Models**|Jingyang You et.al.|[2510.07611](http://arxiv.org/abs/2510.07611)|null|
 |**2025-10-08**|**Quantum Grid Path Planning Using Parallel QAOA Circuits Based on Minimum Energy Principle**|Jun Liu et.al.|[2510.07413](http://arxiv.org/abs/2510.07413)|null|
@@ -853,13 +858,14 @@
 |**2025-02-13**|**Real-Time Fast Marching Tree for Mobile Robot Motion Planning in Dynamic Environments**|Jefferson Silveira et.al.|[2502.09556](http://arxiv.org/abs/2502.09556)|null|
 |**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393](http://arxiv.org/abs/2502.09393)|null|
 
-<p align=right>(<a href=#updated-on-20251013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251014>back to top</a>)</p>
 
 ## Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-10-09**|**MMHOI: Modeling Complex 3D Multi-Human Multi-Object Interactions**|Kaen Kogashi et.al.|[2510.07828](http://arxiv.org/abs/2510.07828)|null|
+|**2025-10-09**|**Whole Body Model Predictive Control for Spin-Aware Quadrupedal Table Tennis**|David Nguyen et.al.|[2510.08754](http://arxiv.org/abs/2510.08754)|null|
+|**2025-10-11**|**MMHOI: Modeling Complex 3D Multi-Human Multi-Object Interactions**|Kaen Kogashi et.al.|[2510.07828](http://arxiv.org/abs/2510.07828)|null|
 |**2025-10-09**|**Strategic Communication under Threat: Learning Information Trade-offs in Pursuit-Evasion Games**|Valerio La Gatta et.al.|[2510.07813](http://arxiv.org/abs/2510.07813)|null|
 |**2025-10-08**|**A Geomechanically-Informed Framework for Wellbore Trajectory Prediction: Integrating First-Principles Kinematics with a Rigorous Derivation of Gated Recurrent Networks**|Shubham Kumar et.al.|[2510.07564](http://arxiv.org/abs/2510.07564)|null|
 |**2025-10-08**|**HyPlan: Hybrid Learning-Assisted Planning Under Uncertainty for Safe Autonomous Driving**|Donald Pfaffmann et.al.|[2510.07210](http://arxiv.org/abs/2510.07210)|null|
@@ -1172,12 +1178,20 @@
 |**2025-02-07**|**The $α$ -Alternator: Dynamic Adaptation To Varying Noise Levels In Sequences Using The Vendi Score For Improved Robustness and Performance**|Mohammad Reza Rezaei et.al.|[2502.04593](http://arxiv.org/abs/2502.04593)|null|
 |**2025-02-05**|**Predicting 3D Motion from 2D Video for Behavior-Based VR Biometrics**|Mingjun Li et.al.|[2502.04361](http://arxiv.org/abs/2502.04361)|null|
 
-<p align=right>(<a href=#updated-on-20251013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251014>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-10**|**SpaceVista: All-Scale Visual Spatial Reasoning from mm to km**|Peiwen Sun et.al.|[2510.09606](http://arxiv.org/abs/2510.09606)|null|
+|**2025-10-10**|**Autonomous Soft Robotic Guidewire Navigation via Imitation Learning**|Noah Barnes et.al.|[2510.09497](http://arxiv.org/abs/2510.09497)|null|
+|**2025-10-10**|**Clear Roads, Clear Vision: Advancements in Multi-Weather Restoration for Smart Transportation**|Vijay M. Galshetwar et.al.|[2510.09228](http://arxiv.org/abs/2510.09228)|null|
+|**2025-10-10**|**Towards Safer and Understandable Driver Intention Prediction**|Mukilan Karuppasamy et.al.|[2510.09200](http://arxiv.org/abs/2510.09200)|null|
+|**2025-10-10**|**TARO: Toward Semantically Rich Open-World Object Detection**|Yuchen Zhang et.al.|[2510.09173](http://arxiv.org/abs/2510.09173)|null|
+|**2025-10-10**|**Robust Driving Control for Autonomous Vehicles: An Intelligent General-sum Constrained Adversarial Reinforcement Learning Approach**|Junchao Fan et.al.|[2510.09041](http://arxiv.org/abs/2510.09041)|null|
+|**2025-10-10**|**Exploring Single Domain Generalization of LiDAR-based Semantic Segmentation under Imperfect Labels**|Weitong Kong et.al.|[2510.09035](http://arxiv.org/abs/2510.09035)|null|
+|**2025-10-10**|**Mozart: A Chiplet Ecosystem-Accelerator Codesign Framework for Composable Bespoke Application Specific Integrated Circuits**|Haoran Jin et.al.|[2510.08873](http://arxiv.org/abs/2510.08873)|null|
 |**2025-10-09**|**Scalable Offline Metrics for Autonomous Driving**|Animikh Aich et.al.|[2510.08571](http://arxiv.org/abs/2510.08571)|null|
 |**2025-10-09**|**ResAD: Normalized Residual Trajectory Modeling for End-to-End Autonomous Driving**|Zhiyu Zheng et.al.|[2510.08562](http://arxiv.org/abs/2510.08562)|null|
 |**2025-10-09**|**Sentiment Matters: An Analysis of 200 Human-SAV Interactions**|Lirui Guo et.al.|[2510.08202](http://arxiv.org/abs/2510.08202)|null|
@@ -2417,12 +2431,13 @@
 |**2025-02-19**|**MEX: Memory-efficient Approach to Referring Multi-Object Tracking**|Huu-Thien Tran et.al.|[2502.13875](http://arxiv.org/abs/2502.13875)|null|
 |**2025-02-19**|**The NavINST Dataset for Multi-Sensor Autonomous Navigation**|Paulo Ricardo Marques de Araujo et.al.|[2502.13863](http://arxiv.org/abs/2502.13863)|null|
 
-<p align=right>(<a href=#updated-on-20251013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251014>back to top</a>)</p>
 
 ## Simulation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-09**|**Dark matter Simplified models in the Resonance Region**|Mattia Di Mauro et.al.|[2510.08677](http://arxiv.org/abs/2510.08677)|null|
 |**2025-10-09**|**LinguaSim: Interactive Multi-Vehicle Testing Scenario Generation via Natural Language Instruction Based on Large Language Models**|Qingyuan Shi et.al.|[2510.08046](http://arxiv.org/abs/2510.08046)|null|
 |**2025-10-08**|**A Digital Twin Framework for Metamorphic Testing of Autonomous Driving Systems Using Generative Model**|Tony Zhang et.al.|[2510.07133](http://arxiv.org/abs/2510.07133)|null|
 |**2025-10-02**|**SIMSplat: Predictive Driving Scene Editing with Language-aligned 4D Gaussian Splatting**|Sung-Yeon Park et.al.|[2510.02469](http://arxiv.org/abs/2510.02469)|null|
@@ -2605,12 +2620,13 @@
 |**2025-01-27**|**LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models**|Yuewen Mei et.al.|[2501.15850](http://arxiv.org/abs/2501.15850)|null|
 |**2025-01-24**|**A Data-driven Dynamic Temporal Correlation Modeling Framework for Renewable Energy Scenario Generation**|Xiaochong Dong et.al.|[2501.14233](http://arxiv.org/abs/2501.14233)|null|
 
-<p align=right>(<a href=#updated-on-20251013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251014>back to top</a>)</p>
 
 ## Perception
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-10**|**Hybrid-grained Feature Aggregation with Coarse-to-fine Language Guidance for Self-supervised Monocular Depth Estimation**|Wenyao Zhang et.al.|[2510.09320](http://arxiv.org/abs/2510.09320)|null|
 |**2025-09-22**|**TinyBEV: Cross Modal Knowledge Distillation for Efficient Multi Task Bird's Eye View Perception and Planning**|Reeshad Khan et.al.|[2509.18372](http://arxiv.org/abs/2509.18372)|null|
 |**2025-09-20**|**SQS: Enhancing Sparse Perception Models via Query-based Splatting in Autonomous Driving**|Haiming Zhang et.al.|[2509.16588](http://arxiv.org/abs/2509.16588)|null|
 |**2025-09-19**|**Sparse Multiview Open-Vocabulary 3D Detection**|Olivier Moliner et.al.|[2509.15924](http://arxiv.org/abs/2509.15924)|null|
@@ -2813,7 +2829,7 @@
 |**2025-01-07**|**GUPNet++: Geometry Uncertainty Propagation Network for Monocular 3D Object Detection**|Yan Lu et.al.|[2310.15624](http://arxiv.org/abs/2310.15624)|null|
 |**2023-12-25**|**Towards Generalizable Multi-Camera 3D Object Detection via Perspective Debiasing**|Hao Lu et.al.|[2310.11346](http://arxiv.org/abs/2310.11346)|null|
 
-<p align=right>(<a href=#updated-on-20251013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251014>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
