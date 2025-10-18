@@ -1,4 +1,4 @@
-## Updated on 2025.10.17
+## Updated on 2025.10.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-16**|**STITCHER: Constrained Trajectory Planning in Known Environments with Real-Time Motion Primitive Search**|Helene J. Levy et.al.|[2510.14893](http://arxiv.org/abs/2510.14893)|null|
+|**2025-10-16**|**Active Jammer Localization via Acquisition-Aware Path Planning**|Luis González-Gudiño et.al.|[2510.14790](http://arxiv.org/abs/2510.14790)|null|
+|**2025-10-16**|**Accelerated Multi-Modal Motion Planning Using Context-Conditioned Diffusion Models**|Edward Sandra et.al.|[2510.14615](http://arxiv.org/abs/2510.14615)|null|
+|**2025-10-16**|**Learning Human-Humanoid Coordination for Collaborative Object Carrying**|Yushi Du et.al.|[2510.14293](http://arxiv.org/abs/2510.14293)|null|
+|**2025-10-15**|**Optimistic Reinforcement Learning-Based Skill Insertions for Task and Motion Planning**|Gaoyuan Liu et.al.|[2510.14065](http://arxiv.org/abs/2510.14065)|null|
 |**2025-10-15**|**Hierarchical Discrete Lattice Assembly: An Approach for the Digital Fabrication of Scalable Macroscale Structures**|Miana Smith et.al.|[2510.13686](http://arxiv.org/abs/2510.13686)|null|
 |**2025-10-15**|**Personalized Learning Path Planning with Goal-Driven Learner State Modeling**|Joy Jia Yin Lim et.al.|[2510.13215](http://arxiv.org/abs/2510.13215)|null|
 |**2025-10-14**|**Enhancing Sampling-based Planning with a Library of Paths**|Michal Minařík et.al.|[2510.12962](http://arxiv.org/abs/2510.12962)|null|
@@ -876,12 +881,15 @@
 |**2025-02-13**|**Real-Time Fast Marching Tree for Mobile Robot Motion Planning in Dynamic Environments**|Jefferson Silveira et.al.|[2502.09556](http://arxiv.org/abs/2502.09556)|null|
 |**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393](http://arxiv.org/abs/2502.09393)|null|
 
-<p align=right>(<a href=#updated-on-20251017>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251018>back to top</a>)</p>
 
 ## Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-16**|**Interaction Concordance Index: Performance Evaluation for Interaction Prediction Methods**|Tapio Pahikkala et.al.|[2510.14419](http://arxiv.org/abs/2510.14419)|null|
+|**2025-10-16**|**DPRF: A Generalizable Dynamic Persona Refinement Framework for Optimizing Behavior Alignment Between Personalized LLM Role-Playing Agents and Humans**|Bingsheng Yao et.al.|[2510.14205](http://arxiv.org/abs/2510.14205)|null|
+|**2025-10-15**|**Inferred global dense residue transition graphs from primary structure sequences enable protein interaction prediction via directed graph convolutional neural networks**|Islam Akef Ebeid et.al.|[2510.14139](http://arxiv.org/abs/2510.14139)|null|
 |**2025-10-15**|**Physics-Informed Neural Network Modeling of Vehicle Collision Dynamics in Precision Immobilization Technique Maneuvers**|Yangye Jiang et.al.|[2510.13461](http://arxiv.org/abs/2510.13461)|null|
 |**2025-10-15**|**ADPerf: Investigating and Testing Performance in Autonomous Driving Systems**|Tri Minh-Triet Pham et.al.|[2510.13078](http://arxiv.org/abs/2510.13078)|null|
 |**2025-10-09**|**Energy-Guided Diffusion Sampling for Long-Term User Behavior Prediction in Reinforcement Learning-based Recommendation**|Xiaocong Chen et.al.|[2510.12815](http://arxiv.org/abs/2510.12815)|null|
@@ -1208,12 +1216,16 @@
 |**2025-02-07**|**The $α$ -Alternator: Dynamic Adaptation To Varying Noise Levels In Sequences Using The Vendi Score For Improved Robustness and Performance**|Mohammad Reza Rezaei et.al.|[2502.04593](http://arxiv.org/abs/2502.04593)|null|
 |**2025-02-05**|**Predicting 3D Motion from 2D Video for Behavior-Based VR Biometrics**|Mingjun Li et.al.|[2502.04361](http://arxiv.org/abs/2502.04361)|null|
 
-<p align=right>(<a href=#updated-on-20251017>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251018>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-16**|**Dude, Where's My (Autonomous) Car? Defining an Accessible Description Logic for Blind and Low Vision Travelers Using Autonomous Vehicles**|Paul D. S. Fink et.al.|[2510.14911](http://arxiv.org/abs/2510.14911)|null|
+|**2025-10-16**|**Hybrid multi-population traffic flow model: Optimal control for a mean-field limit**|Maria Teresa Chiri et.al.|[2510.14663](http://arxiv.org/abs/2510.14663)|null|
+|**2025-10-15**|**Resource-Aware Stealthy Attacks in Vehicle Platoons**|Ali Eslami et.al.|[2510.14119](http://arxiv.org/abs/2510.14119)|null|
+|**2025-10-15**|**David vs. Goliath: A comparative study of different-sized LLMs for code generation in the domain of automotive scenario generation**|Philipp Bauerfeind et.al.|[2510.14115](http://arxiv.org/abs/2510.14115)|null|
 |**2025-10-15**|**Provably Invincible Adversarial Attacks on Reinforcement Learning Systems: A Rate-Distortion Information-Theoretic Approach**|Ziqing Lu et.al.|[2510.13792](http://arxiv.org/abs/2510.13792)|null|
 |**2025-10-15**|**XD-RCDepth: Lightweight Radar-Camera Depth Estimation with Explainability-Aligned and Distribution-Aware Distillation**|Huawei Sun et.al.|[2510.13565](http://arxiv.org/abs/2510.13565)|null|
 |**2025-10-15**|**Through the Lens of Doubt: Robust and Efficient Uncertainty Estimation for Visual Place Recognition**|Emily Miller et.al.|[2510.13464](http://arxiv.org/abs/2510.13464)|null|
@@ -2502,12 +2514,15 @@
 |**2025-02-19**|**MEX: Memory-efficient Approach to Referring Multi-Object Tracking**|Huu-Thien Tran et.al.|[2502.13875](http://arxiv.org/abs/2502.13875)|null|
 |**2025-02-19**|**The NavINST Dataset for Multi-Sensor Autonomous Navigation**|Paulo Ricardo Marques de Araujo et.al.|[2502.13863](http://arxiv.org/abs/2502.13863)|null|
 
-<p align=right>(<a href=#updated-on-20251017>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251018>back to top</a>)</p>
 
 ## Simulation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-16**|**Requirement Identification for Traffic Simulations in Driving Simulators**|Sven Tarlowski et.al.|[2510.14653](http://arxiv.org/abs/2510.14653)|null|
+|**2025-10-16**|**A Physics Prior-Guided Dual-Stream Attention Network for Motion Prediction of Elastic Bragg Breakwaters**|Lianzi Jiang et.al.|[2510.14250](http://arxiv.org/abs/2510.14250)|null|
+|**2025-10-15**|**David vs. Goliath: A comparative study of different-sized LLMs for code generation in the domain of automotive scenario generation**|Philipp Bauerfeind et.al.|[2510.14115](http://arxiv.org/abs/2510.14115)|null|
 |**2025-10-13**|**Coherent Load Profile Synthesis with Conditional Diffusion for LV Distribution Network Scenario Generation**|Alistair Brash et.al.|[2510.12832](http://arxiv.org/abs/2510.12832)|null|
 |**2025-10-14**|**Controllable Collision Scenario Generation via Collision Pattern Prediction**|Pin-Lun Chen et.al.|[2510.12206](http://arxiv.org/abs/2510.12206)|null|
 |**2025-10-13**|**Audio-Guided Visual Perception for Audio-Visual Navigation**|Yi Wang et.al.|[2510.11760](http://arxiv.org/abs/2510.11760)|null|
@@ -2696,7 +2711,7 @@
 |**2025-01-27**|**LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models**|Yuewen Mei et.al.|[2501.15850](http://arxiv.org/abs/2501.15850)|null|
 |**2025-01-24**|**A Data-driven Dynamic Temporal Correlation Modeling Framework for Renewable Energy Scenario Generation**|Xiaochong Dong et.al.|[2501.14233](http://arxiv.org/abs/2501.14233)|null|
 
-<p align=right>(<a href=#updated-on-20251017>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251018>back to top</a>)</p>
 
 ## Perception
 
@@ -2905,7 +2920,7 @@
 |**2025-01-07**|**GUPNet++: Geometry Uncertainty Propagation Network for Monocular 3D Object Detection**|Yan Lu et.al.|[2310.15624](http://arxiv.org/abs/2310.15624)|null|
 |**2023-12-25**|**Towards Generalizable Multi-Camera 3D Object Detection via Perspective Debiasing**|Hao Lu et.al.|[2310.11346](http://arxiv.org/abs/2310.11346)|null|
 
-<p align=right>(<a href=#updated-on-20251017>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251018>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
