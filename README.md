@@ -1,4 +1,4 @@
-## Updated on 2025.10.19
+## Updated on 2025.10.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -29,7 +29,7 @@
 |**2025-10-14**|**PolygMap: A Perceptive Locomotion Framework for Humanoid Robot Stair Climbing**|Bingquan Li et.al.|[2510.12346](http://arxiv.org/abs/2510.12346)|null|
 |**2025-10-15**|**Hybrid Terrain-Aware Path Planning: Integrating VD-RRT* Exploration and VD-D* Lite Repair**|Akshay Naik et.al.|[2510.12169](http://arxiv.org/abs/2510.12169)|null|
 |**2025-10-13**|**Analysis of the Geometric Heat Flow Equation: Computing Geodesics in Real-Time with Convergence Guarantees**|Samuel G. Gessow et.al.|[2510.11692](http://arxiv.org/abs/2510.11692)|null|
-|**2025-10-13**|**Enhancing Long Chain-of-Thought Reasoning through Multi-Path Plan Aggregation**|Siheng Xiong et.al.|[2510.11620](http://arxiv.org/abs/2510.11620)|null|
+|**2025-10-16**|**Enhancing Long Chain-of-Thought Reasoning through Multi-Path Plan Aggregation**|Siheng Xiong et.al.|[2510.11620](http://arxiv.org/abs/2510.11620)|null|
 |**2025-10-13**|**NaviGait: Navigating Dynamically Feasible Gait Libraries using Deep Reinforcement Learning**|Neil C. Janwani et.al.|[2510.11542](http://arxiv.org/abs/2510.11542)|null|
 |**2025-10-13**|**Rotor-Failure-Aware Quadrotors Flight in Unknown Environments**|Xiaobin Zhou et.al.|[2510.11306](http://arxiv.org/abs/2510.11306)|null|
 |**2025-10-13**|**Hadamard-Lévy theorems for maps taking values in a finite dimensional space**|Yacine Chitour et.al.|[2510.11206](http://arxiv.org/abs/2510.11206)|null|
@@ -881,7 +881,7 @@
 |**2025-02-13**|**Real-Time Fast Marching Tree for Mobile Robot Motion Planning in Dynamic Environments**|Jefferson Silveira et.al.|[2502.09556](http://arxiv.org/abs/2502.09556)|null|
 |**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393](http://arxiv.org/abs/2502.09393)|null|
 
-<p align=right>(<a href=#updated-on-20251019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251020>back to top</a>)</p>
 
 ## Prediction
 
@@ -1216,7 +1216,7 @@
 |**2025-02-07**|**The $α$ -Alternator: Dynamic Adaptation To Varying Noise Levels In Sequences Using The Vendi Score For Improved Robustness and Performance**|Mohammad Reza Rezaei et.al.|[2502.04593](http://arxiv.org/abs/2502.04593)|null|
 |**2025-02-05**|**Predicting 3D Motion from 2D Video for Behavior-Based VR Biometrics**|Mingjun Li et.al.|[2502.04361](http://arxiv.org/abs/2502.04361)|null|
 
-<p align=right>(<a href=#updated-on-20251019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251020>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -1229,7 +1229,7 @@
 |**2025-10-15**|**Provably Invincible Adversarial Attacks on Reinforcement Learning Systems: A Rate-Distortion Information-Theoretic Approach**|Ziqing Lu et.al.|[2510.13792](http://arxiv.org/abs/2510.13792)|null|
 |**2025-10-15**|**XD-RCDepth: Lightweight Radar-Camera Depth Estimation with Explainability-Aligned and Distribution-Aware Distillation**|Huawei Sun et.al.|[2510.13565](http://arxiv.org/abs/2510.13565)|null|
 |**2025-10-15**|**Through the Lens of Doubt: Robust and Efficient Uncertainty Estimation for Visual Place Recognition**|Emily Miller et.al.|[2510.13464](http://arxiv.org/abs/2510.13464)|null|
-|**2025-10-15**|**CoDS: Enhancing Collaborative Perception in Heterogeneous Scenarios via Domain Separation**|Yushan Han et.al.|[2510.13432](http://arxiv.org/abs/2510.13432)|null|
+|**2025-10-17**|**CoDS: Enhancing Collaborative Perception in Heterogeneous Scenarios via Domain Separation**|Yushan Han et.al.|[2510.13432](http://arxiv.org/abs/2510.13432)|null|
 |**2025-10-15**|**Partitioned Scheduling for DAG Tasks Considering Probabilistic Execution Time**|Fuma Omori et.al.|[2510.13279](http://arxiv.org/abs/2510.13279)|null|
 |**2025-10-15**|**SAJA: A State-Action Joint Attack Framework on Multi-Agent Deep Reinforcement Learning**|Weiqi Guo et.al.|[2510.13262](http://arxiv.org/abs/2510.13262)|null|
 |**2025-10-16**|**CymbaDiff: Structured Spatial Diffusion for Sketch-based 3D Semantic Urban Scene Generation**|Li Liang et.al.|[2510.13245](http://arxiv.org/abs/2510.13245)|null|
@@ -2514,7 +2514,7 @@
 |**2025-02-19**|**MEX: Memory-efficient Approach to Referring Multi-Object Tracking**|Huu-Thien Tran et.al.|[2502.13875](http://arxiv.org/abs/2502.13875)|null|
 |**2025-02-19**|**The NavINST Dataset for Multi-Sensor Autonomous Navigation**|Paulo Ricardo Marques de Araujo et.al.|[2502.13863](http://arxiv.org/abs/2502.13863)|null|
 
-<p align=right>(<a href=#updated-on-20251019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251020>back to top</a>)</p>
 
 ## Simulation
 
@@ -2534,7 +2534,7 @@
 |**2025-10-02**|**SIMSplat: Predictive Driving Scene Editing with Language-aligned 4D Gaussian Splatting**|Sung-Yeon Park et.al.|[2510.02469](http://arxiv.org/abs/2510.02469)|null|
 |**2025-10-02**|**Reducing Discomfort in Driving Simulators: Motion Cueing for Motion Sickness Mitigation**|Varun Kotian\Riender Happee et.al.|[2510.01986](http://arxiv.org/abs/2510.01986)|null|
 |**2025-09-29**|**Botender: Supporting Communities in Collaboratively Designing AI Agents through Case-Based Provocations**|Tzu-Sheng Kuo et.al.|[2509.25492](http://arxiv.org/abs/2509.25492)|null|
-|**2025-09-29**|**Assessing the Effectiveness of Driver Training Interventions in Improving Safe Engagement with Vehicle Automation Systems**|Chengxin Zhang et.al.|[2509.25364](http://arxiv.org/abs/2509.25364)|null|
+|**2025-10-16**|**Assessing the Effectiveness of Driver Training Interventions in Improving Safe Engagement with Vehicle Automation Systems**|Chengxin Zhang et.al.|[2509.25364](http://arxiv.org/abs/2509.25364)|null|
 |**2025-09-28**|**DriveE2E: Closed-Loop Benchmark for End-to-End Autonomous Driving through Real-to-Simulation**|Haibao Yu et.al.|[2509.23922](http://arxiv.org/abs/2509.23922)|null|
 |**2025-09-28**|**A Synergy of Computing Power Networks and Low-Altitude Economy Intelligent Communications: Challenges, Design Principles, and Research Directions**|Yan Sun et.al.|[2509.23810](http://arxiv.org/abs/2509.23810)|null|
 |**2025-09-27**|**Increasing the Diversity in RGB-to-Thermal Image Translation for Automotive Applications**|Kaili Wang et.al.|[2509.23243](http://arxiv.org/abs/2509.23243)|null|
@@ -2711,7 +2711,7 @@
 |**2025-01-27**|**LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models**|Yuewen Mei et.al.|[2501.15850](http://arxiv.org/abs/2501.15850)|null|
 |**2025-01-24**|**A Data-driven Dynamic Temporal Correlation Modeling Framework for Renewable Energy Scenario Generation**|Xiaochong Dong et.al.|[2501.14233](http://arxiv.org/abs/2501.14233)|null|
 
-<p align=right>(<a href=#updated-on-20251019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251020>back to top</a>)</p>
 
 ## Perception
 
@@ -2920,7 +2920,7 @@
 |**2025-01-07**|**GUPNet++: Geometry Uncertainty Propagation Network for Monocular 3D Object Detection**|Yan Lu et.al.|[2310.15624](http://arxiv.org/abs/2310.15624)|null|
 |**2023-12-25**|**Towards Generalizable Multi-Camera 3D Object Detection via Perspective Debiasing**|Hao Lu et.al.|[2310.11346](http://arxiv.org/abs/2310.11346)|null|
 
-<p align=right>(<a href=#updated-on-20251019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251020>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
