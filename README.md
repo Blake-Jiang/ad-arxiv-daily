@@ -1,4 +1,4 @@
-## Updated on 2025.10.20
+## Updated on 2025.10.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-17**|**Hypergame-based Cognition Modeling and Intention Interpretation for Human-Driven Vehicles in Connected Mixed Traffic**|Jianguo Chen et.al.|[2510.15573](http://arxiv.org/abs/2510.15573)|null|
+|**2025-10-17**|**Adaptive Cost-Map-based Path Planning in Partially Unknown Environments with Movable Obstacles**|Liviu-Mihai Stan et.al.|[2510.15336](http://arxiv.org/abs/2510.15336)|null|
+|**2025-10-16**|**Finding geodesics with the Deep Ritz method**|Conor Rowan et.al.|[2510.15177](http://arxiv.org/abs/2510.15177)|null|
 |**2025-10-16**|**STITCHER: Constrained Trajectory Planning in Known Environments with Real-Time Motion Primitive Search**|Helene J. Levy et.al.|[2510.14893](http://arxiv.org/abs/2510.14893)|null|
 |**2025-10-16**|**Active Jammer Localization via Acquisition-Aware Path Planning**|Luis González-Gudiño et.al.|[2510.14790](http://arxiv.org/abs/2510.14790)|null|
 |**2025-10-16**|**Accelerated Multi-Modal Motion Planning Using Context-Conditioned Diffusion Models**|Edward Sandra et.al.|[2510.14615](http://arxiv.org/abs/2510.14615)|null|
@@ -881,12 +884,13 @@
 |**2025-02-13**|**Real-Time Fast Marching Tree for Mobile Robot Motion Planning in Dynamic Environments**|Jefferson Silveira et.al.|[2502.09556](http://arxiv.org/abs/2502.09556)|null|
 |**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393](http://arxiv.org/abs/2502.09393)|null|
 
-<p align=right>(<a href=#updated-on-20251020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251021>back to top</a>)</p>
 
 ## Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-17**|**Hypergame-based Cognition Modeling and Intention Interpretation for Human-Driven Vehicles in Connected Mixed Traffic**|Jianguo Chen et.al.|[2510.15573](http://arxiv.org/abs/2510.15573)|null|
 |**2025-10-16**|**Interaction Concordance Index: Performance Evaluation for Interaction Prediction Methods**|Tapio Pahikkala et.al.|[2510.14419](http://arxiv.org/abs/2510.14419)|null|
 |**2025-10-16**|**DPRF: A Generalizable Dynamic Persona Refinement Framework for Optimizing Behavior Alignment Between Personalized LLM Role-Playing Agents and Humans**|Bingsheng Yao et.al.|[2510.14205](http://arxiv.org/abs/2510.14205)|null|
 |**2025-10-15**|**Inferred global dense residue transition graphs from primary structure sequences enable protein interaction prediction via directed graph convolutional neural networks**|Islam Akef Ebeid et.al.|[2510.14139](http://arxiv.org/abs/2510.14139)|null|
@@ -1216,12 +1220,18 @@
 |**2025-02-07**|**The $α$ -Alternator: Dynamic Adaptation To Varying Noise Levels In Sequences Using The Vendi Score For Improved Robustness and Performance**|Mohammad Reza Rezaei et.al.|[2502.04593](http://arxiv.org/abs/2502.04593)|null|
 |**2025-02-05**|**Predicting 3D Motion from 2D Video for Behavior-Based VR Biometrics**|Mingjun Li et.al.|[2502.04361](http://arxiv.org/abs/2502.04361)|null|
 
-<p align=right>(<a href=#updated-on-20251020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251021>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-17**|**LightsOut: Diffusion-based Outpainting for Enhanced Lens Flare Removal**|Shr-Ruei Tsai et.al.|[2510.15868](http://arxiv.org/abs/2510.15868)|null|
+|**2025-10-17**|**Hypergame-based Cognition Modeling and Intention Interpretation for Human-Driven Vehicles in Connected Mixed Traffic**|Jianguo Chen et.al.|[2510.15573](http://arxiv.org/abs/2510.15573)|null|
+|**2025-10-17**|**Perfect Prediction or Plenty of Proposals? What Matters Most in Planning for Autonomous Driving**|Aron Distelzweig et.al.|[2510.15505](http://arxiv.org/abs/2510.15505)|null|
+|**2025-10-17**|**VDRive: Leveraging Reinforced VLA and Diffusion Policy for End-to-end Autonomous Driving**|Ziang Guo et.al.|[2510.15446](http://arxiv.org/abs/2510.15446)|null|
+|**2025-10-17**|**FreqPDE: Rethinking Positional Depth Embedding for Multi-View 3D Object Detection Transformers**|Haisheng Su et.al.|[2510.15385](http://arxiv.org/abs/2510.15385)|null|
+|**2025-10-16**|**A Comparative Study of Oscillatory Perturbations in Car-Following Models**|Oumaima Barhoumi et.al.|[2510.15190](http://arxiv.org/abs/2510.15190)|null|
 |**2025-10-16**|**Dude, Where's My (Autonomous) Car? Defining an Accessible Description Logic for Blind and Low Vision Travelers Using Autonomous Vehicles**|Paul D. S. Fink et.al.|[2510.14911](http://arxiv.org/abs/2510.14911)|null|
 |**2025-10-16**|**Hybrid multi-population traffic flow model: Optimal control for a mean-field limit**|Maria Teresa Chiri et.al.|[2510.14663](http://arxiv.org/abs/2510.14663)|null|
 |**2025-10-15**|**Resource-Aware Stealthy Attacks in Vehicle Platoons**|Ali Eslami et.al.|[2510.14119](http://arxiv.org/abs/2510.14119)|null|
@@ -2514,7 +2524,7 @@
 |**2025-02-19**|**MEX: Memory-efficient Approach to Referring Multi-Object Tracking**|Huu-Thien Tran et.al.|[2502.13875](http://arxiv.org/abs/2502.13875)|null|
 |**2025-02-19**|**The NavINST Dataset for Multi-Sensor Autonomous Navigation**|Paulo Ricardo Marques de Araujo et.al.|[2502.13863](http://arxiv.org/abs/2502.13863)|null|
 
-<p align=right>(<a href=#updated-on-20251020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251021>back to top</a>)</p>
 
 ## Simulation
 
@@ -2711,12 +2721,13 @@
 |**2025-01-27**|**LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models**|Yuewen Mei et.al.|[2501.15850](http://arxiv.org/abs/2501.15850)|null|
 |**2025-01-24**|**A Data-driven Dynamic Temporal Correlation Modeling Framework for Renewable Energy Scenario Generation**|Xiaochong Dong et.al.|[2501.14233](http://arxiv.org/abs/2501.14233)|null|
 
-<p align=right>(<a href=#updated-on-20251020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251021>back to top</a>)</p>
 
 ## Perception
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-17**|**FreqPDE: Rethinking Positional Depth Embedding for Multi-View 3D Object Detection Transformers**|Haisheng Su et.al.|[2510.15385](http://arxiv.org/abs/2510.15385)|null|
 |**2025-10-10**|**Hybrid-grained Feature Aggregation with Coarse-to-fine Language Guidance for Self-supervised Monocular Depth Estimation**|Wenyao Zhang et.al.|[2510.09320](http://arxiv.org/abs/2510.09320)|null|
 |**2025-09-22**|**TinyBEV: Cross Modal Knowledge Distillation for Efficient Multi Task Bird's Eye View Perception and Planning**|Reeshad Khan et.al.|[2509.18372](http://arxiv.org/abs/2509.18372)|null|
 |**2025-09-20**|**SQS: Enhancing Sparse Perception Models via Query-based Splatting in Autonomous Driving**|Haiming Zhang et.al.|[2509.16588](http://arxiv.org/abs/2509.16588)|null|
@@ -2920,7 +2931,7 @@
 |**2025-01-07**|**GUPNet++: Geometry Uncertainty Propagation Network for Monocular 3D Object Detection**|Yan Lu et.al.|[2310.15624](http://arxiv.org/abs/2310.15624)|null|
 |**2023-12-25**|**Towards Generalizable Multi-Camera 3D Object Detection via Perspective Debiasing**|Hao Lu et.al.|[2310.11346](http://arxiv.org/abs/2310.11346)|null|
 
-<p align=right>(<a href=#updated-on-20251020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251021>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
