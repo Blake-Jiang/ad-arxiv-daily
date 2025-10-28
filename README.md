@@ -1,4 +1,4 @@
-## Updated on 2025.10.27
+## Updated on 2025.10.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-24**|**A Knowledge-Graph Translation Layer for Mission-Aware Multi-Agent Path Planning in Spatiotemporal Dynamics**|Edward Holmberg et.al.|[2510.21695](http://arxiv.org/abs/2510.21695)|null|
+|**2025-10-24**|**Near-Optimal Min-Sum Motion Planning in a Planar Polygonal Environment**|Pankaj K. Agarwal et.al.|[2510.21639](http://arxiv.org/abs/2510.21639)|null|
+|**2025-10-24**|**Cost Minimization for Space-Air-Ground Integrated Multi-Access Edge Computing Systems**|Weihong Qin et.al.|[2510.21541](http://arxiv.org/abs/2510.21541)|null|
+|**2025-10-24**|**Load-bearing Assessment for Safe Locomotion of Quadruped Robots on Collapsing Terrain**|Vivian S. Medeiros et.al.|[2510.21369](http://arxiv.org/abs/2510.21369)|null|
 |**2025-10-23**|**Robot Path and Trajectory Planning Considering a Spatially Fixed TCP**|Bernhard Rameder et.al.|[2510.20473](http://arxiv.org/abs/2510.20473)|null|
 |**2025-10-23**|**Dino-Diffusion Modular Designs Bridge the Cross-Domain Gap in Autonomous Parking**|Zixuan Wu et.al.|[2510.20335](http://arxiv.org/abs/2510.20335)|null|
 |**2025-10-23**|**PathFormer: A Transformer with 3D Grid Constraints for Digital Twin Robot-Arm Trajectory Generation**|Ahmed Alanazi et.al.|[2510.20161](http://arxiv.org/abs/2510.20161)|null|
@@ -905,7 +909,7 @@
 |**2025-02-13**|**Real-Time Fast Marching Tree for Mobile Robot Motion Planning in Dynamic Environments**|Jefferson Silveira et.al.|[2502.09556](http://arxiv.org/abs/2502.09556)|null|
 |**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393](http://arxiv.org/abs/2502.09393)|null|
 
-<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251028>back to top</a>)</p>
 
 ## Prediction
 
@@ -1248,12 +1252,18 @@
 |**2025-02-07**|**The $α$ -Alternator: Dynamic Adaptation To Varying Noise Levels In Sequences Using The Vendi Score For Improved Robustness and Performance**|Mohammad Reza Rezaei et.al.|[2502.04593](http://arxiv.org/abs/2502.04593)|null|
 |**2025-02-05**|**Predicting 3D Motion from 2D Video for Behavior-Based VR Biometrics**|Mingjun Li et.al.|[2502.04361](http://arxiv.org/abs/2502.04361)|null|
 
-<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251028>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-24**|**Learning Neural Control Barrier Functions from Expert Demonstrations using Inverse Constraint Learning**|Yuxuan Yang et.al.|[2510.21560](http://arxiv.org/abs/2510.21560)|null|
+|**2025-10-24**|**AURASeg: Attention Guided Upsampling with Residual Boundary-Assistive Refinement for Drivable-Area Segmentation**|Narendhiran Vijayakumar et.al.|[2510.21536](http://arxiv.org/abs/2510.21536)|null|
+|**2025-10-24**|**Scalpel: Automotive Deep Learning Framework Testing via Assembling Model Components**|Yinglong Zou et.al.|[2510.21451](http://arxiv.org/abs/2510.21451)|null|
+|**2025-10-24**|**Track-to-Track Association for Collective Perception based on Stochastic Optimization**|Laura M. Wolf et.al.|[2510.21278](http://arxiv.org/abs/2510.21278)|null|
+|**2025-10-24**|**Towards Physics-informed Spatial Intelligence with Human Priors: An Autonomous Driving Pilot Study**|Guanlin Wu et.al.|[2510.21160](http://arxiv.org/abs/2510.21160)|null|
+|**2025-10-24**|**Urban 3D Change Detection Using LiDAR Sensor for HD Map Maintenance and Smart Mobility**|Hezam Albagami et.al.|[2510.21112](http://arxiv.org/abs/2510.21112)|null|
 |**2025-10-23**|**Adversary-Aware Private Inference over Wireless Channels**|Mohamed Seif et.al.|[2510.20518](http://arxiv.org/abs/2510.20518)|null|
 |**2025-10-23**|**Behavior-Aware Online Prediction of Obstacle Occupancy using Zonotopes**|Alvaro Carrizosa-Rendon et.al.|[2510.20437](http://arxiv.org/abs/2510.20437)|null|
 |**2025-10-23**|**Enhancing Security in Deep Reinforcement Learning: A Comprehensive Survey on Adversarial Attacks and Defenses**|Wu Yichao et.al.|[2510.20314](http://arxiv.org/abs/2510.20314)|null|
@@ -2588,7 +2598,7 @@
 |**2025-02-19**|**MEX: Memory-efficient Approach to Referring Multi-Object Tracking**|Huu-Thien Tran et.al.|[2502.13875](http://arxiv.org/abs/2502.13875)|null|
 |**2025-02-19**|**The NavINST Dataset for Multi-Sensor Autonomous Navigation**|Paulo Ricardo Marques de Araujo et.al.|[2502.13863](http://arxiv.org/abs/2502.13863)|null|
 
-<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251028>back to top</a>)</p>
 
 ## Simulation
 
@@ -2599,7 +2609,7 @@
 |**2025-10-16**|**A Physics Prior-Guided Dual-Stream Attention Network for Motion Prediction of Elastic Bragg Breakwaters**|Lianzi Jiang et.al.|[2510.14250](http://arxiv.org/abs/2510.14250)|null|
 |**2025-10-15**|**David vs. Goliath: A comparative study of different-sized LLMs for code generation in the domain of automotive scenario generation**|Philipp Bauerfeind et.al.|[2510.14115](http://arxiv.org/abs/2510.14115)|null|
 |**2025-10-13**|**Coherent Load Profile Synthesis with Conditional Diffusion for LV Distribution Network Scenario Generation**|Alistair Brash et.al.|[2510.12832](http://arxiv.org/abs/2510.12832)|null|
-|**2025-10-14**|**Controllable Collision Scenario Generation via Collision Pattern Prediction**|Pin-Lun Chen et.al.|[2510.12206](http://arxiv.org/abs/2510.12206)|null|
+|**2025-10-27**|**Controllable Collision Scenario Generation via Collision Pattern Prediction**|Pin-Lun Chen et.al.|[2510.12206](http://arxiv.org/abs/2510.12206)|null|
 |**2025-10-13**|**Audio-Guided Visual Perception for Audio-Visual Navigation**|Yi Wang et.al.|[2510.11760](http://arxiv.org/abs/2510.11760)|null|
 |**2025-10-13**|**Neutral Agent-based Adversarial Policy Learning against Deep Reinforcement Learning in Multi-party Open Systems**|Qizhou Peng et.al.|[2510.10937](http://arxiv.org/abs/2510.10937)|null|
 |**2025-10-10**|**Modelling Intra-driver Behavioral Adaptation through Risk Sensitivity and Regime Transitions: A Task-difficulty Car-following Model**|Mohammad Tamim Kashifi et.al.|[2510.09886](http://arxiv.org/abs/2510.09886)|null|
@@ -2786,7 +2796,7 @@
 |**2025-01-27**|**LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models**|Yuewen Mei et.al.|[2501.15850](http://arxiv.org/abs/2501.15850)|null|
 |**2025-01-24**|**A Data-driven Dynamic Temporal Correlation Modeling Framework for Renewable Energy Scenario Generation**|Xiaochong Dong et.al.|[2501.14233](http://arxiv.org/abs/2501.14233)|null|
 
-<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251028>back to top</a>)</p>
 
 ## Perception
 
@@ -2998,7 +3008,7 @@
 |**2025-01-07**|**GUPNet++: Geometry Uncertainty Propagation Network for Monocular 3D Object Detection**|Yan Lu et.al.|[2310.15624](http://arxiv.org/abs/2310.15624)|null|
 |**2023-12-25**|**Towards Generalizable Multi-Camera 3D Object Detection via Perspective Debiasing**|Hao Lu et.al.|[2310.11346](http://arxiv.org/abs/2310.11346)|null|
 
-<p align=right>(<a href=#updated-on-20251027>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251028>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
