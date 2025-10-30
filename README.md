@@ -1,4 +1,4 @@
-## Updated on 2025.10.29
+## Updated on 2025.10.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-28**|**Flatness-based trajectory planning for 3D overhead cranes with friction compensation and collision avoidance**|Jorge Vicente-Martinez et.al.|[2510.24457](http://arxiv.org/abs/2510.24457)|null|
+|**2025-10-28**|**UniPlanner: A Unified Motion Planning Framework for Autonomous Vehicle Decision-Making Systems via Multi-Dataset Integration**|Xin Yang et.al.|[2510.24166](http://arxiv.org/abs/2510.24166)|null|
+|**2025-10-27**|**Decentralized Multi-Agent Goal Assignment for Path Planning using Large Language Models**|Murad Ismayilov et.al.|[2510.23824](http://arxiv.org/abs/2510.23824)|null|
 |**2025-10-27**|**Deductive Chain-of-Thought Augmented Socially-aware Robot Navigation World Model**|Weizheng Wang et.al.|[2510.23509](http://arxiv.org/abs/2510.23509)|null|
 |**2025-10-27**|**Payload trajectory tracking control for aerial transportation systems with cable length online optimization**|Hai Yu et.al.|[2510.23296](http://arxiv.org/abs/2510.23296)|null|
 |**2025-10-27**|**Workspace Registration and Collision Detection for Industrial Robotics Applications**|Klaus Zauner et.al.|[2510.23227](http://arxiv.org/abs/2510.23227)|null|
@@ -922,12 +925,13 @@
 |**2025-02-13**|**Real-Time Fast Marching Tree for Mobile Robot Motion Planning in Dynamic Environments**|Jefferson Silveira et.al.|[2502.09556](http://arxiv.org/abs/2502.09556)|null|
 |**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393](http://arxiv.org/abs/2502.09393)|null|
 
-<p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
 
 ## Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-27**|**MFiSP: A Multimodal Fire Spread Prediction Framework**|Alec Sathiyamoorthy et.al.|[2510.23934](http://arxiv.org/abs/2510.23934)|null|
 |**2025-10-25**|**TrajGATFormer: A Graph-Based Transformer Approach for Worker and Obstacle Trajectory Prediction in Off-site Construction Environments**|Mohammed Alduais et.al.|[2510.22205](http://arxiv.org/abs/2510.22205)|null|
 |**2025-10-23**|**A Scalable, Causal, and Energy Efficient Framework for Neural Decoding with Spiking Neural Networks**|Georgios Mentzelopoulos et.al.|[2510.20683](http://arxiv.org/abs/2510.20683)|null|
 |**2025-10-23**|**Monocular Visual 8D Pose Estimation for Articulated Bicycles and Cyclists**|Eduardo R. Corral-Soto et.al.|[2510.20158](http://arxiv.org/abs/2510.20158)|null|
@@ -938,7 +942,7 @@
 |**2025-10-28**|**SimpleVSF: VLM-Scoring Fusion for Trajectory Prediction of End-to-End Autonomous Driving**|Peiru Zheng et.al.|[2510.17191](http://arxiv.org/abs/2510.17191)|null|
 |**2025-10-17**|**Hypergame-based Cognition Modeling and Intention Interpretation for Human-Driven Vehicles in Connected Mixed Traffic**|Jianguo Chen et.al.|[2510.15573](http://arxiv.org/abs/2510.15573)|null|
 |**2025-10-16**|**Interaction Concordance Index: Performance Evaluation for Interaction Prediction Methods**|Tapio Pahikkala et.al.|[2510.14419](http://arxiv.org/abs/2510.14419)|null|
-|**2025-10-27**|**DPRF: A Generalizable Dynamic Persona Refinement Framework for Optimizing Behavior Alignment Between Personalized LLM Role-Playing Agents and Humans**|Bingsheng Yao et.al.|[2510.14205](http://arxiv.org/abs/2510.14205)|null|
+|**2025-10-29**|**DPRF: A Generalizable Dynamic Persona Refinement Framework for Optimizing Behavior Alignment Between Personalized LLM Role-Playing Agents and Humans**|Bingsheng Yao et.al.|[2510.14205](http://arxiv.org/abs/2510.14205)|null|
 |**2025-10-15**|**Inferred global dense residue transition graphs from primary structure sequences enable protein interaction prediction via directed graph convolutional neural networks**|Islam Akef Ebeid et.al.|[2510.14139](http://arxiv.org/abs/2510.14139)|null|
 |**2025-10-15**|**Physics-Informed Neural Network Modeling of Vehicle Collision Dynamics in Precision Immobilization Technique Maneuvers**|Yangye Jiang et.al.|[2510.13461](http://arxiv.org/abs/2510.13461)|null|
 |**2025-10-15**|**ADPerf: Investigating and Testing Performance in Autonomous Driving Systems**|Tri Minh-Triet Pham et.al.|[2510.13078](http://arxiv.org/abs/2510.13078)|null|
@@ -1266,12 +1270,18 @@
 |**2025-02-07**|**The $α$ -Alternator: Dynamic Adaptation To Varying Noise Levels In Sequences Using The Vendi Score For Improved Robustness and Performance**|Mohammad Reza Rezaei et.al.|[2502.04593](http://arxiv.org/abs/2502.04593)|null|
 |**2025-02-05**|**Predicting 3D Motion from 2D Video for Behavior-Based VR Biometrics**|Mingjun Li et.al.|[2502.04361](http://arxiv.org/abs/2502.04361)|null|
 
-<p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-28**|**Learning to Drive Safely with Hybrid Options**|Bram De Cooman et.al.|[2510.24674](http://arxiv.org/abs/2510.24674)|null|
+|**2025-10-28**|**UniPlanner: A Unified Motion Planning Framework for Autonomous Vehicle Decision-Making Systems via Multi-Dataset Integration**|Xin Yang et.al.|[2510.24166](http://arxiv.org/abs/2510.24166)|null|
+|**2025-10-28**|**Enhancing Vision-Language Models for Autonomous Driving through Task-Specific Prompting and Spatial Reasoning**|Aodi Wu et.al.|[2510.24152](http://arxiv.org/abs/2510.24152)|null|
+|**2025-10-28**|**ZTRS: Zero-Imitation End-to-end Autonomous Driving with Trajectory Scoring**|Zhenxin Li et.al.|[2510.24108](http://arxiv.org/abs/2510.24108)|null|
+|**2025-10-28**|**SynAD: Enhancing Real-World End-to-End Autonomous Driving Models through Synthetic Data Integration**|Jongsuk Kim et.al.|[2510.24052](http://arxiv.org/abs/2510.24052)|null|
+|**2025-10-27**|**Modeling and Scheduling of Fusion Patterns in Autonomous Driving Systems (Extended Version)**|Hoora Sobhani et.al.|[2510.23895](http://arxiv.org/abs/2510.23895)|null|
 |**2025-10-27**|**GRAD: Real-Time Gated Recurrent Anomaly Detection in Autonomous Vehicle Sensors Using Reinforced EMA and Multi-Stage Sliding Window Techniques**|Mohammad Hossein Jafari Naeimi et.al.|[2510.23327](http://arxiv.org/abs/2510.23327)|null|
 |**2025-10-27**|**Network Intrusion Detection: Evolution from Conventional Approaches to LLM Collaboration and Emerging Risks**|Yaokai Feng et.al.|[2510.23313](http://arxiv.org/abs/2510.23313)|null|
 |**2025-10-27**|**VR-Drive: Viewpoint-Robust End-to-End Driving with Feed-Forward 3D Gaussian Splatting**|Hoonhee Cho et.al.|[2510.23205](http://arxiv.org/abs/2510.23205)|null|
@@ -2627,12 +2637,15 @@
 |**2025-02-19**|**MEX: Memory-efficient Approach to Referring Multi-Object Tracking**|Huu-Thien Tran et.al.|[2502.13875](http://arxiv.org/abs/2502.13875)|null|
 |**2025-02-19**|**The NavINST Dataset for Multi-Sensor Autonomous Navigation**|Paulo Ricardo Marques de Araujo et.al.|[2502.13863](http://arxiv.org/abs/2502.13863)|null|
 
-<p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
 
 ## Simulation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-28**|**Multi-Agent Scenario Generation in Roundabouts with a Transformer-enhanced Conditional Variational Autoencoder**|Li Li et.al.|[2510.24671](http://arxiv.org/abs/2510.24671)|null|
+|**2025-10-28**|**SynAD: Enhancing Real-World End-to-End Autonomous Driving Models through Synthetic Data Integration**|Jongsuk Kim et.al.|[2510.24052](http://arxiv.org/abs/2510.24052)|null|
+|**2025-10-27**|**Robust Extensible Bin Packing and Revisiting the Convex Knapsack Problem**|Noam Goldberg et.al.|[2510.23765](http://arxiv.org/abs/2510.23765)|null|
 |**2025-10-17**|**A Motivational Driver Steering Model: Task Difficulty Homeostasis From Control Theory Perspective**|H. Mozaffari et.al.|[2510.16247](http://arxiv.org/abs/2510.16247)|null|
 |**2025-10-16**|**Requirement Identification for Traffic Simulations in Driving Simulators**|Sven Tarlowski et.al.|[2510.14653](http://arxiv.org/abs/2510.14653)|null|
 |**2025-10-16**|**A Physics Prior-Guided Dual-Stream Attention Network for Motion Prediction of Elastic Bragg Breakwaters**|Lianzi Jiang et.al.|[2510.14250](http://arxiv.org/abs/2510.14250)|null|
@@ -2825,12 +2838,13 @@
 |**2025-01-27**|**LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models**|Yuewen Mei et.al.|[2501.15850](http://arxiv.org/abs/2501.15850)|null|
 |**2025-01-24**|**A Data-driven Dynamic Temporal Correlation Modeling Framework for Renewable Energy Scenario Generation**|Xiaochong Dong et.al.|[2501.14233](http://arxiv.org/abs/2501.14233)|null|
 
-<p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
 
 ## Perception
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-28**|**MIC-BEV: Multi-Infrastructure Camera Bird's-Eye-View Transformer with Relation-Aware Fusion for 3D Object Detection**|Yun Zhang et.al.|[2510.24688](http://arxiv.org/abs/2510.24688)|null|
 |**2025-10-23**|**Physics-Guided Fusion for Robust 3D Tracking of Fast Moving Small Objects**|Prithvi Raj Singh et.al.|[2510.20126](http://arxiv.org/abs/2510.20126)|null|
 |**2025-10-21**|**CrossRay3D: Geometry and Distribution Guidance for Efficient Multimodal 3D Detection**|Huiming Yang et.al.|[2510.15991](http://arxiv.org/abs/2510.15991)|null|
 |**2025-10-17**|**FreqPDE: Rethinking Positional Depth Embedding for Multi-View 3D Object Detection Transformers**|Haisheng Su et.al.|[2510.15385](http://arxiv.org/abs/2510.15385)|null|
@@ -3037,7 +3051,7 @@
 |**2025-01-07**|**GUPNet++: Geometry Uncertainty Propagation Network for Monocular 3D Object Detection**|Yan Lu et.al.|[2310.15624](http://arxiv.org/abs/2310.15624)|null|
 |**2023-12-25**|**Towards Generalizable Multi-Camera 3D Object Detection via Perspective Debiasing**|Hao Lu et.al.|[2310.11346](http://arxiv.org/abs/2310.11346)|null|
 
-<p align=right>(<a href=#updated-on-20251029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
