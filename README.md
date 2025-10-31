@@ -1,4 +1,4 @@
-## Updated on 2025.10.30
+## Updated on 2025.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-29**|**Collision avoidance and path finding in a robotic mobile fulfillment system using multi-objective meta-heuristics**|Ahmad Kokhahi et.al.|[2510.25650](http://arxiv.org/abs/2510.25650)|null|
+|**2025-10-29**|**Using VLM Reasoning to Constrain Task and Motion Planning**|Muyang Yan et.al.|[2510.25548](http://arxiv.org/abs/2510.25548)|null|
+|**2025-10-29**|**Tight Collision Avoidance for Stochastic Optimal Control: with Applications in Learning-based, Interactive Motion Planning**|Erik Börve et.al.|[2510.25324](http://arxiv.org/abs/2510.25324)|null|
+|**2025-10-29**|**Time-Optimal Transport of Loosely Placed Liquid Filled Cups along Prescribed Paths**|Klaus Zauner et.al.|[2510.25255](http://arxiv.org/abs/2510.25255)|null|
+|**2025-10-28**|**Defect Mitigation for Robot Arm-based Additive Manufacturing Utilizing Intelligent Control and IOT**|Matsive Ali et.al.|[2510.24994](http://arxiv.org/abs/2510.24994)|null|
+|**2025-10-28**|**Smooth path planning with safety margins using Piece-Wise Bezier curves**|Iancu Andrei et.al.|[2510.24972](http://arxiv.org/abs/2510.24972)|null|
 |**2025-10-28**|**Flatness-based trajectory planning for 3D overhead cranes with friction compensation and collision avoidance**|Jorge Vicente-Martinez et.al.|[2510.24457](http://arxiv.org/abs/2510.24457)|null|
 |**2025-10-28**|**UniPlanner: A Unified Motion Planning Framework for Autonomous Vehicle Decision-Making Systems via Multi-Dataset Integration**|Xin Yang et.al.|[2510.24166](http://arxiv.org/abs/2510.24166)|null|
 |**2025-10-27**|**Decentralized Multi-Agent Goal Assignment for Path Planning using Large Language Models**|Murad Ismayilov et.al.|[2510.23824](http://arxiv.org/abs/2510.23824)|null|
@@ -925,7 +931,7 @@
 |**2025-02-13**|**Real-Time Fast Marching Tree for Mobile Robot Motion Planning in Dynamic Environments**|Jefferson Silveira et.al.|[2502.09556](http://arxiv.org/abs/2502.09556)|null|
 |**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393](http://arxiv.org/abs/2502.09393)|null|
 
-<p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251031>back to top</a>)</p>
 
 ## Prediction
 
@@ -1270,12 +1276,19 @@
 |**2025-02-07**|**The $α$ -Alternator: Dynamic Adaptation To Varying Noise Levels In Sequences Using The Vendi Score For Improved Robustness and Performance**|Mohammad Reza Rezaei et.al.|[2502.04593](http://arxiv.org/abs/2502.04593)|null|
 |**2025-02-05**|**Predicting 3D Motion from 2D Video for Behavior-Based VR Biometrics**|Mingjun Li et.al.|[2502.04361](http://arxiv.org/abs/2502.04361)|null|
 
-<p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251031>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-29**|**Integrating Legal and Logical Specifications in Perception, Prediction, and Planning for Automated Driving: A Survey of Methods**|Kumar Manas et.al.|[2510.25386](http://arxiv.org/abs/2510.25386)|null|
+|**2025-10-30**|**MMEdge: Accelerating On-device Multimodal Inference via Pipelined Sensing and Encoding**|Runxi Huang et.al.|[2510.25327](http://arxiv.org/abs/2510.25327)|null|
+|**2025-10-29**|**Tight Collision Avoidance for Stochastic Optimal Control: with Applications in Learning-based, Interactive Motion Planning**|Erik Börve et.al.|[2510.25324](http://arxiv.org/abs/2510.25324)|null|
+|**2025-10-29**|**Energy-Efficient Autonomous Driving with Adaptive Perception and Robust Decision**|Yuyang Xia et.al.|[2510.25205](http://arxiv.org/abs/2510.25205)|null|
+|**2025-10-29**|**$D^2GS$ : Dense Depth Regularization for LiDAR-free Urban Scene Reconstruction**|Kejing Xia et.al.|[2510.25173](http://arxiv.org/abs/2510.25173)|null|
+|**2025-10-28**|**SCOUT: A Lightweight Framework for Scenario Coverage Assessment in Autonomous Driving**|Anil Yildiz et.al.|[2510.24949](http://arxiv.org/abs/2510.24949)|null|
+|**2025-10-28**|**Delay Tolerant Control for Autonomous Driving Using CDOB**|Xincheng Cao et.al.|[2510.24898](http://arxiv.org/abs/2510.24898)|null|
 |**2025-10-28**|**Learning to Drive Safely with Hybrid Options**|Bram De Cooman et.al.|[2510.24674](http://arxiv.org/abs/2510.24674)|null|
 |**2025-10-28**|**UniPlanner: A Unified Motion Planning Framework for Autonomous Vehicle Decision-Making Systems via Multi-Dataset Integration**|Xin Yang et.al.|[2510.24166](http://arxiv.org/abs/2510.24166)|null|
 |**2025-10-28**|**Enhancing Vision-Language Models for Autonomous Driving through Task-Specific Prompting and Spatial Reasoning**|Aodi Wu et.al.|[2510.24152](http://arxiv.org/abs/2510.24152)|null|
@@ -2637,12 +2650,13 @@
 |**2025-02-19**|**MEX: Memory-efficient Approach to Referring Multi-Object Tracking**|Huu-Thien Tran et.al.|[2502.13875](http://arxiv.org/abs/2502.13875)|null|
 |**2025-02-19**|**The NavINST Dataset for Multi-Sensor Autonomous Navigation**|Paulo Ricardo Marques de Araujo et.al.|[2502.13863](http://arxiv.org/abs/2502.13863)|null|
 
-<p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251031>back to top</a>)</p>
 
 ## Simulation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-29**|**AgentCyTE: Leveraging Agentic AI to Generate Cybersecurity Training & Experimentation Scenarios**|Ana M. Rodriguez et.al.|[2510.25189](http://arxiv.org/abs/2510.25189)|null|
 |**2025-10-28**|**Multi-Agent Scenario Generation in Roundabouts with a Transformer-enhanced Conditional Variational Autoencoder**|Li Li et.al.|[2510.24671](http://arxiv.org/abs/2510.24671)|null|
 |**2025-10-28**|**SynAD: Enhancing Real-World End-to-End Autonomous Driving Models through Synthetic Data Integration**|Jongsuk Kim et.al.|[2510.24052](http://arxiv.org/abs/2510.24052)|null|
 |**2025-10-27**|**Robust Extensible Bin Packing and Revisiting the Convex Knapsack Problem**|Noam Goldberg et.al.|[2510.23765](http://arxiv.org/abs/2510.23765)|null|
@@ -2838,7 +2852,7 @@
 |**2025-01-27**|**LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models**|Yuewen Mei et.al.|[2501.15850](http://arxiv.org/abs/2501.15850)|null|
 |**2025-01-24**|**A Data-driven Dynamic Temporal Correlation Modeling Framework for Renewable Energy Scenario Generation**|Xiaochong Dong et.al.|[2501.14233](http://arxiv.org/abs/2501.14233)|null|
 
-<p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251031>back to top</a>)</p>
 
 ## Perception
 
@@ -3051,7 +3065,7 @@
 |**2025-01-07**|**GUPNet++: Geometry Uncertainty Propagation Network for Monocular 3D Object Detection**|Yan Lu et.al.|[2310.15624](http://arxiv.org/abs/2310.15624)|null|
 |**2023-12-25**|**Towards Generalizable Multi-Camera 3D Object Detection via Perspective Debiasing**|Hao Lu et.al.|[2310.11346](http://arxiv.org/abs/2310.11346)|null|
 
-<p align=right>(<a href=#updated-on-20251030>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251031>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
