@@ -1,4 +1,4 @@
-## Updated on 2025.11.07
+## Updated on 2025.11.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,6 +16,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-06**|**DR. WELL: Dynamic Reasoning and Learning with Symbolic World Model for Embodied LLM-Based Multi-Agent Collaboration**|Narjes Nourzad et.al.|[2511.04646](http://arxiv.org/abs/2511.04646)|null|
 |**2025-11-05**|**Motion Planning Under Temporal Logic Specifications In Semantically Unknown Environments**|Azizollah Taheri et.al.|[2511.03652](http://arxiv.org/abs/2511.03652)|null|
 |**2025-11-05**|**Flying Robotics Art: ROS-based Drone Draws the Record-Breaking Mural**|Andrei A. Korigodskii et.al.|[2511.03651](http://arxiv.org/abs/2511.03651)|null|
 |**2025-11-05**|**Generalized k-Cell Decomposition for Visibility Planning in Polygons**|Yeganeh Bahoo et.al.|[2511.03642](http://arxiv.org/abs/2511.03642)|null|
@@ -951,7 +952,7 @@
 |**2025-02-13**|**Real-Time Fast Marching Tree for Mobile Robot Motion Planning in Dynamic Environments**|Jefferson Silveira et.al.|[2502.09556](http://arxiv.org/abs/2502.09556)|null|
 |**2025-02-13**|**Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning**|Shay Snyder et.al.|[2502.09393](http://arxiv.org/abs/2502.09393)|null|
 
-<p align=right>(<a href=#updated-on-20251107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251108>back to top</a>)</p>
 
 ## Prediction
 
@@ -1302,12 +1303,18 @@
 |**2025-02-07**|**The $α$ -Alternator: Dynamic Adaptation To Varying Noise Levels In Sequences Using The Vendi Score For Improved Robustness and Performance**|Mohammad Reza Rezaei et.al.|[2502.04593](http://arxiv.org/abs/2502.04593)|null|
 |**2025-02-05**|**Predicting 3D Motion from 2D Video for Behavior-Based VR Biometrics**|Mingjun Li et.al.|[2502.04361](http://arxiv.org/abs/2502.04361)|null|
 
-<p align=right>(<a href=#updated-on-20251107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251108>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-06**|**SAFe-Copilot: Unified Shared Autonomy Framework**|Phat Nguyen et.al.|[2511.04664](http://arxiv.org/abs/2511.04664)|null|
+|**2025-11-06**|**UniSplat: Unified Spatio-Temporal Fusion via 3D Latent Scaffolds for Dynamic Driving Scene Reconstruction**|Chen Shi et.al.|[2511.04595](http://arxiv.org/abs/2511.04595)|null|
+|**2025-11-06**|**Studying the Effect of Explicit Interaction Representations on Learning Scene-level Distributions of Human Trajectories**|Anna Mészáros et.al.|[2511.04375](http://arxiv.org/abs/2511.04375)|null|
+|**2025-11-06**|**A Tool for Benchmarking Large Language Models' Robustness in Assessing the Realism of Driving Scenarios**|Jiahui Wu et.al.|[2511.04267](http://arxiv.org/abs/2511.04267)|null|
+|**2025-11-06**|**ScaleDL: Towards Scalable and Efficient Runtime Prediction for Distributed Deep Learning Workloads**|Xiaokai Wang et.al.|[2511.04162](http://arxiv.org/abs/2511.04162)|null|
+|**2025-11-05**|**QSAFE-V: Quantum-Enhanced Lightweight Authentication Protocol Design for Vehicular Tactile Wireless Networks**|Shakil Ahmed et.al.|[2511.03850](http://arxiv.org/abs/2511.03850)|null|
 |**2025-11-05**|**Modeling Headway in Heterogeneous and Mixed Traffic Flow: A Statistical Distribution Based on a General Exponential Function**|Natchaphon Leungbootnak et.al.|[2511.03154](http://arxiv.org/abs/2511.03154)|null|
 |**2025-11-05**|**Who Sees the Risk? Stakeholder Conflicts and Explanatory Policies in LLM-based Risk Assessment**|Srishti Yadav et.al.|[2511.03152](http://arxiv.org/abs/2511.03152)|null|
 |**2025-11-04**|**Comprehensive Assessment of LiDAR Evaluation Metrics: A Comparative Study Using Simulated and Real Data**|Syed Mostaquim Ali et.al.|[2511.02994](http://arxiv.org/abs/2511.02994)|null|
@@ -2706,12 +2713,14 @@
 |**2025-02-19**|**MEX: Memory-efficient Approach to Referring Multi-Object Tracking**|Huu-Thien Tran et.al.|[2502.13875](http://arxiv.org/abs/2502.13875)|null|
 |**2025-02-19**|**The NavINST Dataset for Multi-Sensor Autonomous Navigation**|Paulo Ricardo Marques de Araujo et.al.|[2502.13863](http://arxiv.org/abs/2502.13863)|null|
 
-<p align=right>(<a href=#updated-on-20251107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251108>back to top</a>)</p>
 
 ## Simulation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-06**|**A Tool for Benchmarking Large Language Models' Robustness in Assessing the Realism of Driving Scenarios**|Jiahui Wu et.al.|[2511.04267](http://arxiv.org/abs/2511.04267)|null|
+|**2025-10-30**|**A Model-Based Approach to Automated Digital Twin Generation in Manufacturing**|Angelos Alexopoulos et.al.|[2511.03742](http://arxiv.org/abs/2511.03742)|null|
 |**2025-11-03**|**Driving scenario generation and evaluation using a structured layer representation and foundational models**|Arthur Hubert et.al.|[2511.01541](http://arxiv.org/abs/2511.01541)|null|
 |**2025-11-03**|**Luminance-Aware Statistical Quantization: Unsupervised Hierarchical Learning for Illumination Enhancement**|Derong Kong et.al.|[2511.01510](http://arxiv.org/abs/2511.01510)|null|
 |**2025-10-29**|**AgentCyTE: Leveraging Agentic AI to Generate Cybersecurity Training & Experimentation Scenarios**|Ana M. Rodriguez et.al.|[2510.25189](http://arxiv.org/abs/2510.25189)|null|
@@ -2910,12 +2919,13 @@
 |**2025-01-27**|**LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models**|Yuewen Mei et.al.|[2501.15850](http://arxiv.org/abs/2501.15850)|null|
 |**2025-01-24**|**A Data-driven Dynamic Temporal Correlation Modeling Framework for Renewable Energy Scenario Generation**|Xiaochong Dong et.al.|[2501.14233](http://arxiv.org/abs/2501.14233)|null|
 
-<p align=right>(<a href=#updated-on-20251107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251108>back to top</a>)</p>
 
 ## Perception
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-06**|**Evaluating the Impact of Weather-Induced Sensor Occlusion on BEVFusion for 3D Object Detection**|Sanjay Kumar et.al.|[2511.04347](http://arxiv.org/abs/2511.04347)|null|
 |**2025-10-31**|**M^3Detection: Multi-Frame Multi-Level Feature Fusion for Multi-Modal 3D Object Detection with Camera and 4D Imaging Radar**|Xiaozhi Li et.al.|[2510.27166](http://arxiv.org/abs/2510.27166)|null|
 |**2025-10-28**|**MIC-BEV: Multi-Infrastructure Camera Bird's-Eye-View Transformer with Relation-Aware Fusion for 3D Object Detection**|Yun Zhang et.al.|[2510.24688](http://arxiv.org/abs/2510.24688)|null|
 |**2025-10-23**|**Physics-Guided Fusion for Robust 3D Tracking of Fast Moving Small Objects**|Prithvi Raj Singh et.al.|[2510.20126](http://arxiv.org/abs/2510.20126)|null|
@@ -3124,7 +3134,7 @@
 |**2025-01-07**|**GUPNet++: Geometry Uncertainty Propagation Network for Monocular 3D Object Detection**|Yan Lu et.al.|[2310.15624](http://arxiv.org/abs/2310.15624)|null|
 |**2023-12-25**|**Towards Generalizable Multi-Camera 3D Object Detection via Perspective Debiasing**|Hao Lu et.al.|[2310.11346](http://arxiv.org/abs/2310.11346)|null|
 
-<p align=right>(<a href=#updated-on-20251107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251108>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
