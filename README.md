@@ -1,4 +1,4 @@
-## Updated on 2025.11.30
+## Updated on 2025.12.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-27**|**Deadlock-Free Hybrid RL-MAPF Framework for Zero-Shot Multi-Robot Navigation**|Haoyi Wang et.al.|[2511.22685](http://arxiv.org/abs/2511.22685)|null|
+|**2025-11-27**|**MG-Nav: Dual-Scale Visual Navigation via Sparse Spatial Memory**|Bo Wang et.al.|[2511.22609](http://arxiv.org/abs/2511.22609)|null|
+|**2025-11-27**|**CoT4AD: A Vision-Language-Action Model with Explicit Chain-of-Thought Reasoning for Autonomous Driving**|Zhaohui Wang et.al.|[2511.22532](http://arxiv.org/abs/2511.22532)|null|
+|**2025-11-27**|**Nonholonomic Narrow Dead-End Escape with Deep Reinforcement Learning**|Denghan Xiong et.al.|[2511.22338](http://arxiv.org/abs/2511.22338)|null|
+|**2025-11-27**|**Tracing Footsteps of Similar Cities: Modeling Urban Economic Vitality with Dynamic Inter-City Graph Embeddings**|Xiaofeng Li et.al.|[2511.22325](http://arxiv.org/abs/2511.22325)|null|
+|**2025-11-27**|**MTR-VP: Towards End-to-End Trajectory Planning through Context-Driven Image Encoding and Multiple Trajectory Prediction**|Maitrayee Keskar et.al.|[2511.22181](http://arxiv.org/abs/2511.22181)|null|
+|**2025-11-27**|**Model Predictive Path Planning in Navier-Stokes Flow with POD-Based Reduced-Order Models**|Adam Waterman et.al.|[2511.22123](http://arxiv.org/abs/2511.22123)|null|
+|**2025-11-27**|**SwordRiding: A Unified Navigation Framework for Quadrotors in Unknown Complex Environments via Online Guiding Vector Fields**|Xuchen Liu et.al.|[2511.22043](http://arxiv.org/abs/2511.22043)|null|
+|**2025-11-26**|**RSPECT: Robust and Scalable Planner for Energy-Aware Coordination of UAV-UGV Teams in Aerial Monitoring**|Cahit Ikbal Er et.al.|[2511.21957](http://arxiv.org/abs/2511.21957)|null|
+|**2025-11-26**|**Secure Command, Control and Communications Systems (C3) for Army UxVs**|T. Rebolo et.al.|[2511.21936](http://arxiv.org/abs/2511.21936)|null|
+|**2025-11-26**|**Bridging Planning and Execution: Multi-Agent Path Finding Under Real-World Deadlines**|Jingtian Yan et.al.|[2511.21886](http://arxiv.org/abs/2511.21886)|null|
+|**2025-11-26**|**Automated Enumeration of Reconfigurable Architectures for Thermal Management Systems in Battery Electric Vehicles**|Reihaneh Jahedan et.al.|[2511.21855](http://arxiv.org/abs/2511.21855)|null|
 |**2025-11-26**|**Aligning LLMs Toward Multi-Turn Conversational Outcomes Using Iterative PPO**|Daniel R. Jiang et.al.|[2511.21638](http://arxiv.org/abs/2511.21638)|null|
 |**2025-11-26**|**AerialMind: Towards Referring Multi-Object Tracking in UAV Scenarios**|Chenglizhao Chen et.al.|[2511.21053](http://arxiv.org/abs/2511.21053)|null|
 |**2025-11-26**|**LOOM: Personalized Learning Informed by Daily LLM Conversations Toward Long-Term Mastery via a Dynamic Learner Memory Graph**|Justin Cui et.al.|[2511.21037](http://arxiv.org/abs/2511.21037)|null|
@@ -1102,12 +1114,15 @@
 |**2018-05-28**|**A Data-Driven Approach for Autonomous Motion Planning and Control in Off-Road Driving Scenarios**|Hossein Rastgoftar et.al.|[1805.09951](http://arxiv.org/abs/1805.09951)|null|
 |**2015-04-30**|**Planning for Optimal Feedback Control in the Volume of Free Space**|Dmitry Yershov et.al.|[1504.07940](http://arxiv.org/abs/1504.07940)|null|
 
-<p align=right>(<a href=#updated-on-20251130>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251201>back to top</a>)</p>
 
 ## End-to-end Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-27**|**CoT4AD: A Vision-Language-Action Model with Explicit Chain-of-Thought Reasoning for Autonomous Driving**|Zhaohui Wang et.al.|[2511.22532](http://arxiv.org/abs/2511.22532)|null|
+|**2025-11-27**|**HybridWorldSim: A Scalable and Controllable High-fidelity Simulator for Autonomous Driving**|Qiang Li et.al.|[2511.22187](http://arxiv.org/abs/2511.22187)|null|
+|**2025-11-27**|**MTR-VP: Towards End-to-End Trajectory Planning through Context-Driven Image Encoding and Multiple Trajectory Prediction**|Maitrayee Keskar et.al.|[2511.22181](http://arxiv.org/abs/2511.22181)|null|
 |**2025-11-26**|**Model-Based Policy Adaptation for Closed-Loop End-to-End Autonomous Driving**|Haohong Lin et.al.|[2511.21584](http://arxiv.org/abs/2511.21584)|null|
 |**2025-11-26**|**LaGen: Towards Autoregressive LiDAR Scene Generation**|Sizhuo Zhou et.al.|[2511.21256](http://arxiv.org/abs/2511.21256)|null|
 |**2025-11-25**|**Accelerating Sparse Convolutions in Voxel-Based Point Cloud Networks**|Dionysios Adamopoulos et.al.|[2511.20834](http://arxiv.org/abs/2511.20834)|null|
@@ -1165,12 +1180,27 @@
 |**2020-06-08**|**Explaining Autonomous Driving by Learning End-to-End Visual Attention**|Luca Cultrera et.al.|[2006.03347](http://arxiv.org/abs/2006.03347)|null|
 |**2020-10-27**|**Multimodal End-to-End Autonomous Driving**|Yi Xiao et.al.|[1906.03199](http://arxiv.org/abs/1906.03199)|null|
 
-<p align=right>(<a href=#updated-on-20251130>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251201>back to top</a>)</p>
 
 ## Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-27**|**U Net LSTM with incremental time-stepping for robust long-horizon unsteady flow prediction**|Blaise Madiega et.al.|[2511.22730](http://arxiv.org/abs/2511.22730)|null|
+|**2025-11-27**|**Tetrahedral Core in a Sea of Competing Magnetic Phases in Graphene**|Maxime Lucas et.al.|[2511.22714](http://arxiv.org/abs/2511.22714)|null|
+|**2025-11-27**|**CoFiRec: Coarse-to-Fine Tokenization for Generative Recommendation**|Tianxin Wei et.al.|[2511.22707](http://arxiv.org/abs/2511.22707)|null|
+|**2025-11-27**|**RG studies of scalar-field models of long-range interactions**|Alfio M. Bonanno et.al.|[2511.22666](http://arxiv.org/abs/2511.22666)|null|
+|**2025-11-27**|**Anomalous scaling and phase transition in large deviations of dynamical observables of stationary Gaussian processes**|Alexander Valov et.al.|[2511.22622](http://arxiv.org/abs/2511.22622)|null|
+|**2025-11-27**|**Short-range production of three bottom mesons**|Yong-Hui Lin et.al.|[2511.22590](http://arxiv.org/abs/2511.22590)|null|
+|**2025-11-27**|**Nucleation of magnetic skyrmions on curvilinear surfaces using local magnetic fields**|Sabri Koraltan et.al.|[2511.22557](http://arxiv.org/abs/2511.22557)|null|
+|**2025-11-27**|**CoT4AD: A Vision-Language-Action Model with Explicit Chain-of-Thought Reasoning for Autonomous Driving**|Zhaohui Wang et.al.|[2511.22532](http://arxiv.org/abs/2511.22532)|null|
+|**2025-11-27**|**Learning the MPC objective function from human preferences**|Pablo Krupa et.al.|[2511.22502](http://arxiv.org/abs/2511.22502)|null|
+|**2025-11-27**|**Improving Spatio-temporal Gaussian Process Modeling with Vecchia Approximation: A Low-Cost Sensor-Driven Approach to Urban Environmental Monitoring**|Yacine Mohamed Idir et.al.|[2511.22500](http://arxiv.org/abs/2511.22500)|null|
+|**2025-11-27**|**Unraveling the effect of rotation on the confinement/deconfinement transition of the quark-gluon plasma**|Nelson R. F. Braga et.al.|[2511.22464](http://arxiv.org/abs/2511.22464)|null|
+|**2025-11-27**|**UAV-MM3D: A Large-Scale Synthetic Benchmark for 3D Perception of Unmanned Aerial Vehicles with Multi-Modal Data**|Longkun Zou et.al.|[2511.22404](http://arxiv.org/abs/2511.22404)|null|
+|**2025-11-27**|**FADiff: Fusion-Aware Differentiable Optimization for DNN Scheduling on Tensor Accelerators**|Shuao Jia et.al.|[2511.22348](http://arxiv.org/abs/2511.22348)|null|
+|**2025-11-27**|**Tracing Footsteps of Similar Cities: Modeling Urban Economic Vitality with Dynamic Inter-City Graph Embeddings**|Xiaofeng Li et.al.|[2511.22325](http://arxiv.org/abs/2511.22325)|null|
+|**2025-11-27**|**RecToM: A Benchmark for Evaluating Machine Theory of Mind in LLM-based Conversational Recommender Systems**|Mengfan Li et.al.|[2511.22275](http://arxiv.org/abs/2511.22275)|null|
 |**2025-11-26**|**TraceGen: World Modeling in 3D Trace Space Enables Learning from Cross-Embodiment Videos**|Seungjae Lee et.al.|[2511.21690](http://arxiv.org/abs/2511.21690)|null|
 |**2025-11-26**|**Model-Based Policy Adaptation for Closed-Loop End-to-End Autonomous Driving**|Haohong Lin et.al.|[2511.21584](http://arxiv.org/abs/2511.21584)|null|
 |**2025-11-26**|**Quantum Latent Gauge and Coherence Selective Forces**|Ridha Horchani et.al.|[2511.21576](http://arxiv.org/abs/2511.21576)|null|
@@ -1676,12 +1706,24 @@
 |**2021-01-19**|**PiP: Planning-informed Trajectory Prediction for Autonomous Driving**|Haoran Song et.al.|[2003.11476](http://arxiv.org/abs/2003.11476)|null|
 |**2020-11-09**|**DROGON: A Trajectory Prediction Model based on Intention-Conditioned Behavior Reasoning**|Chiho Choi et.al.|[1908.00024](http://arxiv.org/abs/1908.00024)|null|
 
-<p align=right>(<a href=#updated-on-20251130>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251201>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-27**|**Active flow-driven DNA remodeling generates millimeter-scale mechanical oscillations**|Maya Levanon et.al.|[2511.22589](http://arxiv.org/abs/2511.22589)|null|
+|**2025-11-27**|**CoT4AD: A Vision-Language-Action Model with Explicit Chain-of-Thought Reasoning for Autonomous Driving**|Zhaohui Wang et.al.|[2511.22532](http://arxiv.org/abs/2511.22532)|null|
+|**2025-11-27**|**Motion-to-Motion Latency Measurement Framework for Connected and Autonomous Vehicle Teleoperation**|François Provost et.al.|[2511.22467](http://arxiv.org/abs/2511.22467)|null|
+|**2025-11-27**|**RoadSceneBench: A Lightweight Benchmark for Mid-Level Road Scene Understanding**|Xiyan Liu et.al.|[2511.22466](http://arxiv.org/abs/2511.22466)|null|
+|**2025-11-27**|**DriveVGGT: Visual Geometry Transformer for Autonomous Driving**|Xiaosong Jia et.al.|[2511.22264](http://arxiv.org/abs/2511.22264)|null|
+|**2025-11-27**|**HybridWorldSim: A Scalable and Controllable High-fidelity Simulator for Autonomous Driving**|Qiang Li et.al.|[2511.22187](http://arxiv.org/abs/2511.22187)|null|
+|**2025-11-27**|**MTR-VP: Towards End-to-End Trajectory Planning through Context-Driven Image Encoding and Multiple Trajectory Prediction**|Maitrayee Keskar et.al.|[2511.22181](http://arxiv.org/abs/2511.22181)|null|
+|**2025-11-27**|**SemOD: Semantic Enabled Object Detection Network under Various Weather Conditions**|Aiyinsi Zuo et.al.|[2511.22142](http://arxiv.org/abs/2511.22142)|null|
+|**2025-11-27**|**Aligning with Human Values to Enhance Interaction: An eHMI-Mediated Lane-Changing Negotiation Strategy Using Bayesian Inference**|Boyao Peng et.al.|[2511.22061](http://arxiv.org/abs/2511.22061)|null|
+|**2025-11-26**|**CTR Prediction on Alibaba's Taobao Advertising Dataset Using Traditional and Deep Learning Models**|Hongyu Yang et.al.|[2511.21963](http://arxiv.org/abs/2511.21963)|null|
+|**2025-11-26**|**Learning Neural Network Safe Tracking Controllers from Backward Reachable Sets**|Yuezhu Xu et.al.|[2511.21953](http://arxiv.org/abs/2511.21953)|null|
+|**2025-11-26**|**OpenTwinMap: An Open-Source Digital Twin Generator for Urban Autonomous Driving**|Alex Richardson et.al.|[2511.21925](http://arxiv.org/abs/2511.21925)|null|
 |**2025-11-26**|**Model-Based Policy Adaptation for Closed-Loop End-to-End Autonomous Driving**|Haohong Lin et.al.|[2511.21584](http://arxiv.org/abs/2511.21584)|null|
 |**2025-11-26**|**Dynamics of interacting bosons in a two-leg ring ladder with artificial magnetic flux and ac-driven modulations**|L. Q. Lai et.al.|[2511.21445](http://arxiv.org/abs/2511.21445)|null|
 |**2025-11-26**|**Improvement of Collision Avoidance in Cut-In Maneuvers Using Time-to-Collision Metrics**|Jamal Raiyn et.al.|[2511.21280](http://arxiv.org/abs/2511.21280)|null|
@@ -3226,12 +3268,27 @@
 |**2019-11-12**|**Multi-Agent Connected Autonomous Driving using Deep Reinforcement Learning**|Praveen Palanisamy et.al.|[1911.04175](http://arxiv.org/abs/1911.04175)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
 
-<p align=right>(<a href=#updated-on-20251130>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251201>back to top</a>)</p>
 
 ## Simulation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-27**|**Symmetric Mass Generation**|Anna Hasenfratz et.al.|[2511.22678](http://arxiv.org/abs/2511.22678)|null|
+|**2025-11-27**|**Extractions of the strong coupling from collider data without PDF refitting are biased**|Stefano Forte et.al.|[2511.22561](http://arxiv.org/abs/2511.22561)|null|
+|**2025-11-27**|**Anomalous double-layer restructuring in water-in-salt electrolytes at graphitic interfaces governs capacitance**|Hannah O. Wood et.al.|[2511.22540](http://arxiv.org/abs/2511.22540)|null|
+|**2025-11-27**|**CoT4AD: A Vision-Language-Action Model with Explicit Chain-of-Thought Reasoning for Autonomous Driving**|Zhaohui Wang et.al.|[2511.22532](http://arxiv.org/abs/2511.22532)|null|
+|**2025-11-27**|**Spiral excitation in protoplanetary disks through gap-edge illumination: Distinctive kinematic signatures in CO isotopologues**|Dhruv Muley et.al.|[2511.22527](http://arxiv.org/abs/2511.22527)|null|
+|**2025-11-27**|**Edge-Constrained Hamiltonian Paths on a Point Set**|Todor Antić et.al.|[2511.22526](http://arxiv.org/abs/2511.22526)|null|
+|**2025-11-27**|**Thermodynamics and Bouncing Cosmology in Rastall-like Gravity**|José A. C. Nogales et.al.|[2511.22501](http://arxiv.org/abs/2511.22501)|null|
+|**2025-11-27**|**Structured Extraction from Business Process Diagrams Using Vision-Language Models**|Pritam Deka et.al.|[2511.22448](http://arxiv.org/abs/2511.22448)|null|
+|**2025-11-27**|**Asking like Socrates: Socrates helps VLMs understand remote sensing images**|Run Shao et.al.|[2511.22396](http://arxiv.org/abs/2511.22396)|null|
+|**2025-11-27**|**Edge Deployment of Small Language Models, a comprehensive comparison of CPU, GPU and NPU backends**|Pablo Prieto et.al.|[2511.22334](http://arxiv.org/abs/2511.22334)|null|
+|**2025-11-27**|**GLA-Grad++: An Improved Griffin-Lim Guided Diffusion Model for Speech Synthesis**|Teysir Baoueb et.al.|[2511.22293](http://arxiv.org/abs/2511.22293)|null|
+|**2025-11-27**|**UCB for Large-Scale Pure Exploration: Beyond Sub-Gaussianity**|Zaile Li et.al.|[2511.22273](http://arxiv.org/abs/2511.22273)|null|
+|**2025-11-27**|**Can Protective Watermarking Safeguard the Copyright of 3D Gaussian Splatting?**|Wenkai Huang et.al.|[2511.22262](http://arxiv.org/abs/2511.22262)|null|
+|**2025-11-27**|**Co-Evolving Agents: Learning from Failures as Hard Negatives**|Yeonsung Jung et.al.|[2511.22254](http://arxiv.org/abs/2511.22254)|null|
+|**2025-11-27**|**From Compound Figures to Composite Understanding: Developing a Multi-Modal LLM from Biomedical Literature with Medical Multiple-Image Benchmarking and Validation**|Zhen Chen et.al.|[2511.22232](http://arxiv.org/abs/2511.22232)|null|
 |**2025-11-26**|**Canvas-to-Image: Compositional Image Generation with Multimodal Controls**|Yusuf Dalva et.al.|[2511.21691](http://arxiv.org/abs/2511.21691)|null|
 |**2025-11-26**|**Heterotic Black Holes in Duality-Invariant Formalism**|Upamanyu Moitra et.al.|[2511.21687](http://arxiv.org/abs/2511.21687)|null|
 |**2025-11-26**|**Matrix: Peer-to-Peer Multi-Agent Synthetic Data Generation Framework**|Dong Wang et.al.|[2511.21686](http://arxiv.org/abs/2511.21686)|null|
@@ -3589,14 +3646,18 @@
 |**2021-11-16**|**Towards Optimal Strategies for Training Self-Driving Perception Models in Simulation**|David Acuna et.al.|[2111.07971](http://arxiv.org/abs/2111.07971)|null|
 |**2020-07-08**|**Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously**|Mikita Sazanovich et.al.|[2007.03514](http://arxiv.org/abs/2007.03514)|null|
 
-<p align=right>(<a href=#updated-on-20251130>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251201>back to top</a>)</p>
 
 ## Perception
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-27**|**UAV-MM3D: A Large-Scale Synthetic Benchmark for 3D Perception of Unmanned Aerial Vehicles with Multi-Modal Data**|Longkun Zou et.al.|[2511.22404](http://arxiv.org/abs/2511.22404)|null|
+|**2025-11-27**|**BINDER: Instantly Adaptive Mobile Manipulation with Open-Vocabulary Commands**|Seongwon Cho et.al.|[2511.22364](http://arxiv.org/abs/2511.22364)|null|
+|**2025-11-27**|**Bridging 3D Deep Learning and Curation for Analysis and High-Quality Segmentation in Practice**|Simon Püttmann et.al.|[2511.22236](http://arxiv.org/abs/2511.22236)|null|
+|**2025-11-27**|**3D Affordance Keypoint Detection for Robotic Manipulation**|Zhiyang Liu et.al.|[2511.22195](http://arxiv.org/abs/2511.22195)|null|
 |**2025-11-26**|**Enhanced Landmark Detection Model in Pelvic Fluoroscopy using 2D/3D Registration Loss**|Chou Mo et.al.|[2511.21575](http://arxiv.org/abs/2511.21575)|null|
-|**2025-11-26**|**Quantifying the differences in transmission and emission spectra for hot irradiated gaseous exoplanet Atmospheres: A comparison of 1D and 3D modeling using JWST**|Rahul Arora et.al.|[2511.21454](http://arxiv.org/abs/2511.21454)|null|
+|**2025-11-27**|**Quantifying the differences in transmission and emission spectra for hot irradiated gaseous exoplanet atmospheres: A comparison of 1D and 3D modeling using JWST**|Rahul Arora et.al.|[2511.21454](http://arxiv.org/abs/2511.21454)|null|
 |**2025-11-26**|**AerialMind: Towards Referring Multi-Object Tracking in UAV Scenarios**|Chenglizhao Chen et.al.|[2511.21053](http://arxiv.org/abs/2511.21053)|null|
 |**2025-11-25**|**V $^{2}$ -SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence**|Jiancheng Pan et.al.|[2511.20886](http://arxiv.org/abs/2511.20886)|null|
 |**2025-11-25**|**RefTr: Recurrent Refinement of Confluent Trajectories for 3D Vascular Tree Centerline Graphs**|Roman Naeem et.al.|[2511.20823](http://arxiv.org/abs/2511.20823)|null|
@@ -3907,7 +3968,7 @@
 |**2021-08-11**|**Joint Multi-Object Detection and Tracking with Camera-LiDAR Fusion for Autonomous Driving**|Kemiao Huang et.al.|[2108.04602](http://arxiv.org/abs/2108.04602)|null|
 |**2021-07-13**|**CFTrack: Center-based Radar and Camera Fusion for 3D Multi-Object Tracking**|Ramin Nabati et.al.|[2107.05150](http://arxiv.org/abs/2107.05150)|null|
 
-<p align=right>(<a href=#updated-on-20251130>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251201>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
