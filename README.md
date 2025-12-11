@@ -1,4 +1,4 @@
-## Updated on 2025.12.10
+## Updated on 2025.12.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-10**|**YOPO-Nav: Visual Navigation using 3DGS Graphs from One-Pass Videos**|Ryan Meegan et.al.|[2512.09903](http://arxiv.org/abs/2512.09903)|null|
+|**2025-12-10**|**UniUGP: Unifying Understanding, Generation, and Planing For End-to-end Autonomous Driving**|Hao Lu et.al.|[2512.09864](http://arxiv.org/abs/2512.09864)|null|
 |**2025-12-09**|**Ergodic Trajectory Planning with Dynamic Sensor Footprints**|Ziyue Zheng et.al.|[2512.08661](http://arxiv.org/abs/2512.08661)|null|
 |**2025-12-09**|**High-Performance Dual-Arm Task and Motion Planning for Tabletop Rearrangement**|Duo Zhang et.al.|[2512.08206](http://arxiv.org/abs/2512.08206)|null|
 |**2025-12-08**|**DiffusionDriveV2: Reinforcement Learning-Constrained Truncated Diffusion Modeling in End-to-End Autonomous Driving**|Jialv Zou et.al.|[2512.07745](http://arxiv.org/abs/2512.07745)|null|
@@ -1199,12 +1201,14 @@
 |**2018-05-28**|**A Data-Driven Approach for Autonomous Motion Planning and Control in Off-Road Driving Scenarios**|Hossein Rastgoftar et.al.|[1805.09951](http://arxiv.org/abs/1805.09951)|null|
 |**2015-04-30**|**Planning for Optimal Feedback Control in the Volume of Free Space**|Dmitry Yershov et.al.|[1504.07940](http://arxiv.org/abs/1504.07940)|null|
 
-<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 ## End-to-end Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-10**|**UniUGP: Unifying Understanding, Generation, and Planing For End-to-end Autonomous Driving**|Hao Lu et.al.|[2512.09864](http://arxiv.org/abs/2512.09864)|null|
+|**2025-12-10**|**COVLM-RL: Critical Object-Oriented Reasoning for Autonomous Driving Using VLM-Guided Reinforcement Learning**|Lin Li et.al.|[2512.09349](http://arxiv.org/abs/2512.09349)|null|
 |**2025-12-08**|**DiffusionDriveV2: Reinforcement Learning-Constrained Truncated Diffusion Modeling in End-to-End Autonomous Driving**|Jialv Zou et.al.|[2512.07745](http://arxiv.org/abs/2512.07745)|null|
 |**2025-12-08**|**Mimir: Hierarchical Goal-Driven Diffusion with Uncertainty Propagation for End-to-End Autonomous Driving**|Zebin Xing et.al.|[2512.07130](http://arxiv.org/abs/2512.07130)|null|
 |**2025-12-05**|**WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving**|Yifang Xu et.al.|[2512.06112](http://arxiv.org/abs/2512.06112)|null|
@@ -1282,13 +1286,16 @@
 |**2020-06-08**|**Explaining Autonomous Driving by Learning End-to-End Visual Attention**|Luca Cultrera et.al.|[2006.03347](http://arxiv.org/abs/2006.03347)|null|
 |**2020-10-27**|**Multimodal End-to-End Autonomous Driving**|Yi Xiao et.al.|[1906.03199](http://arxiv.org/abs/1906.03199)|null|
 
-<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 ## Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-12-09**|**Mind to Hand: Purposeful Robotic Control via Embodied Reasoning**|Peijun Tang et.al.|[2512.08580](http://arxiv.org/abs/2512.08580)|null|
+|**2025-12-10**|**An Automated Tip-and-Cue Framework for Optimized Satellite Tasking and Visual Intelligence**|Gil Weissman et.al.|[2512.09670](http://arxiv.org/abs/2512.09670)|null|
+|**2025-12-10**|**KGOT: Unified Knowledge Graph and Optimal Transport Pseudo-Labeling for Molecule-Protein Interaction Prediction**|Jiayu Qin et.al.|[2512.09365](http://arxiv.org/abs/2512.09365)|null|
+|**2025-12-10**|**From Forecast to Action: Uncertainty-Aware UAV Deployment for Ocean Drifter Recovery**|Jingeun Kim et.al.|[2512.09260](http://arxiv.org/abs/2512.09260)|null|
+|**2025-12-10**|**Mind to Hand: Purposeful Robotic Control via Embodied Reasoning**|Peijun Tang et.al.|[2512.08580](http://arxiv.org/abs/2512.08580)|null|
 |**2025-12-08**|**The interstellar signature: A computational framework for open source interstellar tracking**|Pancha Narayan Sahu et.al.|[2512.07910](http://arxiv.org/abs/2512.07910)|null|
 |**2025-12-08**|**When Large Language Models Do Not Work: Online Incivility Prediction through Graph Neural Networks**|Zihan Chen et.al.|[2512.07684](http://arxiv.org/abs/2512.07684)|null|
 |**2025-12-05**|**Multi-Modal Zero-Shot Prediction of Color Trajectories in Food Drying**|Shichen Li et.al.|[2512.06190](http://arxiv.org/abs/2512.06190)|null|
@@ -1880,12 +1887,24 @@
 |**2021-01-19**|**PiP: Planning-informed Trajectory Prediction for Autonomous Driving**|Haoran Song et.al.|[2003.11476](http://arxiv.org/abs/2003.11476)|null|
 |**2020-11-09**|**DROGON: A Trajectory Prediction Model based on Intention-Conditioned Behavior Reasoning**|Chiho Choi et.al.|[1908.00024](http://arxiv.org/abs/1908.00024)|null|
 
-<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-10**|**UniUGP: Unifying Understanding, Generation, and Planing For End-to-end Autonomous Driving**|Hao Lu et.al.|[2512.09864](http://arxiv.org/abs/2512.09864)|null|
+|**2025-12-10**|**Damped Kinetic Alfvén Waves in Earth's Magnetosheath: Numerical Simulations and MMS Observations**|Mani K. Chettri et.al.|[2512.09828](http://arxiv.org/abs/2512.09828)|null|
+|**2025-12-10**|**M3Net: A Multi-Metric Mixture of Experts Network Digital Twin with Graph Neural Networks**|Blessed Guda et.al.|[2512.09797](http://arxiv.org/abs/2512.09797)|null|
+|**2025-12-10**|**Numerical simulations of astrophysical dynamos and applications to giant planets**|Albert Elias-López et.al.|[2512.09725](http://arxiv.org/abs/2512.09725)|null|
+|**2025-12-10**|**Breaking the Logarithmic Barrier: Activity-Induced Recovery of Phase Separation Dynamics in Confined Geometry**|Preethi M et.al.|[2512.09500](http://arxiv.org/abs/2512.09500)|null|
+|**2025-12-10**|**COVLM-RL: Critical Object-Oriented Reasoning for Autonomous Driving Using VLM-Guided Reinforcement Learning**|Lin Li et.al.|[2512.09349](http://arxiv.org/abs/2512.09349)|null|
+|**2025-12-10**|**Traffic Scene Small Target Detection Method Based on YOLOv8n-SPTS Model for Autonomous Driving**|Songhan Wu et.al.|[2512.09296](http://arxiv.org/abs/2512.09296)|null|
+|**2025-12-10**|**Auto-3DPFM: Automating Polarization-Vector Mapping at the Nanoscale**|Ralph Bulanadi et.al.|[2512.09249](http://arxiv.org/abs/2512.09249)|null|
+|**2025-12-09**|**Understanding Mental States in Active and Autonomous Driving with EEG**|Prithila Angkan et.al.|[2512.09190](http://arxiv.org/abs/2512.09190)|null|
+|**2025-12-09**|**Characterizing Human Feedback-Based Control in Naturalistic Driving Interactions via Gaussian Process Regression with Linear Feedback**|Rachel DiPirro et.al.|[2512.09097](http://arxiv.org/abs/2512.09097)|null|
+|**2025-12-09**|**Non-Equilibrium Thermodynamics of Black-Hole Coronae: QPOs, Turbulence, and Jets**|Vanessa López-Barquero et.al.|[2512.09026](http://arxiv.org/abs/2512.09026)|null|
+|**2025-12-09**|**Astra: General Interactive World Model with Autoregressive Denoising**|Yixuan Zhu et.al.|[2512.08931](http://arxiv.org/abs/2512.08931)|null|
 |**2025-12-09**|**The Two-Dimensional Structure of Circumplanetary Disks and their Radiative Signatures**|Aster G. Taylor et.al.|[2512.08610](http://arxiv.org/abs/2512.08610)|null|
 |**2025-12-09**|**A Multi-Agent LLM Framework for Design Space Exploration in Autonomous Driving Systems**|Po-An Shih et.al.|[2512.08476](http://arxiv.org/abs/2512.08476)|null|
 |**2025-12-09**|**Photon Phase-Space Dynamics in a Plasma Wakefield Accelerator**|Neil Beri et.al.|[2512.08295](http://arxiv.org/abs/2512.08295)|null|
@@ -3526,18 +3545,22 @@
 |**2019-11-12**|**Multi-Agent Connected Autonomous Driving using Deep Reinforcement Learning**|Praveen Palanisamy et.al.|[1911.04175](http://arxiv.org/abs/1911.04175)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
 
-<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 ## Simulation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-10**|**QSMnet-INR: Single-Orientation Quantitative Susceptibility Mapping via Implicit Neural Representation in k-Space**|Xuan Cai et.al.|[2512.09425](http://arxiv.org/abs/2512.09425)|null|
+|**2025-12-10**|**Intelligent Resilience Testing for Decision-Making Agents with Dual-Mode Surrogate Adaptation**|Jingxuan Yang et.al.|[2512.09372](http://arxiv.org/abs/2512.09372)|null|
+|**2025-12-10**|**Efficiency-Aware Computational Intelligence for Resource-Constrained Manufacturing Toward Edge-Ready Deployment**|Qianyu Zhou et.al.|[2512.09319](http://arxiv.org/abs/2512.09319)|null|
+|**2025-12-09**|**Characterizing Human Feedback-Based Control in Naturalistic Driving Interactions via Gaussian Process Regression with Linear Feedback**|Rachel DiPirro et.al.|[2512.09097](http://arxiv.org/abs/2512.09097)|null|
 |**2025-11-27**|**Controllable risk scenario generation from human crash data for autonomous vehicle testing**|Qiujing Lu et.al.|[2512.07874](http://arxiv.org/abs/2512.07874)|null|
 |**2025-12-05**|**Continuous operations on non-Markovian processes**|Fabio Costa et.al.|[2512.05884](http://arxiv.org/abs/2512.05884)|null|
 |**2025-12-05**|**Neural Coherence : Find higher performance to out-of-distribution tasks from few samples**|Simon Guiroy et.al.|[2512.05880](http://arxiv.org/abs/2512.05880)|null|
 |**2025-12-05**|**A Hybrid Dynamic Model for Predicting Human Cognition and Reliance during Automated Driving**|Sibibalan Jeevanandam et.al.|[2512.05845](http://arxiv.org/abs/2512.05845)|null|
 |**2025-12-05**|**Hadronic Emissions from the Microquasar V4641 Sgr, SS433, and its implications in the Diffuse Galactic Emission**|Basanti Paul et.al.|[2512.05839](http://arxiv.org/abs/2512.05839)|null|
-|**2025-12-05**|**Toward Efficient and Robust Behavior Models for Multi-Agent Driving Simulation**|Fabian Konstantinidis et.al.|[2512.05812](http://arxiv.org/abs/2512.05812)|null|
+|**2025-12-10**|**Toward Efficient and Robust Behavior Models for Multi-Agent Driving Simulation**|Fabian Konstantinidis et.al.|[2512.05812](http://arxiv.org/abs/2512.05812)|null|
 |**2025-12-05**|**Feasibility study for physics-informed direct numerical simulation describing particle suspension in high-loaded compartments of air-segmented flow**|Otto Mierka et.al.|[2512.05785](http://arxiv.org/abs/2512.05785)|null|
 |**2025-12-05**|**HQ-DM: Single Hadamard Transformation-Based Quantization-Aware Training for Low-Bit Diffusion Models**|Shizhuo Mao et.al.|[2512.05746](http://arxiv.org/abs/2512.05746)|null|
 |**2025-12-05**|**Domain Wall formation from $Z_2$ spontaneous symmetry breaking/restoration in Scalar-Einstein-Gauss-Bonnet theory**|Maxim Krasnov et.al.|[2512.05715](http://arxiv.org/abs/2512.05715)|null|
@@ -3977,7 +4000,7 @@
 |**2021-11-16**|**Towards Optimal Strategies for Training Self-Driving Perception Models in Simulation**|David Acuna et.al.|[2111.07971](http://arxiv.org/abs/2111.07971)|null|
 |**2020-07-08**|**Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously**|Mikita Sazanovich et.al.|[2007.03514](http://arxiv.org/abs/2007.03514)|null|
 
-<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 ## Perception
 
@@ -4347,7 +4370,7 @@
 |**2021-08-11**|**Joint Multi-Object Detection and Tracking with Camera-LiDAR Fusion for Autonomous Driving**|Kemiao Huang et.al.|[2108.04602](http://arxiv.org/abs/2108.04602)|null|
 |**2021-07-13**|**CFTrack: Center-based Radar and Camera Fusion for 3D Multi-Object Tracking**|Ramin Nabati et.al.|[2107.05150](http://arxiv.org/abs/2107.05150)|null|
 
-<p align=right>(<a href=#updated-on-20251210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251211>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
