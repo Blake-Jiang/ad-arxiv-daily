@@ -1,4 +1,4 @@
-## Updated on 2025.12.16
+## Updated on 2025.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-16**|**CoLD Fusion: A Real-time Capable Spline-based Fusion Algorithm for Collective Lane Detection**|Jörg Gamerdinger et.al.|[2512.14355](http://arxiv.org/abs/2512.14355)|null|
+|**2025-12-16**|**Vector Prism: Animating Vector Graphics by Stratifying Semantic Structure**|Jooyeol Yun et.al.|[2512.14336](http://arxiv.org/abs/2512.14336)|null|
+|**2025-12-16**|**Interactive Motion Planning for Human-Robot Collaboration Based on Human-Centric Configuration Space Ergonomic Field**|Chenzui Li et.al.|[2512.14111](http://arxiv.org/abs/2512.14111)|null|
+|**2025-12-15**|**Multi-Robot Motion Planning from Vision and Language using Heat-Inspired Diffusion**|Jebeom Chae et.al.|[2512.13090](http://arxiv.org/abs/2512.13090)|null|
+|**2025-12-15**|**Probability Estimation for Predicted-Occupancy Grids in Vehicle Safety Applications Based on Machine Learning**|Parthasarathy Nadarajan et.al.|[2512.12896](http://arxiv.org/abs/2512.12896)|null|
 |**2025-12-13**|**Unifying Quadrotor Motion Planning and Control by Chaining Different Fidelity Models**|Rudolf Reiter et.al.|[2512.12427](http://arxiv.org/abs/2512.12427)|null|
 |**2025-12-12**|**Modified Hybrid A* Collision-Free Path-Planning for Automated Reverse Parking**|Xincheng Cao et.al.|[2512.12021](http://arxiv.org/abs/2512.12021)|null|
 |**2025-12-12**|**A Review of Learning-Based Motion Planning: Toward a Data-Driven Optimal Control Approach**|Jia Hu et.al.|[2512.11944](http://arxiv.org/abs/2512.11944)|null|
@@ -1210,7 +1215,7 @@
 |**2018-05-28**|**A Data-Driven Approach for Autonomous Motion Planning and Control in Off-Road Driving Scenarios**|Hossein Rastgoftar et.al.|[1805.09951](http://arxiv.org/abs/1805.09951)|null|
 |**2015-04-30**|**Planning for Optimal Feedback Control in the Volume of Free Space**|Dmitry Yershov et.al.|[1504.07940](http://arxiv.org/abs/1504.07940)|null|
 
-<p align=right>(<a href=#updated-on-20251216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251217>back to top</a>)</p>
 
 ## End-to-end Driving
 
@@ -1301,7 +1306,7 @@
 |**2020-06-08**|**Explaining Autonomous Driving by Learning End-to-End Visual Attention**|Luca Cultrera et.al.|[2006.03347](http://arxiv.org/abs/2006.03347)|null|
 |**2020-10-27**|**Multimodal End-to-End Autonomous Driving**|Yi Xiao et.al.|[1906.03199](http://arxiv.org/abs/1906.03199)|null|
 
-<p align=right>(<a href=#updated-on-20251216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251217>back to top</a>)</p>
 
 ## Prediction
 
@@ -1905,12 +1910,27 @@
 |**2021-01-19**|**PiP: Planning-informed Trajectory Prediction for Autonomous Driving**|Haoran Song et.al.|[2003.11476](http://arxiv.org/abs/2003.11476)|null|
 |**2020-11-09**|**DROGON: A Trajectory Prediction Model based on Intention-Conditioned Behavior Reasoning**|Chiho Choi et.al.|[1908.00024](http://arxiv.org/abs/1908.00024)|null|
 
-<p align=right>(<a href=#updated-on-20251216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251217>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-16**|**The Dynamics of the Milky Way: Unveiling the 6D Skeleton of Star Formation in the 2040s**|Loredana Prisinzano et.al.|[2512.14606](http://arxiv.org/abs/2512.14606)|null|
+|**2025-12-16**|**Influence of ion motion in a resonantly driven wakefield accelerator**|Erwin Walter et.al.|[2512.14476](http://arxiv.org/abs/2512.14476)|null|
+|**2025-12-16**|**Chirp Delay-Doppler Domain Modulation Based Joint Communication and Radar for Autonomous Vehicles**|Zhuoran Li et.al.|[2512.14432](http://arxiv.org/abs/2512.14432)|null|
+|**2025-12-16**|**A Comprehensive Safety Metric to Evaluate Perception in Autonomous Systems**|Georg Volk et.al.|[2512.14367](http://arxiv.org/abs/2512.14367)|null|
+|**2025-12-16**|**CoLD Fusion: A Real-time Capable Spline-based Fusion Algorithm for Collective Lane Detection**|Jörg Gamerdinger et.al.|[2512.14355](http://arxiv.org/abs/2512.14355)|null|
+|**2025-12-16**|**Criminal Liability in AI-Enabled Autonomous Vehicles: A Comparative Study**|Sahibpreet Singh et.al.|[2512.14330](http://arxiv.org/abs/2512.14330)|null|
+|**2025-12-16**|**DriverGaze360: OmniDirectional Driver Attention with Object-Level Guidance**|Shreedhar Govil et.al.|[2512.14266](http://arxiv.org/abs/2512.14266)|null|
+|**2025-12-16**|**OmniGen: Unified Multimodal Sensor Generation for Autonomous Driving**|Tao Tang et.al.|[2512.14225](http://arxiv.org/abs/2512.14225)|null|
+|**2025-12-16**|**CIS-BA: Continuous Interaction Space Based Backdoor Attack for Object Detection in the Real-World**|Shuxin Zhao et.al.|[2512.14158](http://arxiv.org/abs/2512.14158)|null|
+|**2025-12-16**|**OmniDrive-R1: Reinforcement-driven Interleaved Multi-modal Chain-of-Thought for Trustworthy Vision-Language Autonomous Driving**|Zhenguo Zhang et.al.|[2512.14044](http://arxiv.org/abs/2512.14044)|null|
+|**2025-12-16**|**Self-sustained microcomb lasing in an integrated hybrid oscillator**|Bitao Shen et.al.|[2512.14005](http://arxiv.org/abs/2512.14005)|null|
+|**2025-12-16**|**FocalComm: Hard Instance-Aware Multi-Agent Perception**|Dereje Shenkut et.al.|[2512.13982](http://arxiv.org/abs/2512.13982)|null|
+|**2025-12-15**|**A Convex Obstacle Avoidance Formulation**|Ricardo Tapia et.al.|[2512.13836](http://arxiv.org/abs/2512.13836)|null|
+|**2025-12-16**|**MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning**|Haoyu Fu et.al.|[2512.13636](http://arxiv.org/abs/2512.13636)|null|
+|**2025-12-15**|**Post-Training and Test-Time Scaling of Generative Agent Behavior Models for Interactive Autonomous Driving**|Hyunki Seong et.al.|[2512.13262](http://arxiv.org/abs/2512.13262)|null|
 |**2025-12-14**|**High Order Control Lyapunov Function - Control Barrier Function - Quadratic Programming Based Autonomous Driving Controller for Bicyclist Safety**|Haochong Chen et.al.|[2512.12776](http://arxiv.org/abs/2512.12776)|null|
 |**2025-12-14**|**Designing The Drive: Enhancing User Experience through Adaptive Interfaces in Autonomous Vehicles**|Reeteesha Roy et.al.|[2512.12773](http://arxiv.org/abs/2512.12773)|null|
 |**2025-12-13**|**A Graph Attention Network-Based Framework for Reconstructing Missing LiDAR Beams**|Khalfalla Awedat et.al.|[2512.12410](http://arxiv.org/abs/2512.12410)|null|
@@ -3592,7 +3612,7 @@
 |**2019-11-12**|**Multi-Agent Connected Autonomous Driving using Deep Reinforcement Learning**|Praveen Palanisamy et.al.|[1911.04175](http://arxiv.org/abs/1911.04175)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
 
-<p align=right>(<a href=#updated-on-20251216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251217>back to top</a>)</p>
 
 ## Simulation
 
@@ -4047,12 +4067,15 @@
 |**2021-11-16**|**Towards Optimal Strategies for Training Self-Driving Perception Models in Simulation**|David Acuna et.al.|[2111.07971](http://arxiv.org/abs/2111.07971)|null|
 |**2020-07-08**|**Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously**|Mikita Sazanovich et.al.|[2007.03514](http://arxiv.org/abs/2007.03514)|null|
 
-<p align=right>(<a href=#updated-on-20251216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251217>back to top</a>)</p>
 
 ## Perception
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-16**|**TUMTraf EMOT: Event-Based Multi-Object Tracking Dataset and Baseline for Traffic Scenarios**|Mengyu Li et.al.|[2512.14595](http://arxiv.org/abs/2512.14595)|null|
+|**2025-12-15**|**Grab-3D: Detecting AI-Generated Videos from 3D Geometric Temporal Consistency**|Wenhan Chen et.al.|[2512.13665](http://arxiv.org/abs/2512.13665)|null|
+|**2025-12-15**|**LeafTrackNet: A Deep Learning Framework for Robust Leaf Tracking in Top-Down Plant Phenotyping**|Shanghua Liu et.al.|[2512.13130](http://arxiv.org/abs/2512.13130)|null|
 |**2025-12-13**|**INDOOR-LiDAR: Bridging Simulation and Reality for Robot-Centric 360 degree Indoor LiDAR Perception -- A Robot-Centric Hybrid Dataset**|Haichuan Li et.al.|[2512.12377](http://arxiv.org/abs/2512.12377)|null|
 |**2025-12-11**|**MeViS: A Multi-Modal Dataset for Referring Motion Expression Video Segmentation**|Henghui Ding et.al.|[2512.10945](http://arxiv.org/abs/2512.10945)|null|
 |**2025-12-09**|**FastBEV++: Fast by Algorithm, Deployable by Design**|Yuanpeng Chen et.al.|[2512.08237](http://arxiv.org/abs/2512.08237)|null|
@@ -4087,7 +4110,7 @@
 |**2025-12-03**|**COSMOS-3D: Two obscured X-ray AGNs with hot dust and He I $λ$ 10830 absorption at z~3**|Zi-Jian Li et.al.|[2512.02093](http://arxiv.org/abs/2512.02093)|null|
 |**2025-12-01**|**MV-TAP: Tracking Any Point in Multi-View Videos**|Jahyeok Koo et.al.|[2512.02006](http://arxiv.org/abs/2512.02006)|null|
 |**2025-12-01**|**Physical ID-Transfer Attacks against Multi-Object Tracking via Adversarial Trajectory**|Chenyi Wang et.al.|[2512.01934](http://arxiv.org/abs/2512.01934)|null|
-|**2025-12-01**|**TransientTrack: Advanced Multi-Object Tracking and Classification of Cancer Cells with Transient Fluorescent Signals**|Florian Bürger et.al.|[2512.01885](http://arxiv.org/abs/2512.01885)|null|
+|**2025-12-16**|**TransientTrack: Advanced Multi-Object Tracking and Classification of Cancer Cells with Transient Fluorescent Signals**|Florian Bürger et.al.|[2512.01885](http://arxiv.org/abs/2512.01885)|null|
 |**2025-12-01**|**BlinkBud: Detecting Hazards from Behind via Sampled Monocular 3D Detection on a Single Earbud**|Yunzhe Li et.al.|[2512.01366](http://arxiv.org/abs/2512.01366)|null|
 |**2025-11-30**|**REM: Evaluating LLM Embodied Spatial Reasoning through Multi-Frame Trajectories**|Jacob Thompson et.al.|[2512.00736](http://arxiv.org/abs/2512.00736)|null|
 |**2025-11-30**|**TrajDiff: End-to-end Autonomous Driving without Perception Annotation**|Xingtai Gui et.al.|[2512.00723](http://arxiv.org/abs/2512.00723)|null|
@@ -4419,7 +4442,7 @@
 |**2021-08-11**|**Joint Multi-Object Detection and Tracking with Camera-LiDAR Fusion for Autonomous Driving**|Kemiao Huang et.al.|[2108.04602](http://arxiv.org/abs/2108.04602)|null|
 |**2021-07-13**|**CFTrack: Center-based Radar and Camera Fusion for 3D Multi-Object Tracking**|Ramin Nabati et.al.|[2107.05150](http://arxiv.org/abs/2107.05150)|null|
 
-<p align=right>(<a href=#updated-on-20251216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251217>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
