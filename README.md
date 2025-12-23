@@ -1,4 +1,4 @@
-## Updated on 2025.12.22
+## Updated on 2025.12.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-21**|**Multimodal Classification Network Guided Trajectory Planning for Four-Wheel Independent Steering Autonomous Parking Considering Obstacle Attributes**|Jingjia Teng et.al.|[2512.18836](http://arxiv.org/abs/2512.18836)|null|
+|**2025-12-21**|**CauTraj: A Causal-Knowledge-Guided Framework for Lane-Changing Trajectory Planning of Autonomous Vehicles**|Cailin Lei et.al.|[2512.18703](http://arxiv.org/abs/2512.18703)|null|
+|**2025-12-21**|**Assignment-Routing Optimization: Solvers for Problems Under Constraints**|Yuan Qilong et.al.|[2512.18618](http://arxiv.org/abs/2512.18618)|null|
+|**2025-12-21**|**Trajectory Planning for UAV-Based Smart Farming Using Imitation-Based Triple Deep Q-Learning**|Wencan Mao et.al.|[2512.18604](http://arxiv.org/abs/2512.18604)|null|
+|**2025-12-21**|**EIA-SEC: Improved Actor-Critic Framework for Multi-UAV Collaborative Control in Smart Agriculture**|Quanxi Zhou et.al.|[2512.18596](http://arxiv.org/abs/2512.18596)|null|
+|**2025-12-20**|**MoE Pathfinder: Trajectory-driven Expert Pruning**|Xican Yang et.al.|[2512.18425](http://arxiv.org/abs/2512.18425)|null|
+|**2025-12-20**|**LLaViDA: A Large Language Vision Driving Assistant for Explicit Reasoning and Enhanced Trajectory Planning**|Yudong Liu et.al.|[2512.18211](http://arxiv.org/abs/2512.18211)|null|
 |**2025-12-19**|**AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning**|Ran Gong et.al.|[2512.17853](http://arxiv.org/abs/2512.17853)|null|
 |**2025-12-19**|**A Dual Quaternion based RRT* Path Planning Approach for Satellite Rendezvous and Docking**|Ana Stankovic et.al.|[2512.17680](http://arxiv.org/abs/2512.17680)|null|
 |**2025-12-19**|**Optimized Scheduling and Positioning of Mobile Manipulators in Collaborative Applications**|Christian Cella et.al.|[2512.17584](http://arxiv.org/abs/2512.17584)|null|
@@ -1222,12 +1229,13 @@
 |**2018-05-28**|**A Data-Driven Approach for Autonomous Motion Planning and Control in Off-Road Driving Scenarios**|Hossein Rastgoftar et.al.|[1805.09951](http://arxiv.org/abs/1805.09951)|null|
 |**2015-04-30**|**Planning for Optimal Feedback Control in the Volume of Free Space**|Dmitry Yershov et.al.|[1504.07940](http://arxiv.org/abs/1504.07940)|null|
 
-<p align=right>(<a href=#updated-on-20251222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251223>back to top</a>)</p>
 
 ## End-to-end Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-21**|**Offline Reinforcement Learning for End-to-End Autonomous Driving**|Chihiro Noguchi et.al.|[2512.18662](http://arxiv.org/abs/2512.18662)|null|
 |**2025-12-19**|**TakeAD: Preference-based Post-optimization for End-to-end Autonomous Driving with Expert Takeover Data**|Deqing Liu et.al.|[2512.17370](http://arxiv.org/abs/2512.17370)|null|
 |**2025-12-18**|**Driving in Corner Case: A Real-World Adversarial Closed-Loop Evaluation Platform for End-to-End Autonomous Driving**|Jiaheng Geng et.al.|[2512.16055](http://arxiv.org/abs/2512.16055)|null|
 |**2025-12-18**|**LADY: Linear Attention for Autonomous Driving Efficiency without Transformers**|Jihao Huang et.al.|[2512.15038](http://arxiv.org/abs/2512.15038)|null|
@@ -1316,12 +1324,13 @@
 |**2020-06-08**|**Explaining Autonomous Driving by Learning End-to-End Visual Attention**|Luca Cultrera et.al.|[2006.03347](http://arxiv.org/abs/2006.03347)|null|
 |**2020-10-27**|**Multimodal End-to-End Autonomous Driving**|Yi Xiao et.al.|[1906.03199](http://arxiv.org/abs/1906.03199)|null|
 
-<p align=right>(<a href=#updated-on-20251222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251223>back to top</a>)</p>
 
 ## Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-21**|**ShibuyaSocial: Multi-scale Model of Pedestrian Flows in Scramble Crossing**|Akihiro Sakurai et.al.|[2512.18550](http://arxiv.org/abs/2512.18550)|null|
 |**2025-12-19**|**Systemic Risk Radar: A Multi-Layer Graph Framework for Early Market Crash Warning**|Sandeep Neela et.al.|[2512.17185](http://arxiv.org/abs/2512.17185)|null|
 |**2025-12-18**|**Predictive Modeling of Maritime Radar Data Using Transformer Architecture**|Bjorna Qesaraku et.al.|[2512.17098](http://arxiv.org/abs/2512.17098)|null|
 |**2025-12-18**|**Flowing from Reasoning to Motion: Learning 3D Hand Trajectory Prediction from Egocentric Human Interaction Videos**|Mingfei Chen et.al.|[2512.16907](http://arxiv.org/abs/2512.16907)|null|
@@ -1924,12 +1933,24 @@
 |**2021-01-19**|**PiP: Planning-informed Trajectory Prediction for Autonomous Driving**|Haoran Song et.al.|[2003.11476](http://arxiv.org/abs/2003.11476)|null|
 |**2020-11-09**|**DROGON: A Trajectory Prediction Model based on Intention-Conditioned Behavior Reasoning**|Chiho Choi et.al.|[1908.00024](http://arxiv.org/abs/1908.00024)|null|
 
-<p align=right>(<a href=#updated-on-20251222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251223>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-21**|**CrashChat: A Multimodal Large Language Model for Multitask Traffic Crash Video Analysis**|Kaidi Liang et.al.|[2512.18878](http://arxiv.org/abs/2512.18878)|null|
+|**2025-12-21**|**InDRiVE: Reward-Free World-Model Pretraining for Autonomous Driving via Latent Disagreement**|Feeza Khan Khanzada et.al.|[2512.18850](http://arxiv.org/abs/2512.18850)|null|
+|**2025-12-21**|**Misbehavior Forecasting for Focused Autonomous Driving Systems Testing**|M M Abid Naziri et.al.|[2512.18823](http://arxiv.org/abs/2512.18823)|null|
+|**2025-12-21**|**CauTraj: A Causal-Knowledge-Guided Framework for Lane-Changing Trajectory Planning of Autonomous Vehicles**|Cailin Lei et.al.|[2512.18703](http://arxiv.org/abs/2512.18703)|null|
+|**2025-12-21**|**Offline Reinforcement Learning for End-to-End Autonomous Driving**|Chihiro Noguchi et.al.|[2512.18662](http://arxiv.org/abs/2512.18662)|null|
+|**2025-12-20**|**Systematic Benchmarking of SUMO Against Data-Driven Traffic Simulators**|Erdao Liang et.al.|[2512.18537](http://arxiv.org/abs/2512.18537)|null|
+|**2025-12-20**|**Prioritized Constraints in Optimization-Based Control**|Daniel Arnström et.al.|[2512.18458](http://arxiv.org/abs/2512.18458)|null|
+|**2025-12-20**|**Life as Non-Normal Chemical Accelerator**|Didier Sornette et.al.|[2512.18438](http://arxiv.org/abs/2512.18438)|null|
+|**2025-12-20**|**UniMPR: A Unified Framework for Multimodal Place Recognition with Arbitrary Sensor Configurations**|Zhangshuo Qi et.al.|[2512.18279](http://arxiv.org/abs/2512.18279)|null|
+|**2025-12-20**|**LLaViDA: A Large Language Vision Driving Assistant for Explicit Reasoning and Enhanced Trajectory Planning**|Yudong Liu et.al.|[2512.18211](http://arxiv.org/abs/2512.18211)|null|
+|**2025-12-19**|**Uncertainty-Gated Region-Level Retrieval for Robust Semantic Segmentation**|Shreshth Rajan et.al.|[2512.18082](http://arxiv.org/abs/2512.18082)|null|
+|**2025-12-19**|**Embodied4C: Measuring What Matters for Embodied Vision-Language Navigation**|Tin Stribor Sohn et.al.|[2512.18028](http://arxiv.org/abs/2512.18028)|null|
 |**2025-12-19**|**On the complex nature of coronal heating**|C. A. Breu et.al.|[2512.17880](http://arxiv.org/abs/2512.17880)|null|
 |**2025-12-19**|**Non-perturbative effects of short-range spatial correlations at the two-particle level**|Michael Meixner et.al.|[2512.17716](http://arxiv.org/abs/2512.17716)|null|
 |**2025-12-19**|**StereoMV2D: A Sparse Temporal Stereo-Enhanced Framework for Robust Multi-View 3D Object Detection**|Di Wu et.al.|[2512.17620](http://arxiv.org/abs/2512.17620)|null|
@@ -3660,12 +3681,15 @@
 |**2019-11-12**|**Multi-Agent Connected Autonomous Driving using Deep Reinforcement Learning**|Praveen Palanisamy et.al.|[1911.04175](http://arxiv.org/abs/1911.04175)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
 
-<p align=right>(<a href=#updated-on-20251222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251223>back to top</a>)</p>
 
 ## Simulation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-20**|**Systematic Benchmarking of SUMO Against Data-Driven Traffic Simulators**|Erdao Liang et.al.|[2512.18537](http://arxiv.org/abs/2512.18537)|null|
+|**2025-12-20**|**An Agentic AI Framework for Training General Practitioner Student Skills**|Victor De Marez et.al.|[2512.18440](http://arxiv.org/abs/2512.18440)|null|
+|**2025-12-20**|**NL2CA: Auto-formalizing Cognitive Decision-Making from Natural Language Using an Unsupervised CriticNL2LTL Framework**|Zihao Deng et.al.|[2512.18189](http://arxiv.org/abs/2512.18189)|null|
 |**2025-12-17**|**Can AI Generate more Comprehensive Test Scenarios? Review on Automated Driving Systems Test Scenario Generation Methods**|Ji Zhou et.al.|[2512.15422](http://arxiv.org/abs/2512.15422)|null|
 |**2025-12-08**|**A Bayesian latent class reinforcement learning framework to capture adaptive, feedback-driven travel behaviour**|Georges Sfeir et.al.|[2512.14713](http://arxiv.org/abs/2512.14713)|null|
 |**2025-12-10**|**QSMnet-INR: Single-Orientation Quantitative Susceptibility Mapping via Implicit Neural Representation in k-Space**|Xuan Cai et.al.|[2512.09425](http://arxiv.org/abs/2512.09425)|null|
@@ -4117,7 +4141,7 @@
 |**2021-11-16**|**Towards Optimal Strategies for Training Self-Driving Perception Models in Simulation**|David Acuna et.al.|[2111.07971](http://arxiv.org/abs/2111.07971)|null|
 |**2020-07-08**|**Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously**|Mikita Sazanovich et.al.|[2007.03514](http://arxiv.org/abs/2007.03514)|null|
 
-<p align=right>(<a href=#updated-on-20251222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251223>back to top</a>)</p>
 
 ## Perception
 
@@ -4125,7 +4149,7 @@
 |---|---|---|---|---|
 |**2025-12-18**|**N3D-VLM: Native 3D Grounding Enables Accurate Spatial Reasoning in Vision-Language Models**|Yuxin Wang et.al.|[2512.16561](http://arxiv.org/abs/2512.16561)|null|
 |**2025-12-17**|**Beyond Proximity: A Keypoint-Trajectory Framework for Classifying Affiliative and Agonistic Social Networks in Dairy Cattle**|Sibi Parivendan et.al.|[2512.14998](http://arxiv.org/abs/2512.14998)|null|
-|**2025-12-16**|**TUMTraf EMOT: Event-Based Multi-Object Tracking Dataset and Baseline for Traffic Scenarios**|Mengyu Li et.al.|[2512.14595](http://arxiv.org/abs/2512.14595)|null|
+|**2025-12-20**|**TUMTraf EMOT: Event-Based Multi-Object Tracking Dataset and Baseline for Traffic Scenarios**|Mengyu Li et.al.|[2512.14595](http://arxiv.org/abs/2512.14595)|null|
 |**2025-12-15**|**Grab-3D: Detecting AI-Generated Videos from 3D Geometric Temporal Consistency**|Wenhan Chen et.al.|[2512.13665](http://arxiv.org/abs/2512.13665)|null|
 |**2025-12-15**|**LeafTrackNet: A Deep Learning Framework for Robust Leaf Tracking in Top-Down Plant Phenotyping**|Shanghua Liu et.al.|[2512.13130](http://arxiv.org/abs/2512.13130)|null|
 |**2025-12-13**|**INDOOR-LiDAR: Bridging Simulation and Reality for Robot-Centric 360 degree Indoor LiDAR Perception -- A Robot-Centric Hybrid Dataset**|Haichuan Li et.al.|[2512.12377](http://arxiv.org/abs/2512.12377)|null|
@@ -4494,7 +4518,7 @@
 |**2021-08-11**|**Joint Multi-Object Detection and Tracking with Camera-LiDAR Fusion for Autonomous Driving**|Kemiao Huang et.al.|[2108.04602](http://arxiv.org/abs/2108.04602)|null|
 |**2021-07-13**|**CFTrack: Center-based Radar and Camera Fusion for 3D Multi-Object Tracking**|Ramin Nabati et.al.|[2107.05150](http://arxiv.org/abs/2107.05150)|null|
 
-<p align=right>(<a href=#updated-on-20251222>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251223>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
