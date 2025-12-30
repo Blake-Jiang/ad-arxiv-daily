@@ -1,4 +1,4 @@
-## Updated on 2025.12.29
+## Updated on 2025.12.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-29**|**Beyond Coverage Path Planning: Can UAV Swarms Perfect Scattered Regions Inspections?**|Socratis Gkelios et.al.|[2512.23257](http://arxiv.org/abs/2512.23257)|null|
+|**2025-12-29**|**A Human-Oriented Cooperative Driving Approach: Integrating Driving Intention, State, and Conflict**|Qin Wang et.al.|[2512.23220](http://arxiv.org/abs/2512.23220)|null|
+|**2025-12-29**|**Towards the Automation in the Space Station: Feasibility Study and Ground Tests of a Multi-Limbed Intra-Vehicular Robot**|Seiko Piotr Yamaguchi et.al.|[2512.23153](http://arxiv.org/abs/2512.23153)|null|
+|**2025-12-28**|**ColaVLA: Leveraging Cognitive Latent Reasoning for Hierarchical Parallel Trajectory Planning in Autonomous Driving**|Qihang Peng et.al.|[2512.22939](http://arxiv.org/abs/2512.22939)|null|
+|**2025-12-27**|**Modeling of UAV Tether Aerodynamics for Real-Time Simulation**|Max Beffert et.al.|[2512.22588](http://arxiv.org/abs/2512.22588)|null|
+|**2025-12-27**|**ParaMaP: Parallel Mapping and Collision-free Motion Planning for Reactive Robot Manipulation**|Xuewei Zhang et.al.|[2512.22575](http://arxiv.org/abs/2512.22575)|null|
+|**2025-12-27**|**Topology-Preserving Scalar Field Optimization for Boundary-Conforming Spiral Toolpaths on Multiply Connected Freeform Surfaces**|Shen Changqing et.al.|[2512.22502](http://arxiv.org/abs/2512.22502)|null|
+|**2025-12-26**|**A Unified AI, Embedded, Simulation, and Mechanical Design Approach to an Autonomous Delivery Robot**|Amro Gamar et.al.|[2512.22408](http://arxiv.org/abs/2512.22408)|null|
 |**2025-12-26**|**LongFly: Long-Horizon UAV Vision-and-Language Navigation with Spatiotemporal Context Integration**|Wen Jiang et.al.|[2512.22010](http://arxiv.org/abs/2512.22010)|null|
 |**2025-12-26**|**Optimal Trajectory Planning for Orbital Robot Rendezvous and Docking**|Kenta Iizuka et.al.|[2512.21882](http://arxiv.org/abs/2512.21882)|null|
 |**2025-12-25**|**Structural Induced Exploration for Balanced and Scalable Multi-Robot Path Planning**|Zikun Guo et.al.|[2512.21654](http://arxiv.org/abs/2512.21654)|null|
@@ -1241,7 +1249,7 @@
 |**2018-05-28**|**A Data-Driven Approach for Autonomous Motion Planning and Control in Off-Road Driving Scenarios**|Hossein Rastgoftar et.al.|[1805.09951](http://arxiv.org/abs/1805.09951)|null|
 |**2015-04-30**|**Planning for Optimal Feedback Control in the Volume of Free Space**|Dmitry Yershov et.al.|[1504.07940](http://arxiv.org/abs/1504.07940)|null|
 
-<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251230>back to top</a>)</p>
 
 ## End-to-end Driving
 
@@ -1337,12 +1345,13 @@
 |**2020-06-08**|**Explaining Autonomous Driving by Learning End-to-End Visual Attention**|Luca Cultrera et.al.|[2006.03347](http://arxiv.org/abs/2006.03347)|null|
 |**2020-10-27**|**Multimodal End-to-End Autonomous Driving**|Yi Xiao et.al.|[1906.03199](http://arxiv.org/abs/1906.03199)|null|
 
-<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251230>back to top</a>)</p>
 
 ## Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-29**|**HELM-BERT: A Transformer for Medium-sized Peptide Property Prediction**|Seungeon Lee et.al.|[2512.23175](http://arxiv.org/abs/2512.23175)|null|
 |**2025-12-24**|**Embodied AI-Enhanced IoMT Edge Computing: UAV Trajectory Optimization and Task Offloading with Mobility Prediction**|Siqi Mu et.al.|[2512.20902](http://arxiv.org/abs/2512.20902)|null|
 |**2025-12-21**|**ShibuyaSocial: Multi-scale Model of Pedestrian Flows in Scramble Crossing**|Akihiro Sakurai et.al.|[2512.18550](http://arxiv.org/abs/2512.18550)|null|
 |**2025-12-19**|**Systemic Risk Radar: A Multi-Layer Graph Framework for Early Market Crash Warning**|Sandeep Neela et.al.|[2512.17185](http://arxiv.org/abs/2512.17185)|null|
@@ -1947,12 +1956,23 @@
 |**2021-01-19**|**PiP: Planning-informed Trajectory Prediction for Autonomous Driving**|Haoran Song et.al.|[2003.11476](http://arxiv.org/abs/2003.11476)|null|
 |**2020-11-09**|**DROGON: A Trajectory Prediction Model based on Intention-Conditioned Behavior Reasoning**|Chiho Choi et.al.|[1908.00024](http://arxiv.org/abs/1908.00024)|null|
 
-<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251230>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-29**|**A Human-Oriented Cooperative Driving Approach: Integrating Driving Intention, State, and Conflict**|Qin Wang et.al.|[2512.23220](http://arxiv.org/abs/2512.23220)|null|
+|**2025-12-29**|**AVOID: The Adverse Visual Conditions Dataset with Obstacles for Driving Scene Understanding**|Jongoh Jeong et.al.|[2512.23215](http://arxiv.org/abs/2512.23215)|null|
+|**2025-12-29**|**Exploring Syn-to-Real Domain Adaptation for Military Target Detection**|Jongoh Jeong et.al.|[2512.23208](http://arxiv.org/abs/2512.23208)|null|
+|**2025-12-29**|**A Weak Signal Learning Dataset and Its Baseline Method**|Xianqi Liu et.al.|[2512.23160](http://arxiv.org/abs/2512.23160)|null|
+|**2025-12-28**|**Wavelet-based Multi-View Fusion of 4D Radar Tensor and Camera for Robust 3D Object Detection**|Runwei Guan et.al.|[2512.22972](http://arxiv.org/abs/2512.22972)|null|
+|**2025-12-28**|**ColaVLA: Leveraging Cognitive Latent Reasoning for Hierarchical Parallel Trajectory Planning in Autonomous Driving**|Qihang Peng et.al.|[2512.22939](http://arxiv.org/abs/2512.22939)|null|
+|**2025-12-28**|**A Minimal Solver for Relative Pose Estimation with Unknown Focal Length from Two Affine Correspondences**|Zhenbao Yu et.al.|[2512.22833](http://arxiv.org/abs/2512.22833)|null|
+|**2025-12-27**|**SCPainter: A Unified Framework for Realistic 3D Asset Insertion and Novel View Synthesis**|Paul Dobre et.al.|[2512.22706](http://arxiv.org/abs/2512.22706)|null|
+|**2025-12-27**|**Nonadiabatic Self-Healing of Trotter Errors in Digitized Counterdiabatic Dynamics**|Mara Vizzuso et.al.|[2512.22636](http://arxiv.org/abs/2512.22636)|null|
+|**2025-12-27**|**CoDS: Collaborative Perception via Digital Semantic Communication**|Jipeng Gan et.al.|[2512.22513](http://arxiv.org/abs/2512.22513)|null|
+|**2025-12-27**|**SCAFusion: A Multimodal 3D Detection Framework for Small Object Detection in Lunar Surface Exploration**|Xin Chen et.al.|[2512.22503](http://arxiv.org/abs/2512.22503)|null|
 |**2025-12-26**|**Backdoor Attacks on Prompt-Driven Video Segmentation Foundation Models**|Zongmin Zhang et.al.|[2512.22046](http://arxiv.org/abs/2512.22046)|null|
 |**2025-12-26**|**RT-Focuser: A Real-Time Lightweight Model for Edge-side Image Deblurring**|Zhuoyu Wu et.al.|[2512.21975](http://arxiv.org/abs/2512.21975)|null|
 |**2025-12-26**|**Revealing the transient ionization dynamics and mode-coupling mechanisms of helicon discharge through a self-consistent multiphysics model**|Jing-Jing Ma et.al.|[2512.21974](http://arxiv.org/abs/2512.21974)|null|
@@ -3729,12 +3749,13 @@
 |**2019-11-12**|**Multi-Agent Connected Autonomous Driving using Deep Reinforcement Learning**|Praveen Palanisamy et.al.|[1911.04175](http://arxiv.org/abs/1911.04175)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
 
-<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251230>back to top</a>)</p>
 
 ## Simulation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-27**|**SCPainter: A Unified Framework for Realistic 3D Asset Insertion and Novel View Synthesis**|Paul Dobre et.al.|[2512.22706](http://arxiv.org/abs/2512.22706)|null|
 |**2025-12-25**|**SymDrive: Realistic and Controllable Driving Simulator via Symmetric Auto-regressive Online Restoration**|Zhiyuan Liu et.al.|[2512.21618](http://arxiv.org/abs/2512.21618)|null|
 |**2025-12-23**|**LiDARDraft: Generating LiDAR Point Cloud from Versatile Inputs**|Haiyun Wei et.al.|[2512.20105](http://arxiv.org/abs/2512.20105)|null|
 |**2025-12-23**|**Interpolative Decoding: Exploring the Spectrum of Personality Traits in LLMs**|Eric Yeh et.al.|[2512.19937](http://arxiv.org/abs/2512.19937)|null|
@@ -4192,12 +4213,14 @@
 |**2021-11-16**|**Towards Optimal Strategies for Training Self-Driving Perception Models in Simulation**|David Acuna et.al.|[2111.07971](http://arxiv.org/abs/2111.07971)|null|
 |**2020-07-08**|**Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously**|Mikita Sazanovich et.al.|[2007.03514](http://arxiv.org/abs/2007.03514)|null|
 
-<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251230>back to top</a>)</p>
 
 ## Perception
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-29**|**GVSynergy-Det: Synergistic Gaussian-Voxel Representations for Multi-View 3D Object Detection**|Yi Zhang et.al.|[2512.23176](http://arxiv.org/abs/2512.23176)|null|
+|**2025-12-27**|**SCAFusion: A Multimodal 3D Detection Framework for Small Object Detection in Lunar Surface Exploration**|Xin Chen et.al.|[2512.22503](http://arxiv.org/abs/2512.22503)|null|
 |**2025-12-26**|**Learning Association via Track-Detection Matching for Multi-Object Tracking**|Momir Adžemović et.al.|[2512.22105](http://arxiv.org/abs/2512.22105)|null|
 |**2025-12-25**|**TrackTeller: Temporal Multimodal 3D Grounding for Behavior-Dependent Object References**|Jiahong Yu et.al.|[2512.21641](http://arxiv.org/abs/2512.21641)|null|
 |**2025-12-23**|**LiteFusion: Taming 3D Object Detectors from Vision-Based to Multi-Modal with Minimal Adaptation**|Xiangxuan Ren et.al.|[2512.20217](http://arxiv.org/abs/2512.20217)|null|
@@ -4573,7 +4596,7 @@
 |**2021-08-11**|**Joint Multi-Object Detection and Tracking with Camera-LiDAR Fusion for Autonomous Driving**|Kemiao Huang et.al.|[2108.04602](http://arxiv.org/abs/2108.04602)|null|
 |**2021-07-13**|**CFTrack: Center-based Radar and Camera Fusion for 3D Multi-Object Tracking**|Ramin Nabati et.al.|[2107.05150](http://arxiv.org/abs/2107.05150)|null|
 
-<p align=right>(<a href=#updated-on-20251229>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251230>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
