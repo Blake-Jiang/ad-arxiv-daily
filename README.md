@@ -1,4 +1,4 @@
-## Updated on 2026.01.12
+## Updated on 2026.01.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-10**|**SparseOccVLA: Bridging Occupancy and Vision-Language Models via Sparse Queries for Unified 4D Scene Understanding and Planning**|Chenxu Dang et.al.|[2601.06474](http://arxiv.org/abs/2601.06474)|null|
 |**2026-01-09**|**Resilient UAV Data Mule via Adaptive Sensor Association under Timing Constraints**|Md Sharif Hossen et.al.|[2601.06000](http://arxiv.org/abs/2601.06000)|null|
 |**2026-01-09**|**Intelligent Singularity Avoidance in UR10 Robotic Arm Path Planning Using Hybrid Fuzzy Logic and Reinforcement Learning**|Sheng-Kai Chen et.al.|[2601.05836](http://arxiv.org/abs/2601.05836)|null|
 |**2026-01-09**|**SGDrive: Scene-to-Goal Hierarchical World Cognition for Autonomous Driving**|Jingyu Li et.al.|[2601.05640](http://arxiv.org/abs/2601.05640)|null|
@@ -1283,7 +1284,7 @@
 |**2018-05-28**|**A Data-Driven Approach for Autonomous Motion Planning and Control in Off-Road Driving Scenarios**|Hossein Rastgoftar et.al.|[1805.09951](http://arxiv.org/abs/1805.09951)|null|
 |**2015-04-30**|**Planning for Optimal Feedback Control in the Volume of Free Space**|Dmitry Yershov et.al.|[1504.07940](http://arxiv.org/abs/1504.07940)|null|
 
-<p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260113>back to top</a>)</p>
 
 ## End-to-end Driving
 
@@ -1386,12 +1387,13 @@
 |**2020-06-08**|**Explaining Autonomous Driving by Learning End-to-End Visual Attention**|Luca Cultrera et.al.|[2006.03347](http://arxiv.org/abs/2006.03347)|null|
 |**2020-10-27**|**Multimodal End-to-End Autonomous Driving**|Yi Xiao et.al.|[1906.03199](http://arxiv.org/abs/1906.03199)|null|
 
-<p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260113>back to top</a>)</p>
 
 ## Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-12**|**The Need for a Socially-Grounded Persona Framework for User Simulation**|Pranav Narayanan Venkit et.al.|[2601.07110](http://arxiv.org/abs/2601.07110)|null|
 |**2026-01-09**|**Tensor-DTI: Enhancing Biomolecular Interaction Prediction with Contrastive Embedding Learning**|Manel Gil-Sorribes et.al.|[2601.05792](http://arxiv.org/abs/2601.05792)|null|
 |**2026-01-09**|**LatentVLA: Efficient Vision-Language Models for Autonomous Driving via Latent Action Prediction**|Chengen Xie et.al.|[2601.05611](http://arxiv.org/abs/2601.05611)|null|
 |**2026-01-08**|**Using Large Language Models to Detect Socially Shared Regulation of Collaborative Learning**|Jiayi Zhang et.al.|[2601.04458](http://arxiv.org/abs/2601.04458)|null|
@@ -2005,12 +2007,20 @@
 |**2021-01-19**|**PiP: Planning-informed Trajectory Prediction for Autonomous Driving**|Haoran Song et.al.|[2003.11476](http://arxiv.org/abs/2003.11476)|null|
 |**2020-11-09**|**DROGON: A Trajectory Prediction Model based on Intention-Conditioned Behavior Reasoning**|Chiho Choi et.al.|[1908.00024](http://arxiv.org/abs/1908.00024)|null|
 
-<p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260113>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-12**|**SC-MII: Infrastructure LiDAR-based 3D Object Detection on Edge Devices for Split Computing with Multiple Intermediate Outputs Integration**|Taisuke Noguchi et.al.|[2601.07119](http://arxiv.org/abs/2601.07119)|null|
+|**2026-01-11**|**Efficient Visual Question Answering Pipeline for Autonomous Driving via Scene Region Compression**|Yuliang Cai et.al.|[2601.07092](http://arxiv.org/abs/2601.07092)|null|
+|**2026-01-11**|**RSLCPP - Deterministic Simulations Using ROS 2**|Simon Sagmeister et.al.|[2601.07052](http://arxiv.org/abs/2601.07052)|null|
+|**2026-01-11**|**PANDA-film: an automated system for electrodeposition of polymer thin films and their wetting analysis**|Harley Quinn et.al.|[2601.07043](http://arxiv.org/abs/2601.07043)|null|
+|**2026-01-11**|**Conditional Normalizing Flows for Forward and Backward Joint State and Parameter Estimation**|Luke S. Lagunowich et.al.|[2601.07013](http://arxiv.org/abs/2601.07013)|null|
+|**2026-01-11**|**Artificial Intelligence Driven Channel Coding and Resource Optimization for Wireless Networks**|Yasir Ali et.al.|[2601.06796](http://arxiv.org/abs/2601.06796)|null|
+|**2026-01-10**|**SparseOccVLA: Bridging Occupancy and Vision-Language Models via Sparse Queries for Unified 4D Scene Understanding and Planning**|Chenxu Dang et.al.|[2601.06474](http://arxiv.org/abs/2601.06474)|null|
+|**2026-01-10**|**WHU-PCPR: A cross-platform heterogeneous point cloud dataset for place recognition in complex urban scenes**|Xianghong Zou et.al.|[2601.06442](http://arxiv.org/abs/2601.06442)|null|
 |**2026-01-09**|**A Critical Examination of Active Learning Workflows in Materials Science**|Akhil S. Nair et.al.|[2601.05946](http://arxiv.org/abs/2601.05946)|null|
 |**2026-01-09**|**Reverse segregation and self-organization in inclined chute flows of bidisperse granular mixtures**|Joseph M. Monti et.al.|[2601.05940](http://arxiv.org/abs/2601.05940)|null|
 |**2026-01-09**|**When legs and bodies synchronize: Two-level collective dynamics in dense crowds**|Thomas Chatagnon et.al.|[2601.05867](http://arxiv.org/abs/2601.05867)|null|
@@ -3873,7 +3883,7 @@
 |**2019-11-12**|**Multi-Agent Connected Autonomous Driving using Deep Reinforcement Learning**|Praveen Palanisamy et.al.|[1911.04175](http://arxiv.org/abs/1911.04175)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
 
-<p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260113>back to top</a>)</p>
 
 ## Simulation
 
@@ -4346,12 +4356,14 @@
 |**2021-11-16**|**Towards Optimal Strategies for Training Self-Driving Perception Models in Simulation**|David Acuna et.al.|[2111.07971](http://arxiv.org/abs/2111.07971)|null|
 |**2020-07-08**|**Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously**|Mikita Sazanovich et.al.|[2007.03514](http://arxiv.org/abs/2007.03514)|null|
 
-<p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260113>back to top</a>)</p>
 
 ## Perception
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-11**|**Observability-Enhanced Target Motion Estimation via Bearing-Box: Theory and MAV Applications**|Yin Zhang et.al.|[2601.06887](http://arxiv.org/abs/2601.06887)|null|
+|**2026-01-10**|**LLMTrack: Semantic Multi-Object Tracking with Multi-modal Large Language Models**|Pan Liao et.al.|[2601.06550](http://arxiv.org/abs/2601.06550)|null|
 |**2026-01-07**|**Systematic Evaluation of Depth Backbones and Semantic Cues for Monocular Pseudo-LiDAR 3D Detection**|Samson Oseiwe Ajadalu et.al.|[2601.03617](http://arxiv.org/abs/2601.03617)|null|
 |**2026-01-05**|**CT Scans As Video: Efficient Intracranial Hemorrhage Detection Using Multi-Object Tracking**|Amirreza Parvahan et.al.|[2601.02521](http://arxiv.org/abs/2601.02521)|null|
 |**2026-01-05**|**AR-MOT: Autoregressive Multi-object Tracking**|Lianjie Jia et.al.|[2601.01925](http://arxiv.org/abs/2601.01925)|null|
@@ -4734,7 +4746,7 @@
 |**2021-08-11**|**Joint Multi-Object Detection and Tracking with Camera-LiDAR Fusion for Autonomous Driving**|Kemiao Huang et.al.|[2108.04602](http://arxiv.org/abs/2108.04602)|null|
 |**2021-07-13**|**CFTrack: Center-based Radar and Camera Fusion for 3D Multi-Object Tracking**|Ramin Nabati et.al.|[2107.05150](http://arxiv.org/abs/2107.05150)|null|
 
-<p align=right>(<a href=#updated-on-20260112>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260113>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
