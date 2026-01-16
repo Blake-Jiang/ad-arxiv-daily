@@ -1,4 +1,4 @@
-## Updated on 2026.01.15
+## Updated on 2026.01.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-15**|**Terrain-Adaptive Mobile 3D Printing with Hierarchical Control**|Shuangshan Nors Li et.al.|[2601.10208](http://arxiv.org/abs/2601.10208)|null|
+|**2026-01-15**|**Service Provisioning and Path Planning with Obstacle Avoidance for Low-Altitude Wireless Networks**|Senning Wan et.al.|[2601.10179](http://arxiv.org/abs/2601.10179)|null|
+|**2026-01-15**|**Fairness Driven Multi-Agent Path Finding Problem**|Aditi Anand et.al.|[2601.10123](http://arxiv.org/abs/2601.10123)|null|
+|**2026-01-14**|**On some Exotic Cylindrical Algebraic Decompositions and Cells**|Lucas Michel et.al.|[2601.09795](http://arxiv.org/abs/2601.09795)|null|
 |**2026-01-14**|**Terminally constrained flow-based generative models from an optimal control perspective**|Weiguo Gao et.al.|[2601.09474](http://arxiv.org/abs/2601.09474)|null|
 |**2026-01-14**|**ReflexDiffusion: Reflection-Enhanced Trajectory Planning for High-lateral-acceleration Scenarios in Autonomous Driving**|Xuemei Yao et.al.|[2601.09377](http://arxiv.org/abs/2601.09377)|null|
 |**2026-01-14**|**Feedback-Based Mobile Robot Navigation in 3-D Environments Using Artificial Potential Functions Technical Report**|Ro'i Lang et.al.|[2601.09318](http://arxiv.org/abs/2601.09318)|null|
@@ -1291,12 +1295,13 @@
 |**2018-05-28**|**A Data-Driven Approach for Autonomous Motion Planning and Control in Off-Road Driving Scenarios**|Hossein Rastgoftar et.al.|[1805.09951](http://arxiv.org/abs/1805.09951)|null|
 |**2015-04-30**|**Planning for Optimal Feedback Control in the Volume of Free Space**|Dmitry Yershov et.al.|[1504.07940](http://arxiv.org/abs/1504.07940)|null|
 
-<p align=right>(<a href=#updated-on-20260115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260116>back to top</a>)</p>
 
 ## End-to-end Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-15**|**SatMap: Revisiting Satellite Maps as Prior for Online HD Map Construction**|Kanak Mazumder et.al.|[2601.10512](http://arxiv.org/abs/2601.10512)|null|
 |**2026-01-12**|**SGDrive: Scene-to-Goal Hierarchical World Cognition for Autonomous Driving**|Jingyu Li et.al.|[2601.05640](http://arxiv.org/abs/2601.05640)|null|
 |**2026-01-09**|**LatentVLA: Efficient Vision-Language Models for Autonomous Driving via Latent Action Prediction**|Chengen Xie et.al.|[2601.05611](http://arxiv.org/abs/2601.05611)|null|
 |**2026-01-08**|**Driving on Registers**|Ellington Kirby et.al.|[2601.05083](http://arxiv.org/abs/2601.05083)|null|
@@ -1394,14 +1399,15 @@
 |**2020-06-08**|**Explaining Autonomous Driving by Learning End-to-End Visual Attention**|Luca Cultrera et.al.|[2006.03347](http://arxiv.org/abs/2006.03347)|null|
 |**2020-10-27**|**Multimodal End-to-End Autonomous Driving**|Yi Xiao et.al.|[1906.03199](http://arxiv.org/abs/1906.03199)|null|
 
-<p align=right>(<a href=#updated-on-20260115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260116>back to top</a>)</p>
 
 ## Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-15**|**DeepUrban: Interaction-Aware Trajectory Prediction and Planning for Automated Driving by Aerial Imagery**|Constantin Selzer et.al.|[2601.10554](http://arxiv.org/abs/2601.10554)|null|
 |**2026-01-14**|**ReflexDiffusion: Reflection-Enhanced Trajectory Planning for High-lateral-acceleration Scenarios in Autonomous Driving**|Xuemei Yao et.al.|[2601.09377](http://arxiv.org/abs/2601.09377)|null|
-|**2026-01-14**|**Reward Learning through Ranking Mean Squared Error**|Chaitanya Kharyal et.al.|[2601.09236](http://arxiv.org/abs/2601.09236)|null|
+|**2026-01-15**|**Reward Learning through Ranking Mean Squared Error**|Chaitanya Kharyal et.al.|[2601.09236](http://arxiv.org/abs/2601.09236)|null|
 |**2026-01-12**|**Explainable Galaxy Interaction Prediction with Hybrid Attention Mechanisms**|Sathwik Narkedimilli et.al.|[2601.08872](http://arxiv.org/abs/2601.08872)|null|
 |**2026-01-13**|**How vehicles change lanes after encountering crashes: Empirical analysis and modeling**|Kequan Chen et.al.|[2601.08125](http://arxiv.org/abs/2601.08125)|null|
 |**2026-01-12**|**Towards Specialized Generalists: A Multi-Task MoE-LoRA Framework for Domain-Specific LLM Adaptation**|Yuxin Yang et.al.|[2601.07935](http://arxiv.org/abs/2601.07935)|null|
@@ -2019,12 +2025,23 @@
 |**2021-01-19**|**PiP: Planning-informed Trajectory Prediction for Autonomous Driving**|Haoran Song et.al.|[2003.11476](http://arxiv.org/abs/2003.11476)|null|
 |**2020-11-09**|**DROGON: A Trajectory Prediction Model based on Intention-Conditioned Behavior Reasoning**|Chiho Choi et.al.|[1908.00024](http://arxiv.org/abs/1908.00024)|null|
 
-<p align=right>(<a href=#updated-on-20260115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260116>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-15**|**DeepUrban: Interaction-Aware Trajectory Prediction and Planning for Automated Driving by Aerial Imagery**|Constantin Selzer et.al.|[2601.10554](http://arxiv.org/abs/2601.10554)|null|
+|**2026-01-15**|**Defending Large Language Models Against Jailbreak Attacks via In-Decoding Safety-Awareness Probing**|Yinzhi Zhao et.al.|[2601.10543](http://arxiv.org/abs/2601.10543)|null|
+|**2026-01-15**|**BikeActions: An Open Platform and Benchmark for Cyclist-Centric VRU Action Recognition**|Max A. Buettner et.al.|[2601.10521](http://arxiv.org/abs/2601.10521)|null|
+|**2026-01-15**|**SatMap: Revisiting Satellite Maps as Prior for Online HD Map Construction**|Kanak Mazumder et.al.|[2601.10512](http://arxiv.org/abs/2601.10512)|null|
+|**2026-01-15**|**Advanced Manufacturing with Renewable and Bio-based Materials: AI/ML workflows and Process Optimization**|Rigoberto Advincula et.al.|[2601.10382](http://arxiv.org/abs/2601.10382)|null|
+|**2026-01-15**|**The hidden structure of innovation networks**|Lorenzo Emer et.al.|[2601.10224](http://arxiv.org/abs/2601.10224)|null|
+|**2026-01-15**|**V-Zero: Self-Improving Multimodal Reasoning with Zero Annotation**|Han Wang et.al.|[2601.10094](http://arxiv.org/abs/2601.10094)|null|
+|**2026-01-15**|**Same Activity, Divergent Impacts: Representing Paths Towards Physics Computational Literacy and Physics Identity with Conjecture Mapping-Based Narrative Analysis**|Sarah McHale et.al.|[2601.10005](http://arxiv.org/abs/2601.10005)|null|
+|**2026-01-15**|**Towards Native Intelligence: 6G-LLM Trained with Reinforcement Learning from NDT Feedback**|Zhuoran Xiao et.al.|[2601.09992](http://arxiv.org/abs/2601.09992)|null|
+|**2026-01-15**|**OT-Drive: Out-of-Distribution Off-Road Traversable Area Segmentation via Optimal Transport**|Zhihua Zhao et.al.|[2601.09952](http://arxiv.org/abs/2601.09952)|null|
+|**2026-01-14**|**LCF3D: A Robust and Real-Time Late-Cascade Fusion Framework for 3D Object Detection in Autonomous Driving**|Carlo Sgaravatti et.al.|[2601.09812](http://arxiv.org/abs/2601.09812)|null|
 |**2026-01-14**|**MAD: Motion Appearance Decoupling for efficient Driving World Models**|Ahmad Rahimi et.al.|[2601.09452](http://arxiv.org/abs/2601.09452)|null|
 |**2026-01-14**|**Data Scaling for Navigation in Unknown Environments**|Lauri Suomela et.al.|[2601.09444](http://arxiv.org/abs/2601.09444)|null|
 |**2026-01-14**|**ReflexDiffusion: Reflection-Enhanced Trajectory Planning for High-lateral-acceleration Scenarios in Autonomous Driving**|Xuemei Yao et.al.|[2601.09377](http://arxiv.org/abs/2601.09377)|null|
@@ -3915,7 +3932,7 @@
 |**2019-11-12**|**Multi-Agent Connected Autonomous Driving using Deep Reinforcement Learning**|Praveen Palanisamy et.al.|[1911.04175](http://arxiv.org/abs/1911.04175)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
 
-<p align=right>(<a href=#updated-on-20260115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260116>back to top</a>)</p>
 
 ## Simulation
 
@@ -4390,12 +4407,14 @@
 |**2021-11-16**|**Towards Optimal Strategies for Training Self-Driving Perception Models in Simulation**|David Acuna et.al.|[2111.07971](http://arxiv.org/abs/2111.07971)|null|
 |**2020-07-08**|**Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously**|Mikita Sazanovich et.al.|[2007.03514](http://arxiv.org/abs/2007.03514)|null|
 
-<p align=right>(<a href=#updated-on-20260115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260116>back to top</a>)</p>
 
 ## Perception
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-15**|**SatMap: Revisiting Satellite Maps as Prior for Online HD Map Construction**|Kanak Mazumder et.al.|[2601.10512](http://arxiv.org/abs/2601.10512)|null|
+|**2026-01-14**|**LCF3D: A Robust and Real-Time Late-Cascade Fusion Framework for 3D Object Detection in Autonomous Driving**|Carlo Sgaravatti et.al.|[2601.09812](http://arxiv.org/abs/2601.09812)|null|
 |**2026-01-14**|**DeTracker: Motion-decoupled Vehicle Detection and Tracking in Unstabilized Satellite Videos**|Jiajun Chen et.al.|[2601.09240](http://arxiv.org/abs/2601.09240)|null|
 |**2026-01-13**|**Towards Cross-Platform Generalization: Domain Adaptive 3D Detection with Augmentation and Pseudo-Labeling**|Xiyan Feng et.al.|[2601.08174](http://arxiv.org/abs/2601.08174)|null|
 |**2026-01-11**|**Observability-Enhanced Target Motion Estimation via Bearing-Box: Theory and MAV Applications**|Yin Zhang et.al.|[2601.06887](http://arxiv.org/abs/2601.06887)|null|
@@ -4782,7 +4801,7 @@
 |**2021-08-11**|**Joint Multi-Object Detection and Tracking with Camera-LiDAR Fusion for Autonomous Driving**|Kemiao Huang et.al.|[2108.04602](http://arxiv.org/abs/2108.04602)|null|
 |**2021-07-13**|**CFTrack: Center-based Radar and Camera Fusion for 3D Multi-Object Tracking**|Ramin Nabati et.al.|[2107.05150](http://arxiv.org/abs/2107.05150)|null|
 
-<p align=right>(<a href=#updated-on-20260115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260116>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
