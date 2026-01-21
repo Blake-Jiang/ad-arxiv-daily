@@ -1,4 +1,4 @@
-## Updated on 2026.01.20
+## Updated on 2026.01.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-16**|**UAV-Based Infrastructure Inspections: A Literature Review and Proposed Framework for AEC+FM**|Amir Farzin Nikkhah et.al.|[2601.11665](http://arxiv.org/abs/2601.11665)|null|
 |**2026-01-15**|**Cooperative UAVs for Remote Data Collection under Limited Communications: An Asynchronous Multiagent Learning Framework**|Cuong Le et.al.|[2601.10849](http://arxiv.org/abs/2601.10849)|null|
 |**2026-01-15**|**Terrain-Adaptive Mobile 3D Printing with Hierarchical Control**|Shuangshan Nors Li et.al.|[2601.10208](http://arxiv.org/abs/2601.10208)|null|
 |**2026-01-15**|**Service Provisioning and Path Planning with Obstacle Avoidance for Low-Altitude Wireless Networks**|Senning Wan et.al.|[2601.10179](http://arxiv.org/abs/2601.10179)|null|
@@ -29,7 +30,7 @@
 |**2026-01-12**|**Contact-aware Path Planning for Autonomous Neuroendovascular Navigation**|Aabha Tamhankar et.al.|[2601.07945](http://arxiv.org/abs/2601.07945)|null|
 |**2026-01-12**|**Pheromone-Focused Ant Colony Optimization algorithm for path planning**|Yi Liu et.al.|[2601.07597](http://arxiv.org/abs/2601.07597)|null|
 |**2026-01-12**|**Energy-efficient torque allocation for straight-line driving of electric vehicles based on pseudoconvex polynomials**|Josip Kir Hromatko et.al.|[2601.07527](http://arxiv.org/abs/2601.07527)|null|
-|**2026-01-10**|**SparseOccVLA: Bridging Occupancy and Vision-Language Models via Sparse Queries for Unified 4D Scene Understanding and Planning**|Chenxu Dang et.al.|[2601.06474](http://arxiv.org/abs/2601.06474)|null|
+|**2026-01-17**|**SparseOccVLA: Bridging Occupancy and Vision-Language Models via Sparse Queries for Unified 4D Scene Understanding and Planning**|Chenxu Dang et.al.|[2601.06474](http://arxiv.org/abs/2601.06474)|null|
 |**2026-01-09**|**Resilient UAV Data Mule via Adaptive Sensor Association under Timing Constraints**|Md Sharif Hossen et.al.|[2601.06000](http://arxiv.org/abs/2601.06000)|null|
 |**2026-01-09**|**Intelligent Singularity Avoidance in UR10 Robotic Arm Path Planning Using Hybrid Fuzzy Logic and Reinforcement Learning**|Sheng-Kai Chen et.al.|[2601.05836](http://arxiv.org/abs/2601.05836)|null|
 |**2026-01-12**|**SGDrive: Scene-to-Goal Hierarchical World Cognition for Autonomous Driving**|Jingyu Li et.al.|[2601.05640](http://arxiv.org/abs/2601.05640)|null|
@@ -1296,7 +1297,7 @@
 |**2018-05-28**|**A Data-Driven Approach for Autonomous Motion Planning and Control in Off-Road Driving Scenarios**|Hossein Rastgoftar et.al.|[1805.09951](http://arxiv.org/abs/1805.09951)|null|
 |**2015-04-30**|**Planning for Optimal Feedback Control in the Volume of Free Space**|Dmitry Yershov et.al.|[1504.07940](http://arxiv.org/abs/1504.07940)|null|
 
-<p align=right>(<a href=#updated-on-20260120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 ## End-to-end Driving
 
@@ -1402,12 +1403,16 @@
 |**2020-06-08**|**Explaining Autonomous Driving by Learning End-to-End Visual Attention**|Luca Cultrera et.al.|[2006.03347](http://arxiv.org/abs/2006.03347)|null|
 |**2020-10-27**|**Multimodal End-to-End Autonomous Driving**|Yi Xiao et.al.|[1906.03199](http://arxiv.org/abs/1906.03199)|null|
 
-<p align=right>(<a href=#updated-on-20260120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 ## Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-17**|**CARLA-Round: A Multi-Factor Simulation Dataset for Roundabout Trajectory Prediction**|Xiaotong Zhou et.al.|[2601.12119](http://arxiv.org/abs/2601.12119)|null|
+|**2026-01-17**|**Toward Real-World High-Precision Image Matting and Segmentation**|Haipeng Zhou et.al.|[2601.12080](http://arxiv.org/abs/2601.12080)|null|
+|**2026-01-16**|**Dose-LET Interactions Predict Capsular Contracture After Proton Postmastectomy Radiation Therapy**|Jingyuan Chen et.al.|[2601.11731](http://arxiv.org/abs/2601.11731)|null|
+|**2026-01-14**|**Verifying Physics-Informed Neural Network Fidelity using Classical Fisher Information from Differentiable Dynamical System**|Josafat Ribeiro Leal Filho et.al.|[2601.11638](http://arxiv.org/abs/2601.11638)|null|
 |**2026-01-15**|**DeepUrban: Interaction-Aware Trajectory Prediction and Planning for Automated Driving by Aerial Imagery**|Constantin Selzer et.al.|[2601.10554](http://arxiv.org/abs/2601.10554)|null|
 |**2026-01-14**|**ReflexDiffusion: Reflection-Enhanced Trajectory Planning for High-lateral-acceleration Scenarios in Autonomous Driving**|Xuemei Yao et.al.|[2601.09377](http://arxiv.org/abs/2601.09377)|null|
 |**2026-01-15**|**Reward Learning through Ranking Mean Squared Error**|Chaitanya Kharyal et.al.|[2601.09236](http://arxiv.org/abs/2601.09236)|null|
@@ -2028,12 +2033,26 @@
 |**2021-01-19**|**PiP: Planning-informed Trajectory Prediction for Autonomous Driving**|Haoran Song et.al.|[2003.11476](http://arxiv.org/abs/2003.11476)|null|
 |**2020-11-09**|**DROGON: A Trajectory Prediction Model based on Intention-Conditioned Behavior Reasoning**|Chiho Choi et.al.|[1908.00024](http://arxiv.org/abs/1908.00024)|null|
 
-<p align=right>(<a href=#updated-on-20260120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-18**|**SGCP: A Self-Organized Game-Theoretic Framework For Collaborative Perception**|Zechuan Gong et.al.|[2601.12524](http://arxiv.org/abs/2601.12524)|null|
+|**2026-01-18**|**Mixtenna: A Self-Biased Nonlinear Patch Antenna for Passive Third-Harmonic Radiation**|Yishai Brill et.al.|[2601.12462](http://arxiv.org/abs/2601.12462)|null|
+|**2026-01-18**|**HOT-POT: Optimal Transport for Sparse Stereo Matching**|Antonin Clerc et.al.|[2601.12423](http://arxiv.org/abs/2601.12423)|null|
+|**2026-01-18**|**CD-TWINSAFE: A ROS-enabled Digital Twin for Scene Understanding and Safety Emerging V2I Technology**|Amro Khaled et.al.|[2601.12373](http://arxiv.org/abs/2601.12373)|null|
+|**2026-01-18**|**From Prompts to Pavement: LMMs-based Agentic Behavior-Tree Generation Framework for Autonomous Vehicles**|Omar Y. Goba et.al.|[2601.12358](http://arxiv.org/abs/2601.12358)|null|
+|**2026-01-18**|**Cross-reality Location Privacy Protection in 6G-enabled Vehicular Metaverses: An LLM-enhanced Hybrid Generative Diffusion Model-based Approach**|Xiaofeng Luo et.al.|[2601.12311](http://arxiv.org/abs/2601.12311)|null|
+|**2026-01-18**|**How Safe Is Your Data in Connected and Autonomous Cars: A Consumer Advantage or a Privacy Nightmare ?**|Amit Chougule et.al.|[2601.12284](http://arxiv.org/abs/2601.12284)|null|
+|**2026-01-17**|**Neural Process-Based Reactive Controller for Autonomous Racing**|Devin Hunter et.al.|[2601.12143](http://arxiv.org/abs/2601.12143)|null|
+|**2026-01-17**|**Listen, Look, Drive: Coupling Audio Instructions for User-aware VLA-based Autonomous Driving**|Ziang Guo et.al.|[2601.12142](http://arxiv.org/abs/2601.12142)|null|
+|**2026-01-17**|**Kernel-Based Learning of Safety Barriers**|Oliver Schön et.al.|[2601.12002](http://arxiv.org/abs/2601.12002)|null|
+|**2026-01-17**|**Beyond Target-Level: ISAC-Enabled Event-Level Sensing for Behavioral Intention Prediction**|Haotian Liu et.al.|[2601.11894](http://arxiv.org/abs/2601.11894)|null|
+|**2026-01-16**|**Toward Human-Centered Human-AI Interaction: Advances in Theoretical Frameworks and Practice**|Zaifeng Gao et.al.|[2601.11812](http://arxiv.org/abs/2601.11812)|null|
+|**2026-01-16**|**Risk-Aware Human-in-the-Loop Framework with Adaptive Intrusion Response for Autonomous Vehicles**|Dawood Wasif et.al.|[2601.11781](http://arxiv.org/abs/2601.11781)|null|
+|**2026-01-16**|**Cross-Domain Object Detection Using Unsupervised Image Translation**|Vinicius F. Arruda et.al.|[2601.11779](http://arxiv.org/abs/2601.11779)|null|
 |**2026-01-16**|**Generative Scenario Rollouts for End-to-End Autonomous Driving**|Rajeev Yasarla et.al.|[2601.11475](http://arxiv.org/abs/2601.11475)|null|
 |**2026-01-16**|**SUG-Occ: An Explicit Semantics and Uncertainty Guided Sparse Learning Framework for Real-Time 3D Occupancy Prediction**|Hanlin Wu et.al.|[2601.11396](http://arxiv.org/abs/2601.11396)|null|
 |**2026-01-16**|**Distributed Control Barrier Functions for Safe Multi-Vehicle Navigation in Heterogeneous USV Fleets**|Tyler Paine et.al.|[2601.11335](http://arxiv.org/abs/2601.11335)|null|
@@ -3942,7 +3961,7 @@
 |**2019-11-12**|**Multi-Agent Connected Autonomous Driving using Deep Reinforcement Learning**|Praveen Palanisamy et.al.|[1911.04175](http://arxiv.org/abs/1911.04175)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
 
-<p align=right>(<a href=#updated-on-20260120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 ## Simulation
 
@@ -4418,7 +4437,7 @@
 |**2021-11-16**|**Towards Optimal Strategies for Training Self-Driving Perception Models in Simulation**|David Acuna et.al.|[2111.07971](http://arxiv.org/abs/2111.07971)|null|
 |**2020-07-08**|**Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously**|Mikita Sazanovich et.al.|[2007.03514](http://arxiv.org/abs/2007.03514)|null|
 
-<p align=right>(<a href=#updated-on-20260120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 ## Perception
 
@@ -4813,7 +4832,7 @@
 |**2021-08-11**|**Joint Multi-Object Detection and Tracking with Camera-LiDAR Fusion for Autonomous Driving**|Kemiao Huang et.al.|[2108.04602](http://arxiv.org/abs/2108.04602)|null|
 |**2021-07-13**|**CFTrack: Center-based Radar and Camera Fusion for 3D Multi-Object Tracking**|Ramin Nabati et.al.|[2107.05150](http://arxiv.org/abs/2107.05150)|null|
 
-<p align=right>(<a href=#updated-on-20260120>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
