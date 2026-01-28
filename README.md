@@ -1,4 +1,4 @@
-## Updated on 2026.01.27
+## Updated on 2026.01.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-27**|**ScenePilot-Bench: A Large-Scale Dataset and Benchmark for Evaluation of Vision-Language Models in Autonomous Driving**|Yujin Wang et.al.|[2601.19582](http://arxiv.org/abs/2601.19582)|null|
+|**2026-01-27**|**Self-Supervised Path Planning in Unstructured Environments via Global-Guided Differentiable Hard Constraint Projection**|Ziqian Wang et.al.|[2601.19354](http://arxiv.org/abs/2601.19354)|null|
+|**2026-01-27**|**GeoSSA: Geometric Sparrow Search Algorithm for UAV Path Planning and Engineering Design Optimization**|Junhao Wei et.al.|[2601.19346](http://arxiv.org/abs/2601.19346)|null|
+|**2026-01-27**|**Instance-Guided Radar Depth Estimation for 3D Object Detection**|Chen-Chou Lo et.al.|[2601.19314](http://arxiv.org/abs/2601.19314)|null|
+|**2026-01-27**|**Optimal Motion Planning for Two Square Robots in a Rectilinear Environment**|Pankaj K. Agarwal et.al.|[2601.19147](http://arxiv.org/abs/2601.19147)|null|
 |**2026-01-24**|**DiffusionCinema: Text-to-Aerial Cinematography**|Valerii Serpiva et.al.|[2601.17412](http://arxiv.org/abs/2601.17412)|null|
 |**2026-01-24**|**Multi-Agent Learning Path Planning via LLMs**|Haoxin Xu et.al.|[2601.17346](http://arxiv.org/abs/2601.17346)|null|
 |**2026-01-23**|**Hierarchical Informative Path Planning via Graph Guidance and Trajectory Optimization**|Avraiem Iskandar et.al.|[2601.17227](http://arxiv.org/abs/2601.17227)|null|
@@ -1313,7 +1318,7 @@
 |**2018-05-28**|**A Data-Driven Approach for Autonomous Motion Planning and Control in Off-Road Driving Scenarios**|Hossein Rastgoftar et.al.|[1805.09951](http://arxiv.org/abs/1805.09951)|null|
 |**2015-04-30**|**Planning for Optimal Feedback Control in the Volume of Free Space**|Dmitry Yershov et.al.|[1504.07940](http://arxiv.org/abs/1504.07940)|null|
 
-<p align=right>(<a href=#updated-on-20260127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260128>back to top</a>)</p>
 
 ## End-to-end Driving
 
@@ -1419,12 +1424,16 @@
 |**2020-06-08**|**Explaining Autonomous Driving by Learning End-to-End Visual Attention**|Luca Cultrera et.al.|[2006.03347](http://arxiv.org/abs/2006.03347)|null|
 |**2020-10-27**|**Multimodal End-to-End Autonomous Driving**|Yi Xiao et.al.|[1906.03199](http://arxiv.org/abs/1906.03199)|null|
 
-<p align=right>(<a href=#updated-on-20260127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260128>back to top</a>)</p>
 
 ## Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-27**|**Perception-to-Pursuit: Track-Centric Temporal Reasoning for Open-World Drone Detection and Autonomous Chasing**|Venkatakrishna Reddy Oruganti et.al.|[2601.19318](http://arxiv.org/abs/2601.19318)|null|
+|**2026-01-26**|**SKETCH: Semantic Key-Point Conditioning for Long-Horizon Vessel Trajectory Prediction**|Linyong Gan et.al.|[2601.18537](http://arxiv.org/abs/2601.18537)|null|
+|**2026-01-26**|**Generative Chain of Behavior for User Trajectory Prediction**|Chengkai Huang et.al.|[2601.18213](http://arxiv.org/abs/2601.18213)|null|
+|**2026-01-27**|**Quantum Recurrent Unit: A Parameter-Efficient Quantum Neural Network Architecture for NISQ Devices**|Tzong-Daw Wu et.al.|[2601.18164](http://arxiv.org/abs/2601.18164)|null|
 |**2026-01-23**|**Predicting Networks Before They Happen: Experimentation on a Real-Time V2X Digital Twin**|Roberto Pegurri et.al.|[2601.16559](http://arxiv.org/abs/2601.16559)|null|
 |**2026-01-22**|**PhageMind: Generalized Strain-level Phage Host Range Prediction via Meta-learning**|Yang Shen et.al.|[2601.15886](http://arxiv.org/abs/2601.15886)|null|
 |**2026-01-21**|**From Observation to Prediction: LSTM for Vehicle Lane Change Forecasting on Highway On/Off-Ramps**|Mohamed Abouras et.al.|[2601.14848](http://arxiv.org/abs/2601.14848)|null|
@@ -2054,12 +2063,23 @@
 |**2021-01-19**|**PiP: Planning-informed Trajectory Prediction for Autonomous Driving**|Haoran Song et.al.|[2003.11476](http://arxiv.org/abs/2003.11476)|null|
 |**2020-11-09**|**DROGON: A Trajectory Prediction Model based on Intention-Conditioned Behavior Reasoning**|Chiho Choi et.al.|[1908.00024](http://arxiv.org/abs/1908.00024)|null|
 
-<p align=right>(<a href=#updated-on-20260127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260128>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-27**|**ScenePilot-Bench: A Large-Scale Dataset and Benchmark for Evaluation of Vision-Language Models in Autonomous Driving**|Yujin Wang et.al.|[2601.19582](http://arxiv.org/abs/2601.19582)|null|
+|**2026-01-27**|**Instance-Guided Radar Depth Estimation for 3D Object Detection**|Chen-Chou Lo et.al.|[2601.19314](http://arxiv.org/abs/2601.19314)|null|
+|**2026-01-26**|**A Switching Nonlinear Model Predictive Control Strategy for Safe Collision Handling by an Underwater Vehicle-Manipulator System**|Ioannis G. Polyzos et.al.|[2601.18971](http://arxiv.org/abs/2601.18971)|null|
+|**2026-01-26**|**Learning the Pareto Space of Multi-Objective Autonomous Driving: A Modular, Data-Driven Approach**|Mohammad Elayan et.al.|[2601.18913](http://arxiv.org/abs/2601.18913)|null|
+|**2026-01-26**|**Towards Safety-Compliant Transformer Architectures for Automotive Systems**|Sven Kirchner et.al.|[2601.18850](http://arxiv.org/abs/2601.18850)|null|
+|**2026-01-26**|**Order Out of Noise and Disorder: Fate of the Frustrated Manifold**|Igor Halperin et.al.|[2601.18653](http://arxiv.org/abs/2601.18653)|null|
+|**2026-01-26**|**Synchronization and Localization in Ad-Hoc ICAS Networks Using a Two-Stage Kuramoto Method**|Dominik Neudert-Schulz et.al.|[2601.18643](http://arxiv.org/abs/2601.18643)|null|
+|**2026-01-26**|**SG-CADVLM: A Context-Aware Decoding Powered Vision Language Model for Safety-Critical Scenario Generation**|Hongyi Zhao et.al.|[2601.18442](http://arxiv.org/abs/2601.18442)|null|
+|**2026-01-26**|**Self-assembly of quasicrystals under cyclic shear**|Raphaël Maire et.al.|[2601.18403](http://arxiv.org/abs/2601.18403)|null|
+|**2026-01-26**|**Reinforcement Learning with Distributed MPC for Fuel-Efficient Platoon Control with Discrete Gear Transitions**|Samuel Mallick et.al.|[2601.18294](http://arxiv.org/abs/2601.18294)|null|
+|**2026-01-26**|**Experimental investigation of wall-pressure fluctuations on a fully appended submarine model at high Reynolds numbers**|Peng Jiang et.al.|[2601.18201](http://arxiv.org/abs/2601.18201)|null|
 |**2026-01-25**|**Agentic AI for Self-Driving Laboratories in Soft Matter: Taxonomy, Benchmarks,and Open Challenges**|Xuanzhou Chen et.al.|[2601.17920](http://arxiv.org/abs/2601.17920)|null|
 |**2026-01-25**|**Masked Depth Modeling for Spatial Perception**|Bin Tan et.al.|[2601.17895](http://arxiv.org/abs/2601.17895)|null|
 |**2026-01-25**|**An autonomous living database for perovskite photovoltaics**|Sherjeel Shabih et.al.|[2601.17807](http://arxiv.org/abs/2601.17807)|null|
@@ -4013,12 +4033,17 @@
 |**2019-11-12**|**Multi-Agent Connected Autonomous Driving using Deep Reinforcement Learning**|Praveen Palanisamy et.al.|[1911.04175](http://arxiv.org/abs/1911.04175)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
 
-<p align=right>(<a href=#updated-on-20260127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260128>back to top</a>)</p>
 
 ## Simulation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-27**|**ProVoice: Designing Proactive Functionality for In-Vehicle Conversational Assistants using Multi-Objective Bayesian Optimization to Enhance Driver Experience**|Josh Susak et.al.|[2601.19421](http://arxiv.org/abs/2601.19421)|null|
+|**2026-01-26**|**HumanoidTurk: Expanding VR Haptics with Humanoids for Driving Simulations**|DaeHo Lee et.al.|[2601.18975](http://arxiv.org/abs/2601.18975)|null|
+|**2026-01-26**|**SG-CADVLM: A Context-Aware Decoding Powered Vision Language Model for Safety-Critical Scenario Generation**|Hongyi Zhao et.al.|[2601.18442](http://arxiv.org/abs/2601.18442)|null|
+|**2026-01-26**|**Reinforcement Learning with Distributed MPC for Fuel-Efficient Platoon Control with Discrete Gear Transitions**|Samuel Mallick et.al.|[2601.18294](http://arxiv.org/abs/2601.18294)|null|
+|**2026-01-26**|**HeterCSI: Channel-Adaptive Heterogeneous CSI Pretraining Framework for Generalized Wireless Foundation Models**|Chenyu Zhang et.al.|[2601.18200](http://arxiv.org/abs/2601.18200)|null|
 |**2026-01-22**|**DMAVA: Distributed Multi-Autonomous Vehicle Architecture Using Autoware**|Zubair Islam et.al.|[2601.16336](http://arxiv.org/abs/2601.16336)|null|
 |**2026-01-22**|**EVolSplat4D: Efficient Volume-based Gaussian Splatting for 4D Urban Scene Synthesis**|Sheng Miao et.al.|[2601.15951](http://arxiv.org/abs/2601.15951)|null|
 |**2026-01-19**|**VILTA: A VLM-in-the-Loop Adversary for Enhancing Driving Policy Robustness**|Qimao Chen et.al.|[2601.12672](http://arxiv.org/abs/2601.12672)|null|
@@ -4492,12 +4517,13 @@
 |**2021-11-16**|**Towards Optimal Strategies for Training Self-Driving Perception Models in Simulation**|David Acuna et.al.|[2111.07971](http://arxiv.org/abs/2111.07971)|null|
 |**2020-07-08**|**Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously**|Mikita Sazanovich et.al.|[2007.03514](http://arxiv.org/abs/2007.03514)|null|
 
-<p align=right>(<a href=#updated-on-20260127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260128>back to top</a>)</p>
 
 ## Perception
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-27**|**Instance-Guided Radar Depth Estimation for 3D Object Detection**|Chen-Chou Lo et.al.|[2601.19314](http://arxiv.org/abs/2601.19314)|null|
 |**2026-01-20**|**Gaussian Based Adaptive Multi-Modal 3D Semantic Occupancy Prediction**|A. Enes Doruk et.al.|[2601.14448](http://arxiv.org/abs/2601.14448)|null|
 |**2026-01-16**|**ShapeR: Robust Conditional 3D Shape Generation from Casual Captures**|Yawar Siddiqui et.al.|[2601.11514](http://arxiv.org/abs/2601.11514)|null|
 |**2026-01-20**|**SatMap: Revisiting Satellite Maps as Prior for Online HD Map Construction**|Kanak Mazumder et.al.|[2601.10512](http://arxiv.org/abs/2601.10512)|null|
@@ -4888,7 +4914,7 @@
 |**2021-08-11**|**Joint Multi-Object Detection and Tracking with Camera-LiDAR Fusion for Autonomous Driving**|Kemiao Huang et.al.|[2108.04602](http://arxiv.org/abs/2108.04602)|null|
 |**2021-07-13**|**CFTrack: Center-based Radar and Camera Fusion for 3D Multi-Object Tracking**|Ramin Nabati et.al.|[2107.05150](http://arxiv.org/abs/2107.05150)|null|
 
-<p align=right>(<a href=#updated-on-20260127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260128>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
