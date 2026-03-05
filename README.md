@@ -1,4 +1,4 @@
-## Updated on 2026.03.04
+## Updated on 2026.03.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**Large-Language-Model-Guided State Estimation for Partially Observable Task and Motion Planning**|Yoonwoo Kim et.al.|[2603.03704](http://arxiv.org/abs/2603.03704)|null|
+|**2026-03-03**|**Sampling-Based Motion Planning with Scene Graphs Under Perception Constraints**|Qingxi Meng et.al.|[2603.03514](http://arxiv.org/abs/2603.03514)|null|
+|**2026-03-03**|**Multi-Agent-Based Simulation of Archaeological Mobility in Uneven Landscapes**|Chairi Kiourt et.al.|[2603.03390](http://arxiv.org/abs/2603.03390)|null|
+|**2026-03-03**|**RL-Based Coverage Path Planning for Deformable Objects on 3D Surfaces**|Yuhang Zhang et.al.|[2603.03137](http://arxiv.org/abs/2603.03137)|null|
 |**2026-03-03**|**SPARC: Spatial-Aware Path Planning via Attentive Robot Communication**|Sayang Mu et.al.|[2603.02845](http://arxiv.org/abs/2603.02845)|null|
 |**2026-03-03**|**Tilt Automata: Gathering Particles With Uniform External Control**|Sándor P. Fekete et.al.|[2603.02796](http://arxiv.org/abs/2603.02796)|null|
 |**2026-03-03**|**MMH-Planner: Multi-Mode Hybrid Trajectory Planning Method for UAV Efficient Flight Based on Real-Time Spatial Awareness**|Yinghao Zhao et.al.|[2603.02683](http://arxiv.org/abs/2603.02683)|null|
@@ -1434,7 +1438,7 @@
 |**2018-05-28**|**A Data-Driven Approach for Autonomous Motion Planning and Control in Off-Road Driving Scenarios**|Hossein Rastgoftar et.al.|[1805.09951](http://arxiv.org/abs/1805.09951)|null|
 |**2015-04-30**|**Planning for Optimal Feedback Control in the Volume of Free Space**|Dmitry Yershov et.al.|[1504.07940](http://arxiv.org/abs/1504.07940)|null|
 
-<p align=right>(<a href=#updated-on-20260304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
 
 ## End-to-end Driving
 
@@ -1561,7 +1565,7 @@
 |**2020-06-08**|**Explaining Autonomous Driving by Learning End-to-End Visual Attention**|Luca Cultrera et.al.|[2006.03347](http://arxiv.org/abs/2006.03347)|null|
 |**2020-10-27**|**Multimodal End-to-End Autonomous Driving**|Yi Xiao et.al.|[1906.03199](http://arxiv.org/abs/1906.03199)|null|
 
-<p align=right>(<a href=#updated-on-20260304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
 
 ## Prediction
 
@@ -2236,12 +2240,24 @@
 |**2021-01-19**|**PiP: Planning-informed Trajectory Prediction for Autonomous Driving**|Haoran Song et.al.|[2003.11476](http://arxiv.org/abs/2003.11476)|null|
 |**2020-11-09**|**DROGON: A Trajectory Prediction Model based on Intention-Conditioned Behavior Reasoning**|Chiho Choi et.al.|[1908.00024](http://arxiv.org/abs/1908.00024)|null|
 
-<p align=right>(<a href=#updated-on-20260304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**SaFeR: Safety-Critical Scenario Generation for Autonomous Driving Test via Feasibility-Constrained Token Resampling**|Jinlong Cui et.al.|[2603.04071](http://arxiv.org/abs/2603.04071)|null|
+|**2026-03-04**|**Map-Agnostic And Interactive Safety-Critical Scenario Generation via Multi-Objective Tree Search**|Wenyun Li et.al.|[2603.03978](http://arxiv.org/abs/2603.03978)|null|
+|**2026-03-04**|**Spatial Causal Prediction in Video**|Yanguang Zhao et.al.|[2603.03944](http://arxiv.org/abs/2603.03944)|null|
+|**2026-03-04**|**Topological defects in buckled colloidal monolayers**|Aaron L. Galper et.al.|[2603.03813](http://arxiv.org/abs/2603.03813)|null|
+|**2026-03-04**|**LiDAR Prompted Spatio-Temporal Multi-View Stereo for Autonomous Driving**|Qihao Sun et.al.|[2603.03765](http://arxiv.org/abs/2603.03765)|null|
+|**2026-03-03**|**Safety-Centered Scenario Generation for Autonomous Vehicles**|Kiruthiga Chandra Shekar et.al.|[2603.03574](http://arxiv.org/abs/2603.03574)|null|
+|**2026-03-03**|**Analyzing the Impact of Adversarial Attacks on C-V2X-Enabled Road Safety: An Age of Information Perspective**|Mahmudul Hassan Ashik et.al.|[2603.03462](http://arxiv.org/abs/2603.03462)|null|
+|**2026-03-03**|**Radar-based Pose Optimization for HD Map Generation from Noisy Multi-Drive Vehicle Fleet Data**|Alexander Blumberg et.al.|[2603.03453](http://arxiv.org/abs/2603.03453)|null|
+|**2026-03-03**|**Impact of Localization Errors on Label Quality for Online HD Map Construction**|Alexander Blumberg et.al.|[2603.03452](http://arxiv.org/abs/2603.03452)|null|
+|**2026-03-03**|**Utonia: Toward One Encoder for All Point Clouds**|Yujia Zhang et.al.|[2603.03283](http://arxiv.org/abs/2603.03283)|null|
+|**2026-03-03**|**ACE-Brain-0: Spatial Intelligence as a Shared Scaffold for Universal Embodiments**|Ziyang Gong et.al.|[2603.03198](http://arxiv.org/abs/2603.03198)|null|
+|**2026-03-03**|**Turbulent Nature of the Quasicontinuous Exhaust Regime for Fusion Plasmas**|Kaiyu Zhang et.al.|[2603.03123](http://arxiv.org/abs/2603.03123)|null|
 |**2026-03-03**|**Exploiting Repetitions and Interference Cancellation for the 6G-V2X Sidelink Autonomous Mode**|Alessandro Bazzi et.al.|[2603.03039](http://arxiv.org/abs/2603.03039)|null|
 |**2026-03-03**|**First-order transition into a topological superfluid state in an atom-cavity system**|Hannah Kleine-Pollmann et.al.|[2603.03034](http://arxiv.org/abs/2603.03034)|null|
 |**2026-03-03**|**Real-Time Generative Policy via Langevin-Guided Flow Matching for Autonomous Driving**|Tianze Zhu et.al.|[2603.02613](http://arxiv.org/abs/2603.02613)|null|
@@ -4452,12 +4468,15 @@
 |**2019-11-12**|**Multi-Agent Connected Autonomous Driving using Deep Reinforcement Learning**|Praveen Palanisamy et.al.|[1911.04175](http://arxiv.org/abs/1911.04175)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
 
-<p align=right>(<a href=#updated-on-20260304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
 
 ## Simulation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**SaFeR: Safety-Critical Scenario Generation for Autonomous Driving Test via Feasibility-Constrained Token Resampling**|Jinlong Cui et.al.|[2603.04071](http://arxiv.org/abs/2603.04071)|null|
+|**2026-03-04**|**Map-Agnostic And Interactive Safety-Critical Scenario Generation via Multi-Objective Tree Search**|Wenyun Li et.al.|[2603.03978](http://arxiv.org/abs/2603.03978)|null|
+|**2026-03-03**|**Safety-Centered Scenario Generation for Autonomous Vehicles**|Kiruthiga Chandra Shekar et.al.|[2603.03574](http://arxiv.org/abs/2603.03574)|null|
 |**2026-03-03**|**AnchorDrive: LLM Scenario Rollout with Anchor-Guided Diffusion Regeneration for Safety-Critical Scenario Generation**|Zhulin Jiang et.al.|[2603.02542](http://arxiv.org/abs/2603.02542)|null|
 |**2026-03-02**|**CyclicJudge: Mitigating Judge Bias Efficiently in LLM-based Evaluation**|Ziyi Zhu et.al.|[2603.01865](http://arxiv.org/abs/2603.01865)|null|
 |**2026-02-26**|**Does the testing environment matter? Carsickness across on-road, test-track, and driving simulator conditions**|Georgios Papaioannou et.al.|[2602.22671](http://arxiv.org/abs/2602.22671)|null|
@@ -4958,7 +4977,7 @@
 |**2021-11-16**|**Towards Optimal Strategies for Training Self-Driving Perception Models in Simulation**|David Acuna et.al.|[2111.07971](http://arxiv.org/abs/2111.07971)|null|
 |**2020-07-08**|**Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously**|Mikita Sazanovich et.al.|[2007.03514](http://arxiv.org/abs/2007.03514)|null|
 
-<p align=right>(<a href=#updated-on-20260304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
 
 ## Perception
 
@@ -5372,7 +5391,7 @@
 |**2021-08-11**|**Joint Multi-Object Detection and Tracking with Camera-LiDAR Fusion for Autonomous Driving**|Kemiao Huang et.al.|[2108.04602](http://arxiv.org/abs/2108.04602)|null|
 |**2021-07-13**|**CFTrack: Center-based Radar and Camera Fusion for 3D Multi-Object Tracking**|Ramin Nabati et.al.|[2107.05150](http://arxiv.org/abs/2107.05150)|null|
 
-<p align=right>(<a href=#updated-on-20260304>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260305>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
