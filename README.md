@@ -1,4 +1,4 @@
-## Updated on 2026.03.11
+## Updated on 2026.03.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-11**|**GRACE: A Unified 2D Multi-Robot Path Planning Simulator & Benchmark for Grid, Roadmap, And Continuous Environments**|Chuanlong Zang et.al.|[2603.10858](http://arxiv.org/abs/2603.10858)|null|
+|**2026-03-11**|**Scaling and Trade-offs in Multi-agent Autonomous Systems**|Abram H. Clark et.al.|[2603.10743](http://arxiv.org/abs/2603.10743)|null|
+|**2026-03-11**|**Interleaving Scheduling and Motion Planning with Incremental Learning of Symbolic Space-Time Motion Abstractions**|Elisa Tosello et.al.|[2603.10651](http://arxiv.org/abs/2603.10651)|null|
+|**2026-03-11**|**Path Planning for Sound Speed Profile Estimation**|Ludvig Lindström et.al.|[2603.10585](http://arxiv.org/abs/2603.10585)|null|
+|**2026-03-11**|**KnowDiffuser: A Knowledge-Guided Diffusion Planner with LM Reasoning and Prior-Informed Trajectory Initialization**|Fan Ding et.al.|[2603.10441](http://arxiv.org/abs/2603.10441)|null|
+|**2026-03-11**|**Rethinking Gaussian Trajectory Predictors: Calibrated Uncertainty for Safe Planning**|Fatemeh Cheraghi Pouria et.al.|[2603.10407](http://arxiv.org/abs/2603.10407)|null|
 |**2026-03-10**|**Declarative Scenario-based Testing with RoadLogic**|Ezio Bartocci et.al.|[2603.09455](http://arxiv.org/abs/2603.09455)|null|
 |**2026-03-10**|**On the topological complexity of non-simply connected spaces**|Yuki Minowa et.al.|[2603.09407](http://arxiv.org/abs/2603.09407)|null|
 |**2026-03-10**|**WESPR: Wind-adaptive Energy-Efficient Safe Perception & Planning for Robust Flight with Quadrotors**|Khuzema Habib et.al.|[2603.09194](http://arxiv.org/abs/2603.09194)|null|
@@ -1472,7 +1478,7 @@
 |**2018-05-28**|**A Data-Driven Approach for Autonomous Motion Planning and Control in Off-Road Driving Scenarios**|Hossein Rastgoftar et.al.|[1805.09951](http://arxiv.org/abs/1805.09951)|null|
 |**2015-04-30**|**Planning for Optimal Feedback Control in the Volume of Free Space**|Dmitry Yershov et.al.|[1504.07940](http://arxiv.org/abs/1504.07940)|null|
 
-<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260312>back to top</a>)</p>
 
 ## End-to-end Driving
 
@@ -1601,12 +1607,15 @@
 |**2020-06-08**|**Explaining Autonomous Driving by Learning End-to-End Visual Attention**|Luca Cultrera et.al.|[2006.03347](http://arxiv.org/abs/2006.03347)|null|
 |**2020-10-27**|**Multimodal End-to-End Autonomous Driving**|Yi Xiao et.al.|[1906.03199](http://arxiv.org/abs/1906.03199)|null|
 
-<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260312>back to top</a>)</p>
 
 ## Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-11**|**Evaluating randomized smoothing as a defense against adversarial attacks in trajectory prediction**|Julian F. Schumann et.al.|[2603.10821](http://arxiv.org/abs/2603.10821)|null|
+|**2026-03-11**|**Recover to Predict: Progressive Retrospective Learning for Variable-Length Trajectory Prediction**|Hao Zhou et.al.|[2603.10597](http://arxiv.org/abs/2603.10597)|null|
+|**2026-03-11**|**Rethinking Gaussian Trajectory Predictors: Calibrated Uncertainty for Safe Planning**|Fatemeh Cheraghi Pouria et.al.|[2603.10407](http://arxiv.org/abs/2603.10407)|null|
 |**2026-03-10**|**MetaDAT: Generalizable Trajectory Prediction via Meta Pre-training and Data-Adaptive Test-Time Updating**|Yuning Wang et.al.|[2603.09419](http://arxiv.org/abs/2603.09419)|null|
 |**2026-03-07**|**A Lightweight Digital-Twin-Based Framework for Edge-Assisted Vehicle Tracking and Collision Prediction**|Murat Arda Onsu et.al.|[2603.07338](http://arxiv.org/abs/2603.07338)|null|
 |**2026-03-06**|**A prior information informed learning architecture for flying trajectory prediction**|Xianda Huang et.al.|[2603.06863](http://arxiv.org/abs/2603.06863)|null|
@@ -2285,12 +2294,25 @@
 |**2021-01-19**|**PiP: Planning-informed Trajectory Prediction for Autonomous Driving**|Haoran Song et.al.|[2003.11476](http://arxiv.org/abs/2003.11476)|null|
 |**2020-11-09**|**DROGON: A Trajectory Prediction Model based on Intention-Conditioned Behavior Reasoning**|Chiho Choi et.al.|[1908.00024](http://arxiv.org/abs/1908.00024)|null|
 
-<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260312>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-11**|**DynVLA: Learning World Dynamics for Action Reasoning in Autonomous Driving**|Shuyao Shang et.al.|[2603.11041](http://arxiv.org/abs/2603.11041)|null|
+|**2026-03-11**|**Dzyaloshinskii-Moriya-driven instabilities in square-kagome quantum antiferromagnets**|Leonid S. Taran et.al.|[2603.10998](http://arxiv.org/abs/2603.10998)|null|
+|**2026-03-11**|**STADA: Specification-based Testing for Autonomous Driving Agents**|Joy Saha et.al.|[2603.10940](http://arxiv.org/abs/2603.10940)|null|
+|**2026-03-11**|**Tuning correlated states of twisted mono-bilayer graphene with proximity-induced spin-orbit coupling**|Jeyong Park et.al.|[2603.10914](http://arxiv.org/abs/2603.10914)|null|
+|**2026-03-11**|**Evaluating randomized smoothing as a defense against adversarial attacks in trajectory prediction**|Julian F. Schumann et.al.|[2603.10821](http://arxiv.org/abs/2603.10821)|null|
+|**2026-03-11**|**Electromagnetic Signatures of Supermassive Binary Black Holes. I. Thermal Synchrotron, Self-Lensing Flares, and Jet Precession**|Hong-Xuan Jiang et.al.|[2603.10792](http://arxiv.org/abs/2603.10792)|null|
+|**2026-03-11**|**MapGCLR: Geospatial Contrastive Learning of Representations for Online Vectorized HD Map Construction**|Jonas Merkert et.al.|[2603.10688](http://arxiv.org/abs/2603.10688)|null|
+|**2026-03-11**|**ATP Level and Phosphorylation Free Energy Regulate Trigger-Wave Speed and Critical Nucleus Size in Cellular Biochemical Systems**|Jianwei Li et.al.|[2603.10669](http://arxiv.org/abs/2603.10669)|null|
+|**2026-03-11**|**Recover to Predict: Progressive Retrospective Learning for Variable-Length Trajectory Prediction**|Hao Zhou et.al.|[2603.10597](http://arxiv.org/abs/2603.10597)|null|
+|**2026-03-11**|**KnowDiffuser: A Knowledge-Guided Diffusion Planner with LM Reasoning and Prior-Informed Trajectory Initialization**|Fan Ding et.al.|[2603.10441](http://arxiv.org/abs/2603.10441)|null|
+|**2026-03-11**|**Motion Forcing: A Decoupled Framework for Robust Video Generation in Motion Dynamics**|Tianshuo Xu et.al.|[2603.10408](http://arxiv.org/abs/2603.10408)|null|
+|**2026-03-11**|**PC-Diffuser: Path-Consistent Capsule CBF Safety Filtering for Diffusion-Based Trajectory Planner**|Eugene Ku et.al.|[2603.10330](http://arxiv.org/abs/2603.10330)|null|
+|**2026-03-10**|**HG-Lane: High-Fidelity Generation of Lane Scenes under Adverse Weather and Lighting Conditions without Re-annotation**|Daichao Zhao et.al.|[2603.10128](http://arxiv.org/abs/2603.10128)|null|
 |**2026-03-10**|**Thinking to Recall: How Reasoning Unlocks Parametric Knowledge in LLMs**|Zorik Gekhman et.al.|[2603.09906](http://arxiv.org/abs/2603.09906)|null|
 |**2026-03-10**|**$M^2$ -Occ: Resilient 3D Semantic Occupancy Prediction for Autonomous Driving with Incomplete Camera Inputs**|Kaixin Lin et.al.|[2603.09737](http://arxiv.org/abs/2603.09737)|null|
 |**2026-03-10**|**Tunable shear thickening in active non-Brownian suspensions**|Bhanu Prasad Bhowmik et.al.|[2603.09620](http://arxiv.org/abs/2603.09620)|null|
@@ -4573,12 +4595,13 @@
 |**2019-11-12**|**Multi-Agent Connected Autonomous Driving using Deep Reinforcement Learning**|Praveen Palanisamy et.al.|[1911.04175](http://arxiv.org/abs/1911.04175)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
 
-<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260312>back to top</a>)</p>
 
 ## Simulation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-11**|**STADA: Specification-based Testing for Autonomous Driving Agents**|Joy Saha et.al.|[2603.10940](http://arxiv.org/abs/2603.10940)|null|
 |**2026-03-09**|**MRDrive: An Open Source Mixed Reality Driving Simulator for Automotive User Research**|Patrick Ebel et.al.|[2603.08080](http://arxiv.org/abs/2603.08080)|null|
 |**2026-03-08**|**ReconDrive: Fast Feed-Forward 4D Gaussian Splatting for Autonomous Driving Scene Reconstruction**|Haibao Yu et.al.|[2603.07552](http://arxiv.org/abs/2603.07552)|null|
 |**2026-03-07**|**A Lightweight Digital-Twin-Based Framework for Edge-Assisted Vehicle Tracking and Collision Prediction**|Murat Arda Onsu et.al.|[2603.07338](http://arxiv.org/abs/2603.07338)|null|
@@ -5089,7 +5112,7 @@
 |**2021-11-16**|**Towards Optimal Strategies for Training Self-Driving Perception Models in Simulation**|David Acuna et.al.|[2111.07971](http://arxiv.org/abs/2111.07971)|null|
 |**2020-07-08**|**Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously**|Mikita Sazanovich et.al.|[2007.03514](http://arxiv.org/abs/2007.03514)|null|
 
-<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260312>back to top</a>)</p>
 
 ## Perception
 
@@ -5513,7 +5536,7 @@
 |**2021-08-11**|**Joint Multi-Object Detection and Tracking with Camera-LiDAR Fusion for Autonomous Driving**|Kemiao Huang et.al.|[2108.04602](http://arxiv.org/abs/2108.04602)|null|
 |**2021-07-13**|**CFTrack: Center-based Radar and Camera Fusion for 3D Multi-Object Tracking**|Ramin Nabati et.al.|[2107.05150](http://arxiv.org/abs/2107.05150)|null|
 
-<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260312>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
