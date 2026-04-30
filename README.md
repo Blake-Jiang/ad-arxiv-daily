@@ -1,4 +1,4 @@
-## Updated on 2026.04.29
+## Updated on 2026.04.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-29**|**Bi-Level Optimization for Contact and Motion Planning in Rope-Assisted Legged Robots**|Ruben Malacarne et.al.|[2604.26910](http://arxiv.org/abs/2604.26910)|null|
+|**2026-04-29**|**Safe Navigation using Neural Radiance Fields via Reachable Sets**|Omanshu Thapliyal et.al.|[2604.26899](http://arxiv.org/abs/2604.26899)|null|
 |**2026-04-28**|**KinDER: A Physical Reasoning Benchmark for Robot Learning and Planning**|Yixuan Huang et.al.|[2604.25788](http://arxiv.org/abs/2604.25788)|null|
 |**2026-04-28**|**Optimal UGV-UAV Cooperative Partitioning and Inspection of Shortest Paths**|Ninh Nguyen et.al.|[2604.25284](http://arxiv.org/abs/2604.25284)|null|
 |**2026-04-28**|**Dynamic UGV-UAV Cooperative Path Planning in Uncertain Environments**|Ninh Nguyen et.al.|[2604.25267](http://arxiv.org/abs/2604.25267)|null|
@@ -1664,7 +1666,7 @@
 |**2018-05-28**|**A Data-Driven Approach for Autonomous Motion Planning and Control in Off-Road Driving Scenarios**|Hossein Rastgoftar et.al.|[1805.09951](http://arxiv.org/abs/1805.09951)|null|
 |**2015-04-30**|**Planning for Optimal Feedback Control in the Volume of Free Space**|Dmitry Yershov et.al.|[1504.07940](http://arxiv.org/abs/1504.07940)|null|
 
-<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
 
 ## End-to-end Driving
 
@@ -1823,12 +1825,13 @@
 |**2020-06-08**|**Explaining Autonomous Driving by Learning End-to-End Visual Attention**|Luca Cultrera et.al.|[2006.03347](http://arxiv.org/abs/2006.03347)|null|
 |**2020-10-27**|**Multimodal End-to-End Autonomous Driving**|Yi Xiao et.al.|[1906.03199](http://arxiv.org/abs/1906.03199)|null|
 
-<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
 
 ## Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-28**|**Hierarchical Multi-Persona Induction from User Behavioral Logs: Learning Evidence-Grounded and Truthful Personas**|Nayoung Choi et.al.|[2604.26120](http://arxiv.org/abs/2604.26120)|null|
 |**2026-04-27**|**SceneSelect: Selective Learning for Trajectory Scene Classification and Expert Scheduling**|Xinrun Wang et.al.|[2604.24514](http://arxiv.org/abs/2604.24514)|null|
 |**2026-04-26**|**ESIA: An Energy-Based Spatiotemporal Interaction-Aware Framework for Pedestrian Intention Prediction**|Yanping Wu et.al.|[2604.23728](http://arxiv.org/abs/2604.23728)|null|
 |**2026-04-26**|**Hamiltonian Graph Inference Networks: Joint structure discovery and dynamics prediction for lattice Hamiltonian systems from trajectory data**|Ru Geng et.al.|[2604.23606](http://arxiv.org/abs/2604.23606)|null|
@@ -2586,12 +2589,18 @@
 |**2021-01-19**|**PiP: Planning-informed Trajectory Prediction for Autonomous Driving**|Haoran Song et.al.|[2003.11476](http://arxiv.org/abs/2003.11476)|null|
 |**2020-11-09**|**DROGON: A Trajectory Prediction Model based on Intention-Conditioned Behavior Reasoning**|Chiho Choi et.al.|[1908.00024](http://arxiv.org/abs/1908.00024)|null|
 
-<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-29**|**A well-motivated model of pedestrian dynamics**|Ezel Üsten et.al.|[2604.26858](http://arxiv.org/abs/2604.26858)|null|
+|**2026-04-29**|**Bian Que: An Agentic Framework with Flexible Skill Arrangement for Online System Operations**|Bochao Liu et.al.|[2604.26805](http://arxiv.org/abs/2604.26805)|null|
+|**2026-04-29**|**Invariant manifolds in barred galaxy simulations. I. Material density waves**|Toni Soler-Terricabras et.al.|[2604.26742](http://arxiv.org/abs/2604.26742)|null|
+|**2026-04-29**|**Recipes for Calibration Checks in Safety-Critical Applications**|Romeo Valentin et.al.|[2604.26479](http://arxiv.org/abs/2604.26479)|null|
+|**2026-04-28**|**SWAN: World-Aware Adaptive Multimodal Networks for Runtime Variations**|Jason Wu et.al.|[2604.26181](http://arxiv.org/abs/2604.26181)|null|
+|**2026-04-28**|**Risk Assessments for Evasive Emergency Maneuvers in Autonomous Vehicles**|Aliasghar Arab et.al.|[2604.26050](http://arxiv.org/abs/2604.26050)|null|
 |**2026-04-28**|**Curiosity and Metacognition: Towards a Unified Framework for Learning and Education in the Age of AI**|Chloé Desvaux et.al.|[2604.25648](http://arxiv.org/abs/2604.25648)|null|
 |**2026-04-28**|**Control Your Queries: Heterogeneous Query Interaction for Camera-Radar Fusion**|Jialong Wu et.al.|[2604.25574](http://arxiv.org/abs/2604.25574)|null|
 |**2026-04-28**|**Leveraging Previous-Traversal Point Cloud Map Priors for Camera-Based 3D Object Detection and Tracking**|Markus Käppeler et.al.|[2604.25405](http://arxiv.org/abs/2604.25405)|null|
@@ -5275,12 +5284,13 @@
 |**2019-11-12**|**Multi-Agent Connected Autonomous Driving using Deep Reinforcement Learning**|Praveen Palanisamy et.al.|[1911.04175](http://arxiv.org/abs/1911.04175)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
 
-<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
 
 ## Simulation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-28**|**Risk Assessments for Evasive Emergency Maneuvers in Autonomous Vehicles**|Aliasghar Arab et.al.|[2604.26050](http://arxiv.org/abs/2604.26050)|null|
 |**2026-04-28**|**Using Large Language Models for Black-Box Testing of FMU-Based Simulations**|Abdullah Mughees et.al.|[2604.25650](http://arxiv.org/abs/2604.25650)|null|
 |**2026-04-27**|**Projected Attainable Speed Space: A Driving Efficiency Metric Connecting Instantaneous Evaluation to Travel Time**|Xiaohua Zhao et.al.|[2604.24295](http://arxiv.org/abs/2604.24295)|null|
 |**2026-04-26**|**Physics-Aware LLM-Based Probabilistic Wind Power Scenario Generation under Extreme Icing Conditions**|Lei Wang et.al.|[2604.23524](http://arxiv.org/abs/2604.23524)|null|
@@ -5834,12 +5844,14 @@
 |**2021-11-16**|**Towards Optimal Strategies for Training Self-Driving Perception Models in Simulation**|David Acuna et.al.|[2111.07971](http://arxiv.org/abs/2111.07971)|null|
 |**2020-07-08**|**Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously**|Mikita Sazanovich et.al.|[2007.03514](http://arxiv.org/abs/2007.03514)|null|
 
-<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
 
 ## Perception
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-29**|**Motion-Driven Multi-Object Tracking of Model Organisms in Space Science Experiments**|Jianing You et.al.|[2604.26321](http://arxiv.org/abs/2604.26321)|null|
+|**2026-04-28**|**SWAN: World-Aware Adaptive Multimodal Networks for Runtime Variations**|Jason Wu et.al.|[2604.26181](http://arxiv.org/abs/2604.26181)|null|
 |**2026-04-28**|**No Pedestrian Left Behind: Real-Time Detection and Tracking of Vulnerable Road Users for Adaptive Traffic Signal Control**|Anas Gamal Aly et.al.|[2604.25887](http://arxiv.org/abs/2604.25887)|null|
 |**2026-04-27**|**WildLIFT: Lifting monocular drone video to 3D for species-agnostic wildlife monitoring**|Vandita Shukla et.al.|[2604.24718](http://arxiv.org/abs/2604.24718)|null|
 |**2026-04-24**|**Railway Artificial Intelligence Learning Benchmark (RAIL-BENCH): A Benchmark Suite for Perception in the Railway Domain**|Annika Bätz et.al.|[2604.22507](http://arxiv.org/abs/2604.22507)|null|
@@ -6310,7 +6322,7 @@
 |**2021-08-11**|**Joint Multi-Object Detection and Tracking with Camera-LiDAR Fusion for Autonomous Driving**|Kemiao Huang et.al.|[2108.04602](http://arxiv.org/abs/2108.04602)|null|
 |**2021-07-13**|**CFTrack: Center-based Radar and Camera Fusion for 3D Multi-Object Tracking**|Ramin Nabati et.al.|[2107.05150](http://arxiv.org/abs/2107.05150)|null|
 
-<p align=right>(<a href=#updated-on-20260429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260430>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
