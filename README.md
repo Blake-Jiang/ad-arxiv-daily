@@ -1,4 +1,4 @@
-## Updated on 2026.05.05
+## Updated on 2026.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-05**|**Sinkhorn Ambiguity Sets for Distributionally Robust Control: Convexity, Weak Compactness, and Tractability**|Riccardo Cescon et.al.|[2605.03845](http://arxiv.org/abs/2605.03845)|null|
+|**2026-05-05**|**Feasibility-aware Hybrid Control for Motion Planning under Signal Temporal Logics**|Panagiotis Rousseas et.al.|[2605.03662](http://arxiv.org/abs/2605.03662)|null|
+|**2026-05-04**|**Hybrid Machine Learning and Physical Modeling of Feedstock Deformation During Robotic 3D Printing of Continuous Fiber Thermoplastic Composites**|Chady Ghnatios et.al.|[2605.03186](http://arxiv.org/abs/2605.03186)|null|
 |**2026-05-04**|**Semantic Risk-Aware Heuristic Planning for Robotic Navigation in Dynamic Environments: An LLM-Inspired Approach**|Hamza Ahmed Durrani et.al.|[2605.02862](http://arxiv.org/abs/2605.02862)|null|
 |**2026-05-04**|**Parking Assistance for Trailer-Truck Transport Vehicles Using Sensor Fusion and Motion Planning**|George Alenchery et.al.|[2605.02716](http://arxiv.org/abs/2605.02716)|null|
 |**2026-05-04**|**Feedback Motion Planning for Stochastic Nonlinear Systems with Signal Temporal Logic Specifications**|Liqian Ma et.al.|[2605.02361](http://arxiv.org/abs/2605.02361)|null|
@@ -1679,7 +1682,7 @@
 |**2018-05-28**|**A Data-Driven Approach for Autonomous Motion Planning and Control in Off-Road Driving Scenarios**|Hossein Rastgoftar et.al.|[1805.09951](http://arxiv.org/abs/1805.09951)|null|
 |**2015-04-30**|**Planning for Optimal Feedback Control in the Volume of Free Space**|Dmitry Yershov et.al.|[1504.07940](http://arxiv.org/abs/1504.07940)|null|
 
-<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 ## End-to-end Driving
 
@@ -1839,7 +1842,7 @@
 |**2020-06-08**|**Explaining Autonomous Driving by Learning End-to-End Visual Attention**|Luca Cultrera et.al.|[2006.03347](http://arxiv.org/abs/2006.03347)|null|
 |**2020-10-27**|**Multimodal End-to-End Autonomous Driving**|Yi Xiao et.al.|[1906.03199](http://arxiv.org/abs/1906.03199)|null|
 
-<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 ## Prediction
 
@@ -2608,12 +2611,18 @@
 |**2021-01-19**|**PiP: Planning-informed Trajectory Prediction for Autonomous Driving**|Haoran Song et.al.|[2003.11476](http://arxiv.org/abs/2003.11476)|null|
 |**2020-11-09**|**DROGON: A Trajectory Prediction Model based on Intention-Conditioned Behavior Reasoning**|Chiho Choi et.al.|[1908.00024](http://arxiv.org/abs/1908.00024)|null|
 
-<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-05**|**Online Energy Management for Bidirectional EV Charging with Rooftop PV: An Aging-Aware MPC Approach**|Francesco Popolizio et.al.|[2605.03844](http://arxiv.org/abs/2605.03844)|null|
+|**2026-05-05**|**Diffusion Masked Pretraining for Dynamic Point Cloud**|Zhuoyue Zhang et.al.|[2605.03639](http://arxiv.org/abs/2605.03639)|null|
+|**2026-05-05**|**Real-Time Evaluation of Autonomous Systems under Adversarial Attacks**|Adithya Mohan et.al.|[2605.03491](http://arxiv.org/abs/2605.03491)|null|
+|**2026-05-05**|**GRAFT: Auditing Graph Neural Networks via Global Feature Attribution**|Rishi Raj Sahoo et.al.|[2605.03377](http://arxiv.org/abs/2605.03377)|null|
+|**2026-05-05**|**Dual-Foundation Models for Unsupervised Domain Adaptation**|Yerin Cheon et.al.|[2605.03365](http://arxiv.org/abs/2605.03365)|null|
+|**2026-05-04**|**ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration**|Ruofeng Yang et.al.|[2605.03042](http://arxiv.org/abs/2605.03042)|null|
 |**2026-05-04**|**Characterizing the bolometric-photoevaporative transition in young sub-Neptunes with radiation-hydrodynamic simulations**|William Misener et.al.|[2605.02766](http://arxiv.org/abs/2605.02766)|null|
 |**2026-05-04**|**Unified Map Prior Encoder for Mapping and Planning**|Zongzheng Zhang et.al.|[2605.02762](http://arxiv.org/abs/2605.02762)|null|
 |**2026-05-04**|**Parking Assistance for Trailer-Truck Transport Vehicles Using Sensor Fusion and Motion Planning**|George Alenchery et.al.|[2605.02716](http://arxiv.org/abs/2605.02716)|null|
@@ -5341,7 +5350,7 @@
 |**2019-11-12**|**Multi-Agent Connected Autonomous Driving using Deep Reinforcement Learning**|Praveen Palanisamy et.al.|[1911.04175](http://arxiv.org/abs/1911.04175)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
 
-<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 ## Simulation
 
@@ -5904,7 +5913,7 @@
 |**2021-11-16**|**Towards Optimal Strategies for Training Self-Driving Perception Models in Simulation**|David Acuna et.al.|[2111.07971](http://arxiv.org/abs/2111.07971)|null|
 |**2020-07-08**|**Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously**|Mikita Sazanovich et.al.|[2007.03514](http://arxiv.org/abs/2007.03514)|null|
 
-<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 ## Perception
 
@@ -6385,7 +6394,7 @@
 |**2021-08-11**|**Joint Multi-Object Detection and Tracking with Camera-LiDAR Fusion for Autonomous Driving**|Kemiao Huang et.al.|[2108.04602](http://arxiv.org/abs/2108.04602)|null|
 |**2021-07-13**|**CFTrack: Center-based Radar and Camera Fusion for 3D Multi-Object Tracking**|Ramin Nabati et.al.|[2107.05150](http://arxiv.org/abs/2107.05150)|null|
 
-<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
