@@ -1,4 +1,4 @@
-## Updated on 2026.05.12
+## Updated on 2026.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1696,12 +1696,17 @@
 |**2018-05-28**|**A Data-Driven Approach for Autonomous Motion Planning and Control in Off-Road Driving Scenarios**|Hossein Rastgoftar et.al.|[1805.09951](http://arxiv.org/abs/1805.09951)|null|
 |**2015-04-30**|**Planning for Optimal Feedback Control in the Volume of Free Space**|Dmitry Yershov et.al.|[1504.07940](http://arxiv.org/abs/1504.07940)|null|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## End-to-end Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-11**|**DeepSight: Long-Horizon World Modeling via Latent States Prediction for End-to-End Autonomous Driving**|Lingjun Zhang et.al.|[2605.10564](http://arxiv.org/abs/2605.10564)|null|
+|**2026-05-11**|**CoWorld-VLA: Thinking in a Multi-Expert World Model for Autonomous Driving**|Minqing Huang et.al.|[2605.10426](http://arxiv.org/abs/2605.10426)|null|
+|**2026-05-11**|**HiDrive: A Closed-Loop Benchmark for High-Level Autonomous Driving**|Zhongyu Xia et.al.|[2605.09972](http://arxiv.org/abs/2605.09972)|null|
+|**2026-05-09**|**VECTOR-Drive: Tightly Coupled Vision-Language and Trajectory Expert Routing for End-to-End Autonomous Driving**|Rui Zhao et.al.|[2605.08830](http://arxiv.org/abs/2605.08830)|null|
+|**2026-05-12**|**VLADriver-RAG: Retrieval-Augmented Vision-Language-Action Models for Autonomous Driving**|Rui Zhao et.al.|[2605.08133](http://arxiv.org/abs/2605.08133)|null|
 |**2026-05-08**|**See Tomorrow, Act Today: Foresight-Driven Autonomous Driving**|Bozhou Zhang et.al.|[2605.07195](http://arxiv.org/abs/2605.07195)|null|
 |**2026-05-07**|**Can Attribution Predict Risk? From Multi-View Attribution to Planning Risk Signals in End-to-End Autonomous Driving**|Le Yang et.al.|[2605.06264](http://arxiv.org/abs/2605.06264)|null|
 |**2026-04-26**|**Adversarial Flow Matching for Imperceptible Attacks on End-to-End Autonomous Driving**|Xinyu Zeng et.al.|[2605.00880](http://arxiv.org/abs/2605.00880)|null|
@@ -1858,12 +1863,23 @@
 |**2020-06-08**|**Explaining Autonomous Driving by Learning End-to-End Visual Attention**|Luca Cultrera et.al.|[2006.03347](http://arxiv.org/abs/2006.03347)|null|
 |**2020-10-27**|**Multimodal End-to-End Autonomous Driving**|Yi Xiao et.al.|[1906.03199](http://arxiv.org/abs/1906.03199)|null|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-12**|**Lane-Aware Graph Attention Network for Multi-Vehicle Trajectory Prediction in Expressway Merge Zones**|Eni Solomon Laughter et.al.|[2605.11940](http://arxiv.org/abs/2605.11940)|null|
+|**2026-05-12**|**RecRM-Bench: Benchmarking Multidimensional Reward Modeling for Agentic Recommender Systems**|Wenwen Zeng et.al.|[2605.11874](http://arxiv.org/abs/2605.11874)|null|
+|**2026-05-12**|**Encore: Conditioning Trajectory Forecasting via Biased Ego Rehearsals**|Conghao Wong et.al.|[2605.11463](http://arxiv.org/abs/2605.11463)|null|
+|**2026-05-12**|**JACoP: Joint Alignment for Compliant Multi-Agent Prediction**|Qingze Liu et.al.|[2605.11385](http://arxiv.org/abs/2605.11385)|null|
+|**2026-05-11**|**Temporal Sampling Frequency Matters: A Capacity-Aware Study of End-to-End Driving Trajectory Prediction**|Yumao Liu et.al.|[2605.10388](http://arxiv.org/abs/2605.10388)|null|
+|**2026-05-11**|**SleepWalk: A Three-Tier Benchmark for Stress-Testing Instruction-Guided Vision-Language Navigation**|Niyati Rawal et.al.|[2605.10376](http://arxiv.org/abs/2605.10376)|null|
+|**2026-05-12**|**Learning the Interaction Prior for Protein-Protein Interaction Prediction: A Model-Agnostic Approach**|Ziqi Gao et.al.|[2605.09964](http://arxiv.org/abs/2605.09964)|null|
+|**2026-05-09**|**Latency Analysis and Optimization of Alpamayo 1 via Efficient Trajectory Generation**|Yunseong Jeon et.al.|[2605.08975](http://arxiv.org/abs/2605.08975)|null|
+|**2026-05-09**|**DocScope: Benchmarking Verifiable Reasoning for Trustworthy Long-Document Understanding**|Xiang Feng et.al.|[2605.08888](http://arxiv.org/abs/2605.08888)|null|
+|**2026-05-09**|**VECTOR-Drive: Tightly Coupled Vision-Language and Trajectory Expert Routing for End-to-End Autonomous Driving**|Rui Zhao et.al.|[2605.08830](http://arxiv.org/abs/2605.08830)|null|
+|**2026-05-09**|**Enhancing Consistency Models for Multi-Agent Trajectory Prediction**|Alen Mrdovic et.al.|[2605.08572](http://arxiv.org/abs/2605.08572)|null|
 |**2026-05-08**|**PRISM: Refracting the Entangled User Behavior Space for E-Commerce Search**|Haoqian Zhang et.al.|[2605.07296](http://arxiv.org/abs/2605.07296)|null|
 |**2026-05-07**|**PAMPOS: Causal Transformer-based Trajectory Prediction for Attack-Agnostic Misbehavior Detection in V2X Networks**|Konstantinos Kalogiannis et.al.|[2605.06833](http://arxiv.org/abs/2605.06833)|null|
 |**2026-05-06**|**MixINN: Accelerating Plant Breeding by Combining Mixed Models and Deep Learning for Interaction Prediction**|Aike Potze et.al.|[2605.04744](http://arxiv.org/abs/2605.04744)|null|
@@ -2630,7 +2646,7 @@
 |**2021-01-19**|**PiP: Planning-informed Trajectory Prediction for Autonomous Driving**|Haoran Song et.al.|[2003.11476](http://arxiv.org/abs/2003.11476)|null|
 |**2020-11-09**|**DROGON: A Trajectory Prediction Model based on Intention-Conditioned Behavior Reasoning**|Chiho Choi et.al.|[1908.00024](http://arxiv.org/abs/1908.00024)|null|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -5407,12 +5423,13 @@
 |**2019-11-12**|**Multi-Agent Connected Autonomous Driving using Deep Reinforcement Learning**|Praveen Palanisamy et.al.|[1911.04175](http://arxiv.org/abs/1911.04175)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## Simulation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-12**|**HorizonDrive: Self-Corrective Autoregressive World Model for Long-horizon Driving Simulation**|Conglang Zhang et.al.|[2605.11596](http://arxiv.org/abs/2605.11596)|null|
 |**2026-05-11**|**MDrive: Benchmarking Closed-Loop Cooperative Driving for End-to-End Multi-agent Systems**|Marco Coscoy et.al.|[2605.10904](http://arxiv.org/abs/2605.10904)|null|
 |**2026-05-08**|**SceneFactory: GPU-Accelerated Multi-Agent Driving Simulation with Physics-Based Vehicle Dynamics**|Yicheng Zhu et.al.|[2605.08528](http://arxiv.org/abs/2605.08528)|null|
 |**2026-05-08**|**From Conceptual Scaffold to Prototype: A Standardized Zonal Architecture for Wi-Fi Security Training**|Vyron Kampourakis et.al.|[2605.07400](http://arxiv.org/abs/2605.07400)|null|
@@ -5976,7 +5993,7 @@
 |**2021-11-16**|**Towards Optimal Strategies for Training Self-Driving Perception Models in Simulation**|David Acuna et.al.|[2111.07971](http://arxiv.org/abs/2111.07971)|null|
 |**2020-07-08**|**Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously**|Mikita Sazanovich et.al.|[2007.03514](http://arxiv.org/abs/2007.03514)|null|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 ## Perception
 
@@ -6458,7 +6475,7 @@
 |**2021-08-11**|**Joint Multi-Object Detection and Tracking with Camera-LiDAR Fusion for Autonomous Driving**|Kemiao Huang et.al.|[2108.04602](http://arxiv.org/abs/2108.04602)|null|
 |**2021-07-13**|**CFTrack: Center-based Radar and Camera Fusion for 3D Multi-Object Tracking**|Ramin Nabati et.al.|[2107.05150](http://arxiv.org/abs/2107.05150)|null|
 
-<p align=right>(<a href=#updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
