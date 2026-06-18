@@ -100,7 +100,9 @@ def get_daily_papers(topic,query="slam", max_results=2):
     )
 
     try:
-        results_iter = search_engine.results()
+        # arxiv >= 2.0 removed Search.results(); fetch via a Client instead.
+        client = arxiv.Client()
+        results_iter = client.results(search_engine)
     except Exception as e:
         logging.error(f"Failed to create results iterator: {e}")
         data = {topic:content}
