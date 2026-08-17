@@ -3062,7 +3062,7 @@
 |**2026-08-12**|**FLARE++: Low-rank attention with dynamic attention routing**|Vedant Puri et.al.|[2608.11519](http://arxiv.org/abs/2608.11519)|null|
 |**2026-08-11**|**Herding End-to-End Autonomous Driving via Neuro-Symbolic Safety Guards**|Simón Patiño Idarraga et.al.|[2608.11451](http://arxiv.org/abs/2608.11451)|null|
 |**2026-08-11**|**Top-down Traffic Scenario Generation via Joint Initial-Goal Diffusion and Trajectory Infilling**|Da Saem Lee et.al.|[2608.11407](http://arxiv.org/abs/2608.11407)|null|
-|**2026-08-11**|**XCoT-VLA: Executable Chain-of-Thought for Vision-Language-Action Driving**| Foundation Model Team et.al.|[2608.10976](http://arxiv.org/abs/2608.10976)|null|
+|**2026-08-11**|**XCoT-VLA: Executable Chain-of-Thought for Vision-Language-Action Driving**|Foundation Model Team et.al.|[2608.10976](http://arxiv.org/abs/2608.10976)|null|
 |**2026-08-11**|**Multi-View Relational Distillation for Spatial Reasoning with Vision-Language Models**|Kiet T. Nguyen et.al.|[2608.10864](http://arxiv.org/abs/2608.10864)|null|
 |**2026-08-11**|**Whisper-Aware LLM: Self-Supervised Uncertainty Learning for Robust Whispered Speech Recognition**|Gaopeng Xu et.al.|[2608.10836](http://arxiv.org/abs/2608.10836)|null|
 |**2026-08-11**|**Cross-View Sequential Visual Localization with Spatio-Temporal Context Modeling for Autonomous Driving**|Jiaping Wang et.al.|[2608.10660](http://arxiv.org/abs/2608.10660)|null|
