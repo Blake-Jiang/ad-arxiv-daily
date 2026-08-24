@@ -1,4 +1,4 @@
-## Updated on 2026.08.23
+## Updated on 2026.08.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1919,7 +1919,7 @@
 |**2018-05-28**|**A Data-Driven Approach for Autonomous Motion Planning and Control in Off-Road Driving Scenarios**|Hossein Rastgoftar et.al.|[1805.09951](http://arxiv.org/abs/1805.09951)|null|
 |**2015-04-30**|**Planning for Optimal Feedback Control in the Volume of Free Space**|Dmitry Yershov et.al.|[1504.07940](http://arxiv.org/abs/1504.07940)|null|
 
-<p align=right>(<a href=#updated-on-20260823>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260824>back to top</a>)</p>
 
 ## End-to-end Driving
 
@@ -2143,7 +2143,7 @@
 |**2020-06-08**|**Explaining Autonomous Driving by Learning End-to-End Visual Attention**|Luca Cultrera et.al.|[2006.03347](http://arxiv.org/abs/2006.03347)|null|
 |**2020-10-27**|**Multimodal End-to-End Autonomous Driving**|Yi Xiao et.al.|[1906.03199](http://arxiv.org/abs/1906.03199)|null|
 
-<p align=right>(<a href=#updated-on-20260823>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260824>back to top</a>)</p>
 
 ## Prediction
 
@@ -3035,7 +3035,7 @@
 |**2021-01-19**|**PiP: Planning-informed Trajectory Prediction for Autonomous Driving**|Haoran Song et.al.|[2003.11476](http://arxiv.org/abs/2003.11476)|null|
 |**2020-11-09**|**DROGON: A Trajectory Prediction Model based on Intention-Conditioned Behavior Reasoning**|Chiho Choi et.al.|[1908.00024](http://arxiv.org/abs/1908.00024)|null|
 
-<p align=right>(<a href=#updated-on-20260823>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260824>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -6255,12 +6255,20 @@
 |**2019-11-12**|**Multi-Agent Connected Autonomous Driving using Deep Reinforcement Learning**|Praveen Palanisamy et.al.|[1911.04175](http://arxiv.org/abs/1911.04175)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
 
-<p align=right>(<a href=#updated-on-20260823>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260824>back to top</a>)</p>
 
 ## Simulation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-21**|**Adaptive Training for Nautical Rules of the Road**|Amit Dutta et.al.|[2608.20751](http://arxiv.org/abs/2608.20751)|null|
+|**2026-08-20**|**Validation of a driver model for energy consumption simulations of road vehicles**|Luigi Romano et.al.|[2608.19980](http://arxiv.org/abs/2608.19980)|null|
+|**2026-08-20**|**Loss-Resilient Semantic Communication over Packet-Loss Networks at Extreme-Low Bandwidth**|Shengshi Yao et.al.|[2608.19590](http://arxiv.org/abs/2608.19590)|null|
+|**2026-08-19**|**Deep-MKV-TS: Path-Dependent McKean--Vlasov Control for Financial Time Series Generation**|Samer El Boustany et.al.|[2608.19394](http://arxiv.org/abs/2608.19394)|null|
+|**2026-08-18**|**SPVC: Structured and Panoptic Video Fixing for Cross-Dataset Driving Scene Rendering**|Gen Li et.al.|[2608.17420](http://arxiv.org/abs/2608.17420)|null|
+|**2026-08-17**|**Think Inside the Chunk: RegulaRAG for Regulation-Compliant Scenario Generation using LLMs: A Case Study of UN Regulation No. 152**|Vahid Zolfaghari et.al.|[2608.16394](http://arxiv.org/abs/2608.16394)|null|
+|**2026-08-15**|**Grounding Healthcare LLMs in a Causal Knowledge Graph: Framework, Metrics, and a Cardiovascular Pilot**|Ummara Mumtaz et.al.|[2608.15382](http://arxiv.org/abs/2608.15382)|null|
+|**2026-08-15**|**Beyond Overt Reactions: Analyzing Subtle User Emotional Response to Unexpected In-Vehicle System Behavior**|Huy Quyen Ngo et.al.|[2608.15048](http://arxiv.org/abs/2608.15048)|null|
 |**2026-08-13**|**FlowLOB: Efficient and Controllable Limit Order Book Generation with Flow Matching**|Zhuohan Wang et.al.|[2608.13096](http://arxiv.org/abs/2608.13096)|null|
 |**2026-08-13**|**Simulating Stress Laws under Extremal Dependence: Characterizing What Generative Models Must Preserve**|Mantu Gupta et.al.|[2608.13056](http://arxiv.org/abs/2608.13056)|null|
 |**2026-08-13**|**Tracing Methamphetamine abuse in under-treatment drivers: How biomechanical and oculomotor features help detect at-risk drivers?**|Hamed Salmanzadeh et.al.|[2608.13054](http://arxiv.org/abs/2608.13054)|null|
@@ -6911,12 +6919,20 @@
 |**2021-11-16**|**Towards Optimal Strategies for Training Self-Driving Perception Models in Simulation**|David Acuna et.al.|[2111.07971](http://arxiv.org/abs/2111.07971)|null|
 |**2020-07-08**|**Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously**|Mikita Sazanovich et.al.|[2007.03514](http://arxiv.org/abs/2007.03514)|null|
 
-<p align=right>(<a href=#updated-on-20260823>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260824>back to top</a>)</p>
 
 ## Perception
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-19**|**USR-Drive: Unified Driving Scene Representation via Joint Denoising of 3D Gaussians and Boxes**|Li-Heng Chen et.al.|[2608.19036](http://arxiv.org/abs/2608.19036)|null|
+|**2026-08-19**|**Teach a Molmo2Fish: Towards interactive fish tracking with natural language guidance**|Kai Van Brunt et.al.|[2608.18602](http://arxiv.org/abs/2608.18602)|null|
+|**2026-08-18**|**Probing Association Instability with Track-State Perturbations for Clip-Level Active Learning in Query-Propagation Multi-Object Tracking**|Riku Inoue et.al.|[2608.17224](http://arxiv.org/abs/2608.17224)|null|
+|**2026-08-17**|**OV3D-Bench: A Diagnostic Benchmark for Open-Vocabulary Monocular 3D Detection**|Mariia Gladkova et.al.|[2608.17110](http://arxiv.org/abs/2608.17110)|null|
+|**2026-08-16**|**Training-Free Long-Term Multi-Object Tracking for Sports Video Analytics**|Tomasz Stanczyk et.al.|[2608.15688](http://arxiv.org/abs/2608.15688)|null|
+|**2026-08-15**|**MM-BEV: Enhancing Timeliness by Computing Where and When it Matters**|Liangkai Liu et.al.|[2608.15437](http://arxiv.org/abs/2608.15437)|null|
+|**2026-08-14**|**GhostPoint: Self-Supervised Representation Learning by Hallucinating Occluded LiDAR Structure**|Mohamed Abdelsamad et.al.|[2608.14428](http://arxiv.org/abs/2608.14428)|null|
+|**2026-08-14**|**MAGneT-3D: Monocular and Domain-Generalizable Temporal 3D Detection**|Mohamed Kotb et.al.|[2608.14282](http://arxiv.org/abs/2608.14282)|null|
 |**2026-08-12**|**Map-Det3D: Metric Feed-Forward 3D Reconstruction Prior for Multi-view 3D Object Detection from Streaming Inputs**|Yung-Hsu Yang et.al.|[2608.12179](http://arxiv.org/abs/2608.12179)|null|
 |**2026-08-11**|**JitTrack: Onboard Multi-Object Tracking Against Viewpoint Jitter for Agile UAVs**|Yachun Shan et.al.|[2608.10485](http://arxiv.org/abs/2608.10485)|null|
 |**2026-08-10**|**GenTrack3: Hybrid Stochastic-Deterministic Online Multi-Object Tracking with Cluster-Aware Association**|Toan Van Nguyen et.al.|[2608.09581](http://arxiv.org/abs/2608.09581)|null|
@@ -7461,7 +7477,7 @@
 |**2021-08-11**|**Joint Multi-Object Detection and Tracking with Camera-LiDAR Fusion for Autonomous Driving**|Kemiao Huang et.al.|[2108.04602](http://arxiv.org/abs/2108.04602)|null|
 |**2021-07-13**|**CFTrack: Center-based Radar and Camera Fusion for 3D Multi-Object Tracking**|Ramin Nabati et.al.|[2107.05150](http://arxiv.org/abs/2107.05150)|null|
 
-<p align=right>(<a href=#updated-on-20260823>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260824>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
