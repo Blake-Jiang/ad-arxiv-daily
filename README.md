@@ -1,4 +1,4 @@
-## Updated on 2026.08.30
+## Updated on 2026.08.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-28**|**LUCID: An Agentic AI Framework on Digital-Twin in the Loop for QoS-Guaranteeing Robotic Control**|Hyeonsu Lyu et.al.|[2608.28437](http://arxiv.org/abs/2608.28437)|null|
+|**2026-08-28**|**Cooperative Risk-Aware Exploration in Heterogeneous Multi-Robot Systems Using Algorithmic Altruism**|Brooks A. Butler et.al.|[2608.28409](http://arxiv.org/abs/2608.28409)|null|
+|**2026-08-28**|**Spatial-Semantic Reasoning using Large Language Models for Efficient UAV Search Operations**|Marin Maletic et.al.|[2608.28270](http://arxiv.org/abs/2608.28270)|null|
+|**2026-08-28**|**Probabilistic Multi-Robot Gas Source Localization with Uncalibrated Sensors: A Distributed Estimation Approach**|Wanting Jin et.al.|[2608.28214](http://arxiv.org/abs/2608.28214)|null|
+|**2026-08-28**|**Plan Along the Way: Event-Triggered Foundation-Model Planning for TAMP Execution in Partially Observable Manipulation**|Puru Ojha et.al.|[2608.28075](http://arxiv.org/abs/2608.28075)|null|
+|**2026-08-27**|**Coordinated Motion Planning for Multi-Arm Systems via Iterative LQ Games**|Junyoung Kim et.al.|[2608.27726](http://arxiv.org/abs/2608.27726)|null|
 |**2026-08-27**|**Embodied Scene Rearrangement Planning**|Canzhi Chen et.al.|[2608.27371](http://arxiv.org/abs/2608.27371)|null|
 |**2026-08-27**|**Active sensing to characterize the heterogeneity of plant stress**|Ayman Laaroussi et.al.|[2608.27088](http://arxiv.org/abs/2608.27088)|null|
 |**2026-08-27**|**Pass the Bucket: Efficient, Robust, Local Load Balancing for Teams of Heterogeneous Robots**|Tobias Wallner et.al.|[2608.27085](http://arxiv.org/abs/2608.27085)|null|
@@ -1938,7 +1944,7 @@
 |**2018-05-28**|**A Data-Driven Approach for Autonomous Motion Planning and Control in Off-Road Driving Scenarios**|Hossein Rastgoftar et.al.|[1805.09951](http://arxiv.org/abs/1805.09951)|null|
 |**2015-04-30**|**Planning for Optimal Feedback Control in the Volume of Free Space**|Dmitry Yershov et.al.|[1504.07940](http://arxiv.org/abs/1504.07940)|null|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## End-to-end Driving
 
@@ -2166,7 +2172,7 @@
 |**2020-06-08**|**Explaining Autonomous Driving by Learning End-to-End Visual Attention**|Luca Cultrera et.al.|[2006.03347](http://arxiv.org/abs/2006.03347)|null|
 |**2020-10-27**|**Multimodal End-to-End Autonomous Driving**|Yi Xiao et.al.|[1906.03199](http://arxiv.org/abs/1906.03199)|null|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## Prediction
 
@@ -3073,12 +3079,17 @@
 |**2021-01-19**|**PiP: Planning-informed Trajectory Prediction for Autonomous Driving**|Haoran Song et.al.|[2003.11476](http://arxiv.org/abs/2003.11476)|null|
 |**2020-11-09**|**DROGON: A Trajectory Prediction Model based on Intention-Conditioned Behavior Reasoning**|Chiho Choi et.al.|[1908.00024](http://arxiv.org/abs/1908.00024)|null|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-28**|**Adaptive self-organized criticality in deep neural networks**|Simon Vock et.al.|[2608.28431](http://arxiv.org/abs/2608.28431)|null|
+|**2026-08-28**|**How Far Can 5,500 Hours of Driving Take You? A Scaling Law Analysis of Video Diffusion Models**|Victor Besnier et.al.|[2608.28404](http://arxiv.org/abs/2608.28404)|null|
+|**2026-08-28**|**RetailAgent: Structured Adverse Timing in Self-Conditioned Multimodal LLM Trading Agents**|Yupeng Zhang et.al.|[2608.28399](http://arxiv.org/abs/2608.28399)|null|
+|**2026-08-28**|**Sound propagation in one-dimensional quantum droplets**|Zizhou Yuan et.al.|[2608.28028](http://arxiv.org/abs/2608.28028)|null|
+|**2026-08-27**|**Distributed Model-Based Diffusion: Finite Horizon Contraction under Bounded Delay**|Seth Golembeski et.al.|[2608.27685](http://arxiv.org/abs/2608.27685)|null|
 |**2026-08-27**|**Stochastic transport of a Goldstone mode in a self-organized atomic crystal**|Zhanhai Yu et.al.|[2608.27387](http://arxiv.org/abs/2608.27387)|null|
 |**2026-08-27**|**Marine Autonomous Vehicle Fleet Scheduling to Maximise Scientific Impact**|Mehdi El Krari et.al.|[2608.27271](http://arxiv.org/abs/2608.27271)|null|
 |**2026-08-27**|**Vision-centric generative AI models: A software-hardware perspective**|Eleni Tselepi et.al.|[2608.27199](http://arxiv.org/abs/2608.27199)|null|
@@ -6315,7 +6326,7 @@
 |**2019-11-12**|**Multi-Agent Connected Autonomous Driving using Deep Reinforcement Learning**|Praveen Palanisamy et.al.|[1911.04175](http://arxiv.org/abs/1911.04175)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## Simulation
 
@@ -6981,7 +6992,7 @@
 |**2021-11-16**|**Towards Optimal Strategies for Training Self-Driving Perception Models in Simulation**|David Acuna et.al.|[2111.07971](http://arxiv.org/abs/2111.07971)|null|
 |**2020-07-08**|**Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously**|Mikita Sazanovich et.al.|[2007.03514](http://arxiv.org/abs/2007.03514)|null|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 ## Perception
 
@@ -7539,7 +7550,7 @@
 |**2021-08-11**|**Joint Multi-Object Detection and Tracking with Camera-LiDAR Fusion for Autonomous Driving**|Kemiao Huang et.al.|[2108.04602](http://arxiv.org/abs/2108.04602)|null|
 |**2021-07-13**|**CFTrack: Center-based Radar and Camera Fusion for 3D Multi-Object Tracking**|Ramin Nabati et.al.|[2107.05150](http://arxiv.org/abs/2107.05150)|null|
 
-<p align=right>(<a href=#updated-on-20260830>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260831>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
