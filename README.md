@@ -1,4 +1,4 @@
-## Updated on 2026.09.10
+## Updated on 2026.09.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,7 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-09-09**|**MotionCanvas: Learning Implicit Motion Planning from Composable Kinematic Cues**|Zeyu Ling et.al.|[2609.10457](http://arxiv.org/abs/2609.10457)|null|
+|**2026-09-09**|**From Connectivity to Rewards: Dense Reward Learning with Directed State Graphs**|Shuyuan Zhang et.al.|[2609.10781](http://arxiv.org/abs/2609.10781)|null|
+|**2026-09-10**|**MotionCanvas: Learning Implicit Motion Planning from Composable Kinematic Cues**|Zeyu Ling et.al.|[2609.10457](http://arxiv.org/abs/2609.10457)|null|
 |**2026-09-09**|**A Note on the Point-Clothoid Distance Algorithm**|Haibin Ye et.al.|[2609.10179](http://arxiv.org/abs/2609.10179)|null|
 |**2026-09-09**|**Grounding Generated Video Plans in Simulation Towards Versatile Dexterous Controllers**|Tianyue Wu et.al.|[2609.10050](http://arxiv.org/abs/2609.10050)|null|
 |**2026-09-09**|**PccDiffuser: Multi-solution Motion Planning for Continuum Robots**|Ke Qiu et.al.|[2609.09745](http://arxiv.org/abs/2609.09745)|null|
@@ -26,7 +27,7 @@
 |**2026-09-08**|**AirAnchor: Bridging Local and Global Spatial Information for Zero-Shot Aerial Vision-and-Language Navigation**|Shanwei Fan et.al.|[2609.08442](http://arxiv.org/abs/2609.08442)|null|
 |**2026-09-08**|**Coverage Path Planning for Redundant Manipulators using Generalized Spanning Trees**|Raksi Kopo et.al.|[2609.08409](http://arxiv.org/abs/2609.08409)|null|
 |**2026-09-07**|**Eventually Optimal and Scalable Multi-Agent Planning for Block Cave Mining**|Christopher Leet et.al.|[2609.07109](http://arxiv.org/abs/2609.07109)|null|
-|**2026-09-07**|**ASTRA: Low-Overhead Runtime Architecture for STReam Adaptation in Video Analytics**|Mahshid Ghasemi et.al.|[2609.07020](http://arxiv.org/abs/2609.07020)|null|
+|**2026-09-09**|**ASTRA: Low-Overhead Runtime Architecture for STReam Adaptation in Video Analytics**|Mahshid Ghasemi et.al.|[2609.07020](http://arxiv.org/abs/2609.07020)|null|
 |**2026-09-06**|**OCTN: Neural OCT Representations for Robot-Guided Precision Intervention**|Ravi Prakash et.al.|[2609.06810](http://arxiv.org/abs/2609.06810)|null|
 |**2026-09-06**|**SHIFT: Surface-aware High-speed Integration For TSDFs**|Ayaan Choudhury et.al.|[2609.06547](http://arxiv.org/abs/2609.06547)|null|
 |**2026-09-05**|**PASTEL: Panoramic Alignment for Monocular 4D Scene Reconstruction**|Yuankun Yang et.al.|[2609.06099](http://arxiv.org/abs/2609.06099)|null|
@@ -1974,13 +1975,13 @@
 |**2018-05-28**|**A Data-Driven Approach for Autonomous Motion Planning and Control in Off-Road Driving Scenarios**|Hossein Rastgoftar et.al.|[1805.09951](http://arxiv.org/abs/1805.09951)|null|
 |**2015-04-30**|**Planning for Optimal Feedback Control in the Volume of Free Space**|Dmitry Yershov et.al.|[1504.07940](http://arxiv.org/abs/1504.07940)|null|
 
-<p align=right>(<a href=#updated-on-20260910>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260911>back to top</a>)</p>
 
 ## End-to-end Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-09-09**|**Data-Driven Risk Fields for Safer End-to-End Autonomous Driving**|Yuanxin Tian et.al.|[2609.10377](http://arxiv.org/abs/2609.10377)|null|
+|**2026-09-10**|**Data-Driven Risk Fields for Safer End-to-End Autonomous Driving**|Yuanxin Tian et.al.|[2609.10377](http://arxiv.org/abs/2609.10377)|null|
 |**2026-09-05**|**DriveZero: End-to-End Driving Beyond Human Demonstrations**|Hao He et.al.|[2609.06055](http://arxiv.org/abs/2609.06055)|null|
 |**2026-09-03**|**A Low-Cost, Open Platform for End-to-End Autonomous Driving on a Miniature Ackermann Vehicle**|Gustavo Claudio Karl Couto et.al.|[2609.04147](http://arxiv.org/abs/2609.04147)|null|
 |**2026-09-03**|**Continuous Actions from Discrete Minds: Latent-Aligned Planning for End-to-End Autonomous Driving**|Ruoyu Yao et.al.|[2609.04070](http://arxiv.org/abs/2609.04070)|null|
@@ -2210,7 +2211,7 @@
 |**2020-06-08**|**Explaining Autonomous Driving by Learning End-to-End Visual Attention**|Luca Cultrera et.al.|[2006.03347](http://arxiv.org/abs/2006.03347)|null|
 |**2020-10-27**|**Multimodal End-to-End Autonomous Driving**|Yi Xiao et.al.|[1906.03199](http://arxiv.org/abs/1906.03199)|null|
 
-<p align=right>(<a href=#updated-on-20260910>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260911>back to top</a>)</p>
 
 ## Prediction
 
@@ -3135,13 +3136,20 @@
 |**2021-01-19**|**PiP: Planning-informed Trajectory Prediction for Autonomous Driving**|Haoran Song et.al.|[2003.11476](http://arxiv.org/abs/2003.11476)|null|
 |**2020-11-09**|**DROGON: A Trajectory Prediction Model based on Intention-Conditioned Behavior Reasoning**|Chiho Choi et.al.|[1908.00024](http://arxiv.org/abs/1908.00024)|null|
 
-<p align=right>(<a href=#updated-on-20260910>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260911>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-09-09**|**Data-Driven Risk Fields for Safer End-to-End Autonomous Driving**|Yuanxin Tian et.al.|[2609.10377](http://arxiv.org/abs/2609.10377)|null|
+|**2026-09-10**|**Precise bubble wall velocity in a specific phase transition pattern in the CxSM and beyond**|Shihang Tang et.al.|[2609.11747](http://arxiv.org/abs/2609.11747)|null|
+|**2026-09-10**|**MC-DeTra: Motion-Consistent Joint Object Detection and Socially-Aware Trajectory Forecasting in Bird's-Eye-View Images**|Vladislav Diuzhev et.al.|[2609.11717](http://arxiv.org/abs/2609.11717)|null|
+|**2026-09-10**|**CARLAverse: A Highly Modular, Distributed, and Multimodal Framework for Human-in-the-Loop Simulation**|Patrick Rebling et.al.|[2609.11478](http://arxiv.org/abs/2609.11478)|null|
+|**2026-09-10**|**Relocating the SIMP Miracle in the Axion Portal**|Nakorn Thongyoi et.al.|[2609.11254](http://arxiv.org/abs/2609.11254)|null|
+|**2026-09-10**|**Transdimensional quantum droplets in an optically trapped Bose mixture**|Xiaoran Ye et.al.|[2609.11047](http://arxiv.org/abs/2609.11047)|null|
+|**2026-09-10**|**Fengshui: Demystifying Chiplet Ecosystem and Bespoke Neural Network Accelerator Codesign**|Haoran Jin et.al.|[2609.10970](http://arxiv.org/abs/2609.10970)|null|
+|**2026-09-09**|**TrajFusionNet+: Transformer-Based Prediction of Pedestrian Crossing Intention via Fusion of Trajectory Representations and Scene Graphs**|François G. Landry et.al.|[2609.10806](http://arxiv.org/abs/2609.10806)|null|
+|**2026-09-10**|**Data-Driven Risk Fields for Safer End-to-End Autonomous Driving**|Yuanxin Tian et.al.|[2609.10377](http://arxiv.org/abs/2609.10377)|null|
 |**2026-09-09**|**Primordial turbulence from inflation: a new inflaton-driven turbulent regime**|Oksana Iarygina et.al.|[2609.10326](http://arxiv.org/abs/2609.10326)|null|
 |**2026-09-09**|**Decoupled Self-Forcing Distillation for Streaming Talking Head Generation**|Yanru An et.al.|[2609.10317](http://arxiv.org/abs/2609.10317)|null|
 |**2026-09-09**|**Mitigating Degradation Attacks in Cooperative Autonomous Driving via Intention Sharing: A Vehicle-in-the-Loop Study**|Prakhar Gupta et.al.|[2609.10232](http://arxiv.org/abs/2609.10232)|null|
@@ -6451,7 +6459,7 @@
 |**2019-11-12**|**Multi-Agent Connected Autonomous Driving using Deep Reinforcement Learning**|Praveen Palanisamy et.al.|[1911.04175](http://arxiv.org/abs/1911.04175)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
 
-<p align=right>(<a href=#updated-on-20260910>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260911>back to top</a>)</p>
 
 ## Simulation
 
@@ -7127,14 +7135,14 @@
 |**2021-11-16**|**Towards Optimal Strategies for Training Self-Driving Perception Models in Simulation**|David Acuna et.al.|[2111.07971](http://arxiv.org/abs/2111.07971)|null|
 |**2020-07-08**|**Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously**|Mikita Sazanovich et.al.|[2007.03514](http://arxiv.org/abs/2007.03514)|null|
 
-<p align=right>(<a href=#updated-on-20260910>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260911>back to top</a>)</p>
 
 ## Perception
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-09-09**|**CLFTv2: Efficient Camera-LiDAR Fusion for Semantic Segmentation via Hierarchical Feature Pyramids**|Toomas Tahves et.al.|[2609.09881](http://arxiv.org/abs/2609.09881)|null|
-|**2026-09-08**|**A Multi-Modal Perception Pipeline for Object Detection and Tracking in Autonomous Racing**|Davide Malvezzi et.al.|[2609.08338](http://arxiv.org/abs/2609.08338)|null|
+|**2026-09-10**|**A Multi-Modal Perception Pipeline for Object Detection and Tracking in Autonomous Racing**|Davide Malvezzi et.al.|[2609.08338](http://arxiv.org/abs/2609.08338)|null|
 |**2026-09-08**|**Tracking-by-detection in Multi-object Tracking: Survey and Experiments**|Yujin Yang et.al.|[2609.08265](http://arxiv.org/abs/2609.08265)|null|
 |**2026-09-07**|**Solution for UCF UrbanTwin V2X-Real Track: Sim-to-Real Urban LiDAR 3D Object Detection**|Pu Luo et.al.|[2609.07608](http://arxiv.org/abs/2609.07608)|null|
 |**2026-09-07**|**Re-engineering SORT-based algorithms for low-cost small object tracking from omnidirectional footage**|Xin Shu et.al.|[2609.07547](http://arxiv.org/abs/2609.07547)|null|
@@ -7694,7 +7702,7 @@
 |**2021-08-11**|**Joint Multi-Object Detection and Tracking with Camera-LiDAR Fusion for Autonomous Driving**|Kemiao Huang et.al.|[2108.04602](http://arxiv.org/abs/2108.04602)|null|
 |**2021-07-13**|**CFTrack: Center-based Radar and Camera Fusion for 3D Multi-Object Tracking**|Ramin Nabati et.al.|[2107.05150](http://arxiv.org/abs/2107.05150)|null|
 
-<p align=right>(<a href=#updated-on-20260910>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260911>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
