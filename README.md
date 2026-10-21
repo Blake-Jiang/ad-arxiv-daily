@@ -1,4 +1,4 @@
-## Updated on 2026.10.20
+## Updated on 2026.10.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,7 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-10-19**|**HarnessPro: Recursive Harness Self-Improvement with Pareto Optimization for Performance-Cost Trade-offs**|Zhuoshi Pan et.al.|[2610.26770](http://arxiv.org/abs/2610.26770)|null|
+|**2026-10-20**|**NeoWorld-3: From Pixels to Code-Defined Physical Worlds**|Eachen Soong et.al.|[2610.27690](http://arxiv.org/abs/2610.27690)|null|
+|**2026-10-20**|**HarnessPro: Recursive Harness Self-Improvement with Pareto Optimization for Performance-Cost Trade-offs**|Zhuoshi Pan et.al.|[2610.26770](http://arxiv.org/abs/2610.26770)|null|
 |**2026-10-19**|**Motion Planning with Temporal Logic Precedence Specifications in Dynamic Environments via Spacetime Augmented Graphs of Convex Sets**|Shilin You et.al.|[2610.26712](http://arxiv.org/abs/2610.26712)|null|
 |**2026-10-19**|**CAOS-SLAM: Class-Agnostic Object-Aware Real-Time vSLAM for Dynamic Environments**|Gaia Borghi et.al.|[2610.26633](http://arxiv.org/abs/2610.26633)|null|
 |**2026-10-19**|**Learning Geometry-Aware Planning Representations for Monocular Flight with Cross-Modal Supervision**|Wencan Feng et.al.|[2610.26508](http://arxiv.org/abs/2610.26508)|null|
@@ -2174,7 +2175,7 @@
 |**2018-05-28**|**A Data-Driven Approach for Autonomous Motion Planning and Control in Off-Road Driving Scenarios**|Hossein Rastgoftar et.al.|[1805.09951](http://arxiv.org/abs/1805.09951)|null|
 |**2015-04-30**|**Planning for Optimal Feedback Control in the Volume of Free Space**|Dmitry Yershov et.al.|[1504.07940](http://arxiv.org/abs/1504.07940)|null|
 
-<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
 
 ## End-to-end Driving
 
@@ -2441,7 +2442,7 @@
 |**2020-06-08**|**Explaining Autonomous Driving by Learning End-to-End Visual Attention**|Luca Cultrera et.al.|[2006.03347](http://arxiv.org/abs/2006.03347)|null|
 |**2020-10-27**|**Multimodal End-to-End Autonomous Driving**|Yi Xiao et.al.|[1906.03199](http://arxiv.org/abs/1906.03199)|null|
 
-<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
 
 ## Prediction
 
@@ -2449,7 +2450,7 @@
 |---|---|---|---|---|
 |**2026-10-18**|**PRIMA: Pose Refined Inductive Motion Adapter for Zero Shot Social Bodily Behavior Recognition**|Mingcong Ding et.al.|[2610.25482](http://arxiv.org/abs/2610.25482)|null|
 |**2026-10-18**|**AeroDASH: Asynchronous Vision-Language-Action Control for Continuous UAV Flight**|Zhe Liu et.al.|[2610.25407](http://arxiv.org/abs/2610.25407)|null|
-|**2026-10-16**|**Beyond Large Language Models: A Mental World Model Framework for Mental Modeling, Simulation, Evolution, and Interpretability**|Qingshi Wang et.al.|[2610.23722](http://arxiv.org/abs/2610.23722)|null|
+|**2026-10-19**|**Beyond Large Language Models: A Mental World Model Framework for Mental Modeling, Simulation, Evolution, and Interpretability**|Qingshi Wang et.al.|[2610.23722](http://arxiv.org/abs/2610.23722)|null|
 |**2026-10-16**|**STRIDE: Evaluating Spatiotemporal Reasoning in Driving Edge Cases**|Lieqi Liu et.al.|[2610.22795](http://arxiv.org/abs/2610.22795)|null|
 |**2026-10-15**|**Finite Volume Convergence for a Heat Equation with a Measure-Valued Source**|Matthias Gobbert et.al.|[2610.22063](http://arxiv.org/abs/2610.22063)|null|
 |**2026-10-15**|**When is a better LLM worth paying for? Stochastic Optimization with Switching Mixed-Fidelity Oracles**|Swati Gupta et.al.|[2610.21139](http://arxiv.org/abs/2610.21139)|null|
@@ -3434,12 +3435,19 @@
 |**2021-01-19**|**PiP: Planning-informed Trajectory Prediction for Autonomous Driving**|Haoran Song et.al.|[2003.11476](http://arxiv.org/abs/2003.11476)|null|
 |**2020-11-09**|**DROGON: A Trajectory Prediction Model based on Intention-Conditioned Behavior Reasoning**|Chiho Choi et.al.|[1908.00024](http://arxiv.org/abs/1908.00024)|null|
 
-<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-20**|**Deep Learning-Based Road Lane Quality Assessment from Egocentric Dashcam Video**|Shaif Chowdhury et.al.|[2610.28508](http://arxiv.org/abs/2610.28508)|null|
+|**2026-10-20**|**LocaLeJEPA: Maximum Entropy Representations under Geometric Priors**|Kartik Tandon et.al.|[2610.28458](http://arxiv.org/abs/2610.28458)|null|
+|**2026-10-20**|**AutoSim: A Self-Improving User Simulator for Conversational Search Evaluation**|Saber Zerhoudi et.al.|[2610.28054](http://arxiv.org/abs/2610.28054)|null|
+|**2026-10-20**|**Prescribed Performance Guided Safe Reinforcement Learning for Roundabout Navigation of Autonomous Vehicles**|Wenhan Li et.al.|[2610.27732](http://arxiv.org/abs/2610.27732)|null|
+|**2026-10-20**|**Provisioning Robust and Efficient LiDAR Perception for Autonomous Driving**|Tingxu Han et.al.|[2610.27617](http://arxiv.org/abs/2610.27617)|null|
+|**2026-10-20**|**Semantic Communications: Principles, Architectures and Applications**|Sasa Maric et.al.|[2610.27544](http://arxiv.org/abs/2610.27544)|null|
+|**2026-10-20**|**Complete Street Design informed by Multi-Agent Simulation**|Sharika J. Hegde et.al.|[2610.27509](http://arxiv.org/abs/2610.27509)|null|
 |**2026-10-19**|**Real-Time Radar Semantic and Panoptic Scene Understanding**|Santosh Parit et.al.|[2610.26816](http://arxiv.org/abs/2610.26816)|null|
 |**2026-10-19**|**General Periodic Conservation Laws Motivated by Traffic Modeling**|Rinaldo M. Colombo et.al.|[2610.26574](http://arxiv.org/abs/2610.26574)|null|
 |**2026-10-19**|**A Semantic Knowledge Graph Construction Pipeline for Vehicle Intention Prediction in nuScenes**|Khaled Nowara et.al.|[2610.26528](http://arxiv.org/abs/2610.26528)|null|
@@ -7075,12 +7083,13 @@
 |**2019-11-12**|**Multi-Agent Connected Autonomous Driving using Deep Reinforcement Learning**|Praveen Palanisamy et.al.|[1911.04175](http://arxiv.org/abs/1911.04175)|null|
 |**2017-04-11**|**Deep Reinforcement Learning framework for Autonomous Driving**|Ahmad El Sallab et.al.|[1704.02532](http://arxiv.org/abs/1704.02532)|null|
 
-<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
 
 ## Simulation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-20**|**Robot-Task Suitability in Heterogeneous Multi-Robot Task Allocation**|Daniel Weiner et.al.|[2610.27504](http://arxiv.org/abs/2610.27504)|null|
 |**2026-10-19**|**Scenario Generalization and Sector Transfer in Real Surface Irrigation Surrogate Modelling with Tabular Models**|Alessandro Cagiano et.al.|[2610.26005](http://arxiv.org/abs/2610.26005)|null|
 |**2026-10-18**|**GeoV2V: Geometry-Grounded Video Diffusion Model for Driving Scene Generation**|Yuchen Xi et.al.|[2610.25245](http://arxiv.org/abs/2610.25245)|null|
 |**2026-10-16**|**Feasible closed form moment matching for scenario generation through covariance rotations**|Juan Pablo Contreras et.al.|[2610.23786](http://arxiv.org/abs/2610.23786)|null|
@@ -7790,7 +7799,7 @@
 |**2021-11-16**|**Towards Optimal Strategies for Training Self-Driving Perception Models in Simulation**|David Acuna et.al.|[2111.07971](http://arxiv.org/abs/2111.07971)|null|
 |**2020-07-08**|**Imitation Learning Approach for AI Driving Olympics Trained on Real-world and Simulation Data Simultaneously**|Mikita Sazanovich et.al.|[2007.03514](http://arxiv.org/abs/2007.03514)|null|
 
-<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
 
 ## Perception
 
@@ -8395,7 +8404,7 @@
 |**2021-08-11**|**Joint Multi-Object Detection and Tracking with Camera-LiDAR Fusion for Autonomous Driving**|Kemiao Huang et.al.|[2108.04602](http://arxiv.org/abs/2108.04602)|null|
 |**2021-07-13**|**CFTrack: Center-based Radar and Camera Fusion for 3D Multi-Object Tracking**|Ramin Nabati et.al.|[2107.05150](http://arxiv.org/abs/2107.05150)|null|
 
-<p align=right>(<a href=#updated-on-20261020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261021>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Blake-Jiang/ad-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Blake-Jiang/ad-arxiv-daily/graphs/contributors
