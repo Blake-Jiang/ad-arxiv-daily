@@ -3478,7 +3478,7 @@
 |**2026-10-21**|**Decision Making and Ride Comfort Evaluation Based on Lane-Change Prediction for Autonomous Vehicles**|Mohamed Manzour et.al.|[2610.30528](http://arxiv.org/abs/2610.30528)|null|
 |**2026-10-21**|**Integrated Longitudinal and Lateral Control for High-Speed Platooning of Articulated Vehicles**|Aashish Shaju et.al.|[2610.30437](http://arxiv.org/abs/2610.30437)|null|
 |**2026-10-21**|**AcoustiPrint: Physics-Guided Neural Design of Manufacturable Acoustic Structures**|Shanmuka Sadhu et.al.|[2610.30411](http://arxiv.org/abs/2610.30411)|null|
-|**2026-10-21**|**Foundation4D: Towards a unified perception and reconstruction model for autonomous vehicles**| NVIDIA et.al.|[2610.30340](http://arxiv.org/abs/2610.30340)|null|
+|**2026-10-21**|**Foundation4D: Towards a unified perception and reconstruction model for autonomous vehicles**|NVIDIA et.al.|[2610.30340](http://arxiv.org/abs/2610.30340)|null|
 |**2026-10-21**|**TerraTransfer++: Demonstration-Free End-to-End Planner**|Zikang Xiong et.al.|[2610.30319](http://arxiv.org/abs/2610.30319)|null|
 |**2026-10-21**|**FaultGene: LLM-Assisted Fault-Augmented Test Generation for Hardware-in-the-Loop Validation of Autonomous Driving Systems**|Chaoran Yuan et.al.|[2610.29969](http://arxiv.org/abs/2610.29969)|null|
 |**2026-10-21**|**Quantum criticality in a two-component two-dimensional nematic metal**|Yuhang Xiao et.al.|[2610.29745](http://arxiv.org/abs/2610.29745)|null|
@@ -7855,7 +7855,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-10-21**|**Foundation4D: Towards a unified perception and reconstruction model for autonomous vehicles**| NVIDIA et.al.|[2610.30340](http://arxiv.org/abs/2610.30340)|null|
+|**2026-10-21**|**Foundation4D: Towards a unified perception and reconstruction model for autonomous vehicles**|NVIDIA et.al.|[2610.30340](http://arxiv.org/abs/2610.30340)|null|
 |**2026-10-17**|**Spectral-Aware Proposal Enhancement for Diffusion-Based Multispectral UAV Multi-Object Tracking**|Xu Lin et.al.|[2610.24642](http://arxiv.org/abs/2610.24642)|null|
 |**2026-10-16**|**Reliability-Consistent Appearance Modeling for RGB-Infrared Multi-Object Tracking**|Bingyang Wang et.al.|[2610.23125](http://arxiv.org/abs/2610.23125)|null|
 |**2026-10-15**|**RTISSLAM-3D: Full 6-DoF SLAM With an In-Air 3D Imaging Sonar**|Jan Steckel et.al.|[2610.22552](http://arxiv.org/abs/2610.22552)|null|
