@@ -7944,7 +7944,7 @@
 |**2026-10-28**|**Calibrating Track-Query Updates at Test Time for Multi-Object Tracking**|Riku Inoue et.al.|[2610.38494](http://arxiv.org/abs/2610.38494)|null|
 |**2026-10-26**|**Sparse Recovery Bird's-Eye View Model Soup for Robust Camera-Based 3D Object Detection**|Jinwoo Chung et.al.|[2610.34976](http://arxiv.org/abs/2610.34976)|null|
 |**2026-10-24**|**Fast Instinct, Slow Reason: A Dual-Speed Agentic Framework for Self-Configuring Multi-Object Tracking in Satellite Video**|Fan He et.al.|[2610.33396](http://arxiv.org/abs/2610.33396)|null|
-|**2026-10-21**|**Foundation4D: Towards a unified perception and reconstruction model for autonomous vehicles**| NVIDIA et.al.|[2610.30340](http://arxiv.org/abs/2610.30340)|null|
+|**2026-10-21**|**Foundation4D: Towards a unified perception and reconstruction model for autonomous vehicles**|NVIDIA et.al.|[2610.30340](http://arxiv.org/abs/2610.30340)|null|
 |**2026-10-17**|**Spectral-Aware Proposal Enhancement for Diffusion-Based Multispectral UAV Multi-Object Tracking**|Xu Lin et.al.|[2610.24642](http://arxiv.org/abs/2610.24642)|null|
 |**2026-10-16**|**Reliability-Consistent Appearance Modeling for RGB-Infrared Multi-Object Tracking**|Bingyang Wang et.al.|[2610.23125](http://arxiv.org/abs/2610.23125)|null|
 |**2026-10-15**|**RTISSLAM-3D: Full 6-DoF SLAM With an In-Air 3D Imaging Sonar**|Jan Steckel et.al.|[2610.22552](http://arxiv.org/abs/2610.22552)|null|
