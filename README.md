@@ -7532,7 +7532,7 @@
 |**2026-11-05**|**WAM-Sim0.1: World Anchored Memory Meets Online RL for Consistent and Realistic Driving Simulation**|Jiahao Cui et.al.|[2611.07939](http://arxiv.org/abs/2611.07939)|null|
 |**2026-11-04**|**Look Before You Move: Multimodal Sensing-Aided Trajectory and Beamforming Design for 6DMA**|Zeyu Hao et.al.|[2611.05989](http://arxiv.org/abs/2611.05989)|null|
 |**2026-11-04**|**InterSim: Innovative Intersection Digital Twins for Human-in-the-Loop Driving Simulation**|Luyang Jiang et.al.|[2611.05968](http://arxiv.org/abs/2611.05968)|null|
-|**2026-10-31**|**X-World 1.6: Building Controllable Virtual Cities with World Models**| XPeng et.al.|[2611.00596](http://arxiv.org/abs/2611.00596)|null|
+|**2026-10-31**|**X-World 1.6: Building Controllable Virtual Cities with World Models**|XPeng et.al.|[2611.00596](http://arxiv.org/abs/2611.00596)|null|
 |**2026-10-30**|**Nexus-VLA: Bridging Human and Robot Experiences via a Shared Hierarchical Semantic Latent Space**|Biaoliang Guan et.al.|[2610.42021](http://arxiv.org/abs/2610.42021)|null|
 |**2026-10-29**|**Adaptive Scenario Generation for KL-DRO Around a Learned Density Model**|Aron Brenner et.al.|[2610.40644](http://arxiv.org/abs/2610.40644)|null|
 |**2026-10-29**|**DYNAS: A Dynamic Network Penetration Testing Framework Using Deep Hierarchical Reinforcement Learning**|Md. Rakibul Hassan et.al.|[2610.40214](http://arxiv.org/abs/2610.40214)|null|
